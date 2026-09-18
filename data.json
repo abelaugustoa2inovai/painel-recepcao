@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T13:32:14.050Z",
+  "updatedAt": "2026-09-18T13:40:28.639Z",
   "count": 25,
   "items": [
     {
@@ -55,6 +55,26 @@
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
+      "title": "Quem lidera a arrecadação online? Veja as “vaquinhas” de cada candidato à Presidência",
+      "summary": "Da esquerda para a direita, os candidatos Luiz Inácio Lula da Silva (PT), Flávio Bolsonaro (PL), Renan Santos (Missão), Ronaldo Caiado (PSD) e Romeu Zema (Novo). Fotos:…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/eleicao-presidente.png?fit=300%2C150&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/quem-lidera-a-arrecadacao-online-veja-as-vaquinhas-de-cada-candidato-a-presidencia/",
+      "source": "InfoMoney",
+      "published": 1789738572000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "EUA planejam deslocar drones de combate da África para a América do Sul",
+      "summary": "Militares da 432ª Ala / 432ª Ala Aérea Expedicionária posam para uma foto com uma aeronave MQ-9 Reaper na Base Aérea de Creech, Nevada, em 19 de novembro de 2019. O MQ-9…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/191119-F-HP405-9010.jpeg?fit=300%2C192&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/eua-planejam-deslocar-drones-de-combate-da-africa-para-a-america-do-sul/",
+      "source": "InfoMoney",
+      "published": 1789738516000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
       "title": "Ibovespa Hoje Ao Vivo: Bolsa cai em dia de vencimento de opções",
       "summary": "Bolsas dos EUA operam sem força The post Ibovespa Hoje Ao Vivo: Bolsa cai em dia de vencimento de opções appeared first on InfoMoney .",
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-17-1.jpg?fit=300%2C200&quality=70&strip=all",
@@ -83,24 +103,14 @@
       "published": 1789738221000
     },
     {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Ataque suicida em delegacia no Paquistão mata ao menos 16 pessoas",
-      "summary": "Pessoas se reúnem em uma mesquita danificada após ataque suicida em uma instalação policial em Kohat, no Paquistão &#8211; 18/09/2026 (Foto: REUTERS/Stringer) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Atentado-no-Paquistao.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/ataque-suicida-em-delegacia-no-paquistao-mata-ao-menos-16-pessoas/",
-      "source": "InfoMoney",
-      "published": 1789736907000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "10 anos após tragédia da Chape, família de jornalista vence disputa na Justiça",
-      "summary": "Tribunal do Rio rejeitou tentativa de empresa de levar disputa para a Justiça do Trabalho e aplicou multa por litigância de má-fé The post 10 anos após tragédia da…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/resgate-de-corpos-depois-de-acidente-com-jogadores-da-chapecoense.png?fit=300%2C169&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/brasil/10-anos-apos-tragedia-da-chape-familia-de-jornalista-vence-disputa-na-justica/",
-      "source": "InfoMoney",
-      "published": 1789736741000
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Há 71 anos, Garrincha fazia sua estreia pela Seleção Brasileira: relembre fotos históricas",
+      "summary": "Há 71 anos, Garrincha fazia sua estreia pela Seleção Brasileira: relembre fotos históricas O post Há 71 anos, Garrincha fazia sua estreia pela Seleção Brasileira:…",
+      "image": "https://static.gazetaesportiva.com/uploads/imagem/2017/05/31/gazeta-press-foto-96011.jpg",
+      "link": "https://www.gazetaesportiva.com/fotos/fotos-destaque/ha-71-anos-garrincha-fazia-sua-estreia-pela-selecao-brasileira-relembre-fotos-historicas/",
+      "source": "Gazeta Esportiva",
+      "published": 1789738514000
     },
     {
       "category": "esportes",
@@ -141,16 +151,6 @@
       "link": "https://www.gazetaesportiva.com/times/flamengo/jardim-exalta-apoio-da-torcida-ao-time-com-dez-em-classificacao-do-flamengo/",
       "source": "Gazeta Esportiva",
       "published": 1789735628000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Veja fotos da nova camisa 3 do Corinthians para a temporada",
-      "summary": "O post Veja fotos da nova camisa 3 do Corinthians para a temporada apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/HSf8Kd_W4AA0pSc.webp",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-da-nova-camisa-3-do-corinthians-para-a-temporada/",
-      "source": "Gazeta Esportiva",
-      "published": 1789735444000
     },
     {
       "category": "tecnologia",
@@ -205,52 +205,52 @@
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Opera��o policial fecha casas de jogos de azar em bairros nobres de S�o Paulo",
-      "summary": "O Dope (Departamento de Opera��es Policiais Estrat�gicas) da Pol�cia Civil de S�o Paulo deflagrou opera��o policial em espa�os clandestinos de jogos de azar na capital…",
+      "title": "Engavetamento entre carros, carreta e caminhão causa congestionamento de 6 km na BR-101, em Campos",
+      "summary": "Engavetamento causa 6k de congestionamento em Campos Um engavetamento envolvendo dois carros, uma carreta e um caminhão deixou o trânsito lento na tarde desta…",
+      "image": "https://s2-g1.glbimg.com/hRXq6c0tlbg686ckw0bOzHRZEDQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/K/V73df9RHu2Y7YnPghsAw/engarrafamento.jpg",
+      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/09/18/engavetamento-entre-carros-carreta-e-caminhao-causa-congestionamento-de-6-km-na-br-101-em-campos.ghtml",
+      "source": "g1",
+      "published": 1789738561000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Quatro são presos após se passarem por funcionários da Vivo para furtar fios em Mogi das Cruzes",
+      "summary": "Homens se passam por técnicos para furtar fios de cobre em Mogi das Cruzes Quatro homens foram presos suspeitos de furtar fios de cobre no distrito de Taiaçupeba, em…",
+      "image": "https://s2-g1.glbimg.com/_zbmTKjNTG7M0kl0-Bzii0TMZcg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/o/yEMA0tSsaUsSbzGryWWA/whatsapp-image-2026-09-17-at-17..jpg",
+      "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/09/18/quatro-sao-presos-apos-se-passarem-por-funcionarios-da-vivo-para-furtar-fios-em-mogi-das-cruzes.ghtml",
+      "source": "g1",
+      "published": 1789738518000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Bando de quatis é flagrado se alimentando em sacola deixada em árvore na Serra do Mar; VÍDEO",
+      "summary": "VÍDEO CADASTRADO E DESPUBLICADO NA EF ID: 14967821 Um bando de quatis foi flagrado escalando uma árvore para se alimentar em uma sacola na Serra do Mar, em Cubatão (SP).…",
+      "image": "https://s2-g1.glbimg.com/GnDS8CxY3HxZu2QaBmb26lzohhs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/b/iG8AnbRA6QZ7heJh1MAg/quatis.jpg",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/18/bando-de-quatis-e-flagrado-se-alimentando-em-sacola-deixada-em-arvore-na-serra-do-mar-video.ghtml",
+      "source": "g1",
+      "published": 1789738499000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "STJ mantém condenação de ex-deputada Flordelis a 50 anos de prisão",
+      "summary": "Por unanimidade, a Sexta Turma do Superior Tribunal de Justiça (STJ) manteve a condenação da ex-deputada Flordelis dos Santos de Souza a 50 anos de prisão pela morte do…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/operacao-policial-fecha-casas-de-jogos-de-azar-em-4-bairros-de-sao-paulo.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1789738020000
+      "link": "https://g1.globo.com/politica/noticia/2026/09/18/stj-mantem-condenacao-de-ex-deputada-flordelis-a-50-anos-de-prisao.ghtml",
+      "source": "g1",
+      "published": 1789738449000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Morre aposentado do Exército que foi resgatado em condições insalubres e teve filha indiciada por maus-tratos",
-      "summary": "Caso foi investigado pela Polícia Civil de Juiz de Fora Luiza Sudré/g1 Zona da Mata Foi sepultado na última quarta-feira (16), no Cemitério Parque da Saudade, em Juiz de…",
-      "image": "https://s2-g1.glbimg.com/72PpLR2nJQGeuvwMixSUoo1hZqk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/n/wG1O35RjG3RIhpuzaF3A/whatsapp-image-2026-01-07-at-10.05.28.jpeg",
-      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/09/18/morre-aposentado-do-exercito-que-foi-resgatado-em-condicoes-insalubres-e-teve-filha-indiciada-por-maus-tratos.ghtml",
+      "title": "Lula recebe com alívio resultado do Datafolha e trabalha para mudar a pauta com Bolsa Família e canetas emagrecedoras no SUS",
+      "summary": "A equipe do presidente Luiz Inácio Lula da Silva (PT) temia um resultado negativo no DataFolha. O resultado de estabilidade, com Lula numericamente à frente no segundo…",
+      "image": "",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/18/lula-recebe-com-alivio-resultado-do-datafolha-e-trabalha-para-mudar-a-pauta-com-bolsa-familia-e-canetas-emagrecedoras-no-sus.ghtml",
       "source": "g1",
-      "published": 1789737959000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Thais Carla diz que filhas foram alvo de ataque racista e que soube do crime pela internet",
-      "summary": "A influenciadora digital e dançarina, Thais Carla, denunciou que as filhas foram alvos de ataques racistas. Em um vídeo publicado na quinta-feira (17), a artista…",
-      "image": "https://s2-g1.glbimg.com/i_Kse5vNsrK9_4RPEkTaf7m8P-Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/I/S4jkzERdmbkhBQmmKL1w/feliz-dia-das-maes-para-todas-as-maes-do-mundo-credito-thiagocerqueirafotografia-1-.jpg",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/18/thais-carla-ataque-racista-filhas.ghtml",
-      "source": "g1",
-      "published": 1789737906000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Como cultivar peras",
-      "summary": "Imagem de peras em uma plantação. Embrapa/Divulgação Quem tem interesse em cultivar peras pode consultar uma publicação gratuita da Empresa Brasileira de Pesquisa…",
-      "image": "https://s2-g1.glbimg.com/HhEq865uRiJlWw3IDFyWKPRy3FU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/W/2BuBeGSfqi0HP2tvTkYw/pera-1200x800.png",
-      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/09/18/como-cultivar-peras.ghtml",
-      "source": "g1",
-      "published": 1789737888000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Homem não aceita fim de namoro e ameaça mulher com arma em frente a escola em Macapá",
-      "summary": "Homem foi preso nesta sexta-feira (18) Reprodução Um homem de 37 anos foi preso nesta sexta-feira (18) no Residencial Macapaba, na Zona Norte de Macapá. Ele é acusado de…",
-      "image": "https://s2-g1.glbimg.com/1hw8lroMtC2xNaKrB1nZrZhrCy0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/v/oQhBBRT6m1PkdwZmgz1A/aleixo-g1-2026-09-18t095551.266.jpg",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/09/18/homem-nao-aceita-fim-de-namoro-e-ameaca-mulher-com-arma-em-frente-a-escola-em-macapa.ghtml",
-      "source": "g1",
-      "published": 1789737875000
+      "published": 1789738420000
     }
   ]
 }
