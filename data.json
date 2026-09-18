@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-09-18T11:58:03.642Z",
+  "updatedAt": "2026-09-18T12:08:30.948Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Homem é preso pela PF suspeito de armazenar conteúdos de abuso sexual de crianças no noroeste de SP",
+      "summary": "Materiais apreendidos com homem, preso pela PF suspeito de armazenar conteúdos de abuso sexual infantojuvenil em Clementina (SP) Divulgação/Polícia Federal Um homem foi…",
+      "image": "https://s2-g1.glbimg.com/SNims9BawLqioBhJnwRp5pyRmH8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/E/qouFwZTBucByuZSfl66w/g1-34-.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/18/homem-e-preso-pela-pf-suspeito-de-armazenar-conteudos-de-abuso-sexual-de-criancas-no-noroeste-de-sp.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1789733217000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -43,14 +53,44 @@
       "published": 1789675956000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Criança de 5 anos é atingida por disparo acidental de arma de chumbinho",
-      "summary": "Delegacia de Polícia de Valparaíso (SP) Reprodução / Google Street View Uma criança de cinco anos foi internada na Unidade de Tratamento Intensivo (UTI) após ser…",
-      "image": "https://s2-g1.glbimg.com/4lgL1bgH6Dt491VmZ8D6gzoYkMo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/z/6OLkPjR46AVsYcQMeK0Q/14795582-69-.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/17/crianca-de-5-anos-e-atingida-por-disparo-acidental-de-arma-de-chumbinho.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1789673011000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta",
+      "summary": "Índices futuros dos EUA avançam The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta appeared first on InfoMoney .",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-29-1.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18092026/",
+      "source": "InfoMoney",
+      "published": 1789733217000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Flávio Bolsonaro: Espero que STF não tente nenhuma ‘gracinha’ para cima de mim",
+      "summary": "Senador Flávio Bolsonaro em Brasília 15 de janeiro de 2026 REUTERS/Adriano Machado \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-11T200624Z_1_LYNXMPEM7A1GS_RTROPTP_4_BRAZIL-BOLSONARO.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-espero-que-stf-nao-tente-nenhuma-gracinha-para-cima-de-mim/",
+      "source": "InfoMoney",
+      "published": 1789732887000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Mega-Sena: única aposta acerta seis dezenas e leva R$ 101,9 milhões",
+      "summary": "Foto: Rafa Neddermeyer/Agência Brasil \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/05/20230622_182547.webp?fit=1170%2C700&quality=70&strip=all\"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/20230622_182547.webp?fit=300%2C179&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/mega-sena-unica-aposta-acerta-seis-dezenas-e-leva-r-1019-milhoes/",
+      "source": "InfoMoney",
+      "published": 1789732806000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Crédito privado hoje é “strike ou canaleta”, e especialistas recomendam dosar o risco",
+      "summary": "Fayga Delbem, head de Crédito na Itaú Asset, Gustavo Ledimuth, diretor na Santander Corretora, Marilia Fontes, sócia fundadora da Nord Investimentos, e Eduardo…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/DSC00512.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/onde-investir/riscos-investimento-credito-privado-congresso-planejar/",
+      "source": "InfoMoney",
+      "published": 1789732800000
     },
     {
       "category": "mercado",
@@ -58,49 +98,29 @@
       "title": "Vorcaro teve audiência com Gilmar sobre causa que afetava créditos do Banco Master",
       "summary": "Ministro Gilmar Mendes durante a Sessão plenária do STF &#8211; 12/06/2024 (Foto: Andressa Anholete/SCO/STF) \"…",
       "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Gilmar-Mendes_12.06.2024-Andressa-Anholete-scaled-1.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/vorcaro-teve-audiencia-com-gilmar-sobre-causa-que-afetava-creditos-do-banco-master/",
+      "link": "https://www.infomoney.com.br/politica/vorcaro-teve-audiencia-com-gilmar-sobre-causa-que-afetava-creditos-do-banco-master/",
       "source": "InfoMoney",
       "published": 1789732635000
     },
     {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Greve dos Correios: empresa desiste de negociação e aguardam decisão do TST",
-      "summary": "(Foto: Marcelo Camargo/Agência Brasil) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/05/correios.jpg?fit=1170%2C700&quality=70&strip=all\"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/correios.jpg?fit=300%2C179&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/greve-dos-correios-empresa-desiste-de-negociacao-e-aguardam-decisao-do-tst/",
-      "source": "InfoMoney",
-      "published": 1789732512000
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Sem Memphis, Xavi faz a primeira convocação na seleção da Holanda",
+      "summary": "A seleção da Holanda divulgou nesta sexta-feira sua primeira convocação sob o comando de Xavi Hernández para a disputa da Liga das Nações. A lista marca o início de um…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260917__C8JL2BE__v1__HighRes__FblLibertadoresCorinthiansEstudiantes.webp",
+      "link": "https://www.gazetaesportiva.com/times/holanda/xavi-divulga-primeira-convocacao-da-holanda-sem-memphis-depay/",
+      "source": "Gazeta Esportiva",
+      "published": 1789733162000
     },
     {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Entre eleitores de Lula, 84% dizem estar totalmente decididos, aponta Datafolha",
-      "summary": "Presidente da República, Luiz Inácio Lula da Silva, durante anúncio das obras de retomada da indústria naval e ‘offshore’ brasileira em Santa Catarina, no Estaleiro…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-29-at-09.28.14.jpeg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/entre-eleitores-de-lula-84-dizem-estar-totalmente-decididos-aponta-datafolha/",
-      "source": "InfoMoney",
-      "published": 1789732407000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Datafolha: Lula tem 60% contra 33% de Flávio entre beneficiários do Bolsa Família",
-      "summary": "Imagem combinada mostra o presidente do Brasil, Luiz Inácio Lula da Silva (à esquerda), em cerimônia no Palácio do Planalto, em Brasília, Brasil, em 8 de agosto de 2026,…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/2026-08-26T090003Z_1030496109_RC233NAIN4O1_RTRMADP_3_BRAZIL-ELECTION-MARKETS.jpg?fit=300%2C221&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/datafolha-lula-tem-60-contra-33-de-flavio-entre-beneficiarios-do-bolsa-familia/",
-      "source": "InfoMoney",
-      "published": 1789732271000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Não é preciso alterar o tom para ser ouvido”, diz Nunes Marques após julgamento",
-      "summary": "O ministro Kássio Nunes Marques. Foto: Marcelo Camargo/Agência Brasil \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/julgamento-tse-bolsonaro_mcamgo_abr_30062023-16.jpeg?fit=300%2C225&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/nao-e-preciso-alterar-o-tom-para-ser-ouvido-diz-nunes-marques-apos-julgamento/",
-      "source": "InfoMoney",
-      "published": 1789731686000
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Com Cristiano Ronaldo, Jorge Jesus faz primeira convocação à frente de Portugal",
+      "summary": "Jorge Jesus divulgou sua primeira convocação como técnico da seleção portuguesa, com Cristiano Ronaldo entre os 25 jogadores chamados para os próximos compromissos pela…",
+      "image": "https://static.gazetaesportiva.com/uploads/2025/03/2RW1R9W.webp",
+      "link": "https://www.gazetaesportiva.com/times/portugal/jorge-jesus-convoca-cristiano-ronaldo-portugal/",
+      "source": "Gazeta Esportiva",
+      "published": 1789732975000
     },
     {
       "category": "esportes",
@@ -133,24 +153,14 @@
       "published": 1789725605000
     },
     {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Remo x Santos: saiba onde assistir ao jogo válido pela 28ª rodada do Brasileirão",
-      "summary": "Remo e Santos se enfrentam neste sábado, às 18h30 (de Brasília), no Mangueirão, pela 28ª rodada do Campeonato Brasileiro. O Peixe busca reagir após a eliminação na Copa…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55444131488_240390ede0_3k.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/remo-x-santos-onde-assistir-brasileirao-2026/",
-      "source": "Gazeta Esportiva",
-      "published": 1789722015000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "São Paulo x Internacional: saiba onde assistir ao jogo pelo Brasileirão",
-      "summary": "Veja as opções para assistir ao jogo entre São Paulo e Inter neste sábado, às 21h, no Morumbis, pela 28ª rodada do Brasileirão. O post São Paulo x Internacional: saiba…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55182672831_c3320285dd_k.webp",
-      "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-inter-onde-assistir-brasileirao/",
-      "source": "Gazeta Esportiva",
-      "published": 1789722009000
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Hora de transformar sua TV: veja uma seleção de dispositivos de streaming em promoção",
+      "summary": "Se você ainda não transformou sua televisão em uma central de entretenimento completa, este é o momento certo. Reunimos três opções de dispositivos de streaming que…",
+      "image": "https://m.media-amazon.com/images/I/31lBb1O2D7L._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/18/reviews/hora-de-transformar-sua-tv-veja-uma-selecao-de-dispositivos-de-streaming-em-promocao/",
+      "source": "Olhar Digital",
+      "published": 1789731600000
     },
     {
       "category": "tecnologia",
@@ -193,64 +203,54 @@
       "published": 1789729200000
     },
     {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Lua hoje: confira a fase da Lua desta sexta-feira 18/09/2026",
-      "summary": "Em qual fase a Lua está hoje, 18 de setembro de 2026? Confira e veja o calendário completo do mês O post Lua hoje: confira a fase da Lua desta sexta-feira 18/09/2026…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2022/07/fases-da-Lua-1024x186.png",
-      "link": "https://olhardigital.com.br/2026/09/18/ciencia-e-espaco/lua-hoje-confira-a-fase-da-lua-desta-sexta-feira-18-09-2026/",
-      "source": "Olhar Digital",
-      "published": 1789727700000
-    },
-    {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Roupas não secam por causa da chuva e do frio? Saiba como acelerar a secagem",
-      "summary": "Roupas não secam? Saiba como acelerar a secagem mesmo no frio ou na chuva Em dias frios, chuvosos ou úmidos, secar a roupa lavada parece levar uma eternidade. Para quem…",
-      "image": "https://s2-g1.glbimg.com/12oVsMTkChelMfYw40B0Pme6ySo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/s/B/07QSLlSWCNGw9ZGIor5w/blusa-congelada.jpg",
-      "link": "https://g1.globo.com/guia/guia-de-compras/casa/roupas-nao-secam-por-causa-da-chuva-e-do-frio-saiba-como-acelerar-a-secagem.ghtml",
+      "title": "Dólar abre em queda, com foco em política brasileira e preços do petróleo no exterior",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta sexta-feira (18) em queda, com um recuo de 0,10% perto das 9h, cotado a R$ 5,1337. Já as…",
+      "image": "https://s2-g1.glbimg.com/O49d2V48Q5zIUn7fQPNfoMN5WOI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/K/J/NvIKwCR8arhLFNMisILw/2025-01-21t204813z-1-lynxnpel0k0yk-rtroptp-4-brazil-economy.jpg",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/18/dolar-ibovespa.ghtml",
       "source": "g1",
-      "published": 1789732301000
+      "published": 1789732820000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Gustavo Mendanha, candidato ao Senado, é entrevistado no Bom Dia Goiás",
-      "summary": "Gustavo Mendanha, candidato ao Senado, é entrevistado no Bom Dia Goiás Ele é o último entrevistado da série de sabatinas. O G1 Goiás transmite ao vivo, acompanhe! O Bom…",
-      "image": "https://s2-g1.glbimg.com/x3UDy9c4LeOmUZTsbNxJy3vgvnY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/Z/uJ1xo4TEitEDUXUtkr2w/whatsapp-image-2026-08-13-at-17.37.11.jpeg",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/ao-vivo/entrevistas-candidatos-goias-senado.ghtml",
-      "source": "g1",
-      "published": 1789732250000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Defesa de Vorcaro pede fim da prisão preventiva e substituição por medidas cautelares",
-      "summary": "A defesa do ex-banqueiro Daniel Vorcaro pediu nesta quinta-feira (17) a revogação da prisão preventiva dele decretada na Operação Compliance Zero, que apura uma rede de…",
+      "title": "Ponte Rio-Niter�i ter� teste de radar que mede velocidade m�dia; experi�ncia ser� em 8 estados",
+      "summary": "A ANTT (Ag�ncia Nacional de Transportes Terrestres) autorizou teste de radar que mede a velocidade m�dia em oito estados. Entre os locais escolhidos est� um trecho da…",
       "image": "",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/18/defesa-de-vorcaro-pede-fim-da-prisao-preventiva.ghtml",
-      "source": "g1",
-      "published": 1789732141000
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/ponte-rio-niteroi-tera-teste-de-radar-que-mede-velocidade-media-experiencia-sera-em-8-estados.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1789732800000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-      "summary": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
+      "title": "Mister Olympia 2026: Veja todas as fisiculturistas da Wellness",
+      "summary": "A categoria Wellness ter� a sua sexta edi��o na hist�ria do Olympia ?campeonato mais importante do fisiculturismo mundial? no pr�ximo dia 25. Implementada na competi��o…",
       "image": "",
-      "link": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
-      "source": "g1",
-      "published": 1789732134000
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/musculo/2026/09/mister-olympia-2026-veja-todas-as-fisiculturistas-da-wellness.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1789732800000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "summary": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "image": "",
-      "link": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml",
+      "title": "Corpo de ex-vereadora morta a facadas por funcionário após discussão será sepultado em Boituva",
+      "summary": "Ex-vereadora morre após ser esfaqueada por funcionário em Boituva O corpo da ex-vereadora, de 55 anos, que morreu após ser esfaqueada por um funcionário depois de uma…",
+      "image": "https://s2-g1.glbimg.com/rZYdi2NoPoeyLdwLk1EnEUvRg3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/0/B87mVvRGiW1Z9KaAAJXw/whatsapp-image-2026-09-17-at-15.46.21.jpeg",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/09/18/enterro-ex-vereadora-boituva.ghtml",
       "source": "g1",
-      "published": 1789732119000
+      "published": 1789732795000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Tarcísio do Acordeon, Mastruz com Leite, DJ Ralk e mais: veja programação do Festival do Artesão de Cachoeirinha 2026",
+      "summary": "Tarcísio do Acordeon e Mastruz com Leite são atrações do Festival do Artesão de Cachoeirinha 2026 Reprodução Neste fim de semana, o município de Cachoeirinha, no Agreste…",
+      "image": "https://s2-g1.glbimg.com/bCFc3VrDSOeh72RB2vxPb3N29lE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/2/8BvmnTSbeAukYa9stbtA/design-sem-nome-2026-09-18t085732.624.png",
+      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/09/18/tarcisio-do-acordeon-mastruz-com-leite-dj-ralk-e-mais-veja-programacao-do-festival-do-artesao-de-cachoeirinha-2026.ghtml",
+      "source": "g1",
+      "published": 1789732776000
     }
   ]
 }
