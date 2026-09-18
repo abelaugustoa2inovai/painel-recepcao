@@ -533,7 +533,7 @@ function startEditAviso(id){
   imgBuf.av=a.imagem_url?{url:a.imagem_url}:null;
   document.getElementById("av-thumb").innerHTML=a.imagem_url?'<img src="'+escapeHtml(a.imagem_url)+'">':"🖼️";
   document.getElementById("av-rm").hidden=!a.imagem_url;
-  document.getElementById("av-mode").textContent="Editando";
+  document.getElementById("aviso-mode").textContent="Editando";
   document.getElementById("av-cancel").hidden=false;
   window.scrollTo({top:0,behavior:"smooth"});
 }
@@ -670,7 +670,7 @@ function resetForm(type){
   if(type==="aviso"){
     editAviso=null; ["av-di","av-df","av-hi","av-hf","av-txt"].forEach(id=>document.getElementById(id).value="");
     imgBuf.av=null; document.getElementById("av-thumb").innerHTML="🖼️"; document.getElementById("av-rm").hidden=true; document.getElementById("av-img").value="";
-    document.getElementById("av-mode").textContent="Cadastrando"; document.getElementById("av-cancel").hidden=true;
+    document.getElementById("aviso-mode").textContent="Cadastrando"; document.getElementById("av-cancel").hidden=true;
     document.querySelectorAll("#panel-aviso .field").forEach(f=>f.classList.remove("invalid"));
   }
   if(type==="aniversario"){
