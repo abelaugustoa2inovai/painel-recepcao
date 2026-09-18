@@ -63,7 +63,21 @@ async function fetchText(url) {
   try {
     const r = await fetch(url, { headers: { "User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*" }, signal: ctrl.signal, redirect: "follow" });
     if (!r.ok) throw new Error("HTTP " + r.status);
-    return await r.text();
+    const buf = Buffer.from(await r.arrayBuffer());
+    // Detecta o charset (cabeçalho HTTP ou declaração XML); muitos feeds BR vêm em ISO-8859-1.
+    let charset = "";
+    const ct = r.headers.get("content-type") || "";
+    const mCt = ct.match(/charset=([^;]+)/i);
+    if (mCt) charset = mCt[1];
+    if (!charset) {
+      const head = buf.subarray(0, 300).toString("latin1");
+      const mXml = head.match(/encoding=["']([^"']+)["']/i);
+      if (mXml) charset = mXml[1];
+    }
+    charset = (charset || "utf-8").trim().toLowerCase();
+    if (/^(iso[-_]?8859[-_]?1|latin[-_]?1|windows[-_]?1252|cp1252)$/.test(charset)) charset = "windows-1252";
+    try { return new TextDecoder(charset).decode(buf); }
+    catch { return buf.toString("utf-8"); }
   } finally { clearTimeout(t); }
 }
 
@@ -82,7 +96,7 @@ function parseFeed(xml) {
     const dateStr = stripTags(tag(b, "pubDate") || tag(b, "published") || tag(b, "updated") || tag(b, "dc:date"));
     const ts = dateStr ? Date.parse(dateStr) : 0;
     out.push({
-      title: truncate(title, 120),
+      title: truncate(title, 180),
       summary: truncate(stripTags(desc), 170),
       image: pickImage(b),
       link: link.trim(),
