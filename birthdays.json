@@ -1,0 +1,5 @@
+[
+  { "name": "Ana Souza",       "day": 14, "month": 9, "dept": "Comercial",  "photo": "" },
+  { "name": "Carlos Oliveira", "day": 22, "month": 9, "dept": "Logística",  "photo": "" },
+  { "name": "Mariana Lima",    "day": 28, "month": 9, "dept": "Financeiro", "photo": "" }
+]
