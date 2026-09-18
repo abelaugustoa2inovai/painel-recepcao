@@ -27,96 +27,96 @@
     overflow:hidden; -webkit-font-smoothing:antialiased;
   }
   img{max-width:100%}
-  .frame{height:100vh;width:100vw;display:grid;grid-template-rows:auto 1fr auto;padding:clamp(18px,2.4vw,40px);gap:clamp(14px,1.8vh,26px)}
+  .frame{height:100vh;width:100vw;display:grid;grid-template-rows:auto 1fr auto;padding:2.4vw;gap:1.8vh}
 
   header{display:flex;align-items:center;justify-content:space-between;gap:24px}
-  .brand{display:flex;align-items:center;gap:clamp(12px,1.2vw,18px);min-width:0}
-  .logo{width:clamp(90px,7.2vw,148px);height:clamp(90px,7.2vw,148px);border-radius:20px;flex:none;background:#f4f6fb;display:grid;place-items:center;padding:12px;box-shadow:0 12px 30px -10px rgba(0,0,0,.55)}
+  .brand{display:flex;align-items:center;gap:1.2vw;min-width:0}
+  .logo{width:7.2vw;height:7.2vw;border-radius:20px;flex:none;background:#f4f6fb;display:flex;align-items:center;justify-content:center;padding:12px;box-shadow:0 12px 30px -10px rgba(0,0,0,.55)}
   .logo img{width:100%;height:100%;object-fit:contain}
   .brand-txt{display:flex;flex-direction:column;min-width:0}
   .brand-name{display:none}
 
   .clock-wrap{display:flex;flex-direction:column;align-items:center;line-height:1}
-  .clock{font-family:var(--font-disp);font-weight:700;font-variant-numeric:tabular-nums;font-size:clamp(64px,7.8vw,152px);letter-spacing:.01em;display:flex;align-items:baseline;gap:.12em}
+  .clock{font-family:var(--font-disp);font-weight:700;font-variant-numeric:tabular-nums;font-size:7.8vw;letter-spacing:.01em;display:flex;align-items:baseline;gap:.12em}
   .clock .sec{font-size:.42em;color:var(--amber);font-weight:600}
-  .date{font-family:var(--font-disp);text-transform:uppercase;letter-spacing:.12em;color:var(--muted);font-size:clamp(15px,1.5vw,28px);margin-top:.4em;font-weight:600}
+  .date{font-family:var(--font-disp);text-transform:uppercase;letter-spacing:.12em;color:var(--muted);font-size:1.5vw;margin-top:.4em;font-weight:600}
 
-  .weather{display:flex;align-items:center;gap:clamp(14px,1.4vw,22px);background:linear-gradient(160deg,var(--surface-2),var(--surface));border:1px solid var(--line);border-radius:20px;padding:clamp(14px,1.5vw,24px) clamp(20px,2vw,34px);box-shadow:var(--shadow);flex:none}
-  .weather .ico{width:clamp(50px,4.6vw,80px);height:clamp(50px,4.6vw,80px);color:var(--steel);flex:none}
-  .weather .temp{font-family:var(--font-disp);font-weight:700;font-size:clamp(40px,4.2vw,74px);line-height:.95;font-variant-numeric:tabular-nums}
+  .weather{display:flex;align-items:center;gap:1.4vw;background:linear-gradient(160deg,var(--surface-2),var(--surface));border:1px solid var(--line);border-radius:20px;padding:1.5vw 2vw;box-shadow:var(--shadow);flex:none}
+  .weather .ico{width:4.6vw;height:4.6vw;color:var(--steel);flex:none}
+  .weather .temp{font-family:var(--font-disp);font-weight:700;font-size:4.2vw;line-height:.95;font-variant-numeric:tabular-nums}
   .weather .temp span{color:var(--steel)}
   .weather .wx-meta{display:flex;flex-direction:column;gap:.15em}
-  .weather .wx-city{font-family:var(--font-disp);font-weight:600;font-size:clamp(14px,1.3vw,23px);text-transform:uppercase;letter-spacing:.08em}
-  .weather .wx-cond{color:var(--muted);font-size:clamp(13px,1.15vw,20px)}
-  .weather .wx-min{color:var(--muted-2);font-size:clamp(13px,1.05vw,19px);font-variant-numeric:tabular-nums}
+  .weather .wx-city{font-family:var(--font-disp);font-weight:600;font-size:1.3vw;text-transform:uppercase;letter-spacing:.08em}
+  .weather .wx-cond{color:var(--muted);font-size:1.15vw}
+  .weather .wx-min{color:var(--muted-2);font-size:1.05vw;font-variant-numeric:tabular-nums}
 
   .stage{position:relative;border-radius:26px;overflow:hidden;background:linear-gradient(165deg,var(--surface),var(--ground-2));border:1px solid var(--line);box-shadow:var(--shadow)}
-  .slide{position:absolute;inset:0;padding:clamp(24px,3.4vw,64px);display:flex;flex-direction:column;justify-content:center;opacity:0;transform:scale(1.015);transition:opacity .8s ease,transform .8s ease;pointer-events:none}
+  .slide{position:absolute;top:0;right:0;bottom:0;left:0;padding:3.4vw;display:flex;flex-direction:column;justify-content:center;opacity:0;transform:scale(1.015);transition:opacity .8s ease,transform .8s ease;pointer-events:none}
   .slide.active{opacity:1;transform:none}
-  .slide .kicker{font-family:var(--font-disp);text-transform:uppercase;letter-spacing:.24em;font-weight:600;font-size:clamp(13px,1.15vw,20px);display:flex;align-items:center;gap:.7em;margin-bottom:clamp(14px,1.6vh,26px)}
-  .slide .kicker::before{content:"";width:clamp(30px,3vw,54px);height:4px;border-radius:2px;background:var(--amber)}
+  .slide .kicker{font-family:var(--font-disp);text-transform:uppercase;letter-spacing:.24em;font-weight:600;font-size:1.15vw;display:flex;align-items:center;gap:.7em;margin-bottom:1.6vh}
+  .slide .kicker::before{content:"";width:3vw;height:4px;border-radius:2px;background:var(--amber)}
 
   .news-k{color:var(--amber-soft)}
-  .news-title{font-family:var(--font-disp);font-weight:700;font-size:clamp(34px,4.8vw,90px);line-height:1.05;letter-spacing:-.012em;text-wrap:balance;max-width:100%;margin:0}
-  .news-src{margin-top:clamp(16px,2.2vh,30px);display:flex;align-items:center;gap:.7em;font-family:var(--font-disp);text-transform:uppercase;letter-spacing:.12em;color:var(--muted-2);font-size:clamp(12px,1vw,17px);font-weight:600}
+  .news-title{font-family:var(--font-disp);font-weight:700;font-size:4.8vw;line-height:1.05;letter-spacing:-.012em;text-wrap:balance;max-width:100%;margin:0}
+  .news-src{margin-top:2.2vh;display:flex;align-items:center;gap:.7em;font-family:var(--font-disp);text-transform:uppercase;letter-spacing:.12em;color:var(--muted-2);font-size:1vw;font-weight:600}
   .news-src .dot{width:.55em;height:.55em;border-radius:50%;background:var(--steel)}
   .news-src .time{color:var(--muted-2);text-transform:none;letter-spacing:0;font-weight:500}
 
-  .slide.news-slide{display:grid;grid-template-columns:1.14fr .86fr;gap:clamp(24px,3vw,56px);align-items:stretch;justify-content:initial}
+  .slide.news-slide{display:grid;grid-template-columns:1.14fr .86fr;gap:3vw;align-items:stretch;justify-content:initial}
   .news-main{display:flex;flex-direction:column;min-width:0;height:100%}
   .news-titlewrap{flex:1 1 auto;min-height:0;display:flex;align-items:center;overflow:hidden}
   .news-art{align-self:stretch;min-height:0;display:flex}
-  .artbox{position:relative;flex:1;border-radius:22px;overflow:hidden;display:grid;place-items:center;border:1px solid rgba(255,255,255,.08)}
+  .artbox{position:relative;flex:1;border-radius:22px;overflow:hidden;display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,.08)}
   .artbox .art-ico{width:42%;height:42%;color:rgba(255,255,255,.92);filter:drop-shadow(0 8px 20px rgba(0,0,0,.35))}
   .artbox .art-wm{position:absolute;right:-8%;bottom:-14%;width:60%;height:60%;color:rgba(255,255,255,.07)}
-  .artchip{position:absolute;left:clamp(16px,1.4vw,24px);bottom:clamp(16px,1.6vh,24px);font-family:var(--font-disp);text-transform:uppercase;letter-spacing:.14em;font-weight:600;font-size:clamp(12px,1vw,17px);color:#fff;background:rgba(0,0,0,.34);border:1px solid rgba(255,255,255,.22);border-radius:999px;padding:.35em .9em;backdrop-filter:blur(4px)}
+  .artchip{position:absolute;left:1.4vw;bottom:1.6vh;font-family:var(--font-disp);text-transform:uppercase;letter-spacing:.14em;font-weight:600;font-size:1vw;color:#fff;background:rgba(0,0,0,.34);border:1px solid rgba(255,255,255,.22);border-radius:999px;padding:.35em .9em;backdrop-filter:blur(4px)}
   .artphoto{position:relative;flex:1;border-radius:22px;overflow:hidden;border:1px solid rgba(255,255,255,.08);background:var(--ground-2)}
-  .artphoto img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
-  .artphoto .grad{position:absolute;inset:0;background:linear-gradient(180deg,transparent 45%,rgba(6,10,16,.72) 100%)}
+  .artphoto img{position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;object-fit:cover}
+  .artphoto .grad{position:absolute;top:0;right:0;bottom:0;left:0;background:linear-gradient(180deg,transparent 45%,rgba(6,10,16,.72) 100%)}
   @media (max-width:820px){ .slide.news-slide{grid-template-columns:1fr} .news-art{display:none} }
 
   .bday-k{color:var(--rose)}
   .bday-k::before{background:var(--rose)}
-  .bday-title{font-family:var(--font-disp);font-weight:700;font-size:clamp(30px,3.6vw,64px);line-height:1;margin-bottom:clamp(16px,2vh,30px)}
+  .bday-title{font-family:var(--font-disp);font-weight:700;font-size:3.6vw;line-height:1;margin-bottom:2vh}
   .bday-title em{color:var(--rose);font-style:normal}
-  .bday-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,360px),1fr));gap:clamp(12px,1.2vw,20px);align-content:start;overflow:hidden}
-  .bday-card{display:flex;align-items:center;gap:clamp(12px,1vw,18px);background:linear-gradient(150deg,rgba(255,123,166,.14),rgba(255,123,166,.05));border:1px solid rgba(255,123,166,.28);border-radius:18px;padding:clamp(12px,1.1vw,18px) clamp(14px,1.3vw,22px)}
-  .bday-avatar{flex:none;width:clamp(58px,4.8vw,84px);height:clamp(58px,4.8vw,84px);border-radius:50%;overflow:hidden;display:grid;place-items:center;background:linear-gradient(150deg,var(--rose),#e05a86);color:#2a0d18;font-family:var(--font-disp);font-weight:700;font-size:clamp(20px,1.8vw,32px);border:2px solid rgba(255,123,166,.5)}
+  .bday-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,360px),1fr));gap:1.2vw;align-content:start;overflow:hidden}
+  .bday-card{display:flex;align-items:center;gap:1vw;background:linear-gradient(150deg,rgba(255,123,166,.14),rgba(255,123,166,.05));border:1px solid rgba(255,123,166,.28);border-radius:18px;padding:1.1vw 1.3vw}
+  .bday-avatar{flex:none;width:4.8vw;height:4.8vw;border-radius:50%;overflow:hidden;display:flex;align-items:center;justify-content:center;background:linear-gradient(150deg,var(--rose),#e05a86);color:#2a0d18;font-family:var(--font-disp);font-weight:700;font-size:1.8vw;border:2px solid rgba(255,123,166,.5)}
   .bday-avatar img{width:100%;height:100%;object-fit:cover}
   .bday-info{display:flex;flex-direction:column;min-width:0;flex:1}
-  .bday-name{font-family:var(--font-disp);font-weight:600;font-size:clamp(19px,1.7vw,30px);line-height:1.05;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-  .bday-dept{color:var(--muted);font-size:clamp(12px,1vw,16px)}
-  .bday-day{font-family:var(--font-disp);font-weight:700;flex:none;margin-left:auto;text-align:center;line-height:.9;padding:clamp(6px,.6vw,11px) clamp(10px,1vw,16px);border-radius:12px;background:rgba(255,123,166,.16);border:1px solid rgba(255,123,166,.32)}
-  .bday-day b{font-size:clamp(20px,1.8vw,32px);display:block;font-variant-numeric:tabular-nums;color:var(--text)}
-  .bday-day small{font-size:clamp(9px,.75vw,12px);text-transform:uppercase;letter-spacing:.1em;color:var(--muted)}
+  .bday-name{font-family:var(--font-disp);font-weight:600;font-size:1.7vw;line-height:1.05;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .bday-dept{color:var(--muted);font-size:1vw}
+  .bday-day{font-family:var(--font-disp);font-weight:700;flex:none;margin-left:auto;text-align:center;line-height:.9;padding:.6vw 1vw;border-radius:12px;background:rgba(255,123,166,.16);border:1px solid rgba(255,123,166,.32)}
+  .bday-day b{font-size:1.8vw;display:block;font-variant-numeric:tabular-nums;color:var(--text)}
+  .bday-day small{font-size:.75vw;text-transform:uppercase;letter-spacing:.1em;color:var(--muted)}
 
   .note-k{color:var(--steel)}
   .note-k::before{background:var(--steel)}
-  .note-title{font-family:var(--font-disp);font-weight:700;font-size:clamp(34px,4vw,74px);line-height:1.04;letter-spacing:-.01em;text-wrap:balance;max-width:22ch}
-  .note-body{margin-top:clamp(16px,2vh,32px);font-size:clamp(19px,1.8vw,36px);color:var(--muted);line-height:1.35;max-width:40ch}
+  .note-title{font-family:var(--font-disp);font-weight:700;font-size:4vw;line-height:1.04;letter-spacing:-.01em;text-wrap:balance;max-width:22ch}
+  .note-body{margin-top:2vh;font-size:1.8vw;color:var(--muted);line-height:1.35;max-width:40ch}
 
   .info-main{display:flex;flex-direction:column;justify-content:center;min-width:0;height:100%}
   .info-k{color:var(--good)}
   .info-k::before{background:var(--good)}
-  .info-title{font-family:var(--font-disp);font-weight:700;font-size:clamp(30px,3.7vw,66px);line-height:1.06;letter-spacing:-.01em;text-wrap:balance;margin:0;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-  .info-desc{margin-top:clamp(14px,1.9vh,28px);font-size:clamp(17px,1.6vw,31px);color:var(--muted);line-height:1.4;max-width:34ch;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+  .info-title{font-family:var(--font-disp);font-weight:700;font-size:3.7vw;line-height:1.06;letter-spacing:-.01em;text-wrap:balance;margin:0;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+  .info-desc{margin-top:1.9vh;font-size:1.6vw;color:var(--muted);line-height:1.4;max-width:34ch;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
   .aviso-img .grad{background:linear-gradient(180deg,transparent 40%,rgba(6,10,16,.55) 100%)}
 
   .idle{align-items:center;text-align:center}
-  .idle .big{font-family:var(--font-disp);font-weight:700;font-size:clamp(40px,5vw,90px);line-height:1.05}
-  .idle .sub{color:var(--muted);font-size:clamp(18px,1.8vw,32px);margin-top:.4em}
+  .idle .big{font-family:var(--font-disp);font-weight:700;font-size:5vw;line-height:1.05}
+  .idle .sub{color:var(--muted);font-size:1.8vw;margin-top:.4em}
 
-  .dots{position:absolute;bottom:clamp(16px,2vh,26px);left:50%;transform:translateX(-50%);display:flex;gap:9px}
+  .dots{position:absolute;bottom:2vh;left:50%;transform:translateX(-50%);display:flex;gap:9px}
   .dots i{width:9px;height:9px;border-radius:50%;background:var(--line);transition:all .4s ease}
   .dots i.on{width:26px;border-radius:6px;background:var(--amber)}
 
   .ticker{display:flex;align-items:stretch;background:linear-gradient(160deg,var(--surface-2),var(--surface));border:1px solid var(--line);border-radius:16px;overflow:hidden;box-shadow:var(--shadow)}
-  .ticker .label{flex:none;display:flex;align-items:center;gap:.6em;padding:0 clamp(16px,1.4vw,26px);background:linear-gradient(150deg,var(--amber),#d9861a);color:#1c1204;font-family:var(--font-disp);font-weight:700;text-transform:uppercase;letter-spacing:.12em;font-size:clamp(13px,1.15vw,20px)}
+  .ticker .label{flex:none;display:flex;align-items:center;gap:.6em;padding:0 1.4vw;background:linear-gradient(150deg,var(--amber),#d9861a);color:#1c1204;font-family:var(--font-disp);font-weight:700;text-transform:uppercase;letter-spacing:.12em;font-size:1.15vw}
   .ticker .label svg{width:1.15em;height:1.15em}
   .ticker .view{position:relative;flex:1;overflow:hidden;display:flex;align-items:center}
   .ticker .track{display:inline-flex;align-items:center;white-space:nowrap;will-change:transform;animation:scroll 60s linear infinite}
-  .ticker .item{padding:clamp(12px,1.3vh,20px) 0;font-size:clamp(16px,1.35vw,26px);color:var(--text);font-weight:500;display:inline-flex;align-items:center}
-  .ticker .item::after{content:"";width:8px;height:8px;border-radius:50%;background:var(--amber);margin:0 clamp(22px,2.4vw,44px)}
+  .ticker .item{padding:1.3vh 0;font-size:1.35vw;color:var(--text);font-weight:500;display:inline-flex;align-items:center}
+  .ticker .item::after{content:"";width:8px;height:8px;border-radius:50%;background:var(--amber);margin:0 2.4vw}
   @keyframes scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 
   @media (prefers-reduced-motion:reduce){ .slide{transition:opacity .3s ease} .ticker .track{animation:none} }
@@ -156,20 +156,26 @@
 </div>
 
 <script src="config.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script>
-const SUPA_URL = "https://shqgmueypdvqkcyfzhmn.supabase.co";
-const SUPA_KEY = "sb_publishable_ZSlOlgqfZdn6b1mtOO5FnA_gGbveF1-";
-const supa = (window.supabase && window.supabase.createClient) ? window.supabase.createClient(SUPA_URL, SUPA_KEY) : null;
-const CFG = window.PAINEL_CONFIG || {};
+/* Painel da TV — escrito para funcionar também em navegadores antigos de smart TV
+   (sem optional chaining, sem spread, sem padStart, sem async/await, sem clamp). */
+var SUPA_URL = "https://shqgmueypdvqkcyfzhmn.supabase.co";
+var SUPA_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNocWdtdWV5cGR2cWtjeWZ6aG1uIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODk3MzE5NTMsImV4cCI6MjEwNTMwNzk1M30.fd49eROKPNrtbBwuOCpUe_vwCX-88paMNasz66NatAw";
+function pad2(n){ n = "" + n; return n.length < 2 ? "0" + n : n; }
+function supaGet(path){
+  return fetch(SUPA_URL + "/rest/v1/" + path, { headers: { apikey: SUPA_KEY, Authorization: "Bearer " + SUPA_KEY } })
+    .then(function(r){ return r.ok ? r.json() : []; })
+    .catch(function(){ return []; });
+}
+var CFG = window.PAINEL_CONFIG || {};
 const MESES = ["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"];
 const MESES_ABREV = ["JAN","FEV","MAR","ABR","MAI","JUN","JUL","AGO","SET","OUT","NOV","DEZ"];
 
 let state = { news: [], birthdays: [], avisos: [], infos: [], weather: null };
 
 /* ---------------- janela de exibição (data/hora) ---------------- */
-function todayISO(){ const d=new Date(); return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0"); }
-function nowHM(){ const d=new Date(); return String(d.getHours()).padStart(2,"0")+":"+String(d.getMinutes()).padStart(2,"0"); }
+function todayISO(){ var d=new Date(); return d.getFullYear()+"-"+pad2(d.getMonth()+1)+"-"+pad2(d.getDate()); }
+function nowHM(){ var d=new Date(); return pad2(d.getHours())+":"+pad2(d.getMinutes()); }
 function visivel(o){
   const hoje = todayISO(), hm = nowHM();
   if(o.data_inicio && hoje < o.data_inicio) return false;
@@ -195,8 +201,8 @@ function ago(ts){
 /* ---------------- relógio ---------------- */
 function tick(){
   const d = new Date();
-  document.getElementById("hm").textContent = String(d.getHours()).padStart(2,"0")+":"+String(d.getMinutes()).padStart(2,"0");
-  document.getElementById("ss").textContent = String(d.getSeconds()).padStart(2,"0");
+  document.getElementById("hm").textContent = pad2(d.getHours())+":"+pad2(d.getMinutes());
+  document.getElementById("ss").textContent = pad2(d.getSeconds());
   const wd = d.toLocaleDateString("pt-BR",{weekday:"long"});
   document.getElementById("date").textContent = wd.charAt(0).toUpperCase()+wd.slice(1)+", "+d.getDate()+" de "+MESES[d.getMonth()];
   if(d.getHours()===4 && d.getMinutes()===0 && d.getSeconds()===0) location.reload();
@@ -220,22 +226,27 @@ function wxIcon(k){
   if(k==="sol") return '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2M12 20v2M4 12H2M22 12h-2M5 5l1.4 1.4M17.6 17.6 19 19M19 5l-1.4 1.4M6.4 17.6 5 19"/></svg>';
   return '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M7 18a4.5 4.5 0 0 1 .5-9 6 6 0 0 1 11.5 2.2A3.6 3.6 0 0 1 18 18H7z"/></svg>';
 }
-async function loadWeather(){
-  const w = CFG.weather||{};
+function loadWeather(){
+  var w = CFG.weather||{};
   if(w.lat==null) return;
-  try{
-    const url = `https://api.open-meteo.com/v1/forecast?latitude=${w.lat}&longitude=${w.lon}&current=temperature_2m,weather_code&daily=temperature_2m_max,temperature_2m_min,weather_code&timezone=auto&forecast_days=1`;
-    const r = await fetch(url); const j = await r.json();
-    const code = j.current?.weather_code ?? j.daily?.weather_code?.[0] ?? 3;
+  var url = "https://api.open-meteo.com/v1/forecast?latitude="+w.lat+"&longitude="+w.lon+"&current=temperature_2m,weather_code&daily=temperature_2m_max,temperature_2m_min,weather_code&timezone=auto&forecast_days=1";
+  fetch(url).then(function(r){ return r.json(); }).then(function(j){
+    var cur = j.current || {};
+    var day = j.daily || {};
+    var dmax = day.temperature_2m_max || [];
+    var dmin = day.temperature_2m_min || [];
+    var dcode = day.weather_code || [];
+    var code = (cur.weather_code != null) ? cur.weather_code : (dcode[0] != null ? dcode[0] : 3);
+    var wx = wmo(code);
     state.weather = {
       city: w.city||"",
-      temp: Math.round(j.current?.temperature_2m ?? 0),
-      max: Math.round(j.daily?.temperature_2m_max?.[0] ?? 0),
-      min: Math.round(j.daily?.temperature_2m_min?.[0] ?? 0),
-      ...wmo(code)
+      temp: Math.round(cur.temperature_2m != null ? cur.temperature_2m : 0),
+      max: Math.round(dmax[0] != null ? dmax[0] : 0),
+      min: Math.round(dmin[0] != null ? dmin[0] : 0),
+      t: wx.t, k: wx.k
     };
     renderWeather();
-  }catch(e){ /* mantém o que tiver */ }
+  }).catch(function(){ /* mantém o que tiver */ });
 }
 function renderWeather(){
   const w = state.weather; if(!w) return;
@@ -380,7 +391,7 @@ function fitTitles(){ document.querySelectorAll(".news-title").forEach(fitTitle)
 function renderSlides(){
   const wasIdx = idx;
   const html = buildSlides();
-  [...stage.querySelectorAll(".slide")].forEach(s=>s.remove());
+  Array.prototype.slice.call(stage.querySelectorAll(".slide")).forEach(function(s){ s.remove(); });
   slides = html.map(h=>{
     const wrap = document.createElement("div"); wrap.innerHTML = h.trim();
     const el = wrap.firstChild; stage.insertBefore(el, dotsEl); return el;
@@ -394,7 +405,7 @@ function show(i){
   if(!slides.length) return;
   idx = (i+slides.length)%slides.length;
   slides.forEach((s,k)=>s.classList.toggle("active",k===idx));
-  [...dotsEl.children].forEach((d,k)=>d.classList.toggle("on",k===idx));
+  Array.prototype.slice.call(dotsEl.children).forEach(function(d,k){ d.classList.toggle("on",k===idx); });
 }
 function restart(){
   if(timer) clearInterval(timer);
@@ -416,44 +427,34 @@ function renderTicker(){
 }
 
 /* ---------------- dados do painel (Supabase) ---------------- */
-async function loadAniversariantes(){
-  if(!supa) return;
-  try{
-    const { data, error } = await supa.from("aniversariantes").select("*");
-    if(error) throw error;
-    state.birthdays = (data||[]).map(a=>{
-      const dt = a.nascimento ? new Date(a.nascimento+"T00:00:00") : null;
+function loadAniversariantes(){
+  supaGet("aniversariantes?select=*").then(function(rows){
+    state.birthdays = (rows||[]).map(function(a){
+      var dt = a.nascimento ? new Date(a.nascimento+"T00:00:00") : null;
       return { name:a.nome||"", dept:a.setor||"", day:dt?dt.getDate():0, month:dt?dt.getMonth()+1:0, photo:a.foto_url||"" };
     });
     renderSlides();
-  }catch(e){ /* mantém o que tiver */ }
+  });
 }
-async function loadAvisos(){
-  if(!supa) return;
-  try{
-    const { data, error } = await supa.from("avisos").select("*").order("created_at",{ascending:true});
-    if(error) throw error;
-    state.avisos = data||[];
+function loadAvisos(){
+  supaGet("avisos?select=*&order=created_at.asc").then(function(rows){
+    state.avisos = rows||[];
     renderSlides();
-  }catch(e){}
+  });
 }
-async function loadInfos(){
-  if(!supa) return;
-  try{
-    const { data, error } = await supa.from("informacoes").select("*").order("created_at",{ascending:true});
-    if(error) throw error;
-    state.infos = data||[];
+function loadInfos(){
+  supaGet("informacoes?select=*&order=created_at.asc").then(function(rows){
+    state.infos = rows||[];
     renderSlides();
-  }catch(e){}
+  });
 }
 
 /* ---------------- notícias (data.json do robô) ---------------- */
-async function loadNews(){
-  try{
-    const j = await (await fetch("data.json",{cache:"no-store"})).json();
-    state.news = (j.items||[]).map(n=>({...n}));
+function loadNews(){
+  fetch("data.json",{cache:"no-store"}).then(function(r){ return r.json(); }).then(function(j){
+    state.news = (j.items||[]).slice();
     renderTicker(); renderSlides();
-  }catch(e){ /* mantém */ }
+  }).catch(function(){ /* mantém */ });
 }
 
 /* ---------------- brand ---------------- */
