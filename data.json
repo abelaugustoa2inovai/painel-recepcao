@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-09-18T15:29:08.819Z",
+  "updatedAt": "2026-09-18T18:45:14.534Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Tamanduá aparece em bairro residencial e mobiliza bombeiros para resgate; vídeo",
+      "summary": "Tamanduá é capturado pelo Corpo de Bombeiros em área residencial de Jales Um tamanduá foi encontrado e capturado em uma área residencial na tarde de quinta-feira (17),…",
+      "image": "https://s2-g1.glbimg.com/F1oggNMfgQf_-dGNTSdfH5BK9Vs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/z/zBEcNUSV2CDr1T3AE4Ow/g1-42-.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/18/tamandua-aparece-em-bairro-residencial-do-noroeste-de-sp-e-mobiliza-bombeiros-para-resgate-video.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1789755418000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Homem com vestido e calcinhas é preso suspeito de importunação sexual contra mulheres em Rio Preto",
+      "summary": "Homem é preso por suspeita de importunação sexual na Zona Norte de Rio Preto Um homem foi preso preventivamente nesta sexta-feira (18), em São José do Rio Preto (SP),…",
+      "image": "https://s2-g1.glbimg.com/Uuka5Ab2u8XwE1gBDoRS_bORijs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/s/BsBPXwTamy832FwTxR4Q/moto-calcinha2.jpeg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/18/suspeito-importunacao-sexual-contra-mulheres-disfarce-preso-rio-preto.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1789749176000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -33,224 +53,204 @@
       "published": 1789741613000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Feirão 'Minha Casa, Minha Conquista' volta a Rio Preto com descontos exclusivos",
-      "summary": "Evento imobiliário reúne seis grandes construtoras no Shopping Cidade Norte, em São José do Rio Preto Minha Casa, Minha Conquista/Divulgação A busca pela casa própria…",
-      "image": "https://s2-g1.glbimg.com/NzwDfLgKl-EB0ijvjeac4hrBAC4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/q/04xIZET1mdAVlWYGjUxA/captura-de-tela-2026-09-15-144700.png",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/especial-publicitario/inc-empreendimentos/noticia/2026/09/18/feirao-minha-casa-minha-conquista-volta-a-rio-preto-com-descontos-exclusivos.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1789736112000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Denúncia internacional leva PF a prender suspeito de armazenar conteúdo de abuso sexual de crianças no noroeste de SP",
-      "summary": "Delegacia da Polícia Federal de Araçatuba (SP) Google Street View/Reprodução Um homem foi preso nesta quinta-feira (17) suspeito de armazenar conteúdos de abuso sexual…",
-      "image": "https://s2-g1.glbimg.com/O2UzmCGmiTioyhVcUt4RlHNxZ8Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/T/HFdogxQamQ2X14x100Xg/dpf-ata.jpeg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/18/homem-e-preso-pela-pf-suspeito-de-armazenar-conteudos-de-abuso-sexual-de-criancas-no-noroeste-de-sp.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1789733217000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "MP junto ao TCU pede suspensão de reajuste do Bolsa Família anunciado por Lula",
+      "summary": "(Foto: Lyon Santos/ MDS) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/07/53627831838_2fa74e7364_o.webp?fit=1170%2C700&quality=70&strip=all\"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/53627831838_2fa74e7364_o.webp?fit=300%2C179&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/mp-junto-ao-tcu-pede-suspensao-de-reajuste-do-bolsa-familia-anunciado-por-lula/",
+      "source": "InfoMoney",
+      "published": 1789756761000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Yduqs: BBI vê valuation atrativo, eleva preço-alvo e destaca como preferida do setor",
-      "summary": "Fachada da Estácio, uma das empresas da Yduqs (Divulgação) \" data-image-caption=\" Fachada da Estácio, uma das empresas da Yduqs (Divulgação) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/estacio-01-fachada-.jpg?fit=300%2C169&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/yduqs-yduq3-bradesco-bbi-ve-valuation-atrativo-eleva-preco-alvo-e-destaca-como-preferida-do-setor/",
+      "title": "Como pesquisadores usaram programa da Anthropic para invadir sistema da OpenAI",
+      "summary": "O logotipo da OpenAI é visto nesta ilustração tirada em 8 de fevereiro de 2025. (Foto: Reuters/Dado Ruvic/Ilustração/Foto de arquivo) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/2025-06-16T235401Z_1_LYNXMPEL5F13P_RTROPTP_4_SOUTHKOREA-OPENAI.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/business/como-pesquisadores-usaram-programa-da-anthropic-para-invadir-sistema-da-openai/",
       "source": "InfoMoney",
-      "published": 1789745019000
+      "published": 1789756598000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Abiove reduz previsão de exportação de soja, enquanto China compra mais dos EUA",
-      "summary": "Carregamento de soja no porto de Paranaguá &#8211; 25/03/2026 (Foto: REUTERS/Rodolfo Buhrer) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Carregamento-de-soja-no-porto-de-Paranagua-.jpg?fit=300%2C169&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/economia/abiove-reduz-previsao-de-exportacao-de-soja-enquanto-china-compra-mais-dos-eua/",
+      "title": "Lula diz Trump ‘está atrás de minerais críticos e petróleo’",
+      "summary": "O presidente da República, Luiz Inácio Lula da Silva. Foto: Ricardo Stuckert \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/55506583221_7a5ab0f9d9_c.jpg?fit=300%2C199&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/lula-diz-trump-esta-atras-de-minerais-criticos-e-petroleo/",
       "source": "InfoMoney",
-      "published": 1789744151000
+      "published": 1789755641000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Goldman Sachs vê “janela de compra” para Sabesp (SBSP3) após queda recente",
-      "summary": "Foto: Agência SP \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/08/sabesp-saneamento-eta-sp01.jpg?fit=1120%2C720&quality=70&strip=all\" />Papel…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/sabesp-saneamento-eta-sp01.jpg?fit=300%2C193&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/goldman-sachs-ve-janela-de-compra-para-sabesp-sbsp3-apos-queda-recente/",
+      "title": "Cassinos clandestinos são alvo de operação da Polícia Civil em bairros nobres de SP",
+      "summary": "Governo de São Paulo/Divulgação \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/06/operacao-policia-civil-sp-1024x747-1.jpeg?fit=1024%2C747&qualit…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/operacao-policia-civil-sp-1024x747-1.jpeg?fit=300%2C219&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/brasil/cassinos-clandestinos-sao-alvo-de-operacao-da-policia-civil-em-bairros-nobres-de-sp/",
       "source": "InfoMoney",
-      "published": 1789743866000
+      "published": 1789755483000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Ibovespa recua e caminha para primeira perda semanal em quase um mês",
-      "summary": "B3 Bovespa Bolsa de Valores de São Paulo (Germano Lüders/InfoMoney) \" data-image-caption=\" B3 Bovespa Bolsa de Valores de São Paulo (Germano Lüders/InfoMoney) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/11/DSC_2894.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-recua-primeira-perda-semanal-em-quase-um-mes-18092026/",
+      "title": "Lula diz foi procurado por Vorcaro e banqueiro que dizia estava sendo “perseguido”",
+      "summary": "Brazil&#8217;s President Luiz Inacio Lula da Silva attends a meeting at the Planalto Palace in Brasilia, Brazil, August 11, 2026. REUTERS/Adriano Machado TPX IMAGES OF…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-11T235125Z_1336740669_RC2MWMAE7PFV_RTRMADP_3_BRAZIL-ELECTION-LULA.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/lula-diz-foi-procurado-por-vorcaro-e-banqueiro-que-dizia-estava-sendo-perseguido/",
       "source": "InfoMoney",
-      "published": 1789743550000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Preços recordes do diesel nos EUA pressionam agricultores e podem encarecer alimentos",
-      "summary": "Agricultor colhe safra de trigo de inverno em Oklahoma &#8211; 13/06/2024 (Foto: REUTERS/Nick Oxford) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Colheitadeira-nos-EUA.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/economia/precos-recordes-do-diesel-nos-eua-pressionam-agricultores-e-podem-encarecer-alimentos/",
-      "source": "InfoMoney",
-      "published": 1789743365000
+      "published": 1789755326000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Golaço de Allan em sua estreia pelo Manchester City; confira",
-      "summary": "Golaço de Allan em sua estreia pelo Manchester City; confira O post Golaço de Allan em sua estreia pelo Manchester City; confira apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/Alla.webp",
-      "link": "https://www.gazetaesportiva.com/times/manchester-city/golaco-de-allan-em-sua-estreia-pelo-manchester-city-confira/",
+      "title": "Carlos Miguel brinca com comparação a Marcos e projeta duelo com o Grêmio",
+      "summary": "Herói da classificação à semifinal da Libertadores, o goleiro Carlos Miguel foi exaltado nas redes sociais de palmeirenses nos últimos dias. As postagens do Verdão…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/18092026_cg_palmeiras_7112_19.webp",
+      "link": "https://www.gazetaesportiva.com/times/palmeiras/carlos-miguel-brinca-com-comparacao-a-marcos-e-projeta-duelo-com-o-gremio/",
       "source": "Gazeta Esportiva",
-      "published": 1789744865000
+      "published": 1789756714000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Samba e Allan brilham na goleada do City; assista aos gols",
-      "summary": "Samba e Allan brilham na goleada do City; assista aos gols O post Samba e Allan brilham na goleada do City; assista aos gols apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/Samb.webp",
-      "link": "https://www.gazetaesportiva.com/times/manchester-city/samba-e-allan-brilham-na-goleada-do-city-assista-aos-gols/",
+      "title": "Santos assina com meia de 14 anos descoberto por ex-jogador; veja valor da multa",
+      "summary": "O Santos assinou contrato de formação até 2029 com Davi Lucca, meia potiguar de 14 anos descoberto pelo ex-jogador Yuri Lima. O jovem foi aprovado após período de testes…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-16-at-09.50.29.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/davi-lucca-santos-contrato-formacao-multa/",
       "source": "Gazeta Esportiva",
-      "published": 1789743621000
+      "published": 1789755965000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Brasileiros estarão em campo em duelo entre Roma e Inter pelo topo da Serie A",
-      "summary": "Roma e Inter de Milão se enfrentam neste sábado (19) em um dos principais jogos do início da Serie A. O confronto reúne três brasileiros em campo: Carlos Augusto e Luís…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-18-at-11.05.42.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/serie-a/roma-x-inter-brasileiros-serie-a-italiana/",
+      "title": "Luisa Stefani avança à semifinal do SP Open após desistência de adversária",
+      "summary": "Luisa Stefani garantiu vaga na semifinal de duplas do SP Open sem precisar entrar em quadra. A brasileira e a canadense Gabriela Dabrowski avançaram após a desistência…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/470745_1220843_spopen26_002_luizdoro.webp",
+      "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/luisa-stefani-avanca-a-semifinal-do-sp-open-apos-desistencia-de-adversaria/",
       "source": "Gazeta Esportiva",
-      "published": 1789742980000
+      "published": 1789755176000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Primeira convocação da Espanha após o título da Copa do Mundo; confira a lista",
-      "summary": "Primeira convocação da Espanha após o título da Copa do Mundo; confira a lista O post Primeira convocação da Espanha após o título da Copa do Mundo; confira a lista…",
-      "image": "https://static.gazetaesportiva.com/uploads/Luis-de-la-Fuente.jpg",
-      "link": "https://www.gazetaesportiva.com/times/espanha/primeira-convocacao-da-espanha-apos-o-titulo-da-copa-do-mundo-confira-a-lista/",
+      "title": "Memorial Tênis Brasileiro anuncia Maria Esther Bueno no Hall da Fama",
+      "summary": "Maria Esther Bueno foi anunciada como nova integrante do Hall da Fama do tênis brasileiro. A homenagem foi realizada pelo Memorial Tênis Brasileiro durante o SP Open, em…",
+      "image": "https://static.gazetaesportiva.com/uploads/imagem/2019/02/18/Maria-Esther-Bueno-Fernando-Dantas-Gazeta-Press.jpg",
+      "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/memorial-tenis-brasileiro-anuncia-maria-esther-bueno-no-hall-da-fama/",
       "source": "Gazeta Esportiva",
-      "published": 1789740284000
+      "published": 1789754654000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Ainda sem Coutinho e Cebolinha, Santos divulga os relacionados para jogo contra o Remo",
-      "summary": "O Santos divulgou nesta sexta-feira a lista de relacionados para o confronto contra o Remo, válido pela 28ª rodada do Campeonato Brasileiro. A equipe comandada por Cuca…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55528692258_e2399aa12a_o-1.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/santos-divulga-relacionados-para-enfrentar-o-remo-pelo-brasileirao/",
+      "title": "Zinedine Zidane divulga sua primeira convocação com 23 jogadores; confira os nomes",
+      "summary": "Zinedine Zidane divulga sua primeira convocação com 23 jogadores; confira os nomes O post Zinedine Zidane divulga sua primeira convocação com 23 jogadores; confira os…",
+      "image": "https://static.gazetaesportiva.com/uploads/imagem/2022/11/21/AFP-TV_20210522_SPO_ESP_MadridZidane_9AK77R_en.jpg",
+      "link": "https://www.gazetaesportiva.com/times/franca/zinedine-zidane-divulga-sua-primeira-convocacao-com-23-jogadores-confira-os-nomes/",
       "source": "Gazeta Esportiva",
-      "published": 1789739366000
+      "published": 1789753985000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Velocidade na veia: uma seleção de SSDs NVMe em promoção na Amazon",
-      "summary": "Se o seu computador ainda sofre com lentidão na hora de carregar o sistema ou transferir arquivos, talvez seja hora de dar um upgrade no armazenamento. Separamos três…",
-      "image": "https://m.media-amazon.com/images/I/316eR402YoL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/18/reviews/velocidade-na-veia-uma-selecao-de-ssds-nvme-em-promocao-na-amazon/",
+      "title": "Hora de melhorar o Wi-Fi de casa: seleção de roteadores mesh em promoção na Amazon",
+      "summary": "Se a conexão em casa deixa a desejar ou o sinal não alcança todos os cômodos, este é o momento certo para agir. Reunimos três ótimas opções de roteadores Wi-Fi mesh…",
+      "image": "https://m.media-amazon.com/images/I/21+YOml5bQL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/18/reviews/hora-de-melhorar-o-wi-fi-de-casa-selecao-de-roteadores-mesh-em-promocao-na-amazon/",
       "source": "Olhar Digital",
-      "published": 1789743600000
+      "published": 1789755600000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Pix Automático poderá ser usado em contas-salário e novas regras contra fraudes começam a entrar em vigor",
-      "summary": "Banco Central muda regras do Pix em 2027, com Pix Automático em contas-salário, cobrança híbrida e novas exigências contra fraudes O post Pix Automático poderá ser usado…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/pix-qrcode-1024x683.jpg",
-      "link": "https://olhardigital.com.br/2026/09/18/pro/pix-automatico-podera-ser-usado-em-contas-salario-e-novas-regras-contra-fraudes-comecam-a-entrar-em-vigor/",
+      "title": "iPad, caneta stylus e mais: seleção de ofertas para quem usa tablet no dia a dia",
+      "summary": "Se você usa tablet para trabalhar, estudar ou se entreter, esta seleção foi feita para você. Reunimos três produtos que combinam muito bem e estão disponíveis na Amazon…",
+      "image": "https://m.media-amazon.com/images/I/31HhoNJrO7L._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/18/reviews/ipad-caneta-stylus-e-mais-selecao-de-ofertas-para-quem-usa-tablet-no-dia-a-dia/",
       "source": "Olhar Digital",
-      "published": 1789742465000
+      "published": 1789754400000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Upgrade no setup: mouses gamer sem fio em promoção na Amazon",
-      "summary": "Se você ainda usa um mouse com fio ou quer melhorar a performance nas partidas, este é o momento certo para dar o upgrade. Reunimos três opções de mouses gamer sem fio…",
-      "image": "https://m.media-amazon.com/images/I/31zy93Vq31L._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/18/reviews/upgrade-no-setup-mouses-gamer-sem-fio-em-promocao-na-amazon-22/",
+      "title": "Cibersegurança: Hackers atacam navios-tanque com destino ao Texas, desligam comunicações e alteram sistemas dos motores",
+      "summary": "Dois navios-tanque rumo ao Texas sofreram ataques cibernéticos; um teve sistemas do motor alterados e perdeu comunicação O post Cibersegurança: Hackers atacam…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/cibercrime-1024x666.jpg",
+      "link": "https://olhardigital.com.br/2026/09/18/seguranca/ciberseguranca-hackers-atacam-navios-tanque-com-destino-ao-texas-desligam-comunicacoes-e-alteram-sistemas-dos-motores/",
       "source": "Olhar Digital",
-      "published": 1789742400000
+      "published": 1789754185000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Hora de montar o setup dos sonhos: confira uma seleção de monitores gamer em promoção na Amazon",
-      "summary": "Se você está pensando em renovar o setup ou dar aquele upgrade na experiência de jogo, a hora é agora. Reunimos três monitores gamer em oferta na Amazon com…",
-      "image": "https://m.media-amazon.com/images/I/31IxHiW9SwL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/18/reviews/hora-de-montar-o-setup-dos-sonhos-confira-uma-selecao-de-monitores-gamer-em-promocao-na-amazon/",
+      "title": "Som que envolve de todos os lados: headsets 7.1 Surround em promoção na Amazon",
+      "summary": "Se você ainda não experimentou jogar com um headset 7.1 Surround, saiba que a diferença é enorme. A sensação de ouvir passos chegando pela esquerda, explosões ao fundo…",
+      "image": "https://m.media-amazon.com/images/I/41aU1vsLZWL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/18/reviews/som-que-envolve-de-todos-os-lados-headsets-7-1-surround-em-promocao-na-amazon-6/",
       "source": "Olhar Digital",
-      "published": 1789741200000
+      "published": 1789753200000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Pesquisadores encontram lixo a 3.820 metros e revelam o alcance da poluição no oceano profundo",
-      "summary": "Cientistas argentinos filmaram o Cânion de Mar del Plata a 3,8 mil metros de profundidade e encontraram 29 peças de lixo plástico O post Pesquisadores encontram lixo a…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/lixo-no-oceano-1024x969.webp",
-      "link": "https://olhardigital.com.br/2026/09/18/ciencia-e-espaco/pesquisadores-encontram-lixo-a-3-820-metros-e-revelam-o-alcance-da-poluicao-no-oceano-profundo/",
+      "title": "Olho em tudo: câmeras de segurança em promoção para proteger sua casa agora",
+      "summary": "Monitorar sua casa ou negócio ficou muito mais acessível com as opções de câmeras de segurança Wi-Fi disponíveis hoje no mercado. Separamos três ofertas que valem a…",
+      "image": "https://m.media-amazon.com/images/I/31Akkcgda3L._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/18/reviews/olho-em-tudo-cameras-de-seguranca-em-promocao-para-proteger-sua-casa-agora-3/",
       "source": "Olhar Digital",
-      "published": 1789740650000
+      "published": 1789752000000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Tempo fica estável na Baixada Santista; Vale do Ribeira tem alerta de tempestade",
-      "summary": "Nível do Rio Ribeira recua em cidades do Vale, mas Iguape tem alagamentos e resgates A Baixada Santista, no litoral de São Paulo, terá tempo firme nesta sexta-feira (18)…",
-      "image": "https://s2-g1.glbimg.com/i5wG3ruTs6n42FCHJ4OkAvlfG1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/2/A3U8PwSwyUXV0eQ7xXSg/copia-de-imagem-g1-2-.jpg",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/18/tempo-fica-estavel-na-baixada-santista-vale-do-ribeira-tem-alerta-de-tempestade.ghtml",
-      "source": "g1",
-      "published": 1789745214000
+      "title": "Campanha de Lula convida Maíra Recchia para reforçar equipe jurídica nacional",
+      "summary": "A advogada Maíra Recchia foi convidada para integrar o núcleo jurídico nacional da campanha do presidente Lula ( PT ) à reeleição. O convite partiu do coordenador…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/campanha-de-lula-convida-maira-recchia-para-reforcar-equipe-juridica-nacional.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1789756740000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Justiça condena ex-prefeito de Campo Grande e outros sete a pagar mais de R$ 6 milhões por serviço de tapa-buracos",
-      "summary": "Justiça condenou oito pessoas por atos de improbidade administrativa em contratos de serviços de “tapa-buracos” na capital. Reprodução/TV Morena A Justiça de Mato Grosso…",
-      "image": "https://s2-g1.glbimg.com/SHfN3T2dPJmW9_kUi3mniGY3s_k=/s.glbimg.com/jo/g1/f/original/2017/07/13/tapa-buraco.jpg",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/18/justica-condena-ex-prefeito-de-campo-grande-e-outros-sete-a-pagar-mais-de-r-6-milhoes-por-servico-de-tapa-buracos.ghtml",
-      "source": "g1",
-      "published": 1789745019000
+      "title": "Grupo investigado por suicídio de menina de 13 anos incluía amiga e passou por diferentes plataformas",
+      "summary": "Suspeitos de integrar o grupo investigado na Operação Lívia migraram a transmissão da morte de uma adolescente de 13 anos entre diferentes plataformas na madrugada de 22…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/grupo-investigado-por-suicidio-de-menina-de-13-anos-incluia-amiga-e-passou-por-diferentes-plataformas.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1789756740000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Candidaturas da UP, PSTU e PCO ao governo do RS apresentam propostas em entrevistas à RBS TV",
-      "summary": "Candidaturas da UP, PSTU e PCO ao governo do RS apresentam propostas em entrevistas à RBS TV Reprodução/RBS TV As candidatas Priscila Voigt (Unidade Popular) e Rejane de…",
-      "image": "https://s2-g1.glbimg.com/6ozfL5FhEqe-e5fo2A0EcrtcXy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/0/P08dpyQqW467mzLZrKag/g1-1200-x-675-px-1-.png",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/18/candidaturas-da-up-pstu-e-pco-ao-governo-do-rs-apresentam-propostas-em-entrevistas-a-rbs-tv.ghtml",
+      "title": "Polícia prende suspeito de matar mulher encontrada em vala em Curitiba",
+      "summary": "Mulher desaparece após sair de danceteria e é encontrada morta dentro de vala em Curitiba A Polícia Civil do Paraná, com o apoio da Polícia Civil do Estado de São Paulo,…",
+      "image": "https://s2-g1.glbimg.com/QqGT8zOPRi3wG_GMndJM90d0A9c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/F/yhnBisRTWdlOp0PCCrHw/novo-projeto-9-.png",
+      "link": "https://g1.globo.com/pr/parana/noticia/2026/09/18/policia-prende-suspeito-de-matar-mulher-em-curitiba.ghtml",
       "source": "g1",
-      "published": 1789744977000
+      "published": 1789756707000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "MG1 entrevista Cleitinho Azevedo, candidato ao governo de Minas Gerais",
-      "summary": "MG1 entrevista Cleitinho Azevedo, candidato ao governo de Minas Gerais Candidato do Republicanos é o quinto sabatinado no telejornal em série que continua até sábado…",
-      "image": "https://s2-g1.glbimg.com/_eyEbCt2IpGEKdhSktYpCYBoylI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/i/pIAT6BSX6ZxoABXd8ZuQ/55504921663-e515a47fa8-o.jpg",
-      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/ao-vivo/entrevista-mg1-cleitinho.ghtml",
+      "title": "Zucchetti amplia presença no Vale e se aproxima do ecossistema de inovação",
+      "summary": "A aproximação entre grandes grupos internacionais e os ambientes de inovação do Vale do Paraíba ganha um novo capítulo. A italiana Zucchetti, uma das principais empresas…",
+      "image": "https://s2-g1.glbimg.com/C7x_KsGEt0_BkpOXS8iD-I8TRzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/u/4ZT5rtS0CvlVjp44c3Dg/foto-texto-2-z.jpg.jpeg",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/bn-business-backstage-negocios-negocios-e-conexoes/noticia/2026/09/18/zucchetti-amplia-presenca-no-vale-e-se-aproxima-do-ecossistema-de-inovacao.ghtml",
       "source": "g1",
-      "published": 1789744964000
+      "published": 1789756702000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Prefeitura de Poços de Caldas pede bloqueio de bens de operadora do vale-alimentação de servidores",
-      "summary": "Prefeitura de Poços de Caldas pede bloqueio de bens de operadora do vale-alimentação A Prefeitura de Poços de Caldas (MG) entrou na Justiça para pedir o bloqueio de…",
-      "image": "https://s2-g1.glbimg.com/DH-Y8OZ5aOjiAi_u1Z3C6jqIwnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/W/3N1iKMTlOylqvzdiR4LA/vale.jpg",
-      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/18/prefeitura-de-pocos-de-caldas-pede-bloqueio-de-bens-de-operadora-do-vale-alimentacao-de-servidores.ghtml",
-      "source": "g1",
-      "published": 1789744953000
+      "title": "Quem é Michael Polansky, pai de Rose Bean, a filha de Lady Gaga",
+      "summary": "Juntos desde 2020, Lady Gaga e seu noivo, Michael Polansky, apareceram em público com um bebê dias atrás. Seria um filho dos dois? Sim, afirmou o TMZ. O site americano…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/quem-e-michael-polansky-pai-de-rose-bean-a-filha-de-lady-gaga.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1789756500000
     }
   ]
 }
