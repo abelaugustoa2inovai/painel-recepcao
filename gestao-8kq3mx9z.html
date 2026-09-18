@@ -1,0 +1,706 @@
+<title>Painel RP · Administração</title>
+<meta name="description" content="Área administrativa do painel da recepção — avisos, aniversariantes e informações.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&family=Barlow+Semi+Condensed:wght@600;700&display=swap">
+<style>
+  :root{
+    --bg:#0a0f1c; --surface:#111a2e; --surface-2:#17223a; --surface-3:#1d2a45;
+    --border:#28344f; --border-2:#334162;
+    --text:#eef2f9; --muted:#9fb0cc; --faint:#6b7c9c;
+    --pink:#ec4899; --pink-soft:#f472b6; --gold:#f5a623;
+    --ok:#34d399; --danger:#fb7185; --danger-bg:#2a1622;
+    --font:"Barlow",system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
+    --font-disp:"Barlow Semi Condensed","Barlow",system-ui,sans-serif;
+    --r:14px; --r-sm:10px;
+    color-scheme:dark;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:
+      radial-gradient(1200px 600px at 15% -10%, #14203a 0%, transparent 55%),
+      radial-gradient(1000px 500px at 100% 0%, #1a1330 0%, transparent 50%),
+      var(--bg);
+    color:var(--text);font-family:var(--font);font-size:15px;line-height:1.5;
+    min-height:100vh;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:960px;margin:0 auto;padding:24px 16px 64px}
+
+  /* Header */
+  .top{display:flex;align-items:center;gap:14px;margin-bottom:22px;flex-wrap:wrap}
+  .logo{width:52px;height:52px;border-radius:13px;flex:none;
+    background:linear-gradient(145deg,#fff,#eef);display:grid;place-items:center;
+    box-shadow:0 6px 20px rgba(0,0,0,.4)}
+  .logo span{font-family:var(--font-disp);font-weight:700;font-size:26px;letter-spacing:-2px;
+    background:linear-gradient(135deg,#1e3a8a,#ec4899);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .top h1{font-family:var(--font-disp);font-weight:700;font-size:24px;margin:0;letter-spacing:.2px}
+  .top .sub{color:var(--muted);font-size:13px;margin-top:2px}
+  .top .spacer{flex:1}
+  .tv-link{display:inline-flex;align-items:center;gap:7px;color:var(--muted);text-decoration:none;
+    font-size:13px;font-weight:600;border:1px solid var(--border);border-radius:999px;padding:8px 14px;background:var(--surface)}
+  .tv-link:hover{border-color:var(--border-2);color:var(--text)}
+
+  /* Selector */
+  .selector-label{font-family:var(--font-disp);text-transform:uppercase;letter-spacing:2px;
+    font-size:12px;color:var(--gold);font-weight:700;margin:4px 0 12px}
+  .tabs{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:26px}
+  .tab{appearance:none;cursor:pointer;text-align:left;border:1px solid var(--border);
+    background:var(--surface);color:var(--text);border-radius:var(--r);padding:16px 16px;
+    display:flex;gap:13px;align-items:center;transition:.15s;font-family:var(--font)}
+  .tab:hover{border-color:var(--border-2);background:var(--surface-2)}
+  .tab.active{border-color:var(--pink);background:linear-gradient(145deg,#231327,#141d33);
+    box-shadow:0 0 0 1px var(--pink) inset, 0 8px 22px rgba(236,72,153,.14)}
+  .tab .ico{width:40px;height:40px;border-radius:11px;flex:none;display:grid;place-items:center;
+    background:var(--surface-3);font-size:20px}
+  .tab.active .ico{background:linear-gradient(145deg,#ec4899,#a21caf)}
+  .tab .t-title{display:block;font-weight:600;font-size:15.5px;line-height:1.15}
+  .tab .t-desc{display:block;color:var(--muted);font-size:12px;margin-top:3px}
+
+  /* Panels */
+  .panel{display:none;animation:fade .25s ease}
+  .panel.show{display:block}
+  @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);padding:22px 22px 24px}
+  .card + .card{margin-top:18px}
+  .card-head{display:flex;align-items:center;gap:10px;margin:0 0 18px}
+  .card-head h2{font-family:var(--font-disp);font-weight:700;font-size:19px;margin:0}
+  .card-head .pill{margin-left:auto;font-size:12px;color:var(--muted);background:var(--surface-3);
+    border:1px solid var(--border);border-radius:999px;padding:4px 11px;font-weight:600}
+
+  /* Form grid */
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  .field{display:flex;flex-direction:column;gap:7px;min-width:0}
+  .field.col-2{grid-column:1 / -1}
+  label{font-weight:600;font-size:13.5px;color:var(--text)}
+  label .req{color:var(--pink);margin-left:2px}
+  label .opt{color:var(--faint);font-weight:500;font-size:12px;margin-left:6px}
+  .hint{color:var(--faint);font-size:12px;line-height:1.35}
+  input[type=text],input[type=date],textarea,select{
+    width:100%;background:var(--surface-2);border:1px solid var(--border);color:var(--text);
+    border-radius:var(--r-sm);padding:11px 12px;font-family:var(--font);font-size:14.5px;transition:.15s}
+  input::placeholder,textarea::placeholder{color:var(--faint)}
+  input:focus,textarea:focus,select:focus{outline:none;border-color:var(--pink);
+    box-shadow:0 0 0 3px rgba(236,72,153,.16);background:var(--surface-3)}
+  textarea{resize:vertical;min-height:96px;line-height:1.45}
+  input[type=date]{color-scheme:dark}
+  .field.invalid input,.field.invalid textarea,.field.invalid .combo input{border-color:var(--danger);
+    box-shadow:0 0 0 3px rgba(251,113,133,.14)}
+  .err{color:var(--danger);font-size:12.5px;font-weight:600;display:none}
+  .field.invalid .err{display:block}
+
+  /* Time combo */
+  .combo{position:relative}
+  .combo input{padding-right:38px}
+  .combo .clock{position:absolute;right:12px;top:50%;transform:translateY(-50%);color:var(--faint);pointer-events:none;font-size:15px}
+
+  /* Image upload */
+  .drop{border:1.5px dashed var(--border-2);border-radius:var(--r-sm);background:var(--surface-2);
+    padding:14px;display:flex;align-items:center;gap:14px;cursor:pointer;transition:.15s}
+  .drop:hover{border-color:var(--pink);background:var(--surface-3)}
+  .drop .thumb{width:64px;height:64px;border-radius:10px;flex:none;background:var(--surface-3);
+    display:grid;place-items:center;overflow:hidden;color:var(--faint);font-size:22px}
+  .drop .thumb img{width:100%;height:100%;object-fit:cover}
+  .drop .d-txt{font-size:13px;color:var(--muted)}
+  .drop .d-txt b{color:var(--text);font-weight:600;display:block;font-size:14px;margin-bottom:2px}
+  .drop input[type=file]{display:none}
+  .rm-img{margin-left:auto;background:none;border:1px solid var(--border);color:var(--muted);
+    border-radius:8px;padding:6px 10px;font-size:12px;cursor:pointer;font-weight:600}
+  .rm-img:hover{border-color:var(--danger);color:var(--danger)}
+
+  /* Actions */
+  .actions{display:flex;gap:12px;align-items:center;margin-top:22px;flex-wrap:wrap}
+  .btn{appearance:none;cursor:pointer;border:none;border-radius:var(--r-sm);font-family:var(--font);
+    font-weight:700;font-size:14.5px;padding:12px 22px;transition:.15s;display:inline-flex;align-items:center;gap:8px}
+  .btn-primary{background:linear-gradient(135deg,#ec4899,#db2777);color:#fff;box-shadow:0 6px 18px rgba(236,72,153,.28)}
+  .btn-primary:hover{filter:brightness(1.07);transform:translateY(-1px)}
+  .btn-ghost{background:var(--surface-2);color:var(--muted);border:1px solid var(--border)}
+  .btn-ghost:hover{color:var(--text);border-color:var(--border-2)}
+  .form-note{color:var(--faint);font-size:12.5px}
+
+  /* Saved list */
+  .list-empty{color:var(--faint);font-size:14px;text-align:center;padding:26px 10px;
+    border:1px dashed var(--border);border-radius:var(--r-sm)}
+  .item{display:flex;gap:14px;align-items:center;padding:13px;border:1px solid var(--border);
+    border-radius:var(--r-sm);background:var(--surface-2)}
+  .item + .item{margin-top:10px}
+  .item .av{width:52px;height:52px;border-radius:11px;flex:none;overflow:hidden;display:grid;place-items:center;
+    background:linear-gradient(145deg,#ec4899,#a21caf);color:#fff;font-family:var(--font-disp);font-weight:700;font-size:19px}
+  .item .av.sq{border-radius:9px}
+  .item .av img{width:100%;height:100%;object-fit:cover}
+  .item .info{min-width:0;flex:1}
+  .item .i-title{font-weight:600;font-size:15px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .item .i-meta{color:var(--muted);font-size:12.5px;margin-top:3px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .chip{font-size:11px;font-weight:700;letter-spacing:.4px;text-transform:uppercase;padding:2px 8px;border-radius:999px}
+  .chip.on{background:rgba(52,211,153,.14);color:var(--ok)}
+  .chip.off{background:rgba(251,113,133,.14);color:var(--danger)}
+  .chip.mon{background:rgba(245,166,35,.14);color:var(--gold)}
+  .item .row-actions{display:flex;gap:8px;flex:none}
+  .icon-btn{width:36px;height:36px;border-radius:9px;border:1px solid var(--border);background:var(--surface-3);
+    color:var(--muted);cursor:pointer;display:grid;place-items:center;font-size:15px;transition:.15s}
+  .icon-btn:hover{color:var(--text);border-color:var(--border-2)}
+  .icon-btn.del:hover{color:var(--danger);border-color:var(--danger);background:var(--danger-bg)}
+
+  /* Toast */
+  .toast{position:fixed;left:50%;bottom:26px;transform:translateX(-50%) translateY(20px);
+    background:var(--surface-3);border:1px solid var(--border-2);border-radius:12px;
+    padding:13px 20px;font-weight:600;font-size:14px;box-shadow:0 12px 40px rgba(0,0,0,.5);
+    display:flex;align-items:center;gap:10px;opacity:0;pointer-events:none;transition:.3s;z-index:50}
+  .toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+  .toast.ok{border-color:var(--ok)}
+  .toast .dot{width:9px;height:9px;border-radius:50%;background:var(--ok)}
+  .toast.err{border-color:var(--danger)}
+  .toast.err .dot{background:var(--danger)}
+
+  .demo-banner{background:linear-gradient(135deg,rgba(245,166,35,.12),rgba(236,72,153,.08));
+    border:1px solid var(--border);border-radius:var(--r-sm);padding:11px 15px;margin-bottom:20px;
+    font-size:13px;color:var(--muted);display:flex;gap:9px;align-items:flex-start}
+  .demo-banner b{color:var(--gold)}
+
+  @media(max-width:640px){
+    .tabs{grid-template-columns:1fr}
+    .tab .t-desc{display:none}
+    .grid{grid-template-columns:1fr}
+    .top h1{font-size:21px}
+  }
+</style>
+
+<div class="wrap">
+  <div class="top">
+    <div class="logo"><span>RP</span></div>
+    <div>
+      <h1>Painel da Recepção — Administração</h1>
+      <div class="sub">Gerencie o que aparece na TV da recepção</div>
+    </div>
+    <div class="spacer"></div>
+    <a class="tv-link" href="https://abelaugustoa2inovai.github.io/painel-recepcao/" target="_blank" rel="noopener">📺 Abrir a TV</a>
+  </div>
+
+  <div class="demo-banner" id="status-banner">
+    <span>🔗</span>
+    <div><b>Conectado à TV.</b> Tudo que você adicionar, editar ou excluir aqui aparece no painel da recepção em segundos.</div>
+  </div>
+
+  <div class="selector-label">O que você quer cadastrar?</div>
+  <div class="tabs" id="tabs">
+    <button class="tab active" data-type="aviso">
+      <span class="ico">📢</span>
+      <span><span class="t-title">Avisos Internos</span><span class="t-desc">Recados para a equipe</span></span>
+    </button>
+    <button class="tab" data-type="aniversario">
+      <span class="ico">🎂</span>
+      <span><span class="t-title">Aniversariantes</span><span class="t-desc">Funcionários do mês</span></span>
+    </button>
+    <button class="tab" data-type="info">
+      <span class="ico">🏷️</span>
+      <span><span class="t-title">Informações</span><span class="t-desc">Produtos e serviços</span></span>
+    </button>
+  </div>
+
+  <!-- ===================== AVISOS ===================== -->
+  <section class="panel show" id="panel-aviso">
+    <div class="card">
+      <div class="card-head"><h2>Novo aviso interno</h2><span class="pill" id="aviso-mode">Cadastrando</span></div>
+      <div class="grid">
+        <div class="field">
+          <label>Data início <span class="req">*</span></label>
+          <input type="date" id="av-di">
+          <span class="err">Preencha a data de início.</span>
+        </div>
+        <div class="field">
+          <label>Data final <span class="req">*</span></label>
+          <input type="date" id="av-df">
+          <span class="err">Preencha a data final.</span>
+        </div>
+        <div class="field">
+          <label>Horário início <span class="req">*</span></label>
+          <div class="combo"><input type="text" id="av-hi" list="horarios-inicio" placeholder="Ex.: 08:00 ou Imediatamente" autocomplete="off"><span class="clock">🕐</span></div>
+          <span class="hint">Digite sem os dois-pontos (ex.: <b>800</b> vira 08:00) ou escolha <b>Imediatamente</b>.</span>
+          <span class="err">Informe o horário de início.</span>
+        </div>
+        <div class="field">
+          <label>Horário final <span class="req">*</span></label>
+          <div class="combo"><input type="text" id="av-hf" list="horarios-final" placeholder="Ex.: 18:00 ou Parar Imediatamente" autocomplete="off"><span class="clock">🕐</span></div>
+          <span class="hint">Escolha um horário ou <b>Parar Imediatamente</b> para tirar do ar agora.</span>
+          <span class="err">Informe o horário final.</span>
+        </div>
+        <div class="field col-2">
+          <label>Aviso interno <span class="req">*</span></label>
+          <textarea id="av-txt" placeholder="Escreva o aviso que vai aparecer na TV…"></textarea>
+          <span class="err">Escreva o texto do aviso.</span>
+        </div>
+        <div class="field col-2">
+          <label>Imagem <span class="opt">(opcional)</span></label>
+          <label class="drop" id="av-drop">
+            <span class="thumb" id="av-thumb">🖼️</span>
+            <span class="d-txt"><b>Clique para enviar uma imagem</b>Ilustra o aviso na TV — opcional.</span>
+            <input type="file" id="av-img" accept="image/*">
+            <button type="button" class="rm-img" id="av-rm" hidden onclick="clearImg(event,'av')">Remover</button>
+          </label>
+        </div>
+      </div>
+      <div class="actions">
+        <button class="btn btn-primary" onclick="saveAviso(event)">Salvar aviso</button>
+        <button class="btn btn-ghost" id="av-cancel" hidden onclick="resetForm('aviso')">Cancelar edição</button>
+        <span class="form-note">Campos com <span style="color:var(--pink)">*</span> são obrigatórios.</span>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-head"><h2>Avisos cadastrados</h2><span class="pill" id="av-count">0</span></div>
+      <div id="av-list"></div>
+    </div>
+  </section>
+
+  <!-- ===================== ANIVERSARIANTES ===================== -->
+  <section class="panel" id="panel-aniversario">
+    <div class="card">
+      <div class="card-head"><h2>Novo aniversariante</h2><span class="pill" id="ani-mode">Cadastrando</span></div>
+      <div class="grid">
+        <div class="field col-2">
+          <label>Nome completo <span class="req">*</span></label>
+          <input type="text" id="an-nome" placeholder="Ex.: Ana Souza">
+          <span class="err">Informe o nome do funcionário.</span>
+        </div>
+        <div class="field">
+          <label>Setor <span class="req">*</span></label>
+          <input type="text" id="an-setor" placeholder="Ex.: Comercial">
+          <span class="err">Informe o setor.</span>
+        </div>
+        <div class="field">
+          <label>Data de nascimento <span class="req">*</span></label>
+          <input type="date" id="an-nasc">
+          <span class="err">Informe a data de nascimento.</span>
+        </div>
+        <div class="field col-2">
+          <label>Foto do funcionário <span class="opt">(opcional)</span></label>
+          <label class="drop" id="an-drop">
+            <span class="thumb" id="an-thumb">👤</span>
+            <span class="d-txt"><b>Clique para enviar a foto</b>Sem foto, aparecem as iniciais na TV.</span>
+            <input type="file" id="an-img" accept="image/*">
+            <button type="button" class="rm-img" id="an-rm" hidden onclick="clearImg(event,'an')">Remover</button>
+          </label>
+        </div>
+      </div>
+      <div class="actions">
+        <button class="btn btn-primary" onclick="saveAni(event)">Salvar aniversariante</button>
+        <button class="btn btn-ghost" id="an-cancel" hidden onclick="resetForm('aniversario')">Cancelar edição</button>
+        <span class="form-note">Na TV aparecem apenas os aniversariantes do mês atual.</span>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-head"><h2>Funcionários cadastrados</h2><span class="pill" id="an-count">0</span></div>
+      <div id="an-list"></div>
+    </div>
+  </section>
+
+  <!-- ===================== INFORMAÇÕES ===================== -->
+  <section class="panel" id="panel-info">
+    <div class="card">
+      <div class="card-head"><h2>Nova informação</h2><span class="pill" id="info-mode">Cadastrando</span></div>
+      <div class="grid">
+        <div class="field">
+          <label>Data início <span class="req">*</span></label>
+          <input type="date" id="in-di">
+          <span class="err">Preencha a data de início.</span>
+        </div>
+        <div class="field">
+          <label>Data final <span class="req">*</span></label>
+          <input type="date" id="in-df">
+          <span class="err">Preencha a data final.</span>
+        </div>
+        <div class="field">
+          <label>Horário início <span class="req">*</span></label>
+          <div class="combo"><input type="text" id="in-hi" list="horarios-inicio" placeholder="Ex.: 08:00 ou Imediatamente" autocomplete="off"><span class="clock">🕐</span></div>
+          <span class="hint">Digite sem os dois-pontos (ex.: <b>800</b> vira 08:00) ou <b>Imediatamente</b>.</span>
+          <span class="err">Informe o horário de início.</span>
+        </div>
+        <div class="field">
+          <label>Horário final <span class="req">*</span></label>
+          <div class="combo"><input type="text" id="in-hf" list="horarios-final" placeholder="Ex.: 18:00 ou Parar Imediatamente" autocomplete="off"><span class="clock">🕐</span></div>
+          <span class="hint">Escolha um horário ou <b>Parar Imediatamente</b>.</span>
+          <span class="err">Informe o horário final.</span>
+        </div>
+        <div class="field col-2">
+          <label>Título <span class="req">*</span></label>
+          <input type="text" id="in-titulo" placeholder="Ex.: Telha Termoacústica RP">
+          <span class="err">Escreva o título.</span>
+        </div>
+        <div class="field col-2">
+          <label>Descrição <span class="req">*</span></label>
+          <textarea id="in-desc" placeholder="Breve descrição do produto ou serviço…"></textarea>
+          <span class="err">Escreva a descrição.</span>
+        </div>
+        <div class="field col-2">
+          <label>Imagem <span class="req">*</span></label>
+          <label class="drop" id="in-drop">
+            <span class="thumb" id="in-thumb">🖼️</span>
+            <span class="d-txt"><b>Clique para enviar a imagem</b>Obrigatória para ilustrar na TV.</span>
+            <input type="file" id="in-img" accept="image/*">
+            <button type="button" class="rm-img" id="in-rm" hidden onclick="clearImg(event,'in')">Remover</button>
+          </label>
+          <span class="err" id="in-img-err">Envie uma imagem.</span>
+        </div>
+      </div>
+      <div class="actions">
+        <button class="btn btn-primary" onclick="saveInfo(event)">Salvar informação</button>
+        <button class="btn btn-ghost" id="in-cancel" hidden onclick="resetForm('info')">Cancelar edição</button>
+        <span class="form-note">Todos os campos são obrigatórios.</span>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-head"><h2>Informações cadastradas</h2><span class="pill" id="in-count">0</span></div>
+      <div id="in-list"></div>
+    </div>
+  </section>
+</div>
+
+<datalist id="horarios-inicio">
+  <option value="Imediatamente"></option>
+</datalist>
+<datalist id="horarios-final">
+  <option value="Parar Imediatamente"></option>
+</datalist>
+
+<div class="toast" id="toast"><span class="dot"></span><span id="toast-msg"></span></div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script>
+/* ================= Supabase ================= */
+const SUPA_URL = "https://shqgmueypdvqkcyfzhmn.supabase.co";
+const SUPA_KEY = "sb_publishable_ZSlOlgqfZdn6b1mtOO5FnA_gGbveF1-";
+const supa = window.supabase.createClient(SUPA_URL, SUPA_KEY);
+
+let avisos = [], aniversarios = [], infos = [];
+
+/* imgBuf: {file:File} (novo upload) | {url:"..."} (já existente) | null */
+const imgBuf = {av:null, an:null, in:null};
+
+/* ---------- popular horários (00:00..23:00) ---------- */
+(function fillTimes(){
+  for(const id of ["horarios-inicio","horarios-final"]){
+    const dl=document.getElementById(id);
+    for(let h=0;h<24;h++){ const o=document.createElement("option"); o.value=String(h).padStart(2,"0")+":00"; dl.appendChild(o); }
+  }
+})();
+
+/* ---------- normalizar horário ---------- */
+function normTime(v){
+  v=(v||"").trim();
+  if(!v) return "";
+  const low=v.toLowerCase();
+  if(low.startsWith("imediat")) return "Imediatamente";
+  if(low.startsWith("parar")) return "Parar Imediatamente";
+  let d=v.replace(/[^0-9]/g,"");
+  if(!d) return "";
+  if(d.length<=2){ let h=Math.min(23,parseInt(d,10)); return String(h).padStart(2,"0")+":00"; }
+  if(d.length===3) d="0"+d;
+  d=d.slice(0,4);
+  let h=Math.min(23,parseInt(d.slice(0,2),10)), m=Math.min(59,parseInt(d.slice(2),10));
+  return String(h).padStart(2,"0")+":"+String(m).padStart(2,"0");
+}
+for(const id of ["av-hi","av-hf","in-hi","in-hf"]){
+  const el=document.getElementById(id);
+  el.addEventListener("blur",()=>{ el.value=normTime(el.value); });
+}
+/* conversões horário <-> banco */
+const hiToDb = v => /^imediat/i.test(v) ? "imediato" : v;
+const hfToDb = v => /^parar/i.test(v)   ? "parar"    : v;
+const hiFromDb = v => v==="imediato" ? "Imediatamente" : (v||"");
+const hfFromDb = v => v==="parar"    ? "Parar Imediatamente" : (v||"");
+
+/* ---------- tabs ---------- */
+document.getElementById("tabs").addEventListener("click",e=>{
+  const b=e.target.closest(".tab"); if(!b) return;
+  document.querySelectorAll(".tab").forEach(t=>t.classList.toggle("active",t===b));
+  const type=b.dataset.type;
+  document.querySelectorAll(".panel").forEach(p=>p.classList.remove("show"));
+  document.getElementById("panel-"+type).classList.add("show");
+});
+
+/* ---------- upload de imagem ---------- */
+function bindDrop(inputId, key, thumbId, rmId){
+  const inp=document.getElementById(inputId), thumb=document.getElementById(thumbId), rm=document.getElementById(rmId);
+  inp.addEventListener("change",()=>{
+    const f=inp.files&&inp.files[0]; if(!f) return;
+    imgBuf[key]={file:f};
+    const r=new FileReader();
+    r.onload=()=>{ thumb.innerHTML='<img src="'+r.result+'" alt="">'; rm.hidden=false; };
+    r.readAsDataURL(f);
+  });
+}
+bindDrop("av-img","av","av-thumb","av-rm");
+bindDrop("an-img","an","an-thumb","an-rm");
+bindDrop("in-img","in","in-thumb","in-rm");
+function clearImg(e,key){
+  e.preventDefault(); e.stopPropagation();
+  imgBuf[key]=null;
+  const map={av:["av-thumb","🖼️","av-rm","av-img"],an:["an-thumb","👤","an-rm","an-img"],in:["in-thumb","🖼️","in-rm","in-img"]};
+  const [th,ic,rm,inp]=map[key];
+  document.getElementById(th).innerHTML=ic;
+  document.getElementById(rm).hidden=true;
+  document.getElementById(inp).value="";
+}
+async function uploadImage(file){
+  const ext=((file.name.split(".").pop()||"jpg").toLowerCase().replace(/[^a-z0-9]/g,""))||"jpg";
+  const path=(crypto.randomUUID?crypto.randomUUID():Date.now()+"-"+Math.random().toString(36).slice(2))+"."+ext;
+  const { error }=await supa.storage.from("imagens").upload(path,file,{cacheControl:"3600",upsert:false});
+  if(error) throw error;
+  return supa.storage.from("imagens").getPublicUrl(path).data.publicUrl;
+}
+async function resolveImg(key){
+  const b=imgBuf[key];
+  if(!b) return null;
+  if(b.url) return b.url;
+  if(b.file) return await uploadImage(b.file);
+  return null;
+}
+
+/* ---------- validação / toast ---------- */
+function mark(id, bad){
+  const f=document.getElementById(id).closest(".field");
+  if(f) f.classList.toggle("invalid", !!bad);
+  return !bad;
+}
+function toast(msg, kind){
+  const t=document.getElementById("toast");
+  document.getElementById("toast-msg").textContent=msg;
+  t.className="toast show "+(kind||"ok");
+  clearTimeout(t._t); t._t=setTimeout(()=>t.className="toast",2600);
+}
+function busy(btn,on,label){
+  if(!btn) return;
+  if(on){ btn.dataset.old=btn.textContent; btn.textContent="Salvando…"; btn.disabled=true; }
+  else { btn.textContent=btn.dataset.old||label; btn.disabled=false; }
+}
+
+/* ---------- formatação ---------- */
+const MES=["jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez"];
+function fmtDate(iso){ if(!iso) return ""; const[y,m,d]=iso.split("-"); return d+"/"+m; }
+function janela(o){
+  const di=fmtDate(o.data_inicio), df=fmtDate(o.data_final);
+  const hi=o.hora_inicio==="imediato"?"agora":o.hora_inicio;
+  const hf=o.hora_final==="parar"?"—":o.hora_final;
+  return di+"–"+df+" · "+hi+"→"+hf;
+}
+function initials(nome){ return (nome||"").trim().split(/\s+/).slice(0,2).map(s=>s[0]||"").join("").toUpperCase(); }
+function escapeHtml(s){ return (s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+
+/* =================== AVISOS =================== */
+let editAviso=null;
+async function saveAviso(ev){
+  const di=document.getElementById("av-di").value, df=document.getElementById("av-df").value;
+  const hi=normTime(document.getElementById("av-hi").value), hf=normTime(document.getElementById("av-hf").value);
+  const txt=document.getElementById("av-txt").value.trim();
+  document.getElementById("av-hi").value=hi; document.getElementById("av-hf").value=hf;
+  let ok=true;
+  ok=mark("av-di",!di)&&ok; ok=mark("av-df",!df)&&ok;
+  ok=mark("av-hi",!hi)&&ok; ok=mark("av-hf",!hf)&&ok; ok=mark("av-txt",!txt)&&ok;
+  if(!ok){ toast("Preencha os campos obrigatórios.","err"); return; }
+  const btn=ev&&ev.target; busy(btn,true);
+  try{
+    const imagem_url=await resolveImg("av");
+    const rec={data_inicio:di,data_final:df,hora_inicio:hiToDb(hi),hora_final:hfToDb(hf),texto:txt,imagem_url};
+    let error;
+    if(editAviso){ ({error}=await supa.from("avisos").update(rec).eq("id",editAviso)); }
+    else { ({error}=await supa.from("avisos").insert(rec)); }
+    if(error) throw error;
+    toast(editAviso?"Aviso atualizado.":"Aviso salvo.");
+    resetForm("aviso"); await loadAvisos();
+  }catch(e){ toast("Erro ao salvar: "+(e.message||e),"err"); }
+  finally{ busy(btn,false,"Salvar aviso"); }
+}
+async function loadAvisos(){
+  const {data,error}=await supa.from("avisos").select("*").order("created_at",{ascending:false});
+  if(!error) avisos=data||[]; renderAvisos();
+}
+function renderAvisos(){
+  const l=document.getElementById("av-list"); document.getElementById("av-count").textContent=avisos.length;
+  if(!avisos.length){ l.innerHTML='<div class="list-empty">Nenhum aviso cadastrado ainda.</div>'; return; }
+  l.innerHTML=avisos.map(a=>{
+    const stop=a.hora_final==="parar";
+    const av=a.imagem_url?'<span class="av sq"><img src="'+escapeHtml(a.imagem_url)+'"></span>':'<span class="av sq">📢</span>';
+    return '<div class="item">'+av+
+      '<div class="info"><div class="i-title">'+escapeHtml(a.texto)+'</div>'+
+      '<div class="i-meta"><span class="chip '+(stop?"off":"on")+'">'+(stop?"Parado":"Ativo")+'</span>'+janela(a)+'</div></div>'+
+      '<div class="row-actions"><button class="icon-btn" onclick="startEditAviso(\''+a.id+'\')" title="Editar">✏️</button>'+
+      '<button class="icon-btn del" onclick="del(\'avisos\',\''+a.id+'\')" title="Excluir">🗑️</button></div></div>';
+  }).join("");
+}
+function startEditAviso(id){
+  const a=avisos.find(x=>x.id===id); if(!a) return; editAviso=id;
+  document.getElementById("av-di").value=a.data_inicio; document.getElementById("av-df").value=a.data_final;
+  document.getElementById("av-hi").value=hiFromDb(a.hora_inicio); document.getElementById("av-hf").value=hfFromDb(a.hora_final);
+  document.getElementById("av-txt").value=a.texto;
+  imgBuf.av=a.imagem_url?{url:a.imagem_url}:null;
+  document.getElementById("av-thumb").innerHTML=a.imagem_url?'<img src="'+escapeHtml(a.imagem_url)+'">':"🖼️";
+  document.getElementById("av-rm").hidden=!a.imagem_url;
+  document.getElementById("av-mode").textContent="Editando";
+  document.getElementById("av-cancel").hidden=false;
+  window.scrollTo({top:0,behavior:"smooth"});
+}
+
+/* =================== ANIVERSARIANTES =================== */
+let editAni=null;
+async function saveAni(ev){
+  const nome=document.getElementById("an-nome").value.trim();
+  const setor=document.getElementById("an-setor").value.trim();
+  const nasc=document.getElementById("an-nasc").value;
+  let ok=true; ok=mark("an-nome",!nome)&&ok; ok=mark("an-setor",!setor)&&ok; ok=mark("an-nasc",!nasc)&&ok;
+  if(!ok){ toast("Preencha os campos obrigatórios.","err"); return; }
+  const btn=ev&&ev.target; busy(btn,true);
+  try{
+    const foto_url=await resolveImg("an");
+    const rec={nome,setor,nascimento:nasc,foto_url};
+    let error;
+    if(editAni){ ({error}=await supa.from("aniversariantes").update(rec).eq("id",editAni)); }
+    else { ({error}=await supa.from("aniversariantes").insert(rec)); }
+    if(error) throw error;
+    toast(editAni?"Aniversariante atualizado.":"Aniversariante salvo.");
+    resetForm("aniversario"); await loadAnis();
+  }catch(e){ toast("Erro ao salvar: "+(e.message||e),"err"); }
+  finally{ busy(btn,false,"Salvar aniversariante"); }
+}
+async function loadAnis(){
+  const {data,error}=await supa.from("aniversariantes").select("*");
+  if(!error) aniversarios=data||[]; renderAnis();
+}
+function renderAnis(){
+  const l=document.getElementById("an-list"); document.getElementById("an-count").textContent=aniversarios.length;
+  const now=new Date().getMonth();
+  const sorted=[...aniversarios].sort((a,b)=>{
+    const ma=a.nascimento?new Date(a.nascimento).getMonth():0, mb=b.nascimento?new Date(b.nascimento).getMonth():0;
+    const da=a.nascimento?new Date(a.nascimento).getDate():0, db=b.nascimento?new Date(b.nascimento).getDate():0;
+    return ma-mb||da-db;
+  });
+  if(!sorted.length){ l.innerHTML='<div class="list-empty">Nenhum funcionário cadastrado ainda.</div>'; return; }
+  l.innerHTML=sorted.map(a=>{
+    const dt=a.nascimento?new Date(a.nascimento+"T00:00:00"):null;
+    const thisMonth=dt&&dt.getMonth()===now;
+    const dia=dt?dt.getDate():"", mes=dt?MES[dt.getMonth()]:"";
+    const av=a.foto_url?'<span class="av"><img src="'+escapeHtml(a.foto_url)+'"></span>':'<span class="av">'+escapeHtml(initials(a.nome))+'</span>';
+    return '<div class="item">'+av+
+      '<div class="info"><div class="i-title">'+escapeHtml(a.nome)+'</div>'+
+      '<div class="i-meta">'+escapeHtml(a.setor)+' <span style="color:var(--faint)">·</span> '+dia+' '+mes+
+      (thisMonth?' <span class="chip mon">Este mês</span>':'')+'</div></div>'+
+      '<div class="row-actions"><button class="icon-btn" onclick="startEditAni(\''+a.id+'\')" title="Editar">✏️</button>'+
+      '<button class="icon-btn del" onclick="del(\'aniversariantes\',\''+a.id+'\')" title="Excluir">🗑️</button></div></div>';
+  }).join("");
+}
+function startEditAni(id){
+  const a=aniversarios.find(x=>x.id===id); if(!a) return; editAni=id;
+  document.getElementById("an-nome").value=a.nome; document.getElementById("an-setor").value=a.setor;
+  document.getElementById("an-nasc").value=a.nascimento;
+  imgBuf.an=a.foto_url?{url:a.foto_url}:null;
+  document.getElementById("an-thumb").innerHTML=a.foto_url?'<img src="'+escapeHtml(a.foto_url)+'">':"👤";
+  document.getElementById("an-rm").hidden=!a.foto_url;
+  document.getElementById("ani-mode").textContent="Editando";
+  document.getElementById("an-cancel").hidden=false;
+  window.scrollTo({top:0,behavior:"smooth"});
+}
+
+/* =================== INFORMAÇÕES =================== */
+let editInfo=null;
+async function saveInfo(ev){
+  const di=document.getElementById("in-di").value, df=document.getElementById("in-df").value;
+  const hi=normTime(document.getElementById("in-hi").value), hf=normTime(document.getElementById("in-hf").value);
+  const titulo=document.getElementById("in-titulo").value.trim(), desc=document.getElementById("in-desc").value.trim();
+  document.getElementById("in-hi").value=hi; document.getElementById("in-hf").value=hf;
+  let ok=true;
+  ok=mark("in-di",!di)&&ok; ok=mark("in-df",!df)&&ok;
+  ok=mark("in-hi",!hi)&&ok; ok=mark("in-hf",!hf)&&ok;
+  ok=mark("in-titulo",!titulo)&&ok; ok=mark("in-desc",!desc)&&ok;
+  const imgBad=!imgBuf.in;
+  document.getElementById("in-drop").closest(".field").classList.toggle("invalid",imgBad);
+  document.getElementById("in-img-err").style.display=imgBad?"block":"none";
+  if(imgBad) ok=false;
+  if(!ok){ toast("Preencha todos os campos.","err"); return; }
+  const btn=ev&&ev.target; busy(btn,true);
+  try{
+    const imagem_url=await resolveImg("in");
+    const rec={data_inicio:di,data_final:df,hora_inicio:hiToDb(hi),hora_final:hfToDb(hf),titulo,descricao:desc,imagem_url};
+    let error;
+    if(editInfo){ ({error}=await supa.from("informacoes").update(rec).eq("id",editInfo)); }
+    else { ({error}=await supa.from("informacoes").insert(rec)); }
+    if(error) throw error;
+    toast(editInfo?"Informação atualizada.":"Informação salva.");
+    resetForm("info"); await loadInfos();
+  }catch(e){ toast("Erro ao salvar: "+(e.message||e),"err"); }
+  finally{ busy(btn,false,"Salvar informação"); }
+}
+async function loadInfos(){
+  const {data,error}=await supa.from("informacoes").select("*").order("created_at",{ascending:false});
+  if(!error) infos=data||[]; renderInfos();
+}
+function renderInfos(){
+  const l=document.getElementById("in-list"); document.getElementById("in-count").textContent=infos.length;
+  if(!infos.length){ l.innerHTML='<div class="list-empty">Nenhuma informação cadastrada ainda.</div>'; return; }
+  l.innerHTML=infos.map(a=>{
+    const stop=a.hora_final==="parar";
+    const av=a.imagem_url?'<span class="av sq"><img src="'+escapeHtml(a.imagem_url)+'"></span>':'<span class="av sq">🏷️</span>';
+    return '<div class="item">'+av+
+      '<div class="info"><div class="i-title">'+escapeHtml(a.titulo)+'</div>'+
+      '<div class="i-meta"><span class="chip '+(stop?"off":"on")+'">'+(stop?"Parado":"Ativo")+'</span>'+janela(a)+'</div></div>'+
+      '<div class="row-actions"><button class="icon-btn" onclick="startEditInfo(\''+a.id+'\')" title="Editar">✏️</button>'+
+      '<button class="icon-btn del" onclick="del(\'informacoes\',\''+a.id+'\')" title="Excluir">🗑️</button></div></div>';
+  }).join("");
+}
+function startEditInfo(id){
+  const a=infos.find(x=>x.id===id); if(!a) return; editInfo=id;
+  document.getElementById("in-di").value=a.data_inicio; document.getElementById("in-df").value=a.data_final;
+  document.getElementById("in-hi").value=hiFromDb(a.hora_inicio); document.getElementById("in-hf").value=hfFromDb(a.hora_final);
+  document.getElementById("in-titulo").value=a.titulo; document.getElementById("in-desc").value=a.descricao;
+  imgBuf.in=a.imagem_url?{url:a.imagem_url}:null;
+  document.getElementById("in-thumb").innerHTML=a.imagem_url?'<img src="'+escapeHtml(a.imagem_url)+'">':"🖼️";
+  document.getElementById("in-rm").hidden=!a.imagem_url;
+  document.getElementById("info-mode").textContent="Editando";
+  document.getElementById("in-cancel").hidden=false;
+  window.scrollTo({top:0,behavior:"smooth"});
+}
+
+/* =================== compartilhado =================== */
+async function del(store,id){
+  if(!confirm("Excluir este item? Essa ação não pode ser desfeita.")) return;
+  const {error}=await supa.from(store).delete().eq("id",id);
+  if(error){ toast("Erro ao excluir.","err"); return; }
+  toast("Excluído.");
+  if(store==="avisos") await loadAvisos();
+  if(store==="aniversariantes") await loadAnis();
+  if(store==="informacoes") await loadInfos();
+}
+function resetForm(type){
+  if(type==="aviso"){
+    editAviso=null; ["av-di","av-df","av-hi","av-hf","av-txt"].forEach(id=>document.getElementById(id).value="");
+    imgBuf.av=null; document.getElementById("av-thumb").innerHTML="🖼️"; document.getElementById("av-rm").hidden=true; document.getElementById("av-img").value="";
+    document.getElementById("av-mode").textContent="Cadastrando"; document.getElementById("av-cancel").hidden=true;
+    document.querySelectorAll("#panel-aviso .field").forEach(f=>f.classList.remove("invalid"));
+  }
+  if(type==="aniversario"){
+    editAni=null; ["an-nome","an-setor","an-nasc"].forEach(id=>document.getElementById(id).value="");
+    imgBuf.an=null; document.getElementById("an-thumb").innerHTML="👤"; document.getElementById("an-rm").hidden=true; document.getElementById("an-img").value="";
+    document.getElementById("ani-mode").textContent="Cadastrando"; document.getElementById("an-cancel").hidden=true;
+    document.querySelectorAll("#panel-aniversario .field").forEach(f=>f.classList.remove("invalid"));
+  }
+  if(type==="info"){
+    editInfo=null; ["in-di","in-df","in-hi","in-hf","in-titulo","in-desc"].forEach(id=>document.getElementById(id).value="");
+    imgBuf.in=null; document.getElementById("in-thumb").innerHTML="🖼️"; document.getElementById("in-rm").hidden=true; document.getElementById("in-img").value="";
+    document.getElementById("info-mode").textContent="Cadastrando"; document.getElementById("in-cancel").hidden=true;
+    document.getElementById("in-img-err").style.display="none";
+    document.querySelectorAll("#panel-info .field").forEach(f=>f.classList.remove("invalid"));
+  }
+}
+
+/* =================== início =================== */
+async function initAll(){
+  try{
+    const [a,b,c]=await Promise.all([
+      supa.from("avisos").select("*").order("created_at",{ascending:false}),
+      supa.from("aniversariantes").select("*"),
+      supa.from("informacoes").select("*").order("created_at",{ascending:false})
+    ]);
+    avisos=a.data||[]; aniversarios=b.data||[]; infos=c.data||[];
+  }catch(e){ toast("Não consegui conectar ao servidor.","err"); }
+  renderAvisos(); renderAnis(); renderInfos();
+}
+initAll();
+</script>
+</body>
+</html>
