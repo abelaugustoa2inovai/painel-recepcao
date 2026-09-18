@@ -198,6 +198,43 @@ function ago(ts){
   const dias = Math.round(h/24); return dias===1?"ontem":`há ${dias} dias`;
 }
 
+/* ---------------- sinal sonoro (hora em hora) ---------------- */
+var _audioCtx = null, _audioUnlocked = false, _ultimaHoraSino = new Date().getHours();
+function initAudio(){
+  if(_audioCtx) return;
+  var AC = window.AudioContext || window.webkitAudioContext;
+  if(!AC) return;
+  try{ _audioCtx = new AC(); }catch(e){}
+}
+function resumeAudio(){
+  if(_audioCtx && _audioCtx.state === "suspended" && _audioCtx.resume){ try{ _audioCtx.resume(); }catch(e){} }
+}
+function beep(freq, start, dur, vol){
+  if(!_audioCtx) return;
+  try{
+    var o = _audioCtx.createOscillator(), g = _audioCtx.createGain();
+    o.type = "sine"; o.frequency.value = freq;
+    o.connect(g); g.connect(_audioCtx.destination);
+    var t = _audioCtx.currentTime + start;
+    g.gain.setValueAtTime(0.0001, t);
+    g.gain.exponentialRampToValueAtTime(vol||0.3, t + 0.02);
+    g.gain.exponentialRampToValueAtTime(0.0001, t + dur);
+    o.start(t); o.stop(t + dur + 0.05);
+  }catch(e){}
+}
+function tocarSino(){
+  initAudio(); resumeAudio();
+  if(!_audioCtx) return;
+  // carrilhão suave de três notas ascendentes
+  beep(784, 0.00, 0.7, 0.30);   // Sol
+  beep(988, 0.28, 0.7, 0.30);   // Si
+  beep(1319, 0.56, 1.1, 0.34);  // Mi
+}
+function unlockAudio(){
+  initAudio(); resumeAudio();
+  if(!_audioUnlocked && _audioCtx){ _audioUnlocked = true; beep(880, 0, 0.22, 0.18); } // confirmação suave no 1º toque
+}
+
 /* ---------------- relógio ---------------- */
 function tick(){
   const d = new Date();
@@ -205,7 +242,15 @@ function tick(){
   document.getElementById("ss").textContent = pad2(d.getSeconds());
   const wd = d.toLocaleDateString("pt-BR",{weekday:"long"});
   document.getElementById("date").textContent = wd.charAt(0).toUpperCase()+wd.slice(1)+", "+d.getDate()+" de "+MESES[d.getMonth()];
-  if(d.getHours()===4 && d.getMinutes()===0 && d.getSeconds()===0) location.reload();
+  // Sinal sonoro no minuto zero de cada hora, só no horário de expediente (08:00–17:00 por padrão).
+  // Ajuste em config.js: somInicio / somFim (horas) ou somHora:false para desligar.
+  var _hh = d.getHours();
+  var _ini = (CFG.somInicio != null ? CFG.somInicio : 8);
+  var _fim = (CFG.somFim != null ? CFG.somFim : 17);
+  if(CFG.somHora !== false && d.getMinutes()===0 && _hh >= _ini && _hh <= _fim && _hh !== _ultimaHoraSino){
+    _ultimaHoraSino = _hh;
+    tocarSino();
+  }
 }
 setInterval(tick,1000); tick();
 
@@ -480,7 +525,7 @@ function entrarTelaCheia(){
   var fn = el.requestFullscreen || el.webkitRequestFullscreen || el.webkitRequestFullScreen || el.mozRequestFullScreen || el.msRequestFullscreen;
   if(fn){ try{ fn.call(el); }catch(e){} }
 }
-document.addEventListener("click", entrarTelaCheia);
+document.addEventListener("click", function(){ entrarTelaCheia(); unlockAudio(); });
 </script>
 </body>
 </html>
