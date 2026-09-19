@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-09-19T02:20:06.923Z",
+  "updatedAt": "2026-09-19T08:24:06.452Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Sangue de gatos era vendido por até R$ 800 após coletas clandestinas no interior de SP, diz investigação",
+      "summary": "Delegado fala sobre segunda fase de inquérito sobre venda de sangue de gatos em Monte Alto O sangue de gatos coletado de forma clandestina em Monte Alto (SP) era…",
+      "image": "https://s2-g1.glbimg.com/wWw01Ti47JdVzxrToI4-KEHE_AY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/1/hyTzv6QAiClwnWxTe6sQ/gatos-desacordados.jpg",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/19/sangue-de-gatos-era-vendido-por-ate-r-800-apos-coletas-clandestinas-no-interior-de-sp-diz-investigacao.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1789801200000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -43,64 +53,54 @@
       "published": 1789762727000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Acidente entre dois carros e caminhão deixa feridos em rodovia",
-      "summary": "Acidente na SP-310 em Monte Aprazível (SP) Divulgação / Corpo de Bombeiros Uma batida envolvendo dois automóveis e um caminhão deixou duas pessoas feridas na tarde desta…",
-      "image": "https://s2-g1.glbimg.com/BceDuFhMBLZZrO2X8XtW_TrkzCs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/p/gGDqmBTVuCe1seZzj3Xg/whatsapp-image-2026-09-18-at-17.48.02.jpeg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/18/acidente-entre-dois-carros-deixa-feridos-em-rodovia.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1789758734000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Tentei a semana de 4 dias na minha empresa e ela falhou – para alguns funcionários",
+      "summary": "Bjorn Reynolds, CEO e fundador da Safeguard Global (Foto: Divulgação) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Bjorn-Reynolds-da-SafeGuard.jpg?fit=300%2C225&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/business/global/tentei-a-semana-de-4-dias-na-minha-empresa-e-ela-falhou-para-alguns-funcionarios/",
+      "source": "InfoMoney",
+      "published": 1789804800000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Reajuste do Bolsa Família não fere lei eleitoral, decide Gilmar Mendes, do STF",
-      "summary": "(Foto: Lyon Santos/ MDS) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/07/53627831838_2fa74e7364_o.webp?fit=1170%2C700&quality=70&strip=all\"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/53627831838_2fa74e7364_o.webp?fit=300%2C179&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/brasil/reajuste-do-bolsa-familia-nao-fere-lei-eleitoral-decide-gilmar-mendes-do-stf/",
+      "title": "Bolsa Família ajuda Lula a virar pauta após crise do STF, enquanto casos são adiados",
+      "summary": "O presidente da República, Luiz Inácio Lula da Silva, durante Podcast Desce a Letra Show, no Palácio da Alvorada, Brasília &#8211; DF. Foto: Ricardo Stuckert. \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/55531126497_7ece20b303_c.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/bolsa-familia-ajuda-lula-a-virar-pauta-apos-crise-do-stf-enquanto-casos-sao-adiados/",
       "source": "InfoMoney",
-      "published": 1789778304000
+      "published": 1789804800000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Dia de Sorte: confira o resultado do concurso 1301 sorteado nesta sexta-feira (18)",
-      "summary": "Loteria Dia de Sorte, da Caixa Econômica (Foto: Divulgação) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1301-sorteado-nesta-sexta-feira-18/",
+      "title": "Menos calorias, mais proteína: cias. de alimentos tentam digerir avanço do GLP-1",
+      "summary": "Mulher aplica uma injeção de Zepbound, um medicamento GLP-1 para perda de peso, em sua casa em Memphis, Tennessee &#8211; 30/07/2026 (Foto: REUTERS/Karen Pulfer Focht) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Pessoa-aplicando-Zepbound-_-GLP-1.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/business/global/menos-calorias-mais-proteina-cias-de-alimentos-tentam-digerir-avanco-do-glp-1/",
       "source": "InfoMoney",
-      "published": 1789777357000
+      "published": 1789804800000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Lotomania: confira o resultado do concurso 2977 sorteado nesta sexta-feira (18)",
-      "summary": "Foto: Divulgação \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=735%2C417&quality=70&strip=all\" />Veja as 20 dezenas sorteadas…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=300%2C170&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/lotomania-confira-o-resultado-do-concurso-2977-sorteado-nesta-sexta-feira-18/",
+      "title": "Guerra no Irã vai esquentar os preços no inverno dos americanos",
+      "summary": "ATENÇÃO: NÃO REUTILIZAR ESSA IMAGEM. PACOTE EXCLUSIVO DO NYT \" data-image-caption=\" Uma bomba de calor elétrica em uma residência em Farmingdale, Maine – 28/02/2024…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Bomba-de-calor-nos-EUA.jpg?fit=300%2C232&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/business/global/guerra-no-ira-vai-esquentar-os-precos-no-inverno-dos-americanos/",
       "source": "InfoMoney",
-      "published": 1789776849000
+      "published": 1789804800000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Quina hoje, concurso 7121: confira o resultado sorteado nesta sexta-feira (18)",
-      "summary": "(Foto: Divulgação) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=1280%2C745&quality=70&strip=all\" />Ganham…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7121-confira-o-resultado-sorteado-nesta-sexta-feira-18/",
+      "title": "“Brasil é país high yield”: por que não investir lá fora é cada vez mais arriscado",
+      "summary": "Painel sobre investimentos estrangeiros teve a participação de, da esquerda para a direita, Marcelo Guterman, especialista de investimentos na Franklin Templeton Brasil,…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/IMG_2427.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/onde-investir/brasil-e-pais-high-yield-por-que-nao-investir-la-fora-e-cada-vez-mais-arriscado/",
       "source": "InfoMoney",
-      "published": 1789776605000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Lotofácil hoje: confira o resultado do concurso 3783 sorteado nesta sexta-feira (18)",
-      "summary": "Lotofácil da Independência é um sorteio especial da Lotofácil, realizado em setembro. Foto: Marcelo Camargo/Agência Brasil \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorteio-lotofacil.webp?fit=300%2C225&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-confira-o-resultado-do-concurso-3783-sorteado-nesta-sexta-feira-18/",
-      "source": "InfoMoney",
-      "published": 1789776418000
+      "published": 1789804800000
     },
     {
       "category": "esportes",
@@ -155,6 +155,46 @@
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
+      "title": "Mirassol x Botafogo: onde assistir, horário e escalações do jogo do Brasileirão",
+      "summary": "Confira onde assistir, horário e prováveis escalações de Mirassol e Botafogo; duelo é válido pela 28ª rodada do Brasileirão O post Mirassol x Botafogo: onde assistir,…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/09/19/internet-e-redes-sociais/mirassol-x-botafogo-onde-assistir-ao-jogo-do-brasileirao-2026/",
+      "source": "Olhar Digital",
+      "published": 1789805400000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Resumo da semana: IApocalipse vem aí? Europa vs. redes sociais; foguete brasileiro decolando e mais!",
+      "summary": "Confira o que de mais importante aconteceu nesta semana na tecnologia e na ciência O post Resumo da semana: IApocalipse vem aí? Europa vs. redes sociais; foguete…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/09/19/pro/resumo-da-semana-iapocalipse-vem-ai-europa-vs-redes-sociais-foguete-brasileiro-decolando-e-mais/",
+      "source": "Olhar Digital",
+      "published": 1789805100000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Roma x Inter de Milão: onde assistir, horário e escalações do jogo do Campeonato Italiano",
+      "summary": "Confira onde assistir, horário e prováveis escalações de Roma e Inter de Milão; duelo é válido pela 5ª rodada da Serie A O post Roma x Inter de Milão: onde assistir,…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/09/19/internet-e-redes-sociais/roma-x-inter-de-milao-onde-assistir-ao-jogo-da-serie-a/",
+      "source": "Olhar Digital",
+      "published": 1789804800000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Sam Altman vai falar sobre segurança da inteligência artificial em reunião do Conselho de Segurança da ONU",
+      "summary": "Segundo porta-voz da OpenAI, apresentação de Altman deve abordar a necessidade de coordenação internacional e de padrões de segurança compartilhados O post Sam Altman…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/onu-internet-scaled-e1771596530744-1024x577.jpg",
+      "link": "https://olhardigital.com.br/2026/09/18/pro/sam-altman-vai-falar-sobre-seguranca-da-inteligencia-artificial-em-reuniao-do-conselho-de-seguranca-da-onu/",
+      "source": "Olhar Digital",
+      "published": 1789784394000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
       "title": "Anthropic adia IPO para novembro enquanto debate sobre frear desenvolvimento da IA ganha força",
       "summary": "Alguns dos assessores da Anthropic avaliam que esperar até novembro permitiria à companhia apresentar resultados financeiros do terceiro trimestre que demonstrem posição…",
       "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-Dario-Amodei-e-Anthropic-1024x576.jpg",
@@ -163,94 +203,54 @@
       "published": 1789780050000
     },
     {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Confira o Olhar Digital News na íntegra (18/09/2026)",
-      "summary": "Confira as principais notícias do mundo da tecnologia e da ciência no programa Olhar Digital News de hoje! O post Confira o Olhar Digital News na íntegra (18/09/2026)…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/09/18/videos/confira-o-olhar-digital-news-na-integra-18-09-2026/",
-      "source": "Olhar Digital",
-      "published": 1789777910000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Gemini invade sistemas de três empresas reais durante teste de segurança do Google",
-      "summary": "Em um dos episódios, o Gemini conseguiu acesso a um sistema protegido depois de tentar adivinhar senhas O post Gemini invade sistemas de três empresas reais durante…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/gemini_invasao_2-1024x683.png",
-      "link": "https://olhardigital.com.br/2026/09/18/inteligencia-artificial/gemini-invade-sistemas-de-tres-empresas-reais-durante-teste-de-seguranca-do-google/",
-      "source": "Olhar Digital",
-      "published": 1789777663000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Olhar Espacial: os motores que podem levar a humanidade ao espaço profundo",
-      "summary": "Na coluna Olhar Espacial desta sexta-feira (18), Marcelo Zurita fala sobre os motores que podem nos levar mais longe na exploração espacial O post Olhar Espacial: os…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/09/18/colunistas/olhar-espacial-os-motores-que-podem-levar-a-humanidade-ao-espaco-profundo/",
-      "source": "Olhar Digital",
-      "published": 1789777522000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Resultado da Quina de hoje: veja números e ganhadores do concurso 7121 (sexta, 18/09)",
-      "summary": "O sorteio de R$ 545,8 mil do concurso 7121 é realizado em São Paulo. Além dos cinco números premiados, confira como resgatar seu prêmio O post Resultado da Quina de…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/09/18/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7121-sexta-18-09/",
-      "source": "Olhar Digital",
-      "published": 1789774800000
-    },
-    {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Mari Saad deixa Mascavo e aciona sócios na Justiça",
-      "summary": "Mari Saad anunciou nesta sexta-feira (18) que deixou a Mascavo , marca de maquiagem que lançou neste ano. Em vídeo publicado no Instagram , ela afirmou que decidiu…",
+      "title": "Cientistas da Flórida procuram corais resistentes ao calor diante da mudança climática",
+      "summary": "Na costa da Flórida, nos Estados Unidos , um grupo de mergulhadores desce até o fundo do mar para plantar corais jovens em um recife. São cientistas e voluntários, que…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/mari-saad-deixa-mascavo-e-aciona-socios-na-justica.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/cientistas-da-florida-procuram-corais-resistentes-ao-calor-diante-da-mudanca-climatica.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1789783740000
+      "published": 1789804800000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Show de Fiuk faz fã encarar ônibus de BH para Campinas e atrai até cover de Fabio Jr",
-      "summary": "Show de Fiuk faz fã encarar ônibus de BH para Campinas e atrai até cover de Fabio Jr Tratado como o último show de Fiuk antes de uma pausa na carreira, a apresentação em…",
-      "image": "https://s2-g1.glbimg.com/-HxdHa5y4tWIjZiCXfx2pYL-Rqc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/l/AE0A8ATPqkPJnUK7QsrQ/design-sem-nome-2026-09-18t230053.591.jpg",
-      "link": "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/09/18/show-de-fiuk-faz-fa-encarar-onibus-de-bh-para-campinas-e-atrai-ate-cover-de-fabio-jr.ghtml",
+      "title": "Corrida pelo ouro: por que países europeus estão tirando suas reservas dos EUA",
+      "summary": "Em uma era de instabilidade geopolítica, cada vez mais países desejam ter acesso facilitado às suas reservas de ouro CFOTO/picture alliance Fort Knox, o complexo…",
+      "image": "https://s2-g1.glbimg.com/VxEZo4DSdzF_VAMOyo-wW2NlKZM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/v/0BEgTQQZy8wpU4AAAzQg/78104138-1004.jpg",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/19/corrida-pelo-ouro-por-que-paises-europeus-estao-tirando-suas-reservas-dos-eua.ghtml",
       "source": "g1",
-      "published": 1789783424000
+      "published": 1789804800000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Indústria do livro está doente e descontos enganam leitores, diz Martins Fontes",
-      "summary": "Alexandre Martins Fontes tem certeza de que a indústria do livro no Brasil está doente. E se cansou, como diz, de alimentar ele mesmo os sintomas dessa doença. Chegou a…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2026/09/industria-do-livro-esta-doente-e-descontos-enganam-leitores-diz-martins-fontes.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1789783380000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "TRE concede direito de resposta a Raquel Lyra sobre propaganda de João Campos que questionava remuneração da governadora",
-      "summary": "Raquel Lyra (PSD) e João Campos (PSB) Reprodução/TV Globo A governadora Raquel Lyra (PSD) obteve na Justiça Eleitoral o direito de resposta a uma propaganda veiculada…",
-      "image": "https://s2-g1.glbimg.com/d3SvsO3dUz0GZ4pWFHz5cT5btwk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/q/U8jj80TPArIrqlwo0Vzw/candidatos.png",
-      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/18/tre-direito-de-resposta-raquel-lyra-joao-campos-remuneracao.ghtml",
+      "title": "Quaest divulga nova pesquisa da eleição para governador e senador do Ceará na próxima semana",
+      "summary": "Eleições 2026 - Candidatos a Governador no Ceará A Quaest divulga, na próxima quarta-feira (23), uma nova pesquisa com as intenções de voto para o governo do Ceará e…",
+      "image": "https://s2-g1.glbimg.com/xNia0hA6PsroRqBSdHth0k770r4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/Bv8DsaQfK8VO5QNwQUlg/candidatos-governo-ce-2026.png",
+      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/19/quaest-divulga-nova-pesquisa-da-eleicao-para-governador-e-senador-do-ceara-na-proxima-semana.ghtml",
       "source": "g1",
-      "published": 1789783289000
+      "published": 1789804800000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Flávio Bolsonaro usa Comissão de Segurança como vitrine eleitoral, mas faltou a 72% das sessões",
-      "summary": "Mesmo em meio aos compromissos da campanha presidencial, o senador Flávio Bolsonaro ( PL -RJ) esteve no Senado em agosto para participar da sessão da Comissão de…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-usa-comissao-de-seguranca-como-vitrine-eleitoral-mas-faltou-a-72-das-sessoes.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1789783200000
+      "title": "Pequenos negócios representam 89,2% das empresas ativas no RJ; MEI são mais da metade",
+      "summary": "Levantamento do Sebrae Rio mostra que pequenos negócios representam 89,2% das empresas ativas no RJ; MEI são mais da metade Divulgação Um levantamento do Sebrae Rio…",
+      "image": "https://s2-g1.glbimg.com/jGomaQJX1RYVrhNBIAXBltYnKxE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/w/G2ocOFTViru9y65BlVWQ/sebrae.jpg",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/19/pequenos-negocios-representam-892percent-das-empresas-ativas-no-rj-mei-sao-mais-da-metade.ghtml",
+      "source": "g1",
+      "published": 1789804800000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Motorista perde controle em ultrapassagem, cai em ribanceira e é socorrido por ambulância que passava pelo local em MG",
+      "summary": "Motorista perde controle de carro durante ultrapassagem e cai em ribanceira na MGC-126 em São João Nepomuceno PMRv/Divulgação Um motorista, de 36 anos, ficou ferido após…",
+      "image": "https://s2-g1.glbimg.com/JuHU1B2ey7rQWBCXg6McZHWROH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/g/uNvF8gQDOs4dwCQdcj8w/carro-ribanceitra-1.jpg",
+      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/09/19/motorista-perde-controle-em-ultrapassagem-cai-em-ribanceira-e-e-socorrido-por-ambulancia-que-passava-pelo-local-em-mg.ghtml",
+      "source": "g1",
+      "published": 1789804800000
     }
   ]
 }
