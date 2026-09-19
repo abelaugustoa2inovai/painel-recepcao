@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-09-19T19:47:40.287Z",
+  "updatedAt": "2026-09-19T21:57:05.561Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Operação contra tráfico de drogas cumpre mandados de prisão em Araçatuba",
+      "summary": "Delegacia de Polícia Civil de Araçatuba (SP) Eduardo Parede/TV TEM A Polícia Civil deflagrou na manhã deste sábado (19) a \"Operação Sem Saída\", voltada a desarticular…",
+      "image": "https://s2-g1.glbimg.com/QNgZXPRmQye3EgMHZrGbh0ts-ZE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/0/EaveNUTTyy1bLZtBVMsQ/design-sem-nome-1-.png",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/19/operacao-em-aracatuba.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1789847762000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -43,114 +53,134 @@
       "published": 1789829954000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Defesa Civil alerta para risco de chuva e ventos fortes no interior de SP neste domingo",
-      "summary": "Defesa Civil emitiu alerta para o domingo (20) Reprodução/Defesa Civil A Defesa Civil emitiu um alerta para ventos fortes e chuva na região de Itapeva (SP) a partir de…",
-      "image": "https://s2-g1.glbimg.com/NLoRXBuQqr4zuZXUpvkJq_0-29w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/B/bPtK69ROKoX8f6cGrfxA/whatsapp-image-2026-09-18-at-16.55.09.jpeg",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/09/19/defesa-civil-alerta-para-risco-de-chuva-e-ventos-fortes-no-interior-de-sp-neste-domingo.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1789827756000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "São Paulo x Internacional no Brasileirão: veja onde assistir",
+      "summary": "Tricolor vem de derrota no clássico, enquanto o Inter busca sair do Z4 The post São Paulo x Internacional no Brasileirão: veja onde assistir appeared first on InfoMoney .",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/thumb-sao-paulo-x-internacional.jpg?fit=300%2C191&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/esportes/sao-paulo-internacional-brasileirao-onde-assistir/",
+      "source": "InfoMoney",
+      "published": 1789854900000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Conselho da Petrobras aprova adesão a programa de subvenção ao diesel",
-      "summary": "Funcionários de posto de gasolina ajustam preço em Porto Alegre &#8211; 20/03/2026 (Foto: REUTERS/Diego Vara) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Diesel_posto.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/conselho-da-petrobras-aprova-adesao-a-programa-de-subvencao-ao-diesel/",
+      "title": "Trump receberá Xi Jinping nos EUA e vai oferecer jantar com CEOs das big techs",
+      "summary": "O presidente da China, Xi Jinping, e o presidente dos Estados Unidos, Donald Trump, visitam o Templo do Céu, em Pequim, em 14 de maio de 2026. BRENDAN SMIALOWSKI/Pool…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-14T055339Z_1241814886_RC2T8LAXB7FG_RTRMADP_3_CHINA-USA.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/trump-recebera-xi-jinping-nos-eua-e-vai-oferecer-jantar-com-ceos-das-big-techs/",
       "source": "InfoMoney",
-      "published": 1789847120000
+      "published": 1789853400000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Eleições 2026: candidatos não podem ser presos a partir de hoje; entenda regra",
-      "summary": "Luiz Inácio Lula da Silva (REUTERS/Adriano Machado) &#8211; Flávio Bolsonaro (REUTERS/Alexandre Meneghini) &#8211; Augusto Cury (REUTERS/Tita Barros) &#8211; Ronaldo…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/montagem-infomoney.jpg?fit=300%2C193&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/eleicoes-2026-candidatos-nao-podem-ser-presos-protecao-legislacao/",
+      "title": "Onde assistir a Vasco x Coritiba pelo Brasileirão?",
+      "summary": "O Vasco busca emendar a segunda vitória consecutiva na competição The post Onde assistir a Vasco x Coritiba pelo Brasileirão? appeared first on InfoMoney .",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/thumb-vasco-da-gama-x-coritiba.jpg?fit=300%2C191&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/esportes/onde-assistir-vasco-coritiba-brasileirao/",
       "source": "InfoMoney",
-      "published": 1789847100000
+      "published": 1789852800000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Otan elege general da Alemanha para presidir Comitê Militar e cita ações da Rússia",
-      "summary": "Um oficial da Polícia e Guarda de Fronteira da Estônia patrulha a fronteira entre Estônia e Rússia perto de Saatse, Estônia &#8211; 17/06/2026 (Foto: REUTERS/Ints…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Fronteira-da-Estonia-coma-Russia.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/otan-elege-general-da-alemanha-para-presidir-comite-militar-e-cita-acoes-da-russia/",
+      "title": "Anthropic, OpenAI, Google e SpaceXAI são processadas por suposto acordo para IA",
+      "summary": "Anthropic, OpenAI, Google e SpaceXAI \" data-image-caption=\" (Imagem criada com Inteligência Artificial &#8211; Copilot / Giovanna Sutto) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Designer-17.png?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/anthropic-openai-google-e-spacexai-sao-processadas-por-suposto-acordo-para-ia/",
       "source": "InfoMoney",
-      "published": 1789846386000
+      "published": 1789851600000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Trump critica Suprema Corte por decisões sobre tarifas e cidadania",
-      "summary": "Suprema Corte dos EUA, em Washington &#8211; 01/07/2024 (Foto: REUTERS/Kevin Mohatt) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-09T114101Z_1_LYNXMPEM080LQ_RTROPTP_4_USA-COURT-RULINGS.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/trump-critica-suprema-corte-por-decisoes-sobre-tarifas-e-cidadania/",
-      "source": "InfoMoney",
-      "published": 1789845911000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Rússia diz que atingiu navio que transportava suprimentos para forças ucranianas",
-      "summary": "Bombeiros trabalham no local de um edifício comercial atingido por um ataque de drone russo, em meio ao ataque da Rússia à Ucrânia, em Odessa &#8211; 18/09/2026 (Foto:…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Ataque-de-drone-russo-em-Odesa.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/russia-diz-que-atingiu-navio-que-transportava-suprimentos-para-forcas-ucranianas/",
-      "source": "InfoMoney",
-      "published": 1789845544000
+      "title": "Petrobras aprova adesão à subvenção ao óleo diesel",
+      "summary": "O Conselho de Administração da Petrobras aprovou, nesta sexta-feira (18), a adesão à subvenção econômica aos produtores e importadores de óleo diesel e suas correntes. A…",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/petrobras-aprova-adesao-subvencao-ao-oleo-diesel",
+      "source": "Feed Editoria",
+      "published": 1789851300000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Organização dos Jogos Asiáticos pede desculpas após tocar hino da Coreia do Norte para equipe sul-coreana",
-      "summary": "A organização dos Jogos Asiáticos de Nagoya-Aichi pediu desculpas após executar por engano o hino da Coreia do Norte antes de uma partida da seleção masculina de hóquei…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260919__C8RB466__v1__HighRes__Asiad2026JpnOpening.webp",
-      "link": "https://www.gazetaesportiva.com/olimpiadas/jogos-asiaticos-hino-coreia-norte-coreia-sul/",
+      "title": "Neymar manda recado a Memphis após desabafo por pênalti perdido no Corinthians",
+      "summary": "Neymar demonstrou apoio a Memphis Depay após o atacante desabafar sobre o pênalti perdido na eliminação do Corinthians para o Estudiantes na Libertadores. “Siga firme,…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55498697339_78187fdd8b_3k.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/neymar-recado-memphis-depay-penalti-corinthians/",
       "source": "Gazeta Esportiva",
-      "published": 1789845356000
+      "published": 1789854730000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Stuttgart 0 x 1 Dortmund pelo Alemão",
-      "summary": "Melhores momentos: Stuttgart 0 x 1 Dortmund pelo Alemão O post Melhores momentos: Stuttgart 0 x 1 Dortmund pelo Alemão apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/20ub62ro-1920Stuttgart.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-stuttgart-0-x-1-dortmund-pelo-alemao/",
+      "title": "Com um a menos, Sporting cede empate ao Arouca no fim pelo Português",
+      "summary": "O Sporting vencia o Arouca por 2 a 0, mas sofreu o empate após a expulsão de Debast e perdeu a chance de encostar nos líderes do Campeonato Português. O post Com um a…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260919__C8TB6XB__v1__HighRes__FblPorLigaSportingArouca-1.webp",
+      "link": "https://www.gazetaesportiva.com/times/sporting-por/com-um-a-menos-sporting-cede-empate-ao-arouca-no-fim-pelo-portugues/",
       "source": "Gazeta Esportiva",
-      "published": 1789844391000
+      "published": 1789854146000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Atlético-MG x Chapecoense: siga o tempo real do jogo pelo Brasileirão",
-      "summary": "Atlético-MG e Chapecoense se enfrentam neste sábado, pela 28ª rodada do Campeonato Brasileiro. A partida será realizada às 16h (de Brasília), na Arena MRV, em Minas…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/HSmXfmZWIAAoF7I-1.webp",
-      "link": "https://www.gazetaesportiva.com/times/atletico-mg/atletico-mg-x-chapecoense-campeonato-brasileiro/",
+      "title": "Juventude sofre virada do Sport e perde chance de retomar a liderança da Série B",
+      "summary": "O Juventude perdeu a oportunidade de assumir a liderança da Série B do Campeonato Brasileiro neste sábado. Mesmo após sair na frente, a equipe gaúcha sofreu a virada do…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55538214098_d624119cbc_o.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/juventude-sofre-virada-sport-lideranca-serie-b/",
       "source": "Gazeta Esportiva",
-      "published": 1789843817000
+      "published": 1789853698000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Palmeiras fecha preparação para enfrentar o Grêmio pelo Brasileirão",
-      "summary": "O Palmeiras finalizou neste sábado a preparação para enfrentar o Grêmio, pela 28ª rodada do Campeonato Brasileiro. Com apenas Jefté e Paulinho como desfalques, o técnico…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/19092026_cg_palmeiras_7653_8.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-fecha-preparacao-para-enfrentar-o-gremio-pelo-brasileirao/",
+      "title": "Confira as fotos de Sporting x Arouca pelo Campeonato Português",
+      "summary": "O post Confira as fotos de Sporting x Arouca pelo Campeonato Português apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260919__C8T96GW__v1__MidRes__FblPorLigaSportingArouca.webp",
+      "link": "https://www.gazetaesportiva.com/times/sporting-por/confira-as-fotos-de-sporting-x-arouca-pelo-campeonato-portugues/",
       "source": "Gazeta Esportiva",
-      "published": 1789842582000
+      "published": 1789853166000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Veja fotos do treino do Palmeiras deste sábado",
-      "summary": "Veja fotos do treino do Palmeiras deste sábado. O post Veja fotos do treino do Palmeiras deste sábado apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/19092026_cg_palmeiras_7801_21.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-treino-do-palmeiras-deste-sabado-20/",
+      "title": "São Paulo vence o Flamengo e garante vaga na final do Brasileirão feminino",
+      "summary": "Neste sábado, o São Paulo venceu o Flamengo por 1 a 0, no Brinco de Ouro, em Campinas, pelo jogo de volta da semifinal do Campeonato Brasileiro feminino e garantiu a…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55524684259_37d67ffdc6_o.webp",
+      "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-vence-o-flamengo-e-garante-vaga-na-final-do-brasileirao-feminino/",
       "source": "Gazeta Esportiva",
-      "published": 1789842423000
+      "published": 1789853107000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Anthropic, OpenAI, SpaceXAI e Google são acusadas de fazer acordo ilegal para frear avanço da IA",
+      "summary": "Processo aberto nos EUA afirma que empresas coordenaram esforços para desacelerar o avanço da inteligência artificial e prejudicaram consumidores O post Anthropic,…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-Dario-Amodei-e-Anthropic-1024x576.jpg",
+      "link": "https://olhardigital.com.br/2026/09/19/inteligencia-artificial/anthropic-openai-spacexai-e-google-sao-acusadas-de-fazer-acordo-ilegal-para-frear-avanco-da-ia/",
+      "source": "Olhar Digital",
+      "published": 1789849651000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Smartwatches em promoção: veja uma seleção de opções para monitorar sua saúde e estilo",
+      "summary": "Se você está pensando em investir em um smartwatch, este é um bom momento para aproveitar. Reunimos três opções em oferta na Amazon, com modelos para diferentes perfis —…",
+      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/19/reviews/smartwatches-em-promocao-veja-uma-selecao-de-opcoes-para-monitorar-sua-saude-e-estilo-2/",
+      "source": "Olhar Digital",
+      "published": 1789846800000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "O lado roxo de Marte: gelo, poeira e luz criam cores incomuns em uma das regiões mais curiosas do planeta",
+      "summary": "Imagem obtida pela sonda Mars Express mostra Thyles Rupes, formação com mais de 1 km de altura, cercada por gelo, poeira e minerais O post O lado roxo de Marte: gelo,…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/marte-sul-2-1024x576.jpg",
+      "link": "https://olhardigital.com.br/2026/09/19/ciencia-e-espaco/o-lado-roxo-de-marte-gelo-poeira-e-luz-criam-cores-incomuns-em-uma-das-regioes-mais-curiosas-do-planeta/",
+      "source": "Olhar Digital",
+      "published": 1789846223000
     },
     {
       "category": "tecnologia",
@@ -173,84 +203,54 @@
       "published": 1789844676000
     },
     {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Wolverine, Miles Morales e mais: seleção de jogos PS5 em promoção na Amazon",
-      "summary": "O catálogo do PS5 tem títulos para todos os gostos, e a Amazon está com uma seleção interessante de jogos disponíveis agora. Reunimos três opções que valem atenção — de…",
-      "image": "https://m.media-amazon.com/images/I/41RJhuD+gvL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/19/reviews/wolverine-miles-morales-e-mais-selecao-de-jogos-ps5-em-promocao-na-amazon/",
-      "source": "Olhar Digital",
-      "published": 1789844400000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Hora de imprimir com mais economia: veja uma seleção de impressoras em promoção na Amazon",
-      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções multifuncionais em oferta na Amazon,…",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/19/reviews/hora-de-imprimir-com-mais-economia-veja-uma-selecao-de-impressoras-em-promocao-na-amazon/",
-      "source": "Olhar Digital",
-      "published": 1789843200000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Medicamento elimina marcadores do câncer em 77,8% dos pacientes com condição que pode anteceder o mieloma",
-      "summary": "Ensaio clínico de fase 2 avaliou o teclistamab em pacientes com mieloma múltiplo latente de alto risco e encontrou respostas completas em 77,8% dos casos O post…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/09/19/medicina-e-saude/medicamento-elimina-marcadores-do-cancer-em-778-dos-pacientes-com-condicao-que-pode-anteceder-o-mieloma/",
-      "source": "Olhar Digital",
-      "published": 1789842980000
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Pedro Coutinho diz que vai sanear 100% das cidades da Região Metropolitana de João Pessoa",
+      "summary": "Pedro Coutinho, pré-candidato ao Governo da Paraíba, em agenda na orla de João Pessoa Reprodução/TV Cabo Branco O candidato ao Governo da Paraíba pelo Democracia Cristã…",
+      "image": "https://s2-g1.glbimg.com/Cmty_Yr856VUJBNN1qnVlQv4yek=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/7/bR9MugTGWaLArjqyJidw/whatsapp-image-2026-09-19-at-18.48.44.jpeg",
+      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/19/pedro-coutinho-diz-que-vai-sanear-100percent-das-cidades-da-regiao-metropolitana-de-joao-pessoa.ghtml",
+      "source": "g1",
+      "published": 1789854706000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "A mãe que viralizou ao correr descalça (e vencer) uma corrida para poder comprar o material escolar da filha",
-      "summary": "Apesar de sua falta de experiência, e até mesmo de tênis para correr, Ramabai Ranveer venceu sua primeira corrida em agosto, correndo descalça até a linha de chegada.…",
+      "title": "Por que as mortes por overdose de fentanil caíram vertiginosamente nos EUA",
+      "summary": "Por 15 anos, as mortes causadas pelo consumo de fentanil nos Estados Unidos apresentaram aumentos contínuos. Até que, em meados de 2023, elas repentinamente desabaram.…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/a-mae-que-viralizou-ao-correr-descalca-e-vencer-uma-corrida-para-poder-comprar-o-material-escolar-da-filha.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/por-que-as-mortes-por-overdose-de-fentanil-cairam-vertiginosamente-nos-eua.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1789846920000
+      "published": 1789854060000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Conselho Regional de Odontologia de Sergipe publica edital para concurso público com salários de até R$ 4,5 mil",
-      "summary": "Prova de concurso público Reprodução/Freepik/Arquivo O Conselho Regional de Odontologia de Sergipe (CRO-SE) publicou edital de concurso público para o preenchimento de…",
-      "image": "https://s2-g1.glbimg.com/tD4x5NUOVp2_26L_p6TXkTg0WsI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/j/e/D3NNhwQy2PTJRBn2phTw/concurso-caxias.jpg",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/09/19/conselho-regional-de-odontologia-de-sergipe-publica-edital-para-concurso-publico-com-salarios-de-ate-r-45-mil.ghtml",
+      "title": "Manifestantes protestam antes de 1º show de Ed Sheeran desde polêmica com discurso pró-Palestina de atração de abertura",
+      "summary": "Viatura policial passa por manifestantes pró-Palestina perto de local de show de Ed Sheeran na Filadélfia, Pensilvânia Matthew Hatcher/AFP Manifestantes pró-Palestina se…",
+      "image": "https://s2-g1.glbimg.com/Rc83hEVJYzvzevIV9YyogMYU6G0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/3/zHfJq9QhaZBiUXugfiIg/afp-20260919-c8t86mg-v1-midres-protestersdemonstratenearlincolnfinancialfieldah.jpg",
+      "link": "https://g1.globo.com/pop-arte/noticia/2026/09/19/show-ed-sheeran-filadelfia-eua-apos-polemica-discurso-palestina-macklemore.ghtml",
       "source": "g1",
-      "published": 1789846843000
+      "published": 1789853992000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Mendonça e Fux afirmam à PF que não conseguem acessar cópia de celular de Vorcaro e pedem auxílio técnico",
-      "summary": "Os ministros do Supremo Tribunal Federal (STF) André Mendonça e Luiz Fux enviaram ofícios à Polícia Federal, neste sábado (19), afirmando que não conseguiram acessar o…",
-      "image": "https://s2-g1.glbimg.com/0iTZSB5u18mAbNdru85JMN0gQaY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/G/7lX3gwThSjgXt4sutDVg/banco-master.jpeg",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/19/mendonca-e-fux-afirmam-a-pf-que-nao-conseguem-acessar-copia-de-celular-de-vorcaro-e-pedem-auxilio-tecnico.ghtml",
-      "source": "g1",
-      "published": 1789846721000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Avenida Coronel Teixeira terá trecho interditado por quase 18 horas para instalação de pórtico em Manaus",
-      "summary": "Viaduto Passarão, em Manaus João Viana/Semcom Um trecho da avenida Coronel Teixeira, em Manaus, será interditado temporariamente a partir das 21h deste sábado (19) para…",
-      "image": "https://s2-g1.glbimg.com/GvNXmfDCi3Jzii6S6AirCu5_YwM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/l/UG11P2Ruag9A5PzccBjg/55528762097-2c9df8313d-o.jpg",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/19/avenida-coronel-teixeira-tera-trecho-interditado-por-quase-18-horas-para-instalacao-de-portico-em-manaus.ghtml",
-      "source": "g1",
-      "published": 1789846686000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Rússia classifica diretor Andrey Zvyagintsev como 'agente estrangeiro'",
-      "summary": "Nesta sexta-feira (18), a Rússia classificou o cineasta russo Andrey Zvyagintsev, 62, como um agente estrangeiro. A designação, publicada pelo Ministério da Justiça do…",
+      "title": "São Paulo volta a bater o Flamengo e avança à decisão do Brasileiro feminino",
+      "summary": "O São Paulo assegurou, no início da noite de sábado (19), sua vaga na decisão do Campeonato Brasileiro feminino. A equipe tricolor, que já havia vencido por 3 a 1 o jogo…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/russia-classifica-diretor-andrey-zvyagintsev-como-agente-estrangeiro.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/sao-paulo-volta-a-bater-o-flamengo-e-avanca-a-decisao-do-brasileiro-feminino.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1789846680000
+      "published": 1789853880000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Dr. Furlan faz caminhada em Macapá e participa de bandeirada em Santana",
+      "summary": "Candidato ao governo do Amapá, Dr. Furlan Francisco Pinheiro/g1 O candidato ao governo do Amapá, Dr. Furlan (PSD), cumpriu quatro agendas de campanha neste sábado (19),…",
+      "image": "https://s2-g1.glbimg.com/DzPeYcIqFTuStn0xSpmqWOyM8_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/J/Gaq6QWRhiXUQTVD5vOBA/whatsapp-image-2026-08-20-at-12.57.19.jpeg",
+      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/19/dr-furlan-faz-caminhada-em-macapa-e-participa-de-bandeirada-em-santana.ghtml",
+      "source": "g1",
+      "published": 1789853634000
     }
   ]
 }
