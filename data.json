@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-09-19T16:55:40.306Z",
+  "updatedAt": "2026-09-19T19:47:40.287Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Motociclista morre em colisão com carro dirigido por motorista com sinais de embriaguez e sem habilitação no noroeste de SP",
+      "summary": "Cruzamento das ruas das Aroeiras e Cabo Verde, em Cedral (SP), onde carro bateu em moto, provocando a morte de mulher de 31 anos, na noite de sexta (18) Google Street…",
+      "image": "https://s2-g1.glbimg.com/mHRJJR4tQcQFhANT0QliHb69avU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/4/mnDQ6WS1StPyRpaoNRbQ/rua-cedral.jpeg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/19/motociclista-morre-em-colisao-com-carro-dirigido-por-motorista-com-sinais-de-embriaguez-e-sem-habilitacao-no-noroeste-de-sp.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1789845485000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Tem Solução: SOS Mata Atlântica completa 40 anos com projetos de recuperação de rios e florestas",
+      "summary": "SOS Mata Atlântica completa 40 anos com foco em preservação no interior de SP A Fundação SOS Mata Atlântica completa 40 anos neste domingo (20). Criada em 20 de setembro…",
+      "image": "https://s2-g1.glbimg.com/pAFunNgU32xaWyc65Fy-5prYNHc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/T/8gOlyxTv6Fhby5LrmE2g/bau-tem-solucao-13-190926.transfer-frame-6467.jpeg",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/19/tem-solucao-sos-mata-atlantica-completa-40-anos-com-projetos-de-recuperacao-de-rios-e-florestas.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1789840825000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -33,224 +53,204 @@
       "published": 1789827756000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Mulher é presa por esfaquear o marido nove vezes ao descobrir traição no noroeste de SP",
-      "summary": "Central de Flagrantes da Polícia Civil de Votuporanga (SP) Google Street View/Reprodução Uma mulher foi presa suspeita de tentar matar o marido com nove facadas na manhã…",
-      "image": "https://s2-g1.glbimg.com/8VfQOPkBzc7n62TorTu3LV57Gx0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/r/ZjAhpySoKsvzuuKPDjJQ/votuporanga-plantao.jpeg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/19/mulher-e-presa-por-esfaquear-o-marido-nove-vezes-ao-descobrir-traicao-no-noroeste-de-sp.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1789826601000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Motoristas morrem após carros baterem de frente em vicinal entre Parisi e Votuporanga",
-      "summary": "Colisão entre dois veículos ocorreu na Rodovia Vicinal Ângelo Comar, que liga os municípios de Parisi e Votuporanga (SP) Google Street View/Reprodução Duas pessoas…",
-      "image": "https://s2-g1.glbimg.com/UOX5VhIQrpRqJTJcg9kxfRd6oaE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/m/l3n6ijRDC096BJqtNJaw/parisi-acidente.jpeg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/19/motoristas-morrem-apos-carros-baterem-de-frente-em-vicinal-entre-parisi-e-votuporanga.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1789822764000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Conselho da Petrobras aprova adesão a programa de subvenção ao diesel",
+      "summary": "Funcionários de posto de gasolina ajustam preço em Porto Alegre &#8211; 20/03/2026 (Foto: REUTERS/Diego Vara) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Diesel_posto.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/conselho-da-petrobras-aprova-adesao-a-programa-de-subvencao-ao-diesel/",
+      "source": "InfoMoney",
+      "published": 1789847120000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Irã executa condenado por suposta espionagem para o Mossad de Israel",
-      "summary": "Bandeira do Irã em Viena &#8211; 06/03/2023 (Foto: REUTERS/Leonhard Foeger) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-14T115331Z_1_LYNXMPEM6D0NG_RTROPTP_4_IRAN-NUCLEAR-IAEA.jpg?fit=300%2C210&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/ira-executa-condenado-por-suposta-espionagem-para-o-mossad-de-israel/",
+      "title": "Eleições 2026: candidatos não podem ser presos a partir de hoje; entenda regra",
+      "summary": "Luiz Inácio Lula da Silva (REUTERS/Adriano Machado) &#8211; Flávio Bolsonaro (REUTERS/Alexandre Meneghini) &#8211; Augusto Cury (REUTERS/Tita Barros) &#8211; Ronaldo…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/montagem-infomoney.jpg?fit=300%2C193&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/eleicoes-2026-candidatos-nao-podem-ser-presos-protecao-legislacao/",
       "source": "InfoMoney",
-      "published": 1789836549000
+      "published": 1789847100000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Chamas e fumaça são vistas perto de aeroporto de Riad após alerta de ataque aéreo",
-      "summary": "Nuvem de fumaça em depósito de combustível em aeroporto de Riad &#8211; 19/09/2026 (Foto: REUTERS/Stringer) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Aeroporto-de-Riad-fumaca.jpg?fit=300%2C169&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/chamas-e-fumaca-sao-vistas-perto-de-aeroporto-de-riad-apos-alerta-de-ataque-aereo/",
+      "title": "Otan elege general da Alemanha para presidir Comitê Militar e cita ações da Rússia",
+      "summary": "Um oficial da Polícia e Guarda de Fronteira da Estônia patrulha a fronteira entre Estônia e Rússia perto de Saatse, Estônia &#8211; 17/06/2026 (Foto: REUTERS/Ints…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Fronteira-da-Estonia-coma-Russia.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/otan-elege-general-da-alemanha-para-presidir-comite-militar-e-cita-acoes-da-russia/",
       "source": "InfoMoney",
-      "published": 1789836068000
+      "published": 1789846386000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Flávio: Num ato de desespero, Lula aumentou o Bolsa Família e tenta comprar votos",
-      "summary": "presidenciáveis; lula; flávio; montagem; candidatos \" data-image-caption=\" (Foto: Adriano Machado / Reuters e Mateus Bonomi / Reuters) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes2026-pesquisa-lula-flavio-02.jpg?fit=300%2C193&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/flavio-num-ato-de-desespero-lula-aumentou-o-bolsa-familia-e-tenta-comprar-votos/",
+      "title": "Trump critica Suprema Corte por decisões sobre tarifas e cidadania",
+      "summary": "Suprema Corte dos EUA, em Washington &#8211; 01/07/2024 (Foto: REUTERS/Kevin Mohatt) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-09T114101Z_1_LYNXMPEM080LQ_RTROPTP_4_USA-COURT-RULINGS.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/trump-critica-suprema-corte-por-decisoes-sobre-tarifas-e-cidadania/",
       "source": "InfoMoney",
-      "published": 1789835400000
+      "published": 1789845911000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Macallan: Vorcaro serviu uísque a convidados que pode custar milhões; entenda",
-      "summary": "Uísque Macallan \" data-image-caption=\" (Reprodução/ Site Macallan) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Uisque-Macallan.jpg?fit=300%2C300&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/macallan-uisque-vorcaro-moraes-cao-master-milhoes-reais/",
+      "title": "Rússia diz que atingiu navio que transportava suprimentos para forças ucranianas",
+      "summary": "Bombeiros trabalham no local de um edifício comercial atingido por um ataque de drone russo, em meio ao ataque da Rússia à Ucrânia, em Odessa &#8211; 18/09/2026 (Foto:…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Ataque-de-drone-russo-em-Odesa.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/russia-diz-que-atingiu-navio-que-transportava-suprimentos-para-forcas-ucranianas/",
       "source": "InfoMoney",
-      "published": 1789834200000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "AirPods, Invisalign e mais: equipes resgatam lixos “curiosos” em Yellowstone; confira",
-      "summary": "Yellowstone National Park, Estados Unidos \" data-image-caption=\" (Austin Farrington/Unsplash) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/austin-farrington-gp2QLJKOvVc-unsplash.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/airpods-invisalign-e-mais-equipes-resgatam-lixos-curiosos-em-yellowstone-confira/",
-      "source": "InfoMoney",
-      "published": 1789833600000
+      "published": 1789845544000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Bayern 7 x 0 Union Berlin pelo Alemão",
-      "summary": "Melhores momentos: Bayern 7 x 0 Union Berlin pelo Alemão O post Melhores momentos: Bayern 7 x 0 Union Berlin pelo Alemão apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/r33pwl3o-1920Bayern.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-bayern-7-x-0-union-berlin-pelo-alemao/",
+      "title": "Organização dos Jogos Asiáticos pede desculpas após tocar hino da Coreia do Norte para equipe sul-coreana",
+      "summary": "A organização dos Jogos Asiáticos de Nagoya-Aichi pediu desculpas após executar por engano o hino da Coreia do Norte antes de uma partida da seleção masculina de hóquei…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260919__C8RB466__v1__HighRes__Asiad2026JpnOpening.webp",
+      "link": "https://www.gazetaesportiva.com/olimpiadas/jogos-asiaticos-hino-coreia-norte-coreia-sul/",
       "source": "Gazeta Esportiva",
-      "published": 1789836793000
+      "published": 1789845356000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Atacante argentino Taty Castellanos é acusado de cuspir em adversário na 2ª divisão inglesa",
-      "summary": "O atacante argentino Taty Castellanos está no centro de uma polêmica na Inglaterra após ser acusado de cuspir no goleiro Filip Marschall durante o empate por 2 a 2 entre…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/640x640-3.webp",
-      "link": "https://www.gazetaesportiva.com/times/west-ham/taty-castellanos-e-acusado-de-cuspir-em-goleiro-do-millwall-na-inglaterra/",
+      "title": "Melhores momentos: Stuttgart 0 x 1 Dortmund pelo Alemão",
+      "summary": "Melhores momentos: Stuttgart 0 x 1 Dortmund pelo Alemão O post Melhores momentos: Stuttgart 0 x 1 Dortmund pelo Alemão apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/20ub62ro-1920Stuttgart.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-stuttgart-0-x-1-dortmund-pelo-alemao/",
       "source": "Gazeta Esportiva",
-      "published": 1789835883000
+      "published": 1789844391000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: M’gladbach 3 x 4 Mainz pelo Alemão",
-      "summary": "Melhores momentos: M'gladbach 3 x 4 Mainz pelo Alemão O post Melhores momentos: M’gladbach 3 x 4 Mainz pelo Alemão apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/ays4tj1y-1920ladbach.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-mgladbach-3-x-4-mainz-pelo-alemao/",
+      "title": "Atlético-MG x Chapecoense: siga o tempo real do jogo pelo Brasileirão",
+      "summary": "Atlético-MG e Chapecoense se enfrentam neste sábado, pela 28ª rodada do Campeonato Brasileiro. A partida será realizada às 16h (de Brasília), na Arena MRV, em Minas…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/HSmXfmZWIAAoF7I-1.webp",
+      "link": "https://www.gazetaesportiva.com/times/atletico-mg/atletico-mg-x-chapecoense-campeonato-brasileiro/",
       "source": "Gazeta Esportiva",
-      "published": 1789833850000
+      "published": 1789843817000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Bremen 3 x 2 Augsburg pelo Alemão",
-      "summary": "Melhores momentos: Bremen 3 x 2 Augsburg pelo Alemão O post Melhores momentos: Bremen 3 x 2 Augsburg pelo Alemão apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/rwacqw77-1920Bremen.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-bremen-3-x-2-augsburg-pelo-alemao/",
+      "title": "Palmeiras fecha preparação para enfrentar o Grêmio pelo Brasileirão",
+      "summary": "O Palmeiras finalizou neste sábado a preparação para enfrentar o Grêmio, pela 28ª rodada do Campeonato Brasileiro. Com apenas Jefté e Paulinho como desfalques, o técnico…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/19092026_cg_palmeiras_7653_8.webp",
+      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-fecha-preparacao-para-enfrentar-o-gremio-pelo-brasileirao/",
       "source": "Gazeta Esportiva",
-      "published": 1789833689000
+      "published": 1789842582000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Frankfurt 2 x 2 Freiburg pelo Alemão",
-      "summary": "Melhores momentos: Frankfurt 2 x 2 Freiburg pelo Alemão O post Melhores momentos: Frankfurt 2 x 2 Freiburg pelo Alemão apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/0n6pqey7-1920Frankfurt.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-frankfurt-2-x-2-freiburg-pelo-alemao/",
+      "title": "Veja fotos do treino do Palmeiras deste sábado",
+      "summary": "Veja fotos do treino do Palmeiras deste sábado. O post Veja fotos do treino do Palmeiras deste sábado apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/19092026_cg_palmeiras_7801_21.webp",
+      "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-treino-do-palmeiras-deste-sabado-20/",
       "source": "Gazeta Esportiva",
-      "published": 1789833528000
+      "published": 1789842423000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Quer melhorar o som da sua TV? Confira uma seleção de soundbars em promoção na Amazon",
-      "summary": "Se o áudio da sua televisão já não satisfaz mais, chegou a hora de dar um upgrade. Separamos três ótimas opções de soundbars disponíveis na Amazon, com tecnologias como…",
-      "image": "https://m.media-amazon.com/images/I/21yPj5NGVgL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/19/reviews/quer-melhorar-o-som-da-sua-tv-confira-uma-selecao-de-soundbars-em-promocao-na-amazon-7/",
+      "title": "The Witcher 3, Metal Gear e mais: uma seleção de jogos Xbox que vale a pena conferir",
+      "summary": "Se você é fã de Xbox e está de olho em boas pedidas para expandir a biblioteca, separamos três títulos que merecem atenção. De clássicos do RPG a coletâneas históricas…",
+      "image": "https://m.media-amazon.com/images/I/514w5tk0q3L._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/19/reviews/the-witcher-3-metal-gear-e-mais-uma-selecao-de-jogos-xbox-que-vale-a-pena-conferir/",
       "source": "Olhar Digital",
-      "published": 1789836000000
+      "published": 1789845600000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Som alto onde você estiver: as melhores caixas Bluetooth portáteis em oferta agora",
-      "summary": "Seja para animar uma festa, embalar uma viagem ou acompanhar você na praia, uma boa caixa de som Bluetooth faz toda a diferença. Reunimos três opções em promoção na…",
-      "image": "https://m.media-amazon.com/images/I/41-SWcb+ecL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/19/reviews/som-alto-onde-voce-estiver-as-melhores-caixas-bluetooth-portateis-em-oferta-agora/",
-      "source": "Olhar Digital",
-      "published": 1789834800000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Pikachu astronauta vai para o espaço e ganha exposição na Europa",
-      "summary": "ESA envia Pikachu à Estação Espacial Internacional e lança campanha com eventos em museus europeus e ativações especiais no Pokémon GO O post Pikachu astronauta vai para…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Sophie_Adenot_with_Astronaut_Pikachu_plush_at_the_European_Astronaut_Centre-1-1-724x1024.jpg",
-      "link": "https://olhardigital.com.br/2026/09/19/ciencia-e-espaco/exploracao-espacial/pikachu-astronauta-vai-para-o-espaco-e-ganha-exposicao-na-europa/",
-      "source": "Olhar Digital",
-      "published": 1789834626000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Quer jogar com mais imersão? Veja uma seleção de headsets gamer em promoção na Amazon",
-      "summary": "Seja para partidas competitivas ou longas sessões de RPG, um bom headset faz toda a diferença na experiência de jogo. Reunimos três ótimas opções de headsets gamer…",
-      "image": "https://m.media-amazon.com/images/I/41j1S82Wg8L._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/19/reviews/quer-jogar-com-mais-imersao-veja-uma-selecao-de-headsets-gamer-em-promocao-na-amazon-3/",
-      "source": "Olhar Digital",
-      "published": 1789833600000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Fone bom não precisa custar caro: veja uma seleção de opções Bluetooth em promoção",
-      "summary": "Seja para malhar, trabalhar ou simplesmente curtir música sem fio, um bom fone Bluetooth faz toda a diferença no dia a dia. Reunimos três opções em oferta na Amazon que…",
-      "image": "https://m.media-amazon.com/images/I/31eeSqQHCvL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/19/reviews/fone-bom-nao-precisa-custar-caro-veja-uma-selecao-de-opcoes-bluetooth-em-promocao-2/",
-      "source": "Olhar Digital",
-      "published": 1789832400000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "VÍDEOS: RJ1 de sábado, 19 de setembro de 2026",
-      "summary": "Assista aos vídeos do telejornal com as notícias do Rio de Janeiro.",
-      "image": "https://s2-g1.glbimg.com/5T8kxFFri33hvgK2vPGxgc_aGvs=/s01.video.glbimg.com/deo/vi/48/63/14976348",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/videos-rj1/playlist/videos-rj1-de-sabado-19-de-setembro-de-2026.ghtml",
-      "source": "g1",
-      "published": 1789836553000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Depois da cheia do Rio Tietê, lixo toma conta da antiga Usina de Lavras em Salto; VÍDEO",
-      "summary": "Depois da cheia do Rio Tietê, lixo toma conta da antiga Usina de Lavras em Salto Imagens aéreas feitas no Parque de Lavras, em Salto (SP), mostram o impacto da última…",
-      "image": "https://s2-g1.glbimg.com/h6UGsbcqE4x7oZmEWUf_1OOkll0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/v/wcAKTaS2ioMZaADY865g/whatsapp-image-2026-09-19-at-13.20.57.jpeg",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/19/depois-da-cheia-do-rio-tiete-lixo-toma-conta-da-antiga-usina-de-lavras-em-salto-video.ghtml",
-      "source": "g1",
-      "published": 1789836516000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Pastor foragido por coordenar assassinato de diretor de franquia milionária é preso; CEO da empresa é suspeito de encomendar a morte",
-      "summary": "Pastor é preso suspeito de coordenar assassinato de diretor de franquia milionária encomendado por CEO PCPR Paulo Santos da Silva, conhecido como Pastor Paulo, acusado…",
-      "image": "https://s2-g1.glbimg.com/gmR2sRIg-_VEuYwXJhdlHmUaBpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/O/0pcDlATZqwama0AMdj3Q/novo-projeto-10-.png",
-      "link": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/19/pastor-foragido-por-coordenar-assassinato-de-diretor-de-franquia-milionaria-e-preso.ghtml",
-      "source": "g1",
-      "published": 1789836457000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Flávia Saraiva leva medalha de ouro nas barras em etapa da Copa do Mundo",
-      "summary": "Flávia Saraiva conquistou a medalha de ouro nas barras assimétricas na etapa da Hungria da Copa do Mundo de ginástica artística , na cidade de Szombathely. A brasileira…",
+      "title": "Trump anuncia criação de “Força de IA” nos EUA e promete nomear um “czar” para acompanhar a tecnologia",
+      "summary": "Presidente dos Estados Unidos anuncia criação de uma “Força de IA” para acompanhar a regulamentação da tecnologia O post Trump anuncia criação de “Força de IA” nos EUA e…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/flavia-saraiva-leva-medalha-de-ouro-nas-barras-em-etapa-da-copa-do-mundo.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1789836180000
+      "link": "https://olhardigital.com.br/2026/09/19/inteligencia-artificial/trump-anuncia-criacao-de-forca-de-ia-nos-eua-e-promete-nomear-um-czar-para-acompanhar-a-tecnologia/",
+      "source": "Olhar Digital",
+      "published": 1789844676000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Wolverine, Miles Morales e mais: seleção de jogos PS5 em promoção na Amazon",
+      "summary": "O catálogo do PS5 tem títulos para todos os gostos, e a Amazon está com uma seleção interessante de jogos disponíveis agora. Reunimos três opções que valem atenção — de…",
+      "image": "https://m.media-amazon.com/images/I/41RJhuD+gvL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/19/reviews/wolverine-miles-morales-e-mais-selecao-de-jogos-ps5-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "published": 1789844400000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Hora de imprimir com mais economia: veja uma seleção de impressoras em promoção na Amazon",
+      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções multifuncionais em oferta na Amazon,…",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/19/reviews/hora-de-imprimir-com-mais-economia-veja-uma-selecao-de-impressoras-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "published": 1789843200000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Medicamento elimina marcadores do câncer em 77,8% dos pacientes com condição que pode anteceder o mieloma",
+      "summary": "Ensaio clínico de fase 2 avaliou o teclistamab em pacientes com mieloma múltiplo latente de alto risco e encontrou respostas completas em 77,8% dos casos O post…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/09/19/medicina-e-saude/medicamento-elimina-marcadores-do-cancer-em-778-dos-pacientes-com-condicao-que-pode-anteceder-o-mieloma/",
+      "source": "Olhar Digital",
+      "published": 1789842980000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Cury diz que 'suplicou' a Fachin para STF concluir julgamento em uma semana",
-      "summary": "Augusto Cury concede entrevista durante visita ao Ceagesp Reprodução/TV Globo A Augusto Cury (Avante), candidato à Presidência, afirmou que \"suplicou\" ao ministro Edson…",
-      "image": "https://s2-g1.glbimg.com/aB9RSqKQUtEETODQUpii3caYZA4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/Y/2sAZE1QxqzsCMeJGoyMw/jh-agenda-augusto-cury-kljn0147-kljn0147-jh-augusto-cury-19-9-0029-frame-7892.jpeg",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/19/cury-diz-que-suplicou-a-fachin-para-stf-concluir-julgamento-em-uma-semana.ghtml",
+      "title": "A mãe que viralizou ao correr descalça (e vencer) uma corrida para poder comprar o material escolar da filha",
+      "summary": "Apesar de sua falta de experiência, e até mesmo de tênis para correr, Ramabai Ranveer venceu sua primeira corrida em agosto, correndo descalça até a linha de chegada.…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/a-mae-que-viralizou-ao-correr-descalca-e-vencer-uma-corrida-para-poder-comprar-o-material-escolar-da-filha.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1789846920000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Conselho Regional de Odontologia de Sergipe publica edital para concurso público com salários de até R$ 4,5 mil",
+      "summary": "Prova de concurso público Reprodução/Freepik/Arquivo O Conselho Regional de Odontologia de Sergipe (CRO-SE) publicou edital de concurso público para o preenchimento de…",
+      "image": "https://s2-g1.glbimg.com/tD4x5NUOVp2_26L_p6TXkTg0WsI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/j/e/D3NNhwQy2PTJRBn2phTw/concurso-caxias.jpg",
+      "link": "https://g1.globo.com/se/sergipe/noticia/2026/09/19/conselho-regional-de-odontologia-de-sergipe-publica-edital-para-concurso-publico-com-salarios-de-ate-r-45-mil.ghtml",
       "source": "g1",
-      "published": 1789836120000
+      "published": 1789846843000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Mendonça e Fux afirmam à PF que não conseguem acessar cópia de celular de Vorcaro e pedem auxílio técnico",
+      "summary": "Os ministros do Supremo Tribunal Federal (STF) André Mendonça e Luiz Fux enviaram ofícios à Polícia Federal, neste sábado (19), afirmando que não conseguiram acessar o…",
+      "image": "https://s2-g1.glbimg.com/0iTZSB5u18mAbNdru85JMN0gQaY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/G/7lX3gwThSjgXt4sutDVg/banco-master.jpeg",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/19/mendonca-e-fux-afirmam-a-pf-que-nao-conseguem-acessar-copia-de-celular-de-vorcaro-e-pedem-auxilio-tecnico.ghtml",
+      "source": "g1",
+      "published": 1789846721000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Avenida Coronel Teixeira terá trecho interditado por quase 18 horas para instalação de pórtico em Manaus",
+      "summary": "Viaduto Passarão, em Manaus João Viana/Semcom Um trecho da avenida Coronel Teixeira, em Manaus, será interditado temporariamente a partir das 21h deste sábado (19) para…",
+      "image": "https://s2-g1.glbimg.com/GvNXmfDCi3Jzii6S6AirCu5_YwM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/l/UG11P2Ruag9A5PzccBjg/55528762097-2c9df8313d-o.jpg",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/19/avenida-coronel-teixeira-tera-trecho-interditado-por-quase-18-horas-para-instalacao-de-portico-em-manaus.ghtml",
+      "source": "g1",
+      "published": 1789846686000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Rússia classifica diretor Andrey Zvyagintsev como 'agente estrangeiro'",
+      "summary": "Nesta sexta-feira (18), a Rússia classificou o cineasta russo Andrey Zvyagintsev, 62, como um agente estrangeiro. A designação, publicada pelo Ministério da Justiça do…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/russia-classifica-diretor-andrey-zvyagintsev-como-agente-estrangeiro.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1789846680000
     }
   ]
 }
