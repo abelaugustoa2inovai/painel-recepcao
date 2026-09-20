@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-09-20T17:09:38.638Z",
+  "updatedAt": "2026-09-20T20:00:20.841Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Bosque com área de mata atlântica é reinaugurado 7 anos após incêndio; veja antes e depois",
+      "summary": "Bosque Municipal de Jales é reaberto à população após sete anos de revitalização Com a conclusão de uma ampla reestruturação e revitalização, o Bosque Municipal de…",
+      "image": "https://s2-g1.glbimg.com/cifHDPD3KjNDNp72GtCBLY01c70=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/j/443jjKSaWryvZBR4qEDA/g1-38-.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/20/bosque-com-area-de-mata-atlantica-e-reinaugurado-7-anos-apos-incendio-veja-antes-e-depois.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1789933343000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -15,8 +25,8 @@
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
-      "title": "Criança de 1 ano e 7 meses morre após ser atropelada na frente de casa no interior de SP",
-      "summary": "Criança de 1 ano e 7 meses morre após ser atropelada na frente de casa no interior de SP Uma criança de 1 ano e 7 meses morreu após ser atropelada por um motorista que…",
+      "title": "Criança de 1 ano e 8 meses morre após ser atropelada na frente de casa no interior de SP",
+      "summary": "Criança de 1 ano morre após ser atropelada na frente de casa no interior de SP Uma criança de 1 ano e 8 meses morreu após ser atropelada por um motorista que fugiu sem…",
       "image": "https://s2-g1.glbimg.com/-veIIArxkzLeP-QtOF8B53qnBTk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/X/kxnNffQkCHfbVYyt5uTQ/g1-46-.jpg",
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/20/crianca-de-1-ano-e-7-meses-morre-apos-ser-atropelada-na-frente-de-casa-no-interior-de-sp.ghtml",
       "source": "g1 > São José do Rio Preto e Araçatuba",
@@ -43,214 +53,204 @@
       "published": 1789900200000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Clube de jardinagem do Jardim Botânico de Sorocaba oferece aulas gratuitas de poda e cultivo",
-      "summary": "Clube de jardinagem do Jardim Botânico de Sorocaba oferece aulas gratuitas de poda e cultivo Reprodução / TV TEM O clube de jardinagem do Jardim Botânico de Sorocaba…",
-      "image": "https://s2-g1.glbimg.com/LqjhzhNYTulz6XuJn4eZC31auI8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/k/423NHwT0e9K6PBUQLvqQ/nc-curso-poda-200926-frame-3325.jpeg",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/20/clube-de-jardinagem-do-jardim-botanico-de-sorocaba-oferece-aulas-gratuitas-de-poda-e-cultivo.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1789900200000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Coreia do Norte dispara dois projéteis no Mar do Leste",
+      "summary": "Bandeira da Coreia do Norte na embaixada do país em Kuala Lumpur, na Malásia (REUTERS/Edgar Su) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/2024-05-27T142845Z_1_LYNXMPEK4Q0E9_RTROPTP_4_COREIAN-DISPARO.jpg?fit=300%2C212&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/coreia-do-norte-dispara-dois-projeteis-no-mar-do-leste/",
+      "source": "InfoMoney",
+      "published": 1789934281000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Tatyana Kim: a mulher mais rica da Rússia que viu sua fortuna encolher após ataques",
-      "summary": "Tatyana Kim (Foto: Bloomberg) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/09/Captura-de-tela-2026-09-20-135857.png?fit=941%2C627&quality=70&st…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Captura-de-tela-2026-09-20-135857.png?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/tatyana-kim-a-mulher-mais-rica-da-russia-que-viu-sua-fortuna-encolher-apos-ataques/",
+      "title": "Treasuries de curto prazo emergem como aposta popular de controle da inflação por Fed",
+      "summary": "Departamento do Tesouro dos EUA em Washington, DC. (Foto: Daniel Heuer/Bloomberg) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Captura-de-tela-2026-09-20-164705.png?fit=300%2C199&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/treasuries-de-curto-prazo-emergem-como-aposta-popular-de-controle-da-inflacao-por-fed/",
       "source": "InfoMoney",
-      "published": 1789923946000
+      "published": 1789933920000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Brasil derrota a Argentina e garante vaga olímpica; confusão marca final do clássico",
-      "summary": "Brasil vence Argentina e conquista Pré-Olímpico de vôlei masculino, no Maracanãzinho (Crédito: reprodução do Instagram) \" data-image-caption=\" Brasil vence Argentina e…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Captura-de-tela-2026-09-20-135256.png?fit=300%2C190&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/esportes/brasil-derrota-a-argentina-e-garante-vaga-olimpica-confusao-marca-final-do-classico/",
+      "title": "Partido governista Rússia Unida deve vencer eleição parlamentar com facilidade",
+      "summary": "Membros de uma comissão eleitoral local contam votos após o fechamento de uma seção eleitoral — localizada em um centro cultural decorado com um mosaico que retrata…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Captura-de-tela-2026-09-20-163714.png?fit=300%2C198&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/partido-governista-russia-unida-deve-vencer-eleicao-parlamentar-com-facilidade/",
       "source": "InfoMoney",
-      "published": 1789923540000
+      "published": 1789933133000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Corinthians x Fluminense: onde assistir ao jogo da 28ª rodada do Brasileirão",
-      "summary": "Equipes se enfrentam neste domingo (20), às 16h, na Neo Química Arena, The post Corinthians x Fluminense: onde assistir ao jogo da 28ª rodada do Brasileirão appeared…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/thumb-corinthians-x-fluminense.jpg?fit=300%2C191&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/esportes/corinthians-fluminense-onde-assistir-brasileirao-28-rodada/",
+      "title": "FT: Brasil, UE, Quênia e Canadá escrevem manifesto em defesa do multilateralismo",
+      "summary": "80ª Assembleia Geral das Nações Unidas, em Nova York, EUA 26/09/2025 (Foto: REUTERS/Jeenah Moon) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-26T133802Z_1433384960_RC2PZGAK4CBH_RTRMADP_3_UN-ASSEMBLY.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/ft-brasil-ue-quenia-e-canada-escrevem-manifesto-em-defesa-do-multilateralismo/",
       "source": "InfoMoney",
-      "published": 1789923000000
+      "published": 1789932769000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Restaurantes dos EUA reduzem carne nos hambúrgueres para enfrentar inflação",
-      "summary": "Hambúrguer do Copper Club (Foto: Copper Club) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Captura-de-tela-2026-09-20-134231.png?fit=300%2C258&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/economia/restaurantes-dos-eua-reduzem-carne-nos-hamburgueres-para-enfrentar-inflacao/",
+      "title": "Caiado: “Brasil tem estrutura para combater e libertar população do narcotráfico”",
+      "summary": "Brazilian presidential candidate Ronaldo Caiado, former governor of Goias state, presents his public security policy in Sao Paulo, Brazil August 10, 2026. REUTERS/Jean…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/ronaldo-caiado-eleicoes-politica-psd-01.jpg?fit=300%2C191&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/caiado-brasil-tem-estrutura-para-combater-e-libertar-populacao-do-narcotrafico/",
       "source": "InfoMoney",
-      "published": 1789922781000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Kashkari, do Fed, diz que inflação ainda está alta demais em todos os setores nos EUA",
-      "summary": "Homem caminha em frente ao prédio do Federal Reserve, em Washington &#8211; 16/12/2015 (Foto: REUTERS/Kevin Lamarque) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Federal-Reserve.jpg?fit=300%2C193&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/economia/kashkari-do-fed-diz-que-inflacao-ainda-esta-alta-demais-em-todos-os-setores-nos-eua/",
-      "source": "InfoMoney",
-      "published": 1789922640000
+      "published": 1789932571000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Veja fotos de Fulham x Manchester United pelo Inglês",
-      "summary": "Fulham e Manchester United se enfrentaram neste domingo, no Craven Cottage, pela quinta rodada do Campeonato Inglês. Confira os principais registros e fotos do…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260920__C8U78A8__v1__MidRes__FblEngPrFulhamManUtd.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/fotos-fulham-x-manchester-united-campeonato-ingles/",
+      "title": "Melhores momentos: Paderborn 3 x 1 Hoffenheim pelo Alemão",
+      "summary": "Melhores momentos: Paderborn 3 x 1 Hoffenheim pelo Alemão O post Melhores momentos: Paderborn 3 x 1 Hoffenheim pelo Alemão apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/yo0endpl-1920Paderborn.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-paderborn-3-x-1-hoffenheim-pelo-alemao/",
       "source": "Gazeta Esportiva",
-      "published": 1789924028000
+      "published": 1789933934000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Auxiliar de Abel lamenta empate do Palmeiras, mas descarta priorizar Copas: “Faltam 16 finais”",
-      "summary": "João Martins lamentou o empate do Palmeiras com o Grêmio, mas manteve a confiança na disputa do Brasileirão. O auxiliar de Abel Ferreira descartou priorizar as Copas e…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/20092026_cg_palmeiras_destaque_2269_8.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/joao-martins-palmeiras-16-finais-priorizar-copas/",
+      "title": "Veja fotos de Olympique de Marselha x PSG pelo Campeonato Francês",
+      "summary": "O post Veja fotos de Olympique de Marselha x PSG pelo Campeonato Francês apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260920__C8UP4G2__v1__HighRes__FblFraLigue1MarseillePsg.webp",
+      "link": "https://www.gazetaesportiva.com/fotos/veja-fotos-de-olympique-de-marselha-x-psg-pelo-campeonato-frances-2/",
       "source": "Gazeta Esportiva",
-      "published": 1789923845000
+      "published": 1789933296000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Cuca vibra com ótima sequência no Brasileirão e valoriza jogadores: “Uma queda nos pênaltis não tira o cr",
-      "summary": "Treinador celebrou a quinta vitória nos últimos seis jogos diante do Remo e exaltou mais uma ótima atuação da equipe paulista no Campeonato Brasileiro. O post Cuca vibra…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/2yqjy4s3-1920Cuca.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/cuca-vibra-com-otima-sequencia-no-brasileirao-e-valoriza-jogadores-uma-queda-nos-penaltis-nao-tira-o-cr/",
+      "title": "Gazeta realiza Desafio 101 em aquecimento para a São Silvestre durante a Virada Esportiva",
+      "summary": "A Gazeta Esportiva promoveu o Desafio 101 neste domingo, no Escadão da Fundação Cásper Líbero, na Avenida Paulista, como parte da programação da Virada Esportiva 2026. A…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-20-at-13.34.46-1.webp",
+      "link": "https://www.gazetaesportiva.com/mais-esportes/gazeta-esportiva-desafio-101-sao-silvestre/",
       "source": "Gazeta Esportiva",
-      "published": 1789923199000
+      "published": 1789931745000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Veja fotos do clássico entre Real Madrid e Atlético pelo Espanhol",
-      "summary": "O post Veja fotos do clássico entre Real Madrid e Atlético pelo Espanhol apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260920__C8U43BQ__v1__MidRes__FblEspLigaAtleticoMadridRealMadrid.webp",
-      "link": "https://www.gazetaesportiva.com/times/real-madrid/veja-fotos-do-classico-entre-real-madrid-e-atletico-pelo-espanhol/",
+      "title": "Torcida do Corinthians protesta e fica de costas antes de jogo contra o Fluminense",
+      "summary": "A torcida do Corinthians protestou e cobrou elenco e comissão técnica instantes antes da bola rolar para o duelo contra o Fluminense neste domingo, na Neo Química Arena,…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-20-at-16.05.55.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/torcida-corinthians-protesto-jogo-fluminense/",
       "source": "Gazeta Esportiva",
-      "published": 1789922153000
+      "published": 1789931488000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Com um a menos, Real Madrid perde clássico para o Atlético e vê Barcelona abrir vantagem no Espanhol",
-      "summary": "O Real Madrid foi derrotado pelo Atlético de Madrid no clássico da capital espanhola e desperdiçou a chance de seguir próximo da liderança de La Liga. Com um jogador a…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260920__C8U83M6__v1__MidRes__FblEspLigaAtleticoMadridRealMadrid.webp",
-      "link": "https://www.gazetaesportiva.com/times/real-madrid/com-um-a-menos-real-madrid-perde-classico-para-o-atletico-e-ve-barcelona-abrir-vantagem-no-espanhol/",
+      "title": "Douglas Santos destaca importância de primeiros amistosos da Seleção: “Começar o ciclo com pé direito”",
+      "summary": "Seleção comandada por Ancelotti começa a se apresentar em Brisbane, na Austrália, para amistosos contra Austrália e Índia. O post Douglas Santos destaca importância de…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/s08c2myh-1920Douglas.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/douglas-santos-destaca-importancia-de-primeiros-amistosos-da-selecao-comecar-o-ciclo-com-pe-direito/",
       "source": "Gazeta Esportiva",
-      "published": 1789921681000
+      "published": 1789930513000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Echo Dot em destaque: veja uma seleção de smart speakers com Alexa em promoção na Amazon",
-      "summary": "Se você quer transformar sua casa em um lar mais inteligente, esta é uma boa hora para dar o primeiro passo — ou expandir o que já tem. Reunimos três opções do Echo Dot…",
-      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/20/reviews/echo-dot-em-destaque-veja-uma-selecao-de-smart-speakers-com-alexa-em-promocao-na-amazon-3/",
+      "title": "Economize com uma seleção de jogos Xbox que valem cada centavo",
+      "summary": "Se você é fã do ecossistema Xbox e está de olho em bons títulos para adicionar à coleção, reunimos três opções que estão em destaque nas ofertas da Amazon. De clássicos…",
+      "image": "https://m.media-amazon.com/images/I/514w5tk0q3L._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/20/reviews/economize-com-uma-selecao-de-jogos-xbox-que-valem-cada-centavo/",
       "source": "Olhar Digital",
-      "published": 1789923600000
+      "published": 1789932000000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Som de cinema em casa: selecionamos soundbars JBL e Samsung em promoção na Amazon",
-      "summary": "Quem quer melhorar a experiência de áudio em casa sem complicação vai gostar do que separamos hoje. Encontramos três soundbars em oferta na Amazon — modelos de JBL e…",
-      "image": "https://m.media-amazon.com/images/I/21yPj5NGVgL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/20/reviews/som-de-cinema-em-casa-selecionamos-soundbars-jbl-e-samsung-em-promocao-na-amazon/",
+      "title": "GTA VI, Spider-Man e mais: selecionamos os melhores jogos de PS5 em promoção agora",
+      "summary": "Se você está de olho em novos títulos para o PlayStation 5, esta é uma boa hora para agir. Reunimos três jogos em promoção na Amazon que valem muito a atenção — de…",
+      "image": "https://m.media-amazon.com/images/I/41RJhuD+gvL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/20/reviews/gta-vi-spider-man-e-mais-selecionamos-os-melhores-jogos-de-ps5-em-promocao-agora-4/",
       "source": "Olhar Digital",
-      "published": 1789922400000
+      "published": 1789930800000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Som na praia, na festa ou onde você quiser: veja caixas de som Bluetooth em promoção na Amazon",
-      "summary": "Seja para animar a praia, embalar uma festa ou ter trilha sonora nas viagens, uma boa caixa de som Bluetooth faz toda a diferença. Reunimos três opções em oferta na…",
-      "image": "https://m.media-amazon.com/images/I/41-SWcb+ecL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/20/reviews/som-na-praia-na-festa-ou-onde-voce-quiser-veja-caixas-de-som-bluetooth-em-promocao-na-amazon/",
+      "title": "Testes nucleares da Coreia do Norte podem ter provocado milhares de terremotos nos anos seguintes",
+      "summary": "Pesquisa analisou 17 anos de dados sísmicos e identificou 1.399 terremotos locais na região do Monte Mantap, onde ficava principal local de testes nucleares do país O…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2024/10/missil-coreia-do-norte-1-1024x682.jpg",
+      "link": "https://olhardigital.com.br/2026/09/20/ciencia-e-espaco/testes-nucleares-da-coreia-do-norte-podem-ter-provocado-milhares-de-terremotos-nos-anos-seguintes/",
       "source": "Olhar Digital",
-      "published": 1789921200000
+      "published": 1789930224000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Bezos, Musk e Altman estão entre os convidados para jantar de Xi Jinping na Casa Branca",
-      "summary": "Entre os convidados estão alguns dos nomes mais conhecidos do setor de tecnologia O post Bezos, Musk e Altman estão entre os convidados para jantar de Xi Jinping na Casa…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/11/Jeff-Bezos-1024x576.jpg",
-      "link": "https://olhardigital.com.br/2026/09/20/pro/bezos-musk-e-altman-estao-entre-os-convidados-para-jantar-de-xi-jinping-na-casa-branca/",
+      "title": "Hora de imprimir com inteligência: veja as melhores impressoras em promoção na Amazon",
+      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é o momento certo. Reunimos três opções de impressoras multifuncionais em oferta na Amazon,…",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/20/reviews/hora-de-imprimir-com-inteligencia-veja-as-melhores-impressoras-em-promocao-na-amazon/",
       "source": "Olhar Digital",
-      "published": 1789920128000
+      "published": 1789929600000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Quer jogar com mais imersão? Veja uma seleção de headsets gamer em promoção na Amazon",
-      "summary": "Seja para competir online, curtir uma campanha solo ou comunicar com o time, um bom headset gamer faz toda a diferença na experiência. Separamos três opções em oferta na…",
-      "image": "https://m.media-amazon.com/images/I/41j1S82Wg8L._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/20/reviews/quer-jogar-com-mais-imersao-veja-uma-selecao-de-headsets-gamer-em-promocao-na-amazon-4/",
+      "title": "Sinal fraco no Wi-Fi? Confira uma seleção de roteadores Mesh em promoção na Amazon",
+      "summary": "Se a internet travando em algum canto da casa é um problema recorrente no seu dia a dia, talvez seja hora de investir em um bom roteador. Separamos três opções de…",
+      "image": "https://m.media-amazon.com/images/I/41xeKhNopEL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/20/reviews/sinal-fraco-no-wi-fi-confira-uma-selecao-de-roteadores-mesh-em-promocao-na-amazon-3/",
       "source": "Olhar Digital",
-      "published": 1789920000000
+      "published": 1789928400000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "VÍDEO: Parte do palco cai durante show de Gloria Groove em festival de MG",
-      "summary": "Parte do palco cai durante show de Gloria Groove em festival de MG Parte do palco onde a cantora Gloria Groove se apresentava, durante o evento Spring Festival Unity, em…",
-      "image": "https://s2-g1.glbimg.com/Fmbp5dxT-rsdZ7pU_t0JRLebW9A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/4/rAc6csTBOslFZrG4Aukg/jl-tm-2026-09-20t134641.119.jpg",
-      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/09/20/video-parte-do-palco-cai-durante-show-de-gloria-groove-em-festival-de-mg.ghtml",
+      "title": "Caiado promete cortar 100% das emendas impositivas e limitar gastos do governo para reduzir juros",
+      "summary": "O presidenciável Ronaldo Caiado (PSD) e o vice, Gilberto Kassab, durante agenda em SP Walace Lara/TV Globo O candidato à Presidência Ronaldo Caiado (PSD) afirmou em…",
+      "image": "https://s2-g1.glbimg.com/Mx6PXZTh5aI6qZQuWiAmsqQra8k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/W/13nAotTomoPvB3IadePA/whatsapp-image-2026-09-20-at-14.27.29.jpeg",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/20/caiado-promete-cortar-100percent-das-emendas-impositivas-e-limitar-gastos-do-governo-para-reduzir-juros.ghtml",
       "source": "g1",
-      "published": 1789923689000
+      "published": 1789933726000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "O Brasil ajudou a IA a revolucionar a matemática",
-      "summary": "Na semana passada visitei meu colega de Folha , Marcelo Viana, diretor-geral do IMPA (Instituto de Matemática Pura e Aplicada). Falamos da revolução que a inteligência…",
+      "title": "Último dia do inverno terá chuva volumosa e risco de enxurradas e granizo em SC, alerta Defesa Civil",
+      "summary": "Confira a previsão do tempo para SC A passagem de uma frente fria vai provocar temporais e chuva volumosa em toda Santa Catarina nesta segunda-feira (21), último dia do…",
+      "image": "https://s2-g1.glbimg.com/bx8cY7QxsR7kfYkrubosOe83OJA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/e/08n2rAQzeHixzp3og5Qw/image-202-1024x661.png",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/20/frente-fria-chuva-volumosa-risco-enxurradas-eranizo-sc-defesa-civil.ghtml",
+      "source": "g1",
+      "published": 1789933681000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "EUA devem vender US$ 1 tri em títulos de curto prazo após alta recorde dos Treasuries",
+      "summary": "Os bancos de Wall Street esperam que os EUA tomem emprestado até US$ 1 trilhão (R$ 5,14 trilhões) no próximo ano por meio da venda de Letras do Tesouro de curto prazo,…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2026/09/o-brasil-ajudou-a-ia-a-revolucionar-a-matematica.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/09/eua-devem-vender-us-1-tri-em-titulos-de-curto-prazo-apos-alta-recorde-dos-treasuries.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1789923600000
+      "published": 1789933680000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Thiago Lacerda e Vanessa Lóes se separam após 25 anos juntos",
-      "summary": "A relação de Thiago Lacerda e Vanessa Lóes chegou ao fim depois de 25 anos. O ator confirmou que os dois estão separados em entrevista publicada pelo jornal O Globo…",
+      "title": "Cheia do rio Tietê arrasta lixo para parque e prédio de usina histórica em Salto (SP); veja vídeo",
+      "summary": "A cheia do rio Tietê, nos últimos dias 13 e 14 , deixou grande quantidade de lixo e entulho acumulados no Parque de Lavras, em Salto, no interior de São Paulo . Imagens…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/thiago-lacerda-e-vanessa-loes-se-separam-apos-25-anos-juntos.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/cheia-do-rio-tiete-arrasta-lixo-para-parque-e-predio-de-usina-historica-em-salto-sp-veja-video.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1789923600000
+      "published": 1789933500000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Motociclista morre após acidente envolvendo um carro em Feira Nova",
-      "summary": "Acidente em Feira Nova (SE) deixa motociclista morto BPRv Um motociclista morreu após um acidente de trânsito envolvendo um carro na Rodovia SE-230, no Povoado…",
-      "image": "https://s2-g1.glbimg.com/VHRNedR-smTG5SK3VIWyBO07P9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/E/FIJ4luSH2VvyFXz3CyPw/crop-foto-2026-09-20t135801.009.jpg",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/09/20/motociclista-morre-apos-acidente-envolvendo-um-carro-em-feira-nova.ghtml",
+      "title": "Vereador e subtenente é preso após acidente, fuga e tentativa de suborno em MS",
+      "summary": "Vereador foi preso em flagrante nesta sexta-feira (18) Reprodução/Redes sociais O vereador de Ponta Porã e subtenente do Corpo de Bombeiros Dionaldo Morinigo, de 49…",
+      "image": "https://s2-g1.glbimg.com/RZa6wwx4ldlS_utbdCY-o7URSfI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/u/v4xXtyS4KMc8wBgHSBGA/vereador.png",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/20/vereador-e-subtenente-e-preso-apos-acidente-fuga-e-tentativa-de-suborno-em-ms.ghtml",
       "source": "g1",
-      "published": 1789923596000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Homem é preso em Santo Antônio de Pádua suspeito de bater cabeça da ex-companheira contra parede",
-      "summary": "A vítima já tinha medidas protetivas de urgência contra o ex-companheiro e, a polícia aponta que ele tinha conhecimento da proibição de se aproximar dela. Polícia Civil…",
-      "image": "https://s2-g1.glbimg.com/Gs39xKOcGYYiH0idwsw_YnqoRq8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/7/DSXHsRRqGMPqbxFu62zg/1000871519.jpg",
-      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/09/20/homem-e-preso-em-santo-antonio-de-padua-suspeito-de-bater-cabeca-da-ex-companheira-contra-parede.ghtml",
-      "source": "g1",
-      "published": 1789923500000
+      "published": 1789933234000
     }
   ]
 }
