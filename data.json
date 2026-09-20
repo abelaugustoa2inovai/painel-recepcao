@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-09-20T20:00:20.841Z",
+  "updatedAt": "2026-09-20T22:17:57.279Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Queridinha no lar dos brasileiros: especialista dá dicas de como cuidar de orquídeas em casa",
+      "summary": "Orquídeas florescem com chegada da primavera: especialista ensina cuidados em Rio Preto Orquídeas florescem com chegada da primavera: especialista ensina cuidados em Rio…",
+      "image": "https://s2-g1.glbimg.com/SxmyMpe5BV2ZIOEkYZFp6rqNphg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/3/bsCbQtRz2Hpu2bATSHbQ/orquideas2.jpeg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/20/queridinha-no-lar-dos-brasileiros-especialista-da-dicas-de-como-cuidar-de-orquideas-em-casa.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1789939137000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -43,14 +53,44 @@
       "published": 1789902000000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Produtores do interior de SP aumentam renda com consórcio de culturas",
-      "summary": "Produtores do interior de SP aumentam renda com consórcio de culturas Reprodução / TV TEM O consórcio de culturas, prática antiga que combina diferentes plantações no…",
-      "image": "https://s2-g1.glbimg.com/u6lkGIQu6CDI_uCZHmMS99DlMp0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Y/GIkHDQQXumVv9bPMoMkA/bau-consorcio-culturas-060526.copy.02-frame-9111.jpeg",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/20/produtores-do-interior-de-sp-aumentam-renda-com-consorcio-de-culturas.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1789900200000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Vídeo contradiz Moraes, que disse em março ‘jamais’ ter voado em aeronaves de Vorcaro",
+      "summary": "Ministro do STF Alexandre de Moraes 11/04/2024 REUTERS/Jorge Silva \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-30T165922Z_1_LYNXMPEK7T0MA_RTROPTP_4_TWITTER-BRAZIL.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/video-contradiz-moraes-que-disse-em-marco-jamais-ter-voado-em-aeronaves-de-vorcaro/",
+      "source": "InfoMoney",
+      "published": 1789942440000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Coligação de Lula aciona TSE contra uso de perfis para impulsionar campanha de Flávio",
+      "summary": "Podcast Desce a Letra Show 16.09.2026 – O presidente da República, Luiz Inácio Lula da Silva, durante Podcast Desce a Letra Show, no Palácio da Alvorada, Brasília…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/55532115443_cf22587191_c.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/coligacao-de-lula-aciona-tse-contra-uso-de-perfis-para-impulsionar-campanha-flavio/",
+      "source": "InfoMoney",
+      "published": 1789939620000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Dino manda governo revisar regras da CVM e cita falhas reveladas pelo caso Master",
+      "summary": "Brasília (DF), 02/02/2026 &#8211; O ministro do STF, Flávio Dino, participa da abertura do Ano Judiciário de 2026 do Supremo Tribunal Federal (STF). Foto: Marcelo…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/abertura-stf-mc_abr_30012026-11.webp?fit=300%2C225&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/dino-manda-governo-revisar-regras-da-cvm-e-cita-falhas-reveladas-pelo-caso-master/",
+      "source": "InfoMoney",
+      "published": 1789934555000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Calendário econômico: ata do Copom, IPCA-15, Relatório de Política Monetária no radar",
+      "summary": "Foto: Joédson Alves/Agência Brasil \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/10/inflacion12.jpg?fit=1200%2C800&quality=70&strip=all\" />Tudo…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/inflacion12.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/calendario-economico-ata-do-copom-e-relatorio-de-politica-monetaria-como-destaques/",
+      "source": "InfoMoney",
+      "published": 1789934400000
     },
     {
       "category": "mercado",
@@ -63,94 +103,94 @@
       "published": 1789934281000
     },
     {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Treasuries de curto prazo emergem como aposta popular de controle da inflação por Fed",
-      "summary": "Departamento do Tesouro dos EUA em Washington, DC. (Foto: Daniel Heuer/Bloomberg) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Captura-de-tela-2026-09-20-164705.png?fit=300%2C199&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/treasuries-de-curto-prazo-emergem-como-aposta-popular-de-controle-da-inflacao-por-fed/",
-      "source": "InfoMoney",
-      "published": 1789933920000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Partido governista Rússia Unida deve vencer eleição parlamentar com facilidade",
-      "summary": "Membros de uma comissão eleitoral local contam votos após o fechamento de uma seção eleitoral — localizada em um centro cultural decorado com um mosaico que retrata…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Captura-de-tela-2026-09-20-163714.png?fit=300%2C198&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/partido-governista-russia-unida-deve-vencer-eleicao-parlamentar-com-facilidade/",
-      "source": "InfoMoney",
-      "published": 1789933133000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "FT: Brasil, UE, Quênia e Canadá escrevem manifesto em defesa do multilateralismo",
-      "summary": "80ª Assembleia Geral das Nações Unidas, em Nova York, EUA 26/09/2025 (Foto: REUTERS/Jeenah Moon) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-26T133802Z_1433384960_RC2PZGAK4CBH_RTRMADP_3_UN-ASSEMBLY.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/ft-brasil-ue-quenia-e-canada-escrevem-manifesto-em-defesa-do-multilateralismo/",
-      "source": "InfoMoney",
-      "published": 1789932769000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Caiado: “Brasil tem estrutura para combater e libertar população do narcotráfico”",
-      "summary": "Brazilian presidential candidate Ronaldo Caiado, former governor of Goias state, presents his public security policy in Sao Paulo, Brazil August 10, 2026. REUTERS/Jean…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/ronaldo-caiado-eleicoes-politica-psd-01.jpg?fit=300%2C191&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/caiado-brasil-tem-estrutura-para-combater-e-libertar-populacao-do-narcotrafico/",
-      "source": "InfoMoney",
-      "published": 1789932571000
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Paz garante permanência de Diniz no Corinthians em meio a jejum: “Decisão validada pelo elenco”",
+      "summary": "Fernando Diniz está mantido no comando do Corinthians, ao menos por enquanto. Após a derrota por 3 a 1 para o Fluminense neste domingo, na Neo Química Arena, o executivo…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-20-at-19.06.31.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-mantem-diniz-no-cargo-em-meio-a-jejum-no-brasileiro-decisao-validada-pelo-elenco/",
+      "source": "Gazeta Esportiva",
+      "published": 1789941826000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Paderborn 3 x 1 Hoffenheim pelo Alemão",
-      "summary": "Melhores momentos: Paderborn 3 x 1 Hoffenheim pelo Alemão O post Melhores momentos: Paderborn 3 x 1 Hoffenheim pelo Alemão apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/yo0endpl-1920Paderborn.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-paderborn-3-x-1-hoffenheim-pelo-alemao/",
+      "title": "Porto vence o Benfica e abre cinco pontos na liderança do Português",
+      "summary": "O Porto venceu o Benfica por 3 a 1 neste domingo, no Estádio do Dragão, pela 7ª rodada do Campeonato Português. Gabri Veiga abriu o placar para os donos da casa no…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260920__C8UP2W2__v1__HighRes__FblPorLigaPortoBenfica.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/liga-nos/porto-vence-o-benfica-e-abre-cinco-pontos-na-lideranca-do-portugues/",
       "source": "Gazeta Esportiva",
-      "published": 1789933934000
+      "published": 1789941802000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Veja fotos de Olympique de Marselha x PSG pelo Campeonato Francês",
-      "summary": "O post Veja fotos de Olympique de Marselha x PSG pelo Campeonato Francês apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260920__C8UP4G2__v1__HighRes__FblFraLigue1MarseillePsg.webp",
-      "link": "https://www.gazetaesportiva.com/fotos/veja-fotos-de-olympique-de-marselha-x-psg-pelo-campeonato-frances-2/",
+      "title": "Athletico-PR x Bahia: siga o tempo real do jogo pelo Brasileirão",
+      "summary": "Confira o tempo real do duelo entre Athletico-PR e Bahia, pela 28ª rodada do Campeonato Brasileiro. O post Athletico-PR x Bahia: siga o tempo real do jogo pelo…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/HSruCbfXwAA-qUX.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/athletico-pr-x-bahia-campeonato-brasileiro-20-09-2026/",
       "source": "Gazeta Esportiva",
-      "published": 1789933296000
+      "published": 1789941629000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Gazeta realiza Desafio 101 em aquecimento para a São Silvestre durante a Virada Esportiva",
-      "summary": "A Gazeta Esportiva promoveu o Desafio 101 neste domingo, no Escadão da Fundação Cásper Líbero, na Avenida Paulista, como parte da programação da Virada Esportiva 2026. A…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-20-at-13.34.46-1.webp",
-      "link": "https://www.gazetaesportiva.com/mais-esportes/gazeta-esportiva-desafio-101-sao-silvestre/",
+      "title": "De virada, Goiás ganha em casa do Avaí pela Série B do Brasileiro",
+      "summary": "O Goiás venceu o Avaí por 2 a 1 neste domingo, no Estádio Hailé Pinheiro, pela 29ª rodada da Série B. Após sair atrás no placar, o Esmeraldino virou no segundo tempo com…",
+      "image": "https://static.gazetaesportiva.com/uploads/2025/10/Captura-de-tela-2025-10-03-180931.webp",
+      "link": "https://www.gazetaesportiva.com/times/goias/de-virada-goias-ganha-em-casa-do-avai-pela-serie-b-do-brasileiro/",
       "source": "Gazeta Esportiva",
-      "published": 1789931745000
+      "published": 1789940040000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Torcida do Corinthians protesta e fica de costas antes de jogo contra o Fluminense",
-      "summary": "A torcida do Corinthians protestou e cobrou elenco e comissão técnica instantes antes da bola rolar para o duelo contra o Fluminense neste domingo, na Neo Química Arena,…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-20-at-16.05.55.webp",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/torcida-corinthians-protesto-jogo-fluminense/",
+      "title": "Matheus Pereira exalta virada do Cruzeiro e mira vaga na Libertadores: “Nosso objetivo”",
+      "summary": "Matheus Pereira valorizou a reação do Cruzeiro na vitória por 3 a 1 sobre o Vitória e reforçou a confiança da equipe na busca por uma vaga na Libertadores. O post…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55540683150_afe4b6bf26_o.webp",
+      "link": "https://www.gazetaesportiva.com/times/cruzeiro/matheus-pereira-cruzeiro-vitoria-libertadores/",
       "source": "Gazeta Esportiva",
-      "published": 1789931488000
+      "published": 1789939513000
     },
     {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Douglas Santos destaca importância de primeiros amistosos da Seleção: “Começar o ciclo com pé direito”",
-      "summary": "Seleção comandada por Ancelotti começa a se apresentar em Brisbane, na Austrália, para amistosos contra Austrália e Índia. O post Douglas Santos destaca importância de…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/s08c2myh-1920Douglas.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/douglas-santos-destaca-importancia-de-primeiros-amistosos-da-selecao-comecar-o-ciclo-com-pe-direito/",
-      "source": "Gazeta Esportiva",
-      "published": 1789930513000
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Samsung começa a trocar OneDrive pelo Google Fotos e muda como celulares Galaxy sincronizam fotos e vídeos",
+      "summary": "Novidade começou a ser liberada para alguns usuários após atualizações dos aplicativos envolvidos e traz algumas restrições importantes O post Samsung começa a trocar…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/samsung-1024x681.jpg",
+      "link": "https://olhardigital.com.br/2026/09/20/reviews/samsung-comeca-a-trocar-onedrive-pelo-google-fotos-e-muda-como-celulares-galaxy-sincronizam-fotos-e-videos/",
+      "source": "Olhar Digital",
+      "published": 1789938106000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Medo de IA destruir empregos é global; pesquisas mostram onde impacto já aparece",
+      "summary": "Pesquisas recentes mostram que a preocupação aparece em diferentes regiões do mundo e em diversos recortes do mercado de trabalho O post Medo de IA destruir empregos é…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/agente-de-ia-1024x683.jpg",
+      "link": "https://olhardigital.com.br/2026/09/20/inteligencia-artificial/medo-de-ia-destruir-empregos-e-global-pesquisas-mostram-onde-impacto-ja-aparece/",
+      "source": "Olhar Digital",
+      "published": 1789935886000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Hora de trocar de smartwatch: veja uma seleção com ótimas opções em promoção",
+      "summary": "Se você está pensando em investir em um smartwatch, este é um bom momento para ficar de olho nas ofertas disponíveis na Amazon. Reunimos três opções de marcas…",
+      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/20/reviews/hora-de-trocar-de-smartwatch-veja-uma-selecao-com-otimas-opcoes-em-promocao/",
+      "source": "Olhar Digital",
+      "published": 1789933200000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Estados Unidos e China discutem IA, terras raras e comércio antes de encontro entre Trump e Xi Jinping",
+      "summary": "Conversas ocorrem na sede do JPMorgan Chase e também contam com a participação do representante comercial dos EUA, Jamieson Greer O post Estados Unidos e China discutem…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/china_eua_espaco-1024x768.jpg",
+      "link": "https://olhardigital.com.br/2026/09/20/pro/estados-unidos-e-china-discutem-ia-terras-raras-e-comercio-antes-de-encontro-entre-trump-e-xi-jinping/",
+      "source": "Olhar Digital",
+      "published": 1789933126000
     },
     {
       "category": "tecnologia",
@@ -163,94 +203,54 @@
       "published": 1789932000000
     },
     {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "GTA VI, Spider-Man e mais: selecionamos os melhores jogos de PS5 em promoção agora",
-      "summary": "Se você está de olho em novos títulos para o PlayStation 5, esta é uma boa hora para agir. Reunimos três jogos em promoção na Amazon que valem muito a atenção — de…",
-      "image": "https://m.media-amazon.com/images/I/41RJhuD+gvL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/20/reviews/gta-vi-spider-man-e-mais-selecionamos-os-melhores-jogos-de-ps5-em-promocao-agora-4/",
-      "source": "Olhar Digital",
-      "published": 1789930800000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Testes nucleares da Coreia do Norte podem ter provocado milhares de terremotos nos anos seguintes",
-      "summary": "Pesquisa analisou 17 anos de dados sísmicos e identificou 1.399 terremotos locais na região do Monte Mantap, onde ficava principal local de testes nucleares do país O…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2024/10/missil-coreia-do-norte-1-1024x682.jpg",
-      "link": "https://olhardigital.com.br/2026/09/20/ciencia-e-espaco/testes-nucleares-da-coreia-do-norte-podem-ter-provocado-milhares-de-terremotos-nos-anos-seguintes/",
-      "source": "Olhar Digital",
-      "published": 1789930224000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Hora de imprimir com inteligência: veja as melhores impressoras em promoção na Amazon",
-      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é o momento certo. Reunimos três opções de impressoras multifuncionais em oferta na Amazon,…",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/20/reviews/hora-de-imprimir-com-inteligencia-veja-as-melhores-impressoras-em-promocao-na-amazon/",
-      "source": "Olhar Digital",
-      "published": 1789929600000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Sinal fraco no Wi-Fi? Confira uma seleção de roteadores Mesh em promoção na Amazon",
-      "summary": "Se a internet travando em algum canto da casa é um problema recorrente no seu dia a dia, talvez seja hora de investir em um bom roteador. Separamos três opções de…",
-      "image": "https://m.media-amazon.com/images/I/41xeKhNopEL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/20/reviews/sinal-fraco-no-wi-fi-confira-uma-selecao-de-roteadores-mesh-em-promocao-na-amazon-3/",
-      "source": "Olhar Digital",
-      "published": 1789928400000
-    },
-    {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Caiado promete cortar 100% das emendas impositivas e limitar gastos do governo para reduzir juros",
-      "summary": "O presidenciável Ronaldo Caiado (PSD) e o vice, Gilberto Kassab, durante agenda em SP Walace Lara/TV Globo O candidato à Presidência Ronaldo Caiado (PSD) afirmou em…",
-      "image": "https://s2-g1.glbimg.com/Mx6PXZTh5aI6qZQuWiAmsqQra8k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/W/13nAotTomoPvB3IadePA/whatsapp-image-2026-09-20-at-14.27.29.jpeg",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/20/caiado-promete-cortar-100percent-das-emendas-impositivas-e-limitar-gastos-do-governo-para-reduzir-juros.ghtml",
-      "source": "g1",
-      "published": 1789933726000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Último dia do inverno terá chuva volumosa e risco de enxurradas e granizo em SC, alerta Defesa Civil",
-      "summary": "Confira a previsão do tempo para SC A passagem de uma frente fria vai provocar temporais e chuva volumosa em toda Santa Catarina nesta segunda-feira (21), último dia do…",
-      "image": "https://s2-g1.glbimg.com/bx8cY7QxsR7kfYkrubosOe83OJA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/e/08n2rAQzeHixzp3og5Qw/image-202-1024x661.png",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/20/frente-fria-chuva-volumosa-risco-enxurradas-eranizo-sc-defesa-civil.ghtml",
-      "source": "g1",
-      "published": 1789933681000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "EUA devem vender US$ 1 tri em títulos de curto prazo após alta recorde dos Treasuries",
-      "summary": "Os bancos de Wall Street esperam que os EUA tomem emprestado até US$ 1 trilhão (R$ 5,14 trilhões) no próximo ano por meio da venda de Letras do Tesouro de curto prazo,…",
+      "title": "Os cientistas que salvam filhotes de araras de seus pais assassinos",
+      "summary": "Parker ainda não havia aberto os olhos, quando uma mão o retirou do ninho. Era uma manhã de domingo em novembro de 2018, na Reserva Nacional Tambopata, nas profundezas…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/09/eua-devem-vender-us-1-tri-em-titulos-de-curto-prazo-apos-alta-recorde-dos-treasuries.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/os-cientistas-que-salvam-filhotes-de-araras-de-seus-pais-assassinos.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1789933680000
+      "published": 1789941660000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Cheia do rio Tietê arrasta lixo para parque e prédio de usina histórica em Salto (SP); veja vídeo",
-      "summary": "A cheia do rio Tietê, nos últimos dias 13 e 14 , deixou grande quantidade de lixo e entulho acumulados no Parque de Lavras, em Salto, no interior de São Paulo . Imagens…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/cheia-do-rio-tiete-arrasta-lixo-para-parque-e-predio-de-usina-historica-em-salto-sp-veja-video.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1789933500000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Vereador e subtenente é preso após acidente, fuga e tentativa de suborno em MS",
-      "summary": "Vereador foi preso em flagrante nesta sexta-feira (18) Reprodução/Redes sociais O vereador de Ponta Porã e subtenente do Corpo de Bombeiros Dionaldo Morinigo, de 49…",
-      "image": "https://s2-g1.glbimg.com/RZa6wwx4ldlS_utbdCY-o7URSfI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/u/v4xXtyS4KMc8wBgHSBGA/vereador.png",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/20/vereador-e-subtenente-e-preso-apos-acidente-fuga-e-tentativa-de-suborno-em-ms.ghtml",
+      "title": "Poste atingido em acidente que matou pai e filho oferece risco à população em São Luís, diz Equatorial",
+      "summary": "Carro bate em poste e se parte ao meio no Cohafuma, em São Luís A Equatorial Maranhão alertou que o poste atingido por um carro durante o acidente que matou pai e filho,…",
+      "image": "https://s2-g1.glbimg.com/z68QYUllFs-y8QZlAnfVAOkFFZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/3/KAM7wTSbamm1GpAc3fCg/whatsapp-image-2026-09-20-at-17.05.20.jpeg",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/09/20/poste-atingido-em-acidente-que-matou-pai-e-filho-oferece-risco-a-populacao-em-sao-luis-diz-equatorial.ghtml",
       "source": "g1",
-      "published": 1789933234000
+      "published": 1789941617000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Carro bate contra muro de escola no Capão Redondo, na Zona Sul de SP, e deixa ao menos um morto",
+      "summary": "Carro que bateu em muro de escola na Zona Sul e deixou um morto David Irikura/TV Globo Um carro bateu contra o muro de uma escola na Zona Sul da capital paulista e…",
+      "image": "https://s2-g1.glbimg.com/rsXpvXthlv0jWuZvMDoSix_MVpw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/v/2eaA2wTPiEKRral5hsWA/montagem-horizontal-1200px-9-.jpg",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/20/carro-bate-contra-muro-de-escola-no-capao-redondo-na-zona-sul-de-sp-e-deixa-ao-menos-um-morto.ghtml",
+      "source": "g1",
+      "published": 1789941234000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Jovem tem casa invadida e é atacado com golpe de facão no pescoço enquanto dormia em RR",
+      "summary": "Vítima foi transferida para o Hospital Geral de Roraima (HGR), em Boa Vista. João Gabriel Leitão/g1 RR/Arquivo Um jovem, de 21 anos, ficou ferido após ter a casa…",
+      "image": "https://s2-g1.glbimg.com/LTgRPiPNah3Wg8XKopBKMvvIyzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/h/rqiQXjRiGgo88WQXGJmw/prontosocorro.jpg",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/09/20/jovem-tem-casa-invadida-e-e-atacado-com-golpe-de-facao-no-pescoco-enquanto-dormia-em-rr.ghtml",
+      "source": "g1",
+      "published": 1789941229000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Jovem autista morre após ser agredido enquanto comemorava novo emprego em Manaus",
+      "summary": "Iago Colares morreu em 7 de setembro deste ano após ser agredido em Manaus Reprodução/Arquivo pessoal O estudante de Psicologia Iago Victor Nascimento Colares, de 25…",
+      "image": "https://s2-g1.glbimg.com/auXZi7CeRRV7HKZTjkBb8ALHMpk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/F/yNjyBBSG2VLhjOBgiquA/whatsapp-image-2026-09-20-at-17.49.09.jpeg",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/20/jovem-autista-morre-apos-ser-agredido-enquanto-comemorava-novo-emprego-em-manaus.ghtml",
+      "source": "g1",
+      "published": 1789941176000
     }
   ]
 }
