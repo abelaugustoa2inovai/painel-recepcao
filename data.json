@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-09-20T02:29:29.294Z",
+  "updatedAt": "2026-09-20T08:55:20.203Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Quem são os veterinários réus apontados pelo MP no caso da venda de sangue de gatos no interior de SP",
+      "summary": "Quem são os veterinários que viraram réus no processo que apura a venda de sangue de gato Dois médicos-veterinários viraram réus na segunda fase da investigação sobre a…",
+      "image": "https://s2-g1.glbimg.com/mUad_-volvm0-beX-Q7HBN45pTc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/i/k2X7bzR6uMP7JsCGAABg/chatgpt-image-19-de-set.-de-2026-17-35-20.png",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/20/quem-sao-os-veterinarios-reus-apontados-pelo-mp-no-caso-da-venda-de-sangue-de-gatos-no-interior-de-sp.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1789880400000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -43,14 +53,34 @@
       "published": 1789845485000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Tem Solução: SOS Mata Atlântica completa 40 anos com projetos de recuperação de rios e florestas",
-      "summary": "SOS Mata Atlântica completa 40 anos com foco em preservação no interior de SP A Fundação SOS Mata Atlântica completa 40 anos neste domingo (20). Criada em 20 de setembro…",
-      "image": "https://s2-g1.glbimg.com/pAFunNgU32xaWyc65Fy-5prYNHc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/T/8gOlyxTv6Fhby5LrmE2g/bau-tem-solucao-13-190926.transfer-frame-6467.jpeg",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/19/tem-solucao-sos-mata-atlantica-completa-40-anos-com-projetos-de-recuperacao-de-rios-e-florestas.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1789840825000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Geração Z não confia na IA para emprego, mas confia para ações e apostas esportivas",
+      "summary": "Os membros da Geração Z conversam mais com seus consultores financeiros de qualquer geração e também são os mais propensos a deixar a IA influenciar seus investimentos…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Geracao-Z-e-apostas.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/business/global/geracao-z-nao-confia-na-ia-para-emprego-mas-confia-para-acoes-e-apostas-esportivas/",
+      "source": "InfoMoney",
+      "published": 1789891200000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Fraudes, deepfakes e o verdadeiro risco da IA — que não é o apocalipse",
+      "summary": "Marca na entrada da conferência de desenvolvedores Code with Claude, da Anthropic PBC, em Londres. Fotógrafo: Chris Ratcliffe/Bloomberg \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/460700341.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/business/fraudes-deepfakes-e-o-verdadeiro-risco-da-ia-que-nao-e-o-apocalipse/",
+      "source": "InfoMoney",
+      "published": 1789891200000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Pena achada em cocô de dinossauro pode explicar por que aves escaparam da extinção",
+      "summary": "Reconstrução artística de como a pena de ave pode ter eventualmente chegado ao pellet fossilizado (Foto: Andrey Atuchin via The New York Times) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Dinossauros.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/business/global/pena-achada-em-coco-de-dinossauro-pode-explicar-por-que-aves-escaparam-da-extincao/",
+      "source": "InfoMoney",
+      "published": 1789891200000
     },
     {
       "category": "mercado",
@@ -73,84 +103,64 @@
       "published": 1789857900000
     },
     {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Remédio aprovado nos EUA pode minimizar efeitos colaterais do Mounjaro; entenda",
-      "summary": "Imagem: Magnific \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/07/Mounjaro.jpg?fit=1200%2C800&quality=70&strip=all\" />O apitegromab atua nos…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Mounjaro.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/saude/remedio-aprovado-nos-eua-pode-minimizar-efeitos-do-mounjaro-entenda/",
-      "source": "InfoMoney",
-      "published": 1789857000000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Houthis atacam Saudi Aramco e “alvos sensíveis” na capital da Arábia Saudita",
-      "summary": "Logotipo da Saudi Aramco é mostrado nas instalações de petróleo em Abqaiq, Arábia Saudita, em 12 de outubro de 2019. REUTERS/Maxim Shemetov/Foto de arquivo \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-07-10T081521Z_647062544_RC27S8AKFHFV_RTRMADP_3_SAUDI-ARAMCO-STOCKS.jpg?fit=300%2C202&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/houthis-atacam-saudi-aramco-e-alvos-sensiveis-na-capital-da-arabia-saudita/",
-      "source": "InfoMoney",
-      "published": 1789855200000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "São Paulo x Internacional no Brasileirão: veja onde assistir",
-      "summary": "Tricolor vem de derrota no clássico, enquanto o Inter busca sair do Z4 The post São Paulo x Internacional no Brasileirão: veja onde assistir appeared first on InfoMoney .",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/thumb-sao-paulo-x-internacional.jpg?fit=300%2C191&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/esportes/sao-paulo-internacional-brasileirao-onde-assistir/",
-      "source": "InfoMoney",
-      "published": 1789854900000
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Em alta, Gabigol alcança melhor temporada ofensiva pelo Santos; veja números",
+      "summary": "Com 21 gols e dez assistências em 42 jogos, Gabigol chegou a 31 participações em gols em 2026 e superou suas melhores marcas anteriores pelo Santos. O post Em alta,…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55538660779_b99eafba44_o.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/gabigol-melhor-temporada-santos-numeros-2026/",
+      "source": "Gazeta Esportiva",
+      "published": 1789891247000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Rafael minimiza protesto e valoriza torcida do São Paulo após vitória: “Mesmo chateados, estavam aqui”",
-      "summary": "Veja a entrevista pós-jogo do goleiro Rafael após a vitória do São Paulo sobre o Inter neste sábado, no Morumbis, pelo Brasileirão. O post Rafael minimiza protesto e…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55537524112_79cbb18df3_k-1.webp",
-      "link": "https://www.gazetaesportiva.com/times/sao-paulo/rafael-minimiza-protesto-e-valoriza-torcida-do-sao-paulo-apos-vitoria-mesmo-chateados-estavam-aqui/",
+      "title": "Dorival cobra Calleri após nova suspensão no São Paulo: “Tem que ter consciência do que representa”",
+      "summary": "Dorival Júnior admitiu surpresa com o alto número de cartões amarelos recebidos por Caleri nesta temporada. Já são 11, segundo o Ogol. O post Dorival cobra Calleri após…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55538938140_7b697c093b_k.webp",
+      "link": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-cobra-calleri-apos-nova-suspensao-no-sao-paulo-tem-que-ter-consciencia-do-que-representa/",
       "source": "Gazeta Esportiva",
-      "published": 1789870488000
+      "published": 1789891232000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Alan Patrick lamenta derrota do Inter para o São Paulo e cobra evolução da equipe",
-      "summary": "Após a derrota para o São Paulo, Alan Patrick admitiu o momento delicado do Internacional e afirmou que a equipe precisa trabalhar para voltar a vencer. O post Alan…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55538640284_b3828b5ebf_o.webp",
-      "link": "https://www.gazetaesportiva.com/times/internacional/alan-patrick-lamenta-derrota-do-inter-para-o-sao-paulo-e-cobra-evolucao-da-equipe/",
+      "title": "São Paulo vê possibilidade de amistoso contra o Uberlândia com bons olhos; entenda",
+      "summary": "O São Paulo negocia a realização de um amistoso contra o Uberlândia, atual campeão da Série D. O time mineiro é comandado pelo técnico Danilo, que acumulou passagem pelo…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55538708734_38fa8b1e95_k.webp",
+      "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-amistoso-uberlandia-data-fifa/",
       "source": "Gazeta Esportiva",
-      "published": 1789870405000
+      "published": 1789887646000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Calleri recebe terceiro amarelo e desfalca São Paulo no clássico contra o Santos",
-      "summary": "O São Paulo perdeu Calleri por suspensão para o clássico atrasado da 21ª rodada do Brasileiro contra o Santos, no dia 2 de outubro. O post Calleri recebe terceiro…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55538665503_c894413d4b_k.webp",
-      "link": "https://www.gazetaesportiva.com/times/sao-paulo/calleri-recebe-terceiro-amarelo-e-desfalca-sao-paulo-no-classico-contra-o-santos/",
+      "title": "Dorival desabafa sobre semana “pesada” do São Paulo e esclarece fala polêmica: “Mal-entendido”",
+      "summary": "Veja o que disse o técnico Dorival Júnior em coletiva após a vitória por 1 a 0 sobre o Inter neste sábado, no Morumbis, pelo Brasileirão. O post Dorival desabafa sobre…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55538711519_3a785a2177_o.webp",
+      "link": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-desabafa-sobre-semana-pesada-do-sao-paulo-e-esclarece-fala-polemica-mal-entendido/",
       "source": "Gazeta Esportiva",
-      "published": 1789869625000
+      "published": 1789876717000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "São Paulo vence, respira e mantém Inter no Z4 do Brasileiro",
-      "summary": "O São Paulo bateu o Internacional por 1 a 0 na noite deste sábado, no Morumbis, em confronto válido pela 28ª rodada do Campeonato Brasileiro. Calleri marcou de pênalti…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/snapinsta-1789867955885.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/sao-paulo-x-internacional-brasileirao-19-09-2026/",
+      "title": "Tite lamenta derrota em estreia pelo Botafogo e cobra efetividade",
+      "summary": "Após derrota para o Mirassol em sua estreia pelo Botafogo, Tite cobrou mais eficiência ofensiva e pediu paciência com os reforços recém-chegados. O post Tite lamenta…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55538750185_c909e6938c_o-1.webp",
+      "link": "https://www.gazetaesportiva.com/times/botafogo/tite-lamenta-derrota-em-estreia-pelo-botafogo-e-cobra-efetividade/",
       "source": "Gazeta Esportiva",
-      "published": 1789869441000
+      "published": 1789874102000
     },
     {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Gómez celebra goleada do Vasco e destaca trabalho de Pedro Miguel: “Mais juntos”",
-      "summary": "Autor de um dos gols na vitória sobre o Coritiba, Andrés Gómez comemorou o resultado e exaltou o entrosamento do Vasco sob o comando de Pedro Miguel. O post Gómez…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/imagem_2026-09-19_224527604.webp",
-      "link": "https://www.gazetaesportiva.com/times/vasco/gomez-celebra-goleada-do-vasco-e-destaca-trabalho-de-pedro-miguel-mais-juntos/",
-      "source": "Gazeta Esportiva",
-      "published": 1789869083000
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Corinthians x Fluminense: onde assistir, horário e escalações do jogo do Brasileirão",
+      "summary": "Confira onde assistir, horário e prováveis escalações de Corinthians e Fluminense; duelo é válido pela 28ª rodada do Brasileirão O post Corinthians x Fluminense: onde…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/09/20/internet-e-redes-sociais/corinthians-x-fluminense-onde-assistir-ao-jogo-do-brasileirao-2026/",
+      "source": "Olhar Digital",
+      "published": 1789893000000
     },
     {
       "category": "tecnologia",
@@ -193,64 +203,54 @@
       "published": 1789846800000
     },
     {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "O lado roxo de Marte: gelo, poeira e luz criam cores incomuns em uma das regiões mais curiosas do planeta",
-      "summary": "Imagem obtida pela sonda Mars Express mostra Thyles Rupes, formação com mais de 1 km de altura, cercada por gelo, poeira e minerais O post O lado roxo de Marte: gelo,…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/marte-sul-2-1024x576.jpg",
-      "link": "https://olhardigital.com.br/2026/09/19/ciencia-e-espaco/o-lado-roxo-de-marte-gelo-poeira-e-luz-criam-cores-incomuns-em-uma-das-regioes-mais-curiosas-do-planeta/",
-      "source": "Olhar Digital",
-      "published": 1789846223000
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Cortar metano passa de atalho a obrigação com 'overshoot', dizem especialistas",
+      "summary": "Cortar as emissões de metano era considerado um atalho para combater os efeitos da mudança climática em 2021, quando o aquecimento global já assustava com 1,15°C. Após a…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/cortar-metano-passa-de-atalho-a-obrigacao-com-overshoot-dizem-especialistas.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1789891200000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "São Paulo vence Inter por 1 a 0 depois de eliminação da Sul-Americana",
-      "summary": "O São Paulo , que passou a concentrar todos os seus esforços no Campeonato Brasileiro depois da eliminação da Copa Sul-Americana nesta semana, venceu o Internacional por…",
+      "title": "Estado de São Paulo tem alerta de tempestade para este domingo (20)",
+      "summary": "Boa parte do estado de São Paulo tem risco de chuva neste domingo (20). Foram emitidos alertas amarelo, de perigo potencial para tempestade, e laranja, de perigo, pelo…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/sao-paulo-vence-inter-por-1-a-0-depois-de-eliminacao-da-sul-americana.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/estado-de-sao-paulo-tem-alerta-de-tempestade-para-este-domingo-20.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1789870020000
+      "published": 1789891200000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Mulher de Ramagem faz campanha virtual com 'candidata de papelão' pelas ruas do RJ",
-      "summary": "Rebeca Ramagem ( PL ), mulher do ex-deputado Alexandre Ramagem , faz sua campanha por uma vaga na Câmara dos Deputados à distância. As equipes espalhadas nas ruas do Rio…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mulher-de-ramagem-faz-campanha-virtual-com-candidata-de-papelao-pelas-ruas-do-rj.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1789869600000
+      "title": "Casamento coletivo surpresa reúne 24 trisais em cerimônia simbólica: 'Nenhuma família precisa ser igual para ser família'",
+      "summary": "Simbólico, casamento surpresa emociona 24 trisais: 'Nossas famílias existem e persistem' Tapete vermelho, fotos de família, roupas de gala e expectativa por uma noite de…",
+      "image": "https://s2-g1.glbimg.com/aiw9kunhx2vQpvDkeJl8QdoEYHk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/w/ceNlygSeWqPJAoXf9FXg/dsc04373-aprimorado-nr.jpg",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/20/casamento-coletivo-surpresa-reune-24-trisais-em-cerimonia-simbolica-nenhuma-familia-precisa-ser-igual-para-ser-familia.ghtml",
+      "source": "g1",
+      "published": 1789891200000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Legislação brasileira, por si só, não basta para proteger eleições brasileiras de ameaças externas",
-      "summary": "[RESUMO] Evidências e ameaças de interferência externa nas eleições do Brasil indicam a articulação de uma rede que funde alinhamento ideológico transnacional, pressão…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/09/legislacao-brasileira-por-si-so-nao-basta-para-proteger-eleicoes-brasileiras-de-ameacas-externas.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1789869600000
+      "title": "Nostalgia milionária: por que adultos pagam fortunas por brinquedos da infância",
+      "summary": "Jogos de cartas do Pokémon é inspirado no desenho clássico dos anos 90 Hennzo Pinheiro/Arquivo Pessoal Brinquedos e colecionáveis que fizeram parte da infância de uma…",
+      "image": "https://s2-g1.glbimg.com/gE2jKCjZIq3jlmXu2z-PLiYAdg0=/s.glbimg.com/jo/g1/f/original/2016/12/27/exposicao_pokemons.jpg",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/20/nostalgia-milionaria-por-que-adultos-pagam-fortunas-por-brinquedos-da-infancia.ghtml",
+      "source": "g1",
+      "published": 1789891200000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Governo vê dívida pública perto de 90% do PIB em 2029 e acima disso se perseguir piso da meta",
-      "summary": "O governo de Luiz Inácio Lula da Silva (PT) revisou suas projeções de dívida pública e agora vê o indicador perto dos 90% do PIB (Produto Interno Bruto) em 2029, ou até…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/governo-ve-divida-publica-perto-de-90-do-pib-em-2029-e-acima-disso-se-perseguir-piso-da-meta.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1789869600000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Com Flávio fortalecido, centrão já discute apoiá-lo no segundo turno",
-      "summary": "Líderes de partidos do centrão, que se mantiveram neutros no primeiro turno, dizem que há uma tendência de apoio a Flávio Bolsonaro ( PL ) numa eventual segunda etapa…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/com-flavio-fortalecido-centrao-ja-discute-apoia-lo-no-segundo-turno.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1789869600000
+      "title": "VÍDEO: sucuris aparecem entrelaçadas fora da época de acasalamento no Pantanal de MT; bióloga explica",
+      "summary": "Sucuris aparecem entrelaçadas fora da época de acasalamento no Pantanal de MT Duas sucuris-amarelas foram flagradas entrelaçadas em meio às pedras na região de Porto…",
+      "image": "https://s2-g1.glbimg.com/oH7GxDbIsgnq27i99SLsvHI38G4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/d/4UYT3FTAaF856Gi8iFMg/foto-g1-2026-09-19t124424.035.png",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/20/video-sucuris-aparecem-entrelacadas-fora-da-epoca-de-acasalamento-no-pantanal-de-mt-biologa-explica.ghtml",
+      "source": "g1",
+      "published": 1789891200000
     }
   ]
 }
