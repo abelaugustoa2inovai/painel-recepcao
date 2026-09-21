@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T22:17:57.279Z",
+  "updatedAt": "2026-09-21T02:27:20.304Z",
   "count": 25,
   "items": [
     {
@@ -55,6 +55,16 @@
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
+      "title": "Futuros de ações dos EUA sobem com reunião entre o país e a China no radar",
+      "summary": "Uma tela mostra a negociação do índice S&#038;P 500 após o toque do sino de fechamento no pregão da NYSE em Nova York -26/06/2025 (Foto: REUTERS/Jeenah Moon) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-11T142641Z_1651287049_RC2KAFA8ZIRO_RTRMADP_3_STOCKS-USA-CITIGROUP.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/futuros-de-acoes-dos-eua-sobem-com-reuniao-entre-o-pais-e-a-china-no-radar/",
+      "source": "InfoMoney",
+      "published": 1789945172000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
       "title": "Vídeo contradiz Moraes, que disse em março ‘jamais’ ter voado em aeronaves de Vorcaro",
       "summary": "Ministro do STF Alexandre de Moraes 11/04/2024 REUTERS/Jorge Silva \"…",
       "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-30T165922Z_1_LYNXMPEK7T0MA_RTROPTP_4_TWITTER-BRAZIL.jpg?fit=300%2C200&quality=70&strip=all",
@@ -93,64 +103,54 @@
       "published": 1789934400000
     },
     {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Coreia do Norte dispara dois projéteis no Mar do Leste",
-      "summary": "Bandeira da Coreia do Norte na embaixada do país em Kuala Lumpur, na Malásia (REUTERS/Edgar Su) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/2024-05-27T142845Z_1_LYNXMPEK4Q0E9_RTROPTP_4_COREIAN-DISPARO.jpg?fit=300%2C212&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/coreia-do-norte-dispara-dois-projeteis-no-mar-do-leste/",
-      "source": "InfoMoney",
-      "published": 1789934281000
-    },
-    {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Paz garante permanência de Diniz no Corinthians em meio a jejum: “Decisão validada pelo elenco”",
-      "summary": "Fernando Diniz está mantido no comando do Corinthians, ao menos por enquanto. Após a derrota por 3 a 1 para o Fluminense neste domingo, na Neo Química Arena, o executivo…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-20-at-19.06.31.webp",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-mantem-diniz-no-cargo-em-meio-a-jejum-no-brasileiro-decisao-validada-pelo-elenco/",
+      "title": "Brasil encerra Copa do Mundo de Ginástica na Hungria com seis medalhas",
+      "summary": "O Brasil encerrou neste domingo sua participação na etapa de Szombathely, na Hungria, da Copa do Mundo de Ginástica Artística com cinco medalhas no último dia de finais.…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/2632.webp",
+      "link": "https://www.gazetaesportiva.com/mais-esportes/ginastica/brasil-encerra-copa-do-mundo-de-ginastica-na-hungria-com-seis-medalhas/",
       "source": "Gazeta Esportiva",
-      "published": 1789941826000
+      "published": 1789956577000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Porto vence o Benfica e abre cinco pontos na liderança do Português",
-      "summary": "O Porto venceu o Benfica por 3 a 1 neste domingo, no Estádio do Dragão, pela 7ª rodada do Campeonato Português. Gabri Veiga abriu o placar para os donos da casa no…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260920__C8UP2W2__v1__HighRes__FblPorLigaPortoBenfica.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/liga-nos/porto-vence-o-benfica-e-abre-cinco-pontos-na-lideranca-do-portugues/",
+      "title": "Messi e Suárez marcam, mas Inter Miami sofre empate no fim contra o San Diego pela MLS",
+      "summary": "Confira os detalhes da última partida do Inter Miami pela Major League Soccer. O post Messi e Suárez marcam, mas Inter Miami sofre empate no fim contra o San Diego pela…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260920__2296306828__v1__MidRes__InterMiamiCfVSanDiegoFc.webp",
+      "link": "https://www.gazetaesportiva.com/inter-miami/messi-e-suarez-marcam-mas-inter-miami-sofre-empate-no-fim-contra-o-san-diego-pela-mls/",
       "source": "Gazeta Esportiva",
-      "published": 1789941802000
+      "published": 1789955446000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Athletico-PR x Bahia: siga o tempo real do jogo pelo Brasileirão",
-      "summary": "Confira o tempo real do duelo entre Athletico-PR e Bahia, pela 28ª rodada do Campeonato Brasileiro. O post Athletico-PR x Bahia: siga o tempo real do jogo pelo…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/HSruCbfXwAA-qUX.webp",
+      "title": "Melhores momentos: Athletico-PR 2 x 1 Bahia (Brasileirão)",
+      "summary": "Melhores momentos: Athletico-PR 2 x 1 Bahia (Brasileirão Betano) O post Melhores momentos: Athletico-PR 2 x 1 Bahia (Brasileirão) apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/go3cllb7-1280.webp",
+      "link": "https://www.gazetaesportiva.com/dugout/melhores-momentos-athletico-pr-2-x-1-bahia-brasileirao/",
+      "source": "Gazeta Esportiva",
+      "published": 1789953989000
+    },
+    {
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Paraguai convoca trio do Palmeiras e um do Santos para amistosos",
+      "summary": "Neste domingo, o técnico Gustavo Alfaro anunciou os 26 convocados da seleção paraguaia para os amistosos da próxima Data Fifa. Entre os nomes presentes, estão quatro…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/20092026_cg_palmeiras_2288_18.webp",
+      "link": "https://www.gazetaesportiva.com/times/paraguai/paraguai-convoca-trio-do-palmeiras-e-um-do-santos-para-amistosos/",
+      "source": "Gazeta Esportiva",
+      "published": 1789953243000
+    },
+    {
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Bahia erra pênalti, Athletico-PR ganha e retoma terceiro lugar do Brasileiro",
+      "summary": "Confira o tempo real do duelo entre Athletico-PR e Bahia, pela 28ª rodada do Campeonato Brasileiro. O post Bahia erra pênalti, Athletico-PR ganha e retoma terceiro lugar…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55539528267_a559cd1f96_k.webp",
       "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/athletico-pr-x-bahia-campeonato-brasileiro-20-09-2026/",
       "source": "Gazeta Esportiva",
-      "published": 1789941629000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "De virada, Goiás ganha em casa do Avaí pela Série B do Brasileiro",
-      "summary": "O Goiás venceu o Avaí por 2 a 1 neste domingo, no Estádio Hailé Pinheiro, pela 29ª rodada da Série B. Após sair atrás no placar, o Esmeraldino virou no segundo tempo com…",
-      "image": "https://static.gazetaesportiva.com/uploads/2025/10/Captura-de-tela-2025-10-03-180931.webp",
-      "link": "https://www.gazetaesportiva.com/times/goias/de-virada-goias-ganha-em-casa-do-avai-pela-serie-b-do-brasileiro/",
-      "source": "Gazeta Esportiva",
-      "published": 1789940040000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Matheus Pereira exalta virada do Cruzeiro e mira vaga na Libertadores: “Nosso objetivo”",
-      "summary": "Matheus Pereira valorizou a reação do Cruzeiro na vitória por 3 a 1 sobre o Vitória e reforçou a confiança da equipe na busca por uma vaga na Libertadores. O post…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55540683150_afe4b6bf26_o.webp",
-      "link": "https://www.gazetaesportiva.com/times/cruzeiro/matheus-pereira-cruzeiro-vitoria-libertadores/",
-      "source": "Gazeta Esportiva",
-      "published": 1789939513000
+      "published": 1789951049000
     },
     {
       "category": "tecnologia",
@@ -205,52 +205,52 @@
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Os cientistas que salvam filhotes de araras de seus pais assassinos",
-      "summary": "Parker ainda não havia aberto os olhos, quando uma mão o retirou do ninho. Era uma manhã de domingo em novembro de 2018, na Reserva Nacional Tambopata, nas profundezas…",
+      "title": "Menopausa foi uma das melhores coisas que me aconteceram, diz Rosa Montero",
+      "summary": "Envelhecer não significa abrir mão do desejo, tornar-se invisível ou viver entre o luto pelo passado e o temor do futuro cada vez mais pressionado. Aos 74 anos, a…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/os-cientistas-que-salvam-filhotes-de-araras-de-seus-pais-assassinos.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/menopausa-foi-uma-das-melhores-coisas-que-me-aconteceram-diz-rosa-montero.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1789941660000
+      "published": 1789956900000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Poste atingido em acidente que matou pai e filho oferece risco à população em São Luís, diz Equatorial",
-      "summary": "Carro bate em poste e se parte ao meio no Cohafuma, em São Luís A Equatorial Maranhão alertou que o poste atingido por um carro durante o acidente que matou pai e filho,…",
-      "image": "https://s2-g1.glbimg.com/z68QYUllFs-y8QZlAnfVAOkFFZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/3/KAM7wTSbamm1GpAc3fCg/whatsapp-image-2026-09-20-at-17.05.20.jpeg",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/09/20/poste-atingido-em-acidente-que-matou-pai-e-filho-oferece-risco-a-populacao-em-sao-luis-diz-equatorial.ghtml",
-      "source": "g1",
-      "published": 1789941617000
+      "title": "Agente do ICE atira e fere homem em Austin, nos EUA, dizem autoridades locais",
+      "summary": "Um agente do Serviço de Imigração e Controle de Alfândegas dos Estados Unidos (ICE, na sigla em inglês) atirou e feriu um homem em Austin, no Texas, neste domingo (20),…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/agente-do-ice-atira-e-fere-homem-em-austin-nos-eua-dizem-autoridades-locais.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1789956600000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Carro bate contra muro de escola no Capão Redondo, na Zona Sul de SP, e deixa ao menos um morto",
-      "summary": "Carro que bateu em muro de escola na Zona Sul e deixou um morto David Irikura/TV Globo Um carro bateu contra o muro de uma escola na Zona Sul da capital paulista e…",
-      "image": "https://s2-g1.glbimg.com/rsXpvXthlv0jWuZvMDoSix_MVpw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/v/2eaA2wTPiEKRral5hsWA/montagem-horizontal-1200px-9-.jpg",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/20/carro-bate-contra-muro-de-escola-no-capao-redondo-na-zona-sul-de-sp-e-deixa-ao-menos-um-morto.ghtml",
-      "source": "g1",
-      "published": 1789941234000
+      "title": "Como proteger a saúde em meio à 'gangorra térmica' que deve atingir São Paulo",
+      "summary": "Mudanças bruscas de temperatura podem irritar as vias respiratórias e aumentar o risco de crises de asma, bronquite e sinusite, bem como o surgimento de infecções. Para…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/como-proteger-a-saude-em-meio-a-gangorra-termica-que-deve-atingir-sao-paulo.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1789956300000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Jovem tem casa invadida e é atacado com golpe de facão no pescoço enquanto dormia em RR",
-      "summary": "Vítima foi transferida para o Hospital Geral de Roraima (HGR), em Boa Vista. João Gabriel Leitão/g1 RR/Arquivo Um jovem, de 21 anos, ficou ferido após ter a casa…",
-      "image": "https://s2-g1.glbimg.com/LTgRPiPNah3Wg8XKopBKMvvIyzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/h/rqiQXjRiGgo88WQXGJmw/prontosocorro.jpg",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/09/20/jovem-tem-casa-invadida-e-e-atacado-com-golpe-de-facao-no-pescoco-enquanto-dormia-em-rr.ghtml",
-      "source": "g1",
-      "published": 1789941229000
+      "title": "Estudo identifica mais de 2.000 doações inconstitucionais de imóveis públicos a igrejas",
+      "summary": "Levantamento inédito do Observatório do Estado Laico identificou 4.802 normas municipais no Brasil que transferem a propriedade ou o uso de imóveis públicos para…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/estudo-identifica-mais-de-2000-doacoes-inconstitucionais-de-imoveis-publicos-a-igrejas.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1789956060000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Jovem autista morre após ser agredido enquanto comemorava novo emprego em Manaus",
-      "summary": "Iago Colares morreu em 7 de setembro deste ano após ser agredido em Manaus Reprodução/Arquivo pessoal O estudante de Psicologia Iago Victor Nascimento Colares, de 25…",
-      "image": "https://s2-g1.glbimg.com/auXZi7CeRRV7HKZTjkBb8ALHMpk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/F/yNjyBBSG2VLhjOBgiquA/whatsapp-image-2026-09-20-at-17.49.09.jpeg",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/20/jovem-autista-morre-apos-ser-agredido-enquanto-comemorava-novo-emprego-em-manaus.ghtml",
-      "source": "g1",
-      "published": 1789941176000
+      "title": "Para além do dinheiro, eficiência depende de gestão e organização, dizem especialistas",
+      "summary": "Os resultados do Ranking de Eficiência dos Estados ? Folha (REE-F) mostram que a quantidade de recursos disponíveis não explica sozinha a qualidade dos serviços…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/para-alem-do-dinheiro-eficiencia-depende-de-gestao-e-organizacao-dizem-especialistas.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1789956000000
     }
   ]
 }
