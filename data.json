@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T00:24:56.993Z",
+  "updatedAt": "2026-09-22T07:04:19.537Z",
   "count": 25,
   "items": [
     {
@@ -105,6 +105,46 @@
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
+      "title": "Com uma a menos, Corinthians vence o Bahia e vai à final do Brasileiro feminino",
+      "summary": "Mesmo com a expulsão de Thais Regina ainda no primeiro tempo, o Corinthians bateu o Bahia e garantiu vaga na final do Brasileirão Feminino contra o São Paulo. O post Com…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/imagem_2026-09-21_232130771.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/siga-o-placar-ao-vivo-de-corinthians-x-bahia-pelo-brasileirao-feminino/",
+      "source": "Gazeta Esportiva",
+      "published": 1790044663000
+    },
+    {
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Cuiabá vence o Náutico e ganha posições na Série B do Brasileiro",
+      "summary": "Nesta segunda-feira, o Cuiabá venceu o Náutico por 3 a 0, na Arena Pantanal, em Cuiabá (MT), pela 29ª rodada da Série B do Campeonato Brasileiro e ganhou três posições…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55543217681_c993244751_o.webp",
+      "link": "https://www.gazetaesportiva.com/times/cuiaba/cuiaba-vence-o-nautico-e-ganha-posicoes-na-serie-b-do-brasileiro/",
+      "source": "Gazeta Esportiva",
+      "published": 1790044076000
+    },
+    {
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Juventus empata com União São João e se despede nas quartas da Copa Paulista",
+      "summary": "Nesta segunda-feira, o Juventus ficou no empate com União São João por 1 a 1, no Estádio do Pacaembu, em São Paulo, pelo jogo de volta das quartas de final da Copa…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/Design-4.webp",
+      "link": "https://www.gazetaesportiva.com/times/juventus-mooca/juventus-empata-com-uniao-sao-joao-e-se-despede-nas-quartas-da-copa-paulista/",
+      "source": "Gazeta Esportiva",
+      "published": 1790040702000
+    },
+    {
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Brazão passa por cirurgia no ombro e deve perder resto da temporada no Santos",
+      "summary": "O goleiro Gabriel Brazão foi submetido a uma cirurgia no ombro esquerdo na tarde desta segunda-feira. O procedimento foi realizado no hospital Instituto Orizonti, em…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55525355300_61e6599fc8_o-2.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/brazao-passa-por-cirurgia-no-ombro-e-deve-perder-resto-da-temporada-no-santos/",
+      "source": "Gazeta Esportiva",
+      "published": 1790038035000
+    },
+    {
+      "category": "esportes",
+      "categoryLabel": "Esportes",
       "title": "Chuva adia Criciúma x Operário-PR pela Série B; veja nova data da partida",
       "summary": "Criciúma e Operário-PR tiveram o duelo da 29ª rodada da Série B adiado por conta das fortes chuvas em Santa Catarina. A partida foi remarcada para terça-feira, às 19h30,…",
       "image": "https://static.gazetaesportiva.com/uploads/2026/09/HR-TVRLXgAIG-1vearhnq4e5h.webp",
@@ -113,144 +153,104 @@
       "published": 1790036193000
     },
     {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Juventude x Corinthians: veja onde assistir e prováveis escalações do jogo pelo Brasileiro sub-17",
-      "summary": "Juventude e Corinthians se enfrentam nesta terça-feira (22), às 15h (de Brasília), pela 18ª rodada do Campeonato Brasileiro Sub-17, no CFAC Juventude, em Caxias do Sul…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/248423.webp",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/juventude-x-corinthians-brasileirao-sub17-onde-assistir/",
-      "source": "Gazeta Esportiva",
-      "published": 1790031619000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "São Paulo x Palmeiras pelo Brasileirão sub-17: saiba informações e onde assistir à partida",
-      "summary": "São Paulo e Palmeiras se enfrentam nesta terça-feira pela 18ª rodada da primeira fase do Campeonato Brasileiro sub-17. A bola rola a partir das 20h (de Brasília), no…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/54581320748.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/sao-paulo-x-palmeiras-pelo-brasileirao-sub-17-onde-assistir/",
-      "source": "Gazeta Esportiva",
-      "published": 1790031619000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Vasco x Santos: saiba onde assistir ao jogo pelo Campeonato Brasileiro sub-17",
-      "summary": "Vasco e Santos se enfrentam nesta terça-feira, às 15h, no Estádio Nivaldo Pereira, pela 18ª rodada do Campeonato Brasileiro sub-17. Veja onde assistir ao jogo. O post…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55353997558_0c52378d5e_3k.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/vasco-x-santos-sub-17-onde-assistir-brasileiro/",
-      "source": "Gazeta Esportiva",
-      "published": 1790031608000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Presidente do Santos aborda futuro de Gabigol e admite problema no gramado da Vila",
-      "summary": "Marcelo Teixeira confirmou Gabigol nos planos do Santos para 2027, explicou os fatores financeiros envolvidos no futuro do atacante e admitiu problemas no gramado da…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55538503766_d82ee0420a_o.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/presidente-do-santos-fala-sobre-futuro-de-gabigol-e-gramado/",
-      "source": "Gazeta Esportiva",
-      "published": 1790031603000
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Temporada de derretimento do gelo do Ártico para de aumentar após décadas de avanço, mostra estudo da NASA",
+      "summary": "Conclusão vem de estudo liderado pela NASA, que analisou observações de satélite realizadas entre 1979 e 2023 O post Temporada de derretimento do gelo do Ártico para de…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/iStock-1938264130-1024x679.jpg",
+      "link": "https://olhardigital.com.br/2026/09/21/ciencia-e-espaco/temporada-de-derretimento-do-gelo-do-artico-para-de-aumentar-apos-decadas-de-avanco-mostra-estudo-da-nasa/",
+      "source": "Olhar Digital",
+      "published": 1790042231000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "O que é o tsunami meteorológico que elevou o nível do mar e causou alagamentos em cidades de Santa Catarina",
-      "summary": "Episódio atingiu principalmente os municípios de Jaguaruna, Laguna e Imbituba, provocando alagamentos, danos em estruturas e deslocamento de embarcações O post O que é o…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/tsunami-scaled-e1778424105545-1024x577.jpg",
-      "link": "https://olhardigital.com.br/2026/09/21/ciencia-e-espaco/o-que-e-o-tsunami-meteorologico-que-elevou-o-nivel-do-mar-e-causou-alagamentos-em-cidades-de-santa-catarina/",
+      "title": "Alzheimer deixa de ser visto apenas como doença sem tratamento com avanços em medicamentos e diagnóstico precoce",
+      "summary": "Segundo relatório, a doença de Alzheimer deixou de ser considerada universalmente “intratável” O post Alzheimer deixa de ser visto apenas como doença sem tratamento com…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/alzheimer-2-1024x682.jpg",
+      "link": "https://olhardigital.com.br/2026/09/21/medicina-e-saude/alzheimer-deixa-de-ser-visto-apenas-como-doenca-sem-tratamento-com-avancos-em-medicamentos-e-diagnostico-precoce/",
       "source": "Olhar Digital",
-      "published": 1790032502000
+      "published": 1790040719000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Governo pede investigação sobre chatbots que simulam amizade e romance e aponta riscos para usuários no Brasil",
-      "summary": "Documento sugere que a ANPD examine esses serviços à luz do Estatuto Digital da Criança e do Adolescente (ECA Digital) e de suas competências de fiscalização O post…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2024/08/anpd-autoridade-nacional-protecao-1024x576.jpeg",
-      "link": "https://olhardigital.com.br/2026/09/21/inteligencia-artificial/governo-pede-investigacao-sobre-chatbots-que-simulam-amizade-e-romance-e-aponta-riscos-para-usuarios-no-brasil/",
-      "source": "Olhar Digital",
-      "published": 1790029638000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Primavera começa nesta semana com previsão de mais calor e tempestades em todo o Brasil",
-      "summary": "Estação começa nesta terça-feira (22) e deve marcar aumento das chuvas em parte do país, além de temperaturas mais altas O post Primavera começa nesta semana com…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/iStock-2269106194-1024x683.jpg",
-      "link": "https://olhardigital.com.br/2026/09/21/ciencia-e-espaco/primavera-comeca-nesta-semana-com-previsao-de-mais-calor-e-tempestades-em-todo-o-brasil/",
-      "source": "Olhar Digital",
-      "published": 1790023656000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "OpenAI pede que EUA liderem criação de padrões globais para controlar riscos de IAs avançadas",
-      "summary": "Empresa defende regras técnicas internacionais para IA de fronteira, incluindo sistemas capazes de aprimoramento recursivo O post OpenAI pede que EUA liderem criação de…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/ia_seguranca-1024x576.jpg",
-      "link": "https://olhardigital.com.br/2026/09/21/inteligencia-artificial/openai-pede-que-eua-liderem-criacao-de-padroes-globais-para-controlar-riscos-de-ias-avancadas/",
-      "source": "Olhar Digital",
-      "published": 1790021983000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Brasileiro registra asteroide atingindo Júpiter em um dos raros impactos no gigante gasoso vistos da Terra",
-      "summary": "Saiba como um astrônomo amador brasileiro registrou o clarão de uma explosão em Júpiter provocada por um asteroide gigante O post Brasileiro registra asteroide atingindo…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/impacto-jupiter-jos-luis-pereira-1024x1024.jpeg",
-      "link": "https://olhardigital.com.br/2026/09/21/ciencia-e-espaco/brasileiro-registra-asteroide-atingindo-jupiter-em-um-dos-raros-impactos-no-gigante-gasoso-vistos-da-terra/",
-      "source": "Olhar Digital",
-      "published": 1790020421000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Natal e Réveillon: passagens de SP para Curitiba, Rio, BH e Brasília por R$ 700",
-      "summary": "Passagens aéreas baratas para voar no final do ano são, como diz o ditado, perna de cobra: ninguém vê. Mas na noite desta segunda (21), a reportagem encontrou passagens…",
+      "title": "Confira o Olhar Digital News na íntegra (21/09/2026)",
+      "summary": "Confira as principais notícias do mundo da tecnologia e da ciência no programa Olhar Digital News de hoje! O post Confira o Olhar Digital News na íntegra (21/09/2026)…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/natal-e-reveillon-passagens-de-sp-para-curitiba-rio-bh-e-brasilia-por-r-700.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1790036220000
+      "link": "https://olhardigital.com.br/2026/09/21/videos/confira-o-olhar-digital-news-na-integra-21-09-2026/",
+      "source": "Olhar Digital",
+      "published": 1790039297000
     },
     {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "'Como não pensar em destruição de provas?', diz leitor sobre furto em suposto imóvel de Milton Leite",
-      "summary": "Investigação Leia mais (09/21/2026 - 21h16)",
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "99 lança app de recarga elétrica no RJ que reúne postos de diferentes redes e oferece até 20% de desconto",
+      "summary": "Serviço chega à cidade com mais de 150 estações parceiras e oferece descontos de 10% a 20% para motoristas parceiros elegíveis O post 99 lança app de recarga elétrica no…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/99-1024x682.jpg",
+      "link": "https://olhardigital.com.br/2026/09/21/carros-e-tecnologia/99-lanca-app-de-recarga-eletrica-no-rj-que-reune-postos-de-diferentes-redes-e-oferece-ate-20-de-desconto/",
+      "source": "Olhar Digital",
+      "published": 1790038232000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Trump, Xi Jinping, ONU e Vale do Silício: a semana que pode definir o futuro da IA",
+      "summary": "Assembleia Geral da ONU, encontro bilateral entre EUA e China e jantar entre Trump e os CEOs das principais empresas de tecnologia marcam a semana O post Trump, Xi…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/como-nao-pensar-em-destruicao-de-provas-diz-leitor-sobre-furto-em-suposto-imovel-de-milton-leite.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1790036160000
+      "link": "https://olhardigital.com.br/2026/09/21/colunistas/trump-xi-jinping-onu-e-vale-do-silicio-a-semana-que-pode-definir-o-futuro-da-ia/",
+      "source": "Olhar Digital",
+      "published": 1790036750000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Confira o dia de campanha dos candidatos ao governo do Acre nesta segunda-feira (21)",
-      "summary": "O g1 informa todos os dias as atividades de campanha dos candidatos ao governo do Acre nas eleições deste ano. Confira abaixo como foi nesta segunda-feira (21). Mailza…",
-      "image": "https://s2-g1.glbimg.com/S4ta2y0PLFQWqbrThruDa9vHT2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/Z/9jqgGVSAqAkEZ1QzEn9A/midia-de-distribuicao-g1.png",
-      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/21/confira-o-dia-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-segunda-feira-21.ghtml",
-      "source": "g1",
-      "published": 1790036103000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Progressistas dos EUA devem apoiar autodeterminação do Brasil, diz Bernie Sanders em encontro com Lula",
-      "summary": "O senador independente americano Bernie Sanders perguntou ao presidente Lula (PT) nesta segunda-feira (21), em Nova York , sobre a possibilidade real de interferência…",
+      "title": "Mercado de carros clássicos muda com novos interesses de colecionadores mais jovens",
+      "summary": "Durante décadas, colecionar carros foi um hobby praticado principalmente por e para os baby boomers. Suas preferências privilegiavam cromados, rabos de peixe e…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/progressistas-dos-eua-devem-apoiar-autodeterminacao-do-brasil-diz-bernie-sanders-em-encontro-com-lula.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/mercado-de-carros-classicos-muda-com-novos-interesses-de-colecionadores-mais-jovens.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1790036040000
+      "published": 1790060400000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Vorcaro disse que falaria com 'sua turma' para manter Otto Lobo na presidência da CVM, diz jornal",
-      "summary": "O dono do Banco Master , Daniel Vorcaro , apoiou Otto Lobo na presidência da CVM (Comissão de Valores Mobiliários), responsável por regular o mercado de capitais no…",
+      "title": "Mônica Salmaso celebra obra de Tom Jobim com show em São Paulo",
+      "summary": "Cantar, tocar e manter viva a obra de Tom Jobim . Essa é a maneira como Mônica Salmaso encontrou para celebrar o maestro no espetáculo \"TOM\". Acompanhada de mais dois…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/09/vorcaro-disse-que-falaria-com-sua-turma-para-manter-otto-lobo-na-presidencia-da-cvm-diz-jornal.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/monica-salmaso-celebra-obra-de-tom-jobim-com-show-em-sao-paulo.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1790035800000
+      "published": 1790060400000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Esquecimento na gravidez está associado à interrupção de circuitos cerebrais, diz estudo",
+      "summary": "Às vezes chamado de \"momnésia\", \"cérebro de mãe\", \"cérebro de grávida\" ou \"cérebro de bebê\", o esquecimento, a confusão mental e as alterações cognitivas podem ser…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/esquecimento-na-gravidez-esta-associado-a-interrupcao-de-circuitos-cerebrais-diz-estudo.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1790060400000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Não estamos perdendo o controle da IA; estamos abrindo mão dele",
+      "summary": "Há um abismo, neste momento, entre a forma como a inteligência artificial se apresenta para a maioria de nós que a usamos e a forma como a IA se apresenta na fronteira…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ezra-klein/2026/09/nao-estamos-perdendo-o-controle-da-ia-estamos-abrindo-mao-dele.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1790060400000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Tarcísio exalta fim da cracolândia enquanto registro de dependentes de alta complexidade dobra no centro de SP",
+      "summary": "Apesar do anúncio do fim da cracolândia , explorado pela campanha à reeleição do governador Tarcísio de Freitas (Republicanos), o fluxo de usuários de drogas no centro…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tarcisio-exalta-fim-da-cracolandia-enquanto-registro-de-dependentes-de-alta-complexidade-dobra-no-centro-de-sp.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1790060400000
     }
   ]
 }
