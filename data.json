@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-09-21T21:26:16.723Z",
+  "updatedAt": "2026-09-22T00:24:56.993Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Jovem morre após ser golpeado com tesoura e faca durante festa",
+      "summary": "Briga termina em morte em Auriflama Um jovem de 19 anos morreu na tarde de segunda-feira (21) após ser atingido por golpes de tesoura e faca durante uma briga em uma…",
+      "image": "https://s2-g1.glbimg.com/qHpU1SQ-l_K4FmLm-2DD0GbVIcg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Z/Z42O7QSNaGYXgpGLt80g/design-sem-nome-2026-09-21t204414.938.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/21/jovem-morre-apos-ser-golpeado-com-tesoura-e-faca-durante-festa.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1790034330000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -43,114 +53,124 @@
       "published": 1790003436000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Caminhão de laranjas invade pista contrária, tomba e atinge carga de porcos em rodovia do noroeste de SP; vídeo",
-      "summary": "Caminhão de laranja atravessa pista, tomba e atinge carga de porcos em Jales (SP) Um caminhão carregado com laranjas tombou após invadir a pista contrária e atingir…",
-      "image": "https://s2-g1.glbimg.com/eBs9Q7W_E_i1yaGAtWU8iAS7rxk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/w/ywbICGSQSWpbvJkxYV5g/caminhao-laranja1.jpeg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/21/caminhao-de-laranjas-invade-pista-contraria-tomba-e-atinge-outro-em-rodovia-jales.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1790000136000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Dia de Sorte: confira o resultado do concurso 1303 sorteado nesta segunda-feira (21)",
+      "summary": "Loteria Dia de Sorte, da Caixa Econômica (Foto: Divulgação) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1303-sorteado-nesta-segunda-feira-21/",
+      "source": "InfoMoney",
+      "published": 1790036476000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Com morte de Vontobel, Daniel Klabin passa a ser o bilionário mais velho do Brasil",
-      "summary": "Amanda Klabin afixa o botom de membro titular notável da ABF na lapela do paletó de seu pai, dr. Daniel Klabin (Foto: Divulgação / Academia Brasileira de Filosofia) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/de04d1_7b5f2be30ddc4041a509b30f3d66f6d7mv2.avif?resize=300,200",
-      "link": "https://www.infomoney.com.br/business/com-morte-de-vontobel-daniel-klabin-passa-a-ser-o-bilionario-mais-velho-do-brasil/",
+      "title": "Lotomania: confira o resultado do concurso 2978 sorteado nesta segunda-feira (21)",
+      "summary": "Foto: Divulgação \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=735%2C417&quality=70&strip=all\" />Veja as 20 dezenas sorteadas…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=300%2C170&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/lotomania-confira-o-resultado-do-concurso-2978-sorteado-nesta-segunda-feira-21/",
       "source": "InfoMoney",
-      "published": 1790025631000
+      "published": 1790036082000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Quaest: Lula encurta diferença no 2º turno, mas Flávio segue numericamente à frente",
-      "summary": "(Foto: Adriano Machado / Reuters e Adriano Machado / Reuters) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes2026-pesquisa-lula-flavio-03.jpg?fit=300%2C193&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/quaest-lula-encurta-diferenca-no-2o-turno-mas-flavio-segue-numericamente-a-frente/",
+      "title": "Quina hoje, concurso 7123: confira o resultado sorteado nesta segunda (21)",
+      "summary": "(Divulgação) \" data-image-caption=\" (Divulgação) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/quina-caixa-divulgacao.png?fit=300%2C158&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7123-confira-o-resultado-sorteado-nesta-segunda-21/",
       "source": "InfoMoney",
-      "published": 1790025491000
+      "published": 1790035798000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "BB Seguridade (BBSE3) cai mais de 2% com dados da Susep reforçando cautela para ações",
-      "summary": "BB SEGURIDADE \" data-image-caption=\" Divulgação: BB Seguridade \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/08/637719640558739446.jpg?fit=300%2C194&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/bb-seguridade-bbse3-cai-mais-de-2-com-dados-da-susep-reforcando-cautela-para-acoes/",
+      "title": "Lotofácil hoje: confira o resultado do concurso 3785 sorteado neste segunda (21)",
+      "summary": "Lotofácil da Independência é um sorteio especial da Lotofácil, realizado em setembro. Foto: Marcelo Camargo/Agência Brasil \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorteio-lotofacil.webp?fit=300%2C225&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-confira-o-resultado-do-concurso-3785-sorteado-neste-segunda-21/",
       "source": "InfoMoney",
-      "published": 1790024355000
+      "published": 1790035702000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Ibovespa fecha em alta de 0,74% com aval externo e nova pesquisa eleitoral",
-      "summary": "B3 Bovespa Bolsa de Valores de São Paulo (Germano Lüders/InfoMoney) \" data-image-caption=\" B3 Ibovespa Bolsa de Valores de São Paulo (Germano Lüders/InfoMoney) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/11/DSC_2881.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-sobe-com-exterior-e-de-olho-em-pesquisas-mas-queda-do-petroleo-limita/",
-      "source": "InfoMoney",
-      "published": 1790023762000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "América Latina começa a reagir no fluxo global após ficar para trás entre emergentes",
-      "summary": "Fluxo estrangeiro mercados emergentes. Imagem gerada com uso de IA \" data-image-caption=\" Fluxo estrangeiro mercados emergentes. Imagem gerada com uso de IA \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/fluxo-estrangeiro.jpg?fit=300%2C169&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/america-latina-reage-fluxo-global-mercados-emergentes/",
-      "source": "InfoMoney",
-      "published": 1790023687000
+      "title": "Senacon vai investigar 70 postos por aumento abusivo de preços",
+      "summary": "A Secretaria Nacional do Consumidor (Senacon), órgão do Ministério da Justiça e Segurança Pública, instaurou nesta segunda-feira (21), 70 processos administrativos…",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/senacon-vai-investigar-70-postos-por-aumento-abusivo-de-precos",
+      "source": "Feed Editoria",
+      "published": 1790033520000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Fórmula 1 aprova corridas mais curtas e anuncia mudanças no regulamento para 2027",
-      "summary": "A Fórmula 1 confirmou uma série de mudanças para a temporada de 2027 após reunião da comissão da categoria em Londres. Entre as principais novidades estão a redução da…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260913__C87E2BW__v1__MidRes__AutoPrixF1Esp.webp",
-      "link": "https://www.gazetaesportiva.com/motor/formula-1/formula-1-aprova-corridas-mais-curtas-e-anuncia-mudancas-no-regulamento-para-2027/",
+      "title": "Chuva adia Criciúma x Operário-PR pela Série B; veja nova data da partida",
+      "summary": "Criciúma e Operário-PR tiveram o duelo da 29ª rodada da Série B adiado por conta das fortes chuvas em Santa Catarina. A partida foi remarcada para terça-feira, às 19h30,…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/HR-TVRLXgAIG-1vearhnq4e5h.webp",
+      "link": "https://www.gazetaesportiva.com/times/criciuma/chuva-adia-criciuma-x-operario-pr-pela-serie-b-veja-nova-data-da-partida/",
       "source": "Gazeta Esportiva",
-      "published": 1790025402000
+      "published": 1790036193000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Pezzolano se despede do Internacional nas redes sociais: “Foi uma honra”",
-      "summary": "Paulo Pezzolano publicou nesta segunda-feira uma mensagem de despedida após deixar o comando do Internacional. O treinador agradeceu a jogadores, funcionários,…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/01/55043609460_76c63f879b_o.webp",
-      "link": "https://www.gazetaesportiva.com/times/internacional/pezzolano-se-despede-internacional/",
+      "title": "Juventude x Corinthians: veja onde assistir e prováveis escalações do jogo pelo Brasileiro sub-17",
+      "summary": "Juventude e Corinthians se enfrentam nesta terça-feira (22), às 15h (de Brasília), pela 18ª rodada do Campeonato Brasileiro Sub-17, no CFAC Juventude, em Caxias do Sul…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/248423.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/juventude-x-corinthians-brasileirao-sub17-onde-assistir/",
       "source": "Gazeta Esportiva",
-      "published": 1790025095000
+      "published": 1790031619000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Lula presenteia prefeito de NY com camisa do Corinthians",
-      "summary": "O presidente Luiz Inácio Lula da Silva se reuniu nesta segunda-feira com o prefeito de Nova York, Zohran Mamdani, na residência do embaixador brasileiro na ONU, Sérgio…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260921__2295924656__v1__HighRes__MayorMamdaniMeetsWithBrazilSPresidentLuizIna.webp",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/lula-presenteia-prefeito-nova-york-camisa-corinthians/",
+      "title": "São Paulo x Palmeiras pelo Brasileirão sub-17: saiba informações e onde assistir à partida",
+      "summary": "São Paulo e Palmeiras se enfrentam nesta terça-feira pela 18ª rodada da primeira fase do Campeonato Brasileiro sub-17. A bola rola a partir das 20h (de Brasília), no…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/54581320748.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/sao-paulo-x-palmeiras-pelo-brasileirao-sub-17-onde-assistir/",
       "source": "Gazeta Esportiva",
-      "published": 1790024986000
+      "published": 1790031619000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Palmeiras busca empate no fim contra o Ituano pela ida da segunda fase do Paulista sub-20",
-      "summary": "O Palmeiras quase se complicou, mas buscou o empate por 1 a 1 contra o Ituano na tarde desta segunda-feira e deixou tudo em aberto na decisão por uma vaga nas oitavas de…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/FTM-7080.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/ituano-x-palmeiras-sub-20-ida-segunda-fase-21-09-2026/",
+      "title": "Vasco x Santos: saiba onde assistir ao jogo pelo Campeonato Brasileiro sub-17",
+      "summary": "Vasco e Santos se enfrentam nesta terça-feira, às 15h, no Estádio Nivaldo Pereira, pela 18ª rodada do Campeonato Brasileiro sub-17. Veja onde assistir ao jogo. O post…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55353997558_0c52378d5e_3k.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/vasco-x-santos-sub-17-onde-assistir-brasileiro/",
       "source": "Gazeta Esportiva",
-      "published": 1790024729000
+      "published": 1790031608000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "São Paulo bate o Internacional no Morumbis; veja bastidores",
-      "summary": "Veja o melhor dos bastidores da vitória Tricolor por 1 a 0, gol de Calleri, pelo returno do Campeonato Brasileiro. O post São Paulo bate o Internacional no Morumbis;…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/ef8mfbxv-1920Sao-Paulo.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/sao-paulo-bate-o-internacional-no-morumbis-veja-bastidores/",
+      "title": "Presidente do Santos aborda futuro de Gabigol e admite problema no gramado da Vila",
+      "summary": "Marcelo Teixeira confirmou Gabigol nos planos do Santos para 2027, explicou os fatores financeiros envolvidos no futuro do atacante e admitiu problemas no gramado da…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55538503766_d82ee0420a_o.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/presidente-do-santos-fala-sobre-futuro-de-gabigol-e-gramado/",
       "source": "Gazeta Esportiva",
-      "published": 1790023679000
+      "published": 1790031603000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "O que é o tsunami meteorológico que elevou o nível do mar e causou alagamentos em cidades de Santa Catarina",
+      "summary": "Episódio atingiu principalmente os municípios de Jaguaruna, Laguna e Imbituba, provocando alagamentos, danos em estruturas e deslocamento de embarcações O post O que é o…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/tsunami-scaled-e1778424105545-1024x577.jpg",
+      "link": "https://olhardigital.com.br/2026/09/21/ciencia-e-espaco/o-que-e-o-tsunami-meteorologico-que-elevou-o-nivel-do-mar-e-causou-alagamentos-em-cidades-de-santa-catarina/",
+      "source": "Olhar Digital",
+      "published": 1790032502000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Governo pede investigação sobre chatbots que simulam amizade e romance e aponta riscos para usuários no Brasil",
+      "summary": "Documento sugere que a ANPD examine esses serviços à luz do Estatuto Digital da Criança e do Adolescente (ECA Digital) e de suas competências de fiscalização O post…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2024/08/anpd-autoridade-nacional-protecao-1024x576.jpeg",
+      "link": "https://olhardigital.com.br/2026/09/21/inteligencia-artificial/governo-pede-investigacao-sobre-chatbots-que-simulam-amizade-e-romance-e-aponta-riscos-para-usuarios-no-brasil/",
+      "source": "Olhar Digital",
+      "published": 1790029638000
     },
     {
       "category": "tecnologia",
@@ -183,74 +203,54 @@
       "published": 1790020421000
     },
     {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Smartwatches em promoção: veja uma seleção com ótimas opções na Amazon",
-      "summary": "Se você está pensando em investir em um smartwatch, este é um bom momento para pesquisar. Reunimos três opções em oferta na Amazon que cobrem diferentes perfis de uso —…",
-      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/21/reviews/smartwatches-em-promocao-veja-uma-selecao-com-otimas-opcoes-na-amazon-5/",
-      "source": "Olhar Digital",
-      "published": 1790019600000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Selo de verificação não impediu golpe: Google exibiu anúncios falsos de programas do governo",
-      "summary": "Pesquisa do NetLab, da UFRJ, encontrou dezenas de peças fraudulentas que usavam marcas e símbolos do governo para direcionar usuários a sites falsos O post Selo de…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/anuncio_falso_google.png",
-      "link": "https://olhardigital.com.br/2026/09/21/internet-e-redes-sociais/selo-de-verificacao-nao-impediu-golpe-google-exibiu-anuncios-falsos-de-programas-do-governo/",
-      "source": "Olhar Digital",
-      "published": 1790019346000
-    },
-    {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Quaest: Lula tem 37%, e Flávio Bolsonaro, 33% no 1º turno; candidatos empatam no 2º turno",
-      "summary": "O presidente Lula ( PT ) tem 37% das intenções de voto no primeiro turno contra 33% do senador Flávio Bolsonaro ( PL ), segundo pesquisa Quaest divulgada nesta…",
+      "title": "Natal e Réveillon: passagens de SP para Curitiba, Rio, BH e Brasília por R$ 700",
+      "summary": "Passagens aéreas baratas para voar no final do ano são, como diz o ditado, perna de cobra: ninguém vê. Mas na noite desta segunda (21), a reportagem encontrou passagens…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-lula-tem-37-e-flavio-bolsonaro-33-no-1o-turno-candidatos-empatam-no-2o-turno.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/natal-e-reveillon-passagens-de-sp-para-curitiba-rio-bh-e-brasilia-por-r-700.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1790025720000
+      "published": 1790036220000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Temporal no RS: Defesa Civil atualiza situação dos municípios",
-      "summary": "Temporal no RS: Defesa Civil atualiza situação dos municípios Fortes chuvas atingem o RS desde a noite de domingo. Ao menos 119 cidades registraram danos. O Rio Grande…",
-      "image": "https://s2-g1.glbimg.com/JJ7ymRp3DjH7AD5W9eOQkP9l8Xc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/H/XYaWBrSCA6NjZoW9o4aA/whatsapp-image-2026-09-21-at-11.42.11.jpeg",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/ao-vivo/temporal-rs-defesa-civil-atualiza-situacao-municipios.ghtml",
-      "source": "g1",
-      "published": 1790025308000
+      "title": "'Como não pensar em destruição de provas?', diz leitor sobre furto em suposto imóvel de Milton Leite",
+      "summary": "Investigação Leia mais (09/21/2026 - 21h16)",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/como-nao-pensar-em-destruicao-de-provas-diz-leitor-sobre-furto-em-suposto-imovel-de-milton-leite.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1790036160000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Pessoa morre e outras 4 ficam feridas após acidente em rodovia da Bahia",
-      "summary": "Pessoa morre e outras 4 ficam feridas após acidente em rodovia da Bahia Reprodução/TV Oeste Um homem morreu e outras quatro pessoas ficaram feridas após um acidente de…",
-      "image": "https://s2-g1.glbimg.com/8dAEX4fW69jc0YTsgIVgbaV8EUM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/b/NGzNajQUS094pYZoxRdw/fotos-g1ba-55-.jpg",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/21/pessoa-morre-e-outras-ficam-feridas-em-bom-jesus-da-lapa.ghtml",
+      "title": "Confira o dia de campanha dos candidatos ao governo do Acre nesta segunda-feira (21)",
+      "summary": "O g1 informa todos os dias as atividades de campanha dos candidatos ao governo do Acre nas eleições deste ano. Confira abaixo como foi nesta segunda-feira (21). Mailza…",
+      "image": "https://s2-g1.glbimg.com/S4ta2y0PLFQWqbrThruDa9vHT2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/Z/9jqgGVSAqAkEZ1QzEn9A/midia-de-distribuicao-g1.png",
+      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/21/confira-o-dia-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-segunda-feira-21.ghtml",
       "source": "g1",
-      "published": 1790025249000
+      "published": 1790036103000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Eleições 2026: TRE-SE apreende 174 wind banners na Grande Aracaju",
-      "summary": "Wind banners ilustrativos TRE-SE/arquivo O Tribunal Regional Eleitoral de Sergipe (TRE-SE) apreendeu 174 wind banners durante uma operação especial de fiscalização da…",
-      "image": "https://s2-g1.glbimg.com/QKDN503uj2xDM4ZRGMMJY45jQbk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/q/qczM4XQS2JVPA1QjavIA/imagem-g1-61-.jpg",
-      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/21/eleicoes-2026-tre-se-apreende-174-wind-banners-na-grande-aracaju.ghtml",
-      "source": "g1",
-      "published": 1790025024000
+      "title": "Progressistas dos EUA devem apoiar autodeterminação do Brasil, diz Bernie Sanders em encontro com Lula",
+      "summary": "O senador independente americano Bernie Sanders perguntou ao presidente Lula (PT) nesta segunda-feira (21), em Nova York , sobre a possibilidade real de interferência…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/progressistas-dos-eua-devem-apoiar-autodeterminacao-do-brasil-diz-bernie-sanders-em-encontro-com-lula.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1790036040000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Homem é internado em estado grave após ser espancado por grupo em festa denominada 'da paz' na Bahia",
-      "summary": "Homem é agredido durante briga generalizada na Bahia Um homem de 35 anos foi internado em estado grave após ser espancado por um grupo de pessoas, no domingo (20), na…",
-      "image": "https://s2-g1.glbimg.com/cb2WDL8h6mnTzPDc1p3nynX84LA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/5/9JbBQQRpeuBhjwCbooGQ/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-09-21t180709.638.jpg",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/21/homem-e-espancado-na-bahia.ghtml",
-      "source": "g1",
-      "published": 1790024952000
+      "title": "Vorcaro disse que falaria com 'sua turma' para manter Otto Lobo na presidência da CVM, diz jornal",
+      "summary": "O dono do Banco Master , Daniel Vorcaro , apoiou Otto Lobo na presidência da CVM (Comissão de Valores Mobiliários), responsável por regular o mercado de capitais no…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/09/vorcaro-disse-que-falaria-com-sua-turma-para-manter-otto-lobo-na-presidencia-da-cvm-diz-jornal.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1790035800000
     }
   ]
 }
