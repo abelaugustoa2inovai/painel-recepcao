@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-09-22T23:55:35.610Z",
+  "updatedAt": "2026-09-23T02:35:21.834Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Empresário vira réu por tingir cabelos e barba de idoso em situação de rua",
+      "summary": "Idoso em situação de rua tem cabelos e barba tingidos de vermelho por empresário O empresário dono de uma garagem de veículos que tingiu os cabelos e a barba de um homem…",
+      "image": "https://s2-g1.glbimg.com/xFMfxcF8bT2acFFNPDrHlFcHBFk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/S/jVp5YjTKywwRJANyOtdA/foto-g1-2026-06-08t073510.710.png",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/22/empresario-vira-reu-por-tingir-cabelos-e-barba-de-idoso-em-situacao-de-rua.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1790122136000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -43,64 +53,84 @@
       "published": 1790108064000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Zé Neto e Cristiano lamentam morte de cantor Rick, da dupla com Renner: ‘Descanse em paz, ídolo’",
-      "summary": "Imagens mostram destroços do helicóptero que caiu com o cantor Rick em SC Os sertanejos Zé Neto e Cristiano, naturais de São José do Rio Preto (SP), lamentaram a morte…",
-      "image": "https://s2-g1.glbimg.com/jhCqNNLkaQqAhzsGhu-wVMc_7pQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/s/4d6U0BTVAJVQLv9QJVtQ/g1.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/22/ze-neto-e-cristiano-lamentam-morte-de-cantor-rick-da-dupla-com-renner-descanse-em-paz-idolo.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1790102462000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Reino Unido se manterá firme em relação às Malvinas, diz primeiro-ministro britânico",
+      "summary": "O recém-eleito deputado por Makerfield Andy Burnham, do Partido Trabalhista britânico, reage após sua vitória na eleição suplementar do distrito, convocada após a…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-19T023615Z_428721278_RC2QWLA1AYVK_RTRMADP_3_BRITAIN-POLITICS-MAKERFIELD.jpg?fit=300%2C208&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/reino-unido-se-mantera-firme-em-relacao-as-malvinas-diz-primeiro-ministro-britanico/",
+      "source": "InfoMoney",
+      "published": 1790125191000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Argentina convoca embaixador britânico por exploração de petróleo nas Malvinas",
-      "summary": "Ilhas Malvinas, território disputado por Argentina e Reino Unido (Reprodução) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/08/ilhas-malvinas.jpg?fit=300%2C169&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/argentina-convoca-embaixador-britanico-por-exploracao-de-petroleo-nas-malvinas/",
+      "title": "Senador republicano pede investigação sobre negócios da família Trump",
+      "summary": "O presidente dos EUA tem falado várias vezes sobre a ideia de enviar cheques únicos de reembolso de US$ 2.000 para muitas famílias. Crédito&#8230; Eric Lee para The New…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/TRUMP-CASH-REBATES-1.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/senador-republicano-pede-investigacao-sobre-negocios-da-familia-trump/",
       "source": "InfoMoney",
-      "published": 1790118287000
+      "published": 1790125108000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Leilão da Caixa: 596 imóveis, descontos de até 67% e lances a partir de R$ 51 mil",
-      "summary": "Foto: Freepik \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/04/2151925493.jpg?fit=1000%2C684&quality=70&strip=all\" />Certame será feito em duas…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2151925493.jpg?fit=300%2C205&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/minhas-financas/leilao-da-caixa-596-imoveis-descontos-de-ate-67-e-lances-a-partir-de-r-51-mil/",
+      "title": "Zelensky diz que Rússia planeja novo ataque em grande escala contra Ucrânia",
+      "summary": "O presidente da Ucrânia, Volodymyr Zelenskiy, aguarda para receber o presidente de Chipre, Nikos Christodoulides, em meio ao ataque da Rússia à Ucrânia, em Kiev,…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-22T211210Z_1825748956_RC2L9IAWKCQY_RTRMADP_3_UKRAINE-CRISIS-ZELENSKIY.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/zelensky-diz-que-russia-planeja-novo-ataque-em-grande-escala-contra-ucrania/",
       "source": "InfoMoney",
-      "published": 1790115151000
+      "published": 1790124248000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Localiza (RENT3) aprova R$ 614,9 milhões em proventos; veja quem tem direito",
-      "summary": "Foto: Divulgação \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/07/Localiza-Meoo-oferece-mobilidade-economica-para-micro-e-pequenos-empreendedore…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Localiza-Meoo-oferece-mobilidade-economica-para-micro-e-pequenos-empreendedores.webp?fit=300%2C218&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/localiza-rent3-aprova-r-6149-milhoes-em-proventos-veja-quem-tem-direito/",
+      "title": "Dia de Sorte: confira o resultado do concurso 1304 sorteado nesta terça-feira (22)",
+      "summary": "Loteria Dia de Sorte, da Caixa Econômica (Foto: Divulgação) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1304-sorteado-nesta-terca-feira-22/",
       "source": "InfoMoney",
-      "published": 1790113697000
+      "published": 1790122879000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Petrobras e demais petroleiras sempre operaram com incerteza, diz diretora",
-      "summary": "Sede da Petrobras, no Rio de Janeiro 11/03/2022 REUTERS/Pilar Olivares \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-25T223336Z_1_LYNXMPEM2O1E2_RTROPTP_4_BRAZIL-FUEL-PETROBRAS-INVESTORS.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/petrobras-e-demais-petroleiras-sempre-operaram-com-incerteza-diz-diretora/",
+      "title": "Quina hoje, concurso 7124: confira o resultado sorteado nesta terça (22)",
+      "summary": "(Divulgação) \" data-image-caption=\" (Divulgação) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/quina-caixa-divulgacao.png?fit=300%2C158&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7124-confira-o-resultado-sorteado-nesta-terca-22/",
       "source": "InfoMoney",
-      "published": 1790112073000
+      "published": 1790122161000
     },
     {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Boeing e GoGo testam drone militar conectado via satélite em desafio à Starlink",
-      "summary": "Logo da Boeing na França 18/6/2023 REUTERS/Benoit Tessier/Arquivo \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/2024-10-15T144543Z_1_LYNXMPEK9E0HQ_RTROPTP_4_BOEING-737-SAFETY.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/business/boeing-e-gogo-testam-drone-militar-conectado-via-satelite-em-desafio-a-starlink/",
-      "source": "InfoMoney",
-      "published": 1790111978000
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Santos é condenado a pagar R$ 18,6 milhões ao Cuiabá por negócio de Joaquim",
+      "summary": "A CNRD condenou o Santos a pagar R$ 18,6 milhões ao Cuiabá por valores ligados à contratação e à venda do zagueiro Joaquim. Peixe ainda pode recorrer. O post Santos é…",
+      "image": "https://static.gazetaesportiva.com/uploads/2024/12/joaquim.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/santos-e-condenado-a-pagar-r-186-milhoes-ao-cuiaba-por-negocio-de-joaquim/",
+      "source": "Gazeta Esportiva",
+      "published": 1790127316000
+    },
+    {
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "São Paulo derrota o Palmeiras e segue vivo na briga por uma vaga nas quartas do Brasileiro sub-17",
+      "summary": "O São Paulo venceu o Palmeiras por 2 a 1 na noite desta terça-feira, pela 18ª rodada do Campeonato Brasileiro sub-17, em duelo disputado no Estádio Marcelo Portugal, em…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55545629765_3fedc1d610_c.webp",
+      "link": "https://www.gazetaesportiva.com/futebol/sao-paulo-x-palmeiras-brasileirao-sub-17-22-09-2026/",
+      "source": "Gazeta Esportiva",
+      "published": 1790125351000
+    },
+    {
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Operário bate o Criciúma fora de casa e entra no G6 da Série B",
+      "summary": "O Operário venceu o Criciúma por 2 a 0 no Heriberto Hulse, chegou aos 47 pontos e assumiu uma vaga no G6 da Série B do Campeonato Brasileiro. O post Operário bate o…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/797646359_18630563572008279_8316374585448906673_n-1.webp",
+      "link": "https://www.gazetaesportiva.com/times/operario-pr/operario-bate-o-criciuma-fora-de-casa-e-entra-no-g6-da-serie-b/",
+      "source": "Gazeta Esportiva",
+      "published": 1790124431000
     },
     {
       "category": "esportes",
@@ -123,134 +153,104 @@
       "published": 1790117231000
     },
     {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Testemunha diz que Maradona teve morte súbita e covid-19 pode ter sido causa",
-      "summary": "O julgamento sobre a morte de Diego Maradona ganhou um novo capítulo com o depoimento do perito oficial Pablo Ferrari. Convocado pela defesa, o médico legista afirmou…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260920__C8U83LX__v3__HighRes__TopshotMarathonArgBuenosAires.webp",
-      "link": "https://www.gazetaesportiva.com/times/argentina/perito-contradiz-acusacao-morte-diego-maradona/",
-      "source": "Gazeta Esportiva",
-      "published": 1790116749000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Time da NFL treinará no CT do Flamengo para jogo no Brasil",
-      "summary": "O Dallas Cowboys utilizará o Ninho do Urubu, CT do Flamengo, para se preparar para o duelo contra o Baltimore Ravens, válido pela terceira semana da temporada 2026 da…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260922__2296585231__v1__HighRes__WashingtonCommandersVDallasCowboys.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/nfl/dallas-cowboys-treino-ninho-do-urubu-jogo-nfl-maracana/",
-      "source": "Gazeta Esportiva",
-      "published": 1790116121000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Scaloni tem negociações avançadas para renovar com a Argentina, diz jornal",
-      "summary": "Campeão do mundo em 2022, Lionel Scaloni está próximo de renovar seu contrato com a seleção argentina até 2028, com opção de extensão até 2030. O post Scaloni tem…",
-      "image": "https://static.gazetaesportiva.com/uploads/2025/03/000_37H69P6.webp",
-      "link": "https://www.gazetaesportiva.com/times/argentina/scaloni-tem-negociacoes-avancadas-para-renovar-com-a-argentina-diz-jornal/",
-      "source": "Gazeta Esportiva",
-      "published": 1790115448000
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Câmeras e microfones em óculos com IA geram reação global e podem ameaçar futuro de novos dispositivos inteligentes",
+      "summary": "Dispositivos conseguem observar, ouvir e responder ao ambiente ao redor do usuário, recursos que podem torná-los mais úteis, mas também aumentam o risco de registrar…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/Destaque-Oculos-Ray-Ban-Meta-1024x576.jpg",
+      "link": "https://olhardigital.com.br/2026/09/22/reviews/cameras-e-microfones-em-oculos-com-ia-geram-reacao-global-e-podem-ameacar-futuro-de-novos-dispositivos-inteligentes/",
+      "source": "Olhar Digital",
+      "published": 1790128300000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Discord passa a estimar idade dos usuários e cria novas restrições para adolescentes; entenda",
-      "summary": "Mudança chega após a plataforma ter adiado, em fevereiro, a implementação global do sistema diante de preocupações relacionadas à privacidade e à coleta de dados…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/discord-2-1024x683.jpg",
-      "link": "https://olhardigital.com.br/2026/09/22/internet-e-redes-sociais/discord-passa-a-estimar-idade-dos-usuarios-e-cria-novas-restricoes-para-adolescentes-entenda/",
+      "title": "OpenAI cria grupo de matemáticos após sequência de polêmicas com resultados de inteligência artificial",
+      "summary": "Iniciativa surge após sequência de controvérsias envolvendo a divulgação de resultados matemáticos produzidos pelos modelos da OpenAI e críticas de pesquisadores sobre…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/ia-matematica-1024x579.jpg",
+      "link": "https://olhardigital.com.br/2026/09/22/pro/openai-cria-grupo-de-matematicos-apos-sequencia-de-polemicas-com-resultados-de-inteligencia-artificial/",
       "source": "Olhar Digital",
-      "published": 1790118262000
+      "published": 1790127066000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Ataque hacker tira sistemas do Tribunal de Justiça de Mato Grosso do ar e interrompe serviços judiciais",
-      "summary": "Ataque afetou serviços utilizados pelo Judiciário mato-grossense O post Ataque hacker tira sistemas do Tribunal de Justiça de Mato Grosso do ar e interrompe serviços…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/09/freepik-1024x576.jpg",
-      "link": "https://olhardigital.com.br/2026/09/22/seguranca/ataque-hacker-tira-sistemas-do-tribunal-de-justica-de-mato-grosso-do-ar-e-interrompe-servicos-judiciais/",
-      "source": "Olhar Digital",
-      "published": 1790116650000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "LISA: a incrível tecnologia espacial que vai testar teoria de Einstein e “sentir” as vibrações do Universo",
-      "summary": "Missão espacial europeia contará com três satélites e lasers para detectar ondas gravitacionais e investigar eventos extremos do Universo O post LISA: a incrível…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/missao-lisa-esa-1024x572.png",
-      "link": "https://olhardigital.com.br/2026/09/22/ciencia-e-espaco/lisa-a-incrivel-tecnologia-espacial-que-vai-testar-teoria-de-einstein-e-sentir-as-vibracoes-do-universo/",
-      "source": "Olhar Digital",
-      "published": 1790111655000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Subsolo brasileiro guarda um poderoso segredo capaz de ajudar o planeta a enfrentar o aquecimento global",
-      "summary": "O subsolo do Brasil guarda a chave para remover carbono do ar. Veja como o confinamento geológico pode frear o aquecimento global O post Subsolo brasileiro guarda um…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/CCUS-1024x683.jpg",
-      "link": "https://olhardigital.com.br/2026/09/22/ciencia-e-espaco/subsolo-brasileiro-guarda-um-poderoso-segredo-capaz-de-ajudar-o-planeta-a-enfrentar-o-aquecimento-global/",
-      "source": "Olhar Digital",
-      "published": 1790109462000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "A IA da Meta precisava fazer ligações, mas quem estava do outro lado da linha eram humanos; entenda o teste",
-      "summary": "Iniciativa envolvia trabalhadores contratados pela empresa realizando discretamente algumas das ligações telefônicas que deveriam ser feitas pelo agente digital O post A…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/meta-2-1024x682.jpg",
-      "link": "https://olhardigital.com.br/2026/09/22/inteligencia-artificial/a-ia-da-meta-precisava-fazer-ligacoes-mas-quem-estava-do-outro-lado-da-linha-eram-humanos-entenda-o-teste/",
-      "source": "Olhar Digital",
-      "published": 1790108628000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Brasil é pego de surpresa e tenta diminuir impacto de decisão de latinos contra PCC e CV",
-      "summary": "O governo brasileiro ainda avalia o conteúdo da declaração emitida nesta terça-feira (22) pela aliança Escudo das Américas. No documento, países com gestões de direita…",
+      "title": "Confira o Olhar Digital News na íntegra (22/09/2026)",
+      "summary": "Confira as principais notícias do mundo da tecnologia e da ciência no programa Olhar Digital News de hoje! O post Confira o Olhar Digital News na íntegra (22/09/2026)…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/brasil-e-pego-de-surpresa-e-tenta-diminuir-impacto-de-decisao-de-latinos-contra-pcc-e-cv.shtml",
+      "link": "https://olhardigital.com.br/2026/09/22/videos/confira-o-olhar-digital-news-na-integra-22-09-2026/",
+      "source": "Olhar Digital",
+      "published": 1790126871000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Fala AI: ONU escancara divisão sobre IA; e agora?",
+      "summary": "A inteligência artificial esteve no centro dos debates da Assembleia Geral da ONU, mas os discursos revelaram um cenário desafiador O post Fala AI: ONU escancara divisão…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/09/22/colunistas/fala-ai-onu-escancara-divisao-sobre-ia-e-agora/",
+      "source": "Olhar Digital",
+      "published": 1790125893000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Novo assistente de IA da Meta enfrenta falha grave de segurança que pode colocar usuários de Mac em risco",
+      "summary": "Vulnerabilidade foi descoberta pelo especialista em segurança do macOS Patrick Wardle, que alertou sobre o problema O post Novo assistente de IA da Meta enfrenta falha…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2024/12/fachada_meta_logo-1024x576.jpg",
+      "link": "https://olhardigital.com.br/2026/09/22/seguranca/novo-assistente-de-ia-da-meta-enfrenta-falha-grave-de-seguranca-que-pode-colocar-usuarios-de-mac-em-risco/",
+      "source": "Olhar Digital",
+      "published": 1790124649000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Fundador do Dead Kennedys, East Bay Ray recebe diagnóstico de Parkinson",
+      "summary": "A banda Dead Kennedys , uma das mais importantes do punk americano, anunciou nesta terça-feira (22) que o guitarrista e fundador da banda, East Bay Ray, recebeu o…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/fundador-do-dead-kennedys-east-bay-ray-recebe-diagnostico-de-parkinson.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1790121000000
+      "published": 1790130300000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Resultados das Loterias Caixa",
-      "summary": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo à segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios…",
-      "image": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png",
-      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "title": "Trump se reúne com Delcy Rodríguez em 1º encontro desde captura de Maduro",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, e a presidente interina da Venezuela, Delcy Rodríguez REUTERS/Kevin Lamarque / Wendys Olivo/Palácio Miraflores/Divulgação…",
+      "image": "https://s2-g1.glbimg.com/wiopCgJkpwf_tg5P6kKLMcz72Ns=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/2/TtuTH2RVeKoh59o08WEg/trump-delcy.jpg",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/22/trump-se-reune-com-delcy-rodriguez-em-1o-encontro-desde-captura-de-maduro.ghtml",
       "source": "g1",
-      "published": 1790120730000
+      "published": 1790130300000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Morre Rose Monteiro, referência da dança, educação e cultura no Pará",
-      "summary": "Professora, bailarina e produtora cultural, Rose Monteiro morre no Pará. Arquivo Pessoal Morreu na segunda-feira (21) a professora, bailarina e produtora cultural Rose…",
-      "image": "https://s2-g1.glbimg.com/gQVftu3L5OdRNiWnaFDq63-krZ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/r/XLq7EAQiCBbryAhYxjlw/whatsapp-image-2026-09-22-at-20.38.51.jpeg",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/09/22/morre-rose-monteiro-referencia-da-danca-educacao-e-cultura-no-para.ghtml",
+      "title": "Well Macêdo propõe plano de obras públicas para garantir emprego e saneamento no Pará",
+      "summary": "Well Macêdo, candidata ao governo do Pará, se reúne com trabalhadores da construção civil A candidata do PSTU ao Governo do Pará, Well Macêdo, disse nesta terça-feira…",
+      "image": "https://s2-g1.glbimg.com/4v7cGpVBVf_8EiZJFd9VHA_CaFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/u/I9CHw2SLGVPEdh4R3hkA/image-2026-09-22t232420.346.png",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/22/well-macedo-propoe-plano-de-obras-publicas-para-garantir-emprego-e-saneamento-no-para.ghtml",
       "source": "g1",
-      "published": 1790120710000
+      "published": 1790130126000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Ciro promete replicar modelo do Iprede para atendimento de pessoas neurodivergentes no interior",
-      "summary": "Ciro Gomes se reúne com famílias atípicas Candidato ao Governo do Ceará, Ciro Gomes (PSDB) disse, nesta terça-feira (22), que pretende reproduzir o modelo do Instituto…",
-      "image": "https://s2-g1.glbimg.com/Zn3XglgdI7fIt-hYV9BATI5R1tY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/a/oYUZViSW2A8X4y2w0Ayg/ciro-gomes-modelo-iprede.jpg",
-      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/22/ciro-promete-replicar-modelo-do-iprede-para-atendimento-de-pessoas-neurodivergentes-no-interior.ghtml",
+      "title": "Romeu Zema, candidato do Novo à Presidência, faz campanha em Poços de Caldas, no interior de Minas",
+      "summary": "Romeu Zema, Novo, fez campanha em Minas O candidato Romeu Zema, do Novo, fez campanha em Poços de Caldas, no interior de Minas. 📱Favorite o g1 no Google e acompanhe as…",
+      "image": "https://s2-g1.glbimg.com/peM2D1RWhC6nPEmkdh0OEdam2jQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/t/KBpJAcQaapaRzoZLMFzw/videoframe-6243000.png",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/09/22/romeu-zema-candidato-do-novo-a-presidencia-faz-campanha-em-pocos-de-caldas-no-interior-de-minas.ghtml",
       "source": "g1",
-      "published": 1790120644000
+      "published": 1790129591000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Mudanças em seções alteram locais de votação em cidades da Bahia; veja o que muda",
-      "summary": "Imagem meramente ilustrativa de uma urna eletrônica Reprodução/TV Globo Algumas seções eleitorais de Conceição do Jacuípe e Amélia Rodrigues, no interior da Bahia,…",
-      "image": "https://s2-g1.glbimg.com/gZhTKQD2Kn43YvYvIlFEfF2EkYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/C/6HFDdKSCaXJpGzATPhag/0-20-0109mg02-av-assedio-voto.png",
-      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/22/mudancas-em-secoes-alteram-locais-de-votacao-em-cidades-na-bahia.ghtml",
+      "title": "Flávio Bolsonaro, candidato do PL à Presidência, tem agenda no Maranhão",
+      "summary": "Flávio Bolsonaro, PL, fez campanha em São Luís O candidato do PL, Flávio Bolsonaro, teve agenda no Maranhão. 📱Favorite o g1 no Google e acompanhe as principais notícias…",
+      "image": "https://s2-g1.glbimg.com/buDfggJp8GwF7e3vh3taqFPL5y4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/m/1KaaxaTuAQ2y0Ik85Vdw/videoframe-6142925.png",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/09/22/flavio-bolsonaro-candidato-do-pl-a-presidencia-tem-agenda-no-maranhao.ghtml",
       "source": "g1",
-      "published": 1790120632000
+      "published": 1790129304000
     }
   ]
 }
