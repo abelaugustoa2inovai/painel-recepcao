@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-09-23T22:34:20.182Z",
+  "updatedAt": "2026-09-24T02:20:02.031Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Homem é preso suspeito de manter dependentes químicos em cárcere em clínica clandestina",
+      "summary": "Homem é preso suspeito de manter dependentes químicos em cárcere em Ibirá Um homem foi preso nesta quarta-feira (23) suspeito de manter pessoas em cárcere privado em uma…",
+      "image": "https://s2-g1.glbimg.com/1L6qsiLAzal-xH0KO6J5l2vtaVc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/5/laukk7QDauB9hRdfDm5w/whatsapp-image-2026-09-23-at-17.27.31.jpeg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/23/homem-e-preso-suspeito-de-manter-dependentes-quimicos-em-carcere-em-clinica-clandestina.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1790204340000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -26,8 +36,8 @@
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
       "title": "Homem invade casa e estupra mulher surda no noroeste de SP",
-      "summary": "Delegacia de Polícia de Potirendaba (SP) Google Street View/Reprodução A Polícia Civil investiga o estupro de uma mulher de 31 anos, surda, ocorrido na madrugada de…",
-      "image": "https://s2-g1.glbimg.com/eiZ4p68jww__soBebpiZWQ3uBU8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/X/xFylUCRNmmnI2wPMYexA/dp-potirendaba.jpeg",
+      "summary": "Homem é preso suspeito de invadir casa e estuprar mulher surda A Polícia Civil investiga o estupro de uma mulher de 31 anos, surda, ocorrido na madrugada de terça-feira…",
+      "image": "https://s2-g1.glbimg.com/6WudO82SbS8PzSlEIuU329B6CFs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/Q/lX2122ToK2UQVTOuhnBg/design-sem-nome-2026-09-23t202908.767.jpg",
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/23/homem-invade-casa-e-estupra-mulher-surda-e-muda-no-noroeste-de-sp.ghtml",
       "source": "g1 > São José do Rio Preto e Araçatuba",
       "published": 1790181453000
@@ -43,214 +53,204 @@
       "published": 1790181358000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Adolescente é localizado quase dois anos depois de desaparecer no noroeste de SP",
-      "summary": "Caso foi registrado na Delegacia Seccional de SRio Preto Reprodução/Google Street View Um adolescente de 15 anos foi localizado pela família em São José do Rio Preto…",
-      "image": "https://s2-g1.glbimg.com/k7asLpzwnveuXu--m1VCzUGat-o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/9/2/cuxuuATSaMfg7hBw079w/delegacia-rio-preto.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/23/adolescente-e-localizado-quase-dois-anos-depois-de-desaparecer-no-noroeste-de-sp.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1790178438000
-    },
-    {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Suposto vazamento expõe agentes do FBI ligados a China, Rússia e terrorismo",
-      "summary": "Um ônibus de turismo passa em frente à sede do FBI, dias após o governo Trump iniciar uma ampla rodada de cortes no Departamento de Justiça, em Washington, EUA, em 3 de…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/2026-09-23T184036Z_1355448066_RC22NCACFO4W_RTRMADP_3_USA-TRUMP-FBI.jpg?fit=300%2C171&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/suposto-vazamento-expoe-agentes-do-fbi-ligados-a-china-russia-e-terrorismo/",
+      "title": "Dia de Sorte: confira o resultado do concurso 1305 sorteado nesta quarta-feira (23)",
+      "summary": "Loteria Dia de Sorte, da Caixa Econômica (Foto: Divulgação) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1305-sorteado-nesta-quarta-feira-23/",
       "source": "InfoMoney",
-      "published": 1790202597000
+      "published": 1790209704000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Altman e Amodei pedem coordenação global para IA em raro discurso conjunto na ONU",
-      "summary": "O CEO e cofundador da OpenAI, Sam Altman, participa de uma reunião do Conselho de Segurança das Nações Unidas durante a Assembleia-Geral da ONU, em Nova York, em 23 de…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/468833352.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/business/altman-e-amodei-pedem-coordenacao-global-para-ia-em-raro-discurso-conjunto-na-onu/",
+      "title": "Lotomania: confira o resultado do concurso 2979 sorteado nesta quarta-feira (23)",
+      "summary": "Foto: Divulgação \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=735%2C417&quality=70&strip=all\" />Veja as 20 dezenas sorteadas…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=300%2C170&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/lotomania-confira-o-resultado-do-concurso-2979-sorteado-nesta-quarta-feira-23/",
       "source": "InfoMoney",
-      "published": 1790200974000
+      "published": 1790209535000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "TCU recomenda análise de alternativas à caducidade da Enel em SP",
-      "summary": "O plenário do Tribunal de Contas da União (TCU) recomendou nesta quarta-feira (23) que o Ministério de Minas e Energia (MME) e a Agência Nacional de Energia Elétrica…",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/tcu-recomenda-analise-de-alternativas-caducidade-da-enel-em-sp",
-      "source": "Feed Editoria",
-      "published": 1790200260000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Mais de 8 mil passageiros da Azul foram afetados por instabilidade em sinal de GPS",
-      "summary": "Azul (Foto: Divulgação) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/04/azul-aeronave.jpg?fit=1280%2C960&quality=70&strip=all\" />Companhia…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/azul-aeronave.jpg?fit=300%2C225&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/mais-de-8-mil-passageiros-da-azul-foram-afetados-por-instabilidade-em-sinal-de-gps/",
+      "title": "Lotofácil hoje: confira o resultado do concurso 3787 sorteado nesta quarta (23)",
+      "summary": "Lotofácil da Independência é um sorteio especial da Lotofácil, realizado em setembro. Foto: Marcelo Camargo/Agência Brasil \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorteio-lotofacil.webp?fit=300%2C225&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-confira-o-resultado-do-concurso-3787-sorteado-nesta-quarta-23/",
       "source": "InfoMoney",
-      "published": 1790199994000
+      "published": 1790208449000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Justiça dos EUA coloca em dúvida veto de Trump a veículos de imprensa na Casa Branca",
-      "summary": "Um cartaz atualizado de solidariedade, incluindo CNN, MS NOW e Politico, está pendurado do lado de fora do espaço da Associated Press nas dependências da Casa Branca,…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/2026-09-23T100028Z_1123825779_RC2PONAHOS66_RTRMADP_3_USA-TRUMP-MEDIA.jpg?fit=300%2C208&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/justica-dos-eua-coloca-em-duvida-veto-de-trump-a-veiculos-de-imprensa-na-casa-branca/",
+      "title": "Quina hoje, concurso 7125: confira o resultado sorteado nesta quarta (23)",
+      "summary": "(Divulgação) \" data-image-caption=\" (Divulgação) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/quina-caixa-divulgacao.png?fit=300%2C158&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7125-confira-o-resultado-sorteado-nesta-quarta-23/",
       "source": "InfoMoney",
-      "published": 1790199979000
+      "published": 1790208191000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Trump estuda vetar por 90 dias exportações de diesel",
+      "summary": "O presidente dos EUA, Donald Trump, participa da Convenção Republicana de Meio de Mandato em Dallas, no Texas &#8211; 09/09/2026 (Foto: REUTERS/Evan Vucci) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Donald-Trump.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/trump-estuda-vetar-por-90-dias-exportacoes-de-diesel/",
+      "source": "InfoMoney",
+      "published": 1790207206000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Antonelli tenta ampliar vantagem na F1 e dar passo decisivo rumo ao título no GP do Azerbaijão",
-      "summary": "Kimi Antonelli terá mais uma oportunidade de se aproximar do título da Fórmula 1 neste fim de semana, no Grande Prêmio do Azerbaijão. Líder do campeonato com 81 pontos…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260923__C93W3ZH__v2__MidRes__AutoPrixF1Aze.webp",
-      "link": "https://www.gazetaesportiva.com/motor/formula-1/antonelli-tenta-ampliar-vantagem-na-f1-e-dar-passo-decisivo-rumo-ao-titulo-no-gp-do-azerbaijao/",
+      "title": "Alison dos Santos conquista ouro nos 400m rasos e quebra recorde dos Jogos Sul-Americanos",
+      "summary": "Alison dos Santos encerrou sua participação nos Jogos Sul-Americanos de Santa Fé da melhor forma possível. Nesta quarta-feira, o brasileiro conquistou a medalha de ouro…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/471023-1222000-atl-al-23-09-2026-3468.avif",
+      "link": "https://www.gazetaesportiva.com/mais-esportes/atletismo/alison-dos-santos-conquista-ouro-nos-400m-rasos-e-quebra-recorde-dos-jogos-sul-americanos/",
       "source": "Gazeta Esportiva",
-      "published": 1790201003000
+      "published": 1790215137000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Brecha jurídica pode abrir discussão sobre nova regra de estrangeiros da CBF; entenda",
-      "summary": "A redução do limite de jogadores estrangeiros aprovada pela CBF pode abrir uma discussão jurídica. Especialista ouvido pela Gazeta Esportiva aponta que acordos do…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/20092026_cg_palmeiras_2613_61.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/limite-estrangeiros-cbf-mercosul-discussao-juridica/",
+      "title": "Criciúma anuncia Umberto Louzer como substituto de Eduardo Baptista por empréstimo",
+      "summary": "O Criciúma anunciou Umberto Louzer como novo técnico para a sequência da Série B do Campeonato Brasileiro. O treinador chega para ocupar a vaga deixada por Eduardo…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/SaveClip.App_822807397_18638586856005622_3775474378445754298_n.webp",
+      "link": "https://www.gazetaesportiva.com/times/criciuma/criciuma-anuncia-umberto-louzer-como-substituto-de-eduardo-baptista-por-emprestimo/",
       "source": "Gazeta Esportiva",
-      "published": 1790200922000
+      "published": 1790210143000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "MPSP autoriza 4 mil ingressos para torcida do Fluminense no Nubank Parque, e Palmeiras aguarda aval da PM",
-      "summary": "O Ministério Público de São Paulo (MPSP) autorizou a ampliação da carga de ingressos para a torcida do Fluminense, no Nubank Parque, em São Paulo (SP), no duelo contra o…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/03/allianz-parque-palmeiras.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-fluminense-mp-ampliacao-carga-de-ingressos-torcida-visitante/",
+      "title": "Copinha F 2026: veja grupos, participantes, sedes e datas",
+      "summary": "A Copinha F 2026 teve seus detalhes definidos nesta quarta-feira, durante o evento de lançamento, realizado em São Paulo pela Federação Paulista de Futebol (FPF). A…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/snapinsta-1790209618632.webp",
+      "link": "https://www.gazetaesportiva.com/futebol-feminino/copinha-f-2026-veja-grupos-participantes-sedes-e-datas/",
       "source": "Gazeta Esportiva",
-      "published": 1790200304000
+      "published": 1790209957000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Cristiano Ronaldo: ‘Estou na seleção para ajudar pelo que faço, não pelo currículo’",
-      "summary": "Antes da estreia de Portugal na Liga das Nações contra o País de Gales, Cristiano Ronaldo afirmou que está à disposição para ajudar Jorge Jesus no que for preciso. O…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/7ec5hdz9-1920Ronaldo.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/cristiano-ronaldo-estou-na-selecao-para-ajudar-pelo-que-faco-nao-pelo-curriculo/",
+      "title": "Grêmio anuncia acordo com novo patrocinador máster; veja detalhes",
+      "summary": "O Grêmio oficializou nesta quarta-feira a Pitaco como sua nova patrocinadora máster. O acordo tem duração de três anos e encerra um período de cerca de dez meses sem uma…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/HS7gQorWkAAbgkj.webp",
+      "link": "https://www.gazetaesportiva.com/times/gremio/gremio-anuncia-acordo-com-novo-patrocinador-master-veja-detalhes/",
       "source": "Gazeta Esportiva",
-      "published": 1790199288000
+      "published": 1790209604000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "São Paulo encaminha acordo com o Novorizontino para evitar transfer ban",
-      "summary": "O São Paulo encaminhou, nos últimos dias, um novo acordo com o Novorizontino para evitar um transfer ban da Agência de Fair Play da CBF. O clube tricolor possui uma…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55524916005_425d03e8aa_o.webp",
-      "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-acordo-novorizontino-transfer-ban/",
+      "title": "Vila Nova anuncia ex-atacante do Flamengo como reforço para a Série B",
+      "summary": "O Vila Nova oficializou nesta quarta-feira a contratação do atacante Lincoln, revelado pelo Flamengo. O jogador de 25 anos assinou contrato até o fim da temporada e…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/HS7u0boWcAAiT_n222.webp",
+      "link": "https://www.gazetaesportiva.com/times/vila-nova-go/vila-nova-anuncia-ex-atacante-do-flamengo-como-reforco-para-a-serie-b/",
       "source": "Gazeta Esportiva",
-      "published": 1790198161000
+      "published": 1790209337000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Chefes de OpenAI e Anthropic pedem cooperação internacional para controlar riscos da IA após fala de Trump na ONU",
-      "summary": "Participação dos dois executivos ocorre um dia depois de Trump rejeitar o que chamou de “esquema globalista” para controlar a IA O post Chefes de OpenAI e Anthropic…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/anthropic_openai-e1776173350910-1024x577.jpg",
-      "link": "https://olhardigital.com.br/2026/09/23/inteligencia-artificial/chefes-de-openai-e-anthropic-pedem-cooperacao-internacional-para-controlar-riscos-da-ia-apos-fala-de-trump-na-onu/",
+      "title": "Recurso de aprimoramento auditivo, atualizações de óculos inteligentes… Veja o que mais a Meta anunciou nesta quarta (23)",
+      "summary": "Saiba quais outras novidades a empresa de Mark Zuckerberg apresentou ao público O post Recurso de aprimoramento auditivo, atualizações de óculos inteligentes… Veja o que…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/oculos_meta_2.jpg",
+      "link": "https://olhardigital.com.br/2026/09/23/reviews/recurso-de-aprimoramento-auditivo-atualizacoes-de-oculos-inteligentes-veja-o-que-mais-a-meta-anunciou-nesta-quarta-23/",
       "source": "Olhar Digital",
-      "published": 1790195546000
+      "published": 1790214149000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Pix automático: como manter o controle financeiro e a segurança na era do pagamento “invisível”",
-      "summary": "Pix Automático e IA mudam a forma de pagar contas e fazer compras. Entenda como funcionam permissões, limites e mecanismos de segurança O post Pix automático: como…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2024/01/capa-7-1024x576.jpeg",
-      "link": "https://olhardigital.com.br/2026/09/23/pro/pix-automatico-como-manter-o-controle-financeiro-e-a-seguranca-na-era-do-pagamento-invisivel/",
-      "source": "Olhar Digital",
-      "published": 1790194106000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Paramount avalia receber investimento de Elon Musk enquanto se prepara para concluir aquisição da Warner",
-      "summary": "Musk seria um entre vários indivíduos ricos considerados pelo CEO da Paramount, David Ellison, para integrar um sindicato de investidores de capital da empresa O post…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/david_ellison_paramount-1024x652.jpg",
-      "link": "https://olhardigital.com.br/2026/09/23/pro/paramount-avalia-receber-investimento-de-elon-musk-enquanto-se-prepara-para-concluir-aquisicao-da-warner/",
-      "source": "Olhar Digital",
-      "published": 1790193888000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Os preços estão mais altos do que nunca? O que você precisa entender",
-      "summary": "As coisas realmente estão mais caras do que nunca? Conversamos com uma professora de economia do Insper sobre isso O post Os preços estão mais altos do que nunca? O que…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Precos-altos-Supermercado-01-1024x576.jpg",
-      "link": "https://olhardigital.com.br/2026/09/23/pro/o-que-voce-precisa-entender-sobre-por-que-as-coisas-estao-caras/",
-      "source": "Olhar Digital",
-      "published": 1790193240000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Smartwatches em promoção: confira opções para monitorar sua saúde e rotina",
-      "summary": "Está pensando em investir em um smartwatch? Separamos duas ótimas opções que estão em oferta na Amazon agora mesmo — de modelos compactos e acessíveis até versões mais…",
-      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/23/reviews/smartwatches-em-promocao-confira-opcoes-para-monitorar-sua-saude-e-rotina/",
-      "source": "Olhar Digital",
-      "published": 1790192400000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Assista aos telejornais da TV Bahia",
-      "summary": "Assista aos telejornais da TV Bahia",
+      "title": "Confira o Olhar Digital News na íntegra (23/09/2026)",
+      "summary": "Confira as principais notícias do mundo da tecnologia e da ciência no programa Olhar Digital News de hoje! O post Confira o Olhar Digital News na íntegra (23/09/2026)…",
       "image": "",
-      "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
-      "source": "g1",
-      "published": 1790202695000
+      "link": "https://olhardigital.com.br/2026/09/23/videos/confira-o-olhar-digital-news-na-integra-23-09-2026/",
+      "source": "Olhar Digital",
+      "published": 1790213779000
     },
     {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Siga o EPTV 2 Ribeirão e Franca",
-      "summary": "Siga o EPTV 2 Ribeirão e Franca Transmissão encerrada.",
-      "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv-2-ribeirao-e-franca-ao-vivo.ghtml",
-      "source": "g1",
-      "published": 1790202684000
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Meta apresenta óculos de realidade virtual com tela 5K e promete experiência IMAX em realidade virtual",
+      "summary": "Óculos chamam atenção pelo formato mais leve e por uma série de integrações voltadas ao entretenimento, incluindo compatibilidade com conteúdos IMAX O post Meta…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/meta_vr-1024x509.png",
+      "link": "https://olhardigital.com.br/2026/09/23/reviews/meta-apresenta-oculos-de-realidade-virtual-com-tela-5k-e-promete-experiencia-imax-em-realidade-virtual/",
+      "source": "Olhar Digital",
+      "published": 1790210515000
     },
     {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Eleições 2026: saiba como foi o dia dos candidatos ao governo de Sergipe nesta quarta-feira",
-      "summary": "Urna eletrônica Tribunal Superior Eleitoral/TSE/Arquivo Os candidatos ao governo de Sergipe cumpriram compromissos de campanha nesta quarta-feira (23). ✅ Página reúne…",
-      "image": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg",
-      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/23/eleicoes-2026-saiba-como-foi-o-dia-dos-candidatos-ao-governo-de-sergipe-nesta-quarta-feira.ghtml",
-      "source": "g1",
-      "published": 1790202678000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Quaest no TO: Professora Dorinha, 42%; Vicentinho Júnior, 29%",
-      "summary": "Dorinha (União) e Vicentinho Júnior (PSDB) Reprodução/TV Anhanguera Pesquisa Quaest divulgada nesta quarta-feira (23) mostra como está a disputa pelo governo de…",
-      "image": "https://s2-g1.glbimg.com/zotyoNa7Es9Y7YRnj3pcLqJDt1w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/9/1ZeAP6SSea64h6B9u2DQ/foto-e-montagem-vertical-2026-09-11t205239.254.jpg",
-      "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/23/quaest-no-to-professora-dorinha-42percent-vicentinho-junior-29percent.ghtml",
-      "source": "g1",
-      "published": 1790202656000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Assista ao JAP2 desta quarta (23)",
-      "summary": "Assista ao JAP2 desta quarta (23) O g1 transmite ao vivo, diariamente, os telejornais Bom Dia Amapá (7h), JAP1 (11h45) e JAP2 (19h05).",
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Olhar do Amanhã: IA faz segurança internacional virar categoria elástica",
+      "summary": "Álvaro Machado Dias, colunista do Olhar Digital News, analisa o que representa discutir os riscos da IA no Conselho de Segurança da ONU O post Olhar do Amanhã: IA faz…",
       "image": "",
-      "link": "https://g1.globo.com/ap/ao-vivo/assista-ao-bom-dia-amapa-desta-segunda-21.ghtml",
+      "link": "https://olhardigital.com.br/2026/09/23/colunistas/olhar-do-amanha-ia-faz-seguranca-internacional-virar-categoria-elastica/",
+      "source": "Olhar Digital",
+      "published": 1790210233000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Meta abandona câmera em novos óculos inteligentes enquanto enfrenta críticas sobre privacidade",
+      "summary": "Batizado de Ray-Ban Meta Audio, dispositivo foi desenvolvido para enfrentar críticas relacionadas aos usos considerados mais problemáticos dos óculos de IA O post Meta…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans-1024x557.jpg",
+      "link": "https://olhardigital.com.br/2026/09/23/reviews/meta-abandona-camera-em-novos-oculos-inteligentes-enquanto-enfrenta-criticas-sobre-privacidade/",
+      "source": "Olhar Digital",
+      "published": 1790209292000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Dona da Estácio incorpora Afya e cria gigante do ensino médico no país",
+      "summary": "A Yduqs, dona da Estácio e do Ibmec, e a Afya, controladora de uma das maiores redes de faculdades de medicina do país, assinaram um acordo para combinar seus negócios.…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/dona-da-estacio-incorpora-afya-e-cria-gigante-do-ensino-medico-no-pais.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1790216100000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Samara Martins, candidata do partido Unidade Popular à Presidência, faz campanha em Salvador",
+      "summary": "Samara Martins, Unidade Popular, fez campanha em Salvador A candidata Samara Martins, do partido Unidade Popular, esteve em Salvador. 📱Favorite o g1 no Google e…",
+      "image": "https://s2-g1.glbimg.com/awVWmCusKS69C8t5gn8AaQ3lYLA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/a/EZagCKRICHb9A29FAwUg/globo-canal-4-20260923-2000-frame-166985.jpeg",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/09/23/samara-martins-candidata-do-partido-unidade-popular-a-presidencia-faz-campanha-em-salvador.ghtml",
       "source": "g1",
-      "published": 1790202651000
+      "published": 1790215883000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Augusto Cury, candidato à Presidência pelo Avante, cumpre agenda em São Paulo",
+      "summary": "Augusto Cury, Avante, fez campanha em São Paulo Augusto Cury, do Avante, ficou em São Paulo. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia O…",
+      "image": "https://s2-g1.glbimg.com/wkZJpk6G-P3hD2l06z3EE1BukRE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/Sj1mnTTCy1l8l7VCj0ww/globo-canal-4-20260923-2000-frame-165147.jpeg",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/09/23/augusto-cury-candidato-a-presidencia-pelo-avante-cumpre-agenda-em-sao-paulo.ghtml",
+      "source": "g1",
+      "published": 1790215493000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Ronaldo Caiado, candidato pelo PSD à Presidência, faz campanha em São Paulo",
+      "summary": "Ronaldo Caiado, PSD, fez campanha em São Paulo Ronaldo Caiado, candidato do PSD, fez campanha em São Paulo. 📱Favorite o g1 no Google e acompanhe as principais notícias…",
+      "image": "https://s2-g1.glbimg.com/zkCEg9hHBYkgP0v9mMus4Ugs8TU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/z/QoLUqPQ5ASzv3uYKXL8g/globo-canal-4-20260923-2000-frame-163982.jpeg",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/09/23/ronaldo-caiado-candidato-pelo-psd-a-presidencia-faz-campanha-em-sao-paulo.ghtml",
+      "source": "g1",
+      "published": 1790215350000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Lula diz ter decidido acabar com as bets e afirma que futebol deverá se readaptar",
+      "summary": "O presidente Lula (PT) afirmou nesta quarta-feira (23) em evento com membros do setor cultural que acabará com as bets no Brasil , e disse que os times de futebol terão…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/lula-diz-ter-decidido-acabar-com-as-bets-e-afirma-que-futebol-devera-se-readaptar.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1790215320000
     }
   ]
 }
