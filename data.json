@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-09-25T14:52:48.269Z",
+  "updatedAt": "2026-09-25T19:43:23.729Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "STF obriga Polícia Militar a pedir desculpas a morador que teve moto destruída por agentes do batalhão em Rio Preto",
+      "summary": "STF condena Estado de SP a pagar indenização por danos à moto de homem destruída por policiais militares Arquivo da Defensoria Pública do Estado de São Paulo O Supremo…",
+      "image": "https://s2-g1.glbimg.com/p18j3PMwHJVRQxjfapp0jmJCLfk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/8/uBvsx4Rc2KHJGbD7y6Bw/formato-padrao-imagens-g1-2026-09-25t151717.561.png",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/25/stf-obriga-policia-militar-a-pedir-desculpas-a-morador-que-teve-moto-destruida-por-agentes-do-batalhao-em-rio-preto.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1790363602000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Consultor procurado pela Justiça por suspeita de fraude é responsável por estudo de vigilância inteligente de R$ 2 bi no noroeste de SP",
+      "summary": "Consultor foragido do Gaeco em Bauru atuou no projeto Smart Rio Preto O consultor responsável por apresentar estudos para a implantação do programa Smart Rio Preto,…",
+      "image": "https://s2-g1.glbimg.com/uZ-UIPBt5XrAqDUvDVTjKFuS9vg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/L/aBN4OsS6KSZeIUBz5Lig/smart-rp2.jpeg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/25/consultor-procurado-operacao-cavalo-troia-bauru-e-responsavel-por-smart-rio-preto.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1790354514000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -33,224 +53,204 @@
       "published": 1790288129000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Vaca criada como pet por 10 anos em sítio é morta e esquartejada por ladrões durante furto de carne",
-      "summary": "Vaca de estimação criada há 10 anos em sítio é morta e esquartejada em Bady Bassitt Arquivo pessoal Uma vaca de estimação criada como pet por uma família durante cerca…",
-      "image": "https://s2-g1.glbimg.com/Tkst5WtmRMMGNp3JIYhrcjAQQ7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/4/9wRGHCRtSHzVYLouaxUg/g1-17-.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/24/vaca-criada-como-pet-por-10-anos-em-sitio-e-morta-e-esquartejada-por-ladroes-durante-furto-de-carne.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1790283667000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "VÍDEO: idosa morre após ser atropelada por carro em Penápolis",
-      "summary": "Câmera de segurança flagra idosa de 82 anos sendo atropelada por carro em Penápolis Uma mulher de 82 anos morreu após ser atropelada por um carro na manhã desta…",
-      "image": "https://s2-g1.glbimg.com/lgkSgiT7EmirYk3pg3oOQlUJ_Q0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/7/uiHYfVSxu2Vxj2NDz9eg/formato-padrao-imagens-g1-2026-09-24t162309.486.png",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/24/video-idosa-morre-apos-ser-atropelada-por-carro-em-penapolis.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1790280289000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Google vai testar IA no espaço — literalmente",
+      "summary": "Logotipo do Google na entrada dos escritórios da empresa em Londres, Reino Unido 18 de janeiro de 2019 REUTERS/Hannah McKay \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-25T211924Z_2_LYNXMPEM4O1Q2_RTROPTP_4_EU-ALPHABET-ANTITRUST.jpg?fit=300%2C188&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/business/google-vai-testar-ia-no-espaco-literalmente/",
+      "source": "InfoMoney",
+      "published": 1790364555000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "“Novo Mercado” dos FIIs? B3 revela o que vem sendo feito para melhorar governança",
-      "summary": "Bolsa mantém grupo de trabalho com participantes da indústria e já discute novas formas de desenvolver o mercado The post “Novo Mercado” dos FIIs? B3 revela o que vem…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Captura-de-Tela-2026-09-24-as-11.50.24.png?fit=300%2C181&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/onde-investir/novo-mercado-dos-fiis-b3-revela-o-que-vem-sendo-feito-para-melhorar-governanca/",
+      "title": "Xi aproveita lua de mel com Trump para testar limites dos EUA sobre Taiwan",
+      "summary": "Xi Jinping e Donald Trump durante encontro bilateral em Washington. Foto: Bloomberg \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/469125623.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/xi-aproveita-lua-de-mel-com-trump-para-testar-limites-dos-eua-sobre-taiwan/",
       "source": "InfoMoney",
-      "published": 1790347933000
+      "published": 1790364516000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Mercado Livre amplia ofensiva em farmácias; o que significa para MELI34?",
-      "summary": "depósito mercado livre e-commerce \" data-image-caption=\" Depósito do Mercado Livre \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/02/2-3.jpg?fit=300%2C169&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/mercado-livre-amplia-ofensiva-em-farmacias-o-que-significa-para-meli34/",
+      "title": "Microsoft unifica Copilot e aposta tudo no mercado corporativo de IA",
+      "summary": "Novo Copilot da Microsoft será lançado nas próximas semanas. Fotógrafa: Gabby Jones/Bloomberg \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/469086439.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/business/microsoft-unifica-copilot-e-aposta-tudo-no-mercado-corporativo-de-ia/",
       "source": "InfoMoney",
-      "published": 1790347920000
+      "published": 1790364197000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Com disputa acirrada, Lula busca voto 70+ e cobra eleitorado mais velho nas urnas",
-      "summary": "Presidente da República, Luiz Inácio Lula da Silva, durante ato de campanha em São Gonçalo: o evento &#8220;Lula em São Gonçalo: O Brasil Pronto Pra Mais&#8221;,…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/55548707591_2c362d4db4_c.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/com-disputa-acirrada-lula-busca-voto-70-e-cobra-eleitorado-mais-velho-nas-urnas/",
+      "title": "Trump restringe acesso do Reino Unido a novos modelos de IA da OpenAI e Anthropic",
+      "summary": "Adesivos do software Claude em um laptop durante a conferência de desenvolvedores Code with Claude, da Anthropic, em Londres. Fotógrafo: Chris Ratcliffe/Bloomberg \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/469096623.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/trump-restringe-acesso-do-reino-unido-a-novos-modelos-de-ia-da-openai-e-anthropic/",
       "source": "InfoMoney",
-      "published": 1790347630000
+      "published": 1790364014000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Onda de calor começa neste sábado; veja regiões afetadas e até quando vai o alerta",
-      "summary": "(Unsplash) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/07/luis-graterol-uAROvYw9WDs-unsplash.jpg?fit=1280%2C853&quality=70&strip=all\" />No…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/luis-graterol-uAROvYw9WDs-unsplash.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/brasil/onda-de-calor-comeca-neste-sabado-veja-regioes-afetadas-e-ate-quando-vai-o-alerta/",
+      "title": "Vácuo deixado por Trump abre caminho para ofensiva silenciosa da China na ONU",
+      "summary": "Sede das Nações Unidas, em Nova York. Fotógrafo: Adam Gray/Bloomberg \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/469148232.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/vacuo-deixado-por-trump-abre-caminho-para-ofensiva-silenciosa-da-china-na-onu/",
       "source": "InfoMoney",
-      "published": 1790347552000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "“Ancelotti tem muito trabalho” e “Brasil não é mais Brasil”: jornais criticam seleção",
-      "summary": "Rayan celebra gol do Brasil na Copa do Mundo 29 de junho de 2026 IMAGN IMAGES via Reuters/Troy Taormina \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Captura-de-tela-2026-09-25-113908.png?fit=300%2C193&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/esportes/ancelotti-tem-muito-trabalho-e-brasil-nao-e-mais-brasil-jornais-criticam-selecao/",
-      "source": "InfoMoney",
-      "published": 1790347299000
+      "published": 1790363818000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Clodoaldo completa 77 anos: relembre 5 grandes jogos pelo Santos",
-      "summary": "Clodoaldo completa 77 anos: relembre 5 grandes jogos pelo Santos O post Clodoaldo completa 77 anos: relembre 5 grandes jogos pelo Santos apareceu primeiro em Gazeta…",
-      "image": "https://static.gazetaesportiva.com/uploads/imagem/2020/06/15/gazeta-press-foto-78749.jpg",
-      "link": "https://www.gazetaesportiva.com/times/santos/clodoaldo-completa-77-anos-relembre-5-grandes-jogos-pelo-santos/",
+      "title": "Bola de Ouro: Kane vê sua melhor chance da carreira",
+      "summary": "Bola de Ouro: Kane vê sua melhor chance da carreira O post Bola de Ouro: Kane vê sua melhor chance da carreira apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2025/11/Harry-Kane.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/bola-de-ouro-kane-ve-sua-melhor-chance-da-carreira/",
       "source": "Gazeta Esportiva",
-      "published": 1790346160000
+      "published": 1790365324000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Marcelo Portugal Gouvêa lança candidatura à presidência do São Paulo",
-      "summary": "Marcelo Portugal Gouvêa oficializou sua candidatura à presidência do São Paulo nesta sexta e definiu a chapa que irá concorrer a seu lado. O post Marcelo Portugal Gouvêa…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/040926_Marcelo_Portugal_Gouvea_050.webp",
-      "link": "https://www.gazetaesportiva.com/times/sao-paulo/marcelo-portugal-gouvea-candidatura-presidencia-sao-paulo/",
+      "title": "Ex-auxiliar de Roger Machado deixa o São Paulo e reforça o Grêmio",
+      "summary": "O auxiliar técnico James Freitas se despediu do São Paulo na última terça-feira para reforçar o Grêmio. O profissional abdicou do cargo no clube paulista para retornar…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/auxiliar-spfc.webp",
+      "link": "https://www.gazetaesportiva.com/times/sao-paulo/ex-auxiliar-de-roger-machado-deixa-o-sao-paulo-e-reforca-o-gremio/",
       "source": "Gazeta Esportiva",
-      "published": 1790346039000
+      "published": 1790365305000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Ancelotti promete mudanças e analisa esquema tático da Seleção",
-      "summary": "Ancelotti promete mudanças e analisa esquema tático da Seleção O post Ancelotti promete mudanças e analisa esquema tático da Seleção apareceu primeiro em Gazeta…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/Ancel.webp",
-      "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-promete-mudancas-e-analisa-esquema-tatico-da-selecao/",
+      "title": "Treino do Santos: veja fotos do segundo treino do Peixe durante a data Fifa",
+      "summary": "O Santos realizou o segundo treino durante a pausa para a data Fifa, no CT Rei Pelé. Veja fotos da atividade do Peixe. O post Treino do Santos: veja fotos do segundo…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55550722064_0f79a7e894_3k.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/treino-santos-fotos-segundo-treino-data-fifa/",
       "source": "Gazeta Esportiva",
-      "published": 1790345731000
+      "published": 1790361864000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Imprensa internacional repercute empate do Brasil com a Austrália e destaca atuação ruim",
-      "summary": "O empate por 1 a 1 entre Brasil e Austrália repercutiu na imprensa internacional nesta sexta-feira. Veículos de Espanha, Portugal, Argentina, Inglaterra e França…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260925__C9CL42H__v1__HighRes__FblAusBraFriendly.webp",
-      "link": "https://www.gazetaesportiva.com/times/brasil/imprensa-internacional-repercute-brasil-australia/",
+      "title": "“Minha melhor oportunidade”, diz Harry Kane sobre disputa da Bola de Ouro",
+      "summary": "Harry Kane afirmou nesta sexta-feira que vive o momento mais favorável de sua carreira para conquistar a Bola de Ouro. O atacante da Inglaterra destacou a temporada de…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260925__C9DM9UG__v1__HighRes__776565550.webp",
+      "link": "https://www.gazetaesportiva.com/times/inglaterra/harry-kane-ve-melhor-oportunidade-da-carreira-para-conquistar-a-bola-de-ouro/",
       "source": "Gazeta Esportiva",
-      "published": 1790345529000
+      "published": 1790359980000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Veja como foi o último treino da França antes do duelo com a Turquia",
-      "summary": "Veja como foi o último treino da França antes do duelo com a Turquia O post Veja como foi o último treino da França antes do duelo com a Turquia apareceu primeiro em…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/Fran.webp",
-      "link": "https://www.gazetaesportiva.com/times/franca/veja-como-foi-o-ultimo-treino-da-franca-antes-do-duelo-com-a-turquia/",
+      "title": "Tite comanda treino do Botafogo na Urca",
+      "summary": "Tite comanda treino do Botafogo na Urca O post Tite comanda treino do Botafogo na Urca apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/man.webp",
+      "link": "https://www.gazetaesportiva.com/times/botafogo/tite-comanda-treino-do-botafogo-na-urca/",
       "source": "Gazeta Esportiva",
-      "published": 1790345410000
+      "published": 1790359724000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "The Witcher 3 Remastered já tem horário de lançamento no Brasil",
-      "summary": "Remaster chega em 29 de setembro e será disponibilizado gratuitamente para quem já possui The Witcher 3 nas plataformas da atual geração O post The Witcher 3 Remastered…",
-      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/09/TW-HORRIOS-1024x576.jpeg",
-      "link": "https://olhardigital.com.br/2026/09/25/games-e-consoles/the-witcher-3-remastered-veja-data-e-horario-de-lancamento-no-brasil/",
+      "title": "GTA VI, Spider-Man e mais: seleção de jogos PS5 em promoção na Amazon",
+      "summary": "O PlayStation 5 continua sendo uma das melhores plataformas para quem quer experiências de alto nível — e agora é uma boa hora para ampliar a biblioteca. Reunimos três…",
+      "image": "https://m.media-amazon.com/images/I/41RJhuD+gvL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/25/reviews/gta-vi-spider-man-e-mais-selecao-de-jogos-ps5-em-promocao-na-amazon-5/",
       "source": "Olhar Digital",
-      "published": 1790346187000
+      "published": 1790362800000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Upgrade na setup? Confira uma seleção de monitores gamer em promoção na Amazon",
-      "summary": "Se você está pensando em renovar o monitor da sua configuração, este é um bom momento para dar uma olhada nas ofertas disponíveis na Amazon. Reunimos três opções de…",
-      "image": "https://m.media-amazon.com/images/I/31IxHiW9SwL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/25/reviews/upgrade-na-setup-confira-uma-selecao-de-monitores-gamer-em-promocao-na-amazon-2/",
+      "title": "Você não precisa assistir ao que todo mundo está assistindo",
+      "summary": "Às vezes, o que fisga seu interesse não é o lançamento da semana – e está tudo bem; assistimos \"Agatha Desde Sempre\", de 2024 O post Você não precisa assistir ao que…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Newsletter-25-de-setembro-de-2026-Agatha-Desde-Sempre-01-1024x576.jpg",
+      "link": "https://olhardigital.com.br/2026/09/25/cinema-e-streaming/voce-nao-precisa-assistir-ao-que-todo-mundo-esta-assistindo/",
       "source": "Olhar Digital",
-      "published": 1790346000000
+      "published": 1790362680000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Hora de renovar o setup: veja uma seleção de notebooks em promoção na Amazon",
-      "summary": "Se você está pensando em trocar de notebook ou presentear alguém com um computador portátil, a Amazon reuniu boas opções em promoção nesta temporada. Separamos três…",
-      "image": "https://m.media-amazon.com/images/I/41v22G+lFNL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/25/reviews/hora-de-renovar-o-setup-veja-uma-selecao-de-notebooks-em-promocao-na-amazon-7/",
+      "title": "Volkswagen e Audi fazem recall global de quase três milhões de carros por risco na direção",
+      "summary": "Falha em parafuso pode causar perda do controle da direção; modelos afetados incluem Tiguan, Golf e Audi Q3 O post Volkswagen e Audi fazem recall global de quase três…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/audi-1024x559.jpg",
+      "link": "https://olhardigital.com.br/2026/09/25/carros-e-tecnologia/volkswagen-e-audi-fazem-recall-global-de-quase-tres-milhoes-de-carros-por-risco-na-direcao/",
       "source": "Olhar Digital",
-      "published": 1790344800000
+      "published": 1790362375000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Novo Copilot da Microsoft reúne chat, código e agentes de IA em um único aplicativo de trabalho",
-      "summary": "Microsoft reformula o Copilot com três abas, integração ao Office, criação de apps e agentes que executam tarefas no trabalho O post Novo Copilot da Microsoft reúne…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/autopilot.png",
-      "link": "https://olhardigital.com.br/2026/09/25/inteligencia-artificial/novo-copilot-da-microsoft-reune-chat-codigo-e-agentes-de-ia-em-um-unico-aplicativo-de-trabalho/",
+      "title": "Inteligência artificial quebra código nazista da Segunda Guerra que desafiava cientistas desde 2005",
+      "summary": "GPT-6 Astra e Claude Opus 5 decifraram mensagens da Enigma que resistiam há décadas; restam sete códigos ainda sem solução O post Inteligência artificial quebra código…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/07/shutterstock_2635093033-scaled-e1756402026933-1024x577.jpg",
+      "link": "https://olhardigital.com.br/2026/09/25/inteligencia-artificial/inteligencia-artificial-quebra-codigo-nazista-da-segunda-guerra-que-desafiava-cientistas-desde-2005/",
       "source": "Olhar Digital",
-      "published": 1790344005000
+      "published": 1790361710000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Quer jogar com mais performance? Confira esta seleção de Notebooks Gamer em promoção",
-      "summary": "Se você está em busca de um notebook gamer para elevar sua experiência nos games, chegou ao lugar certo. Reunimos três opções interessantes disponíveis na Amazon, com…",
-      "image": "https://m.media-amazon.com/images/I/41vA9EpxNLL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/25/reviews/quer-jogar-com-mais-performance-confira-esta-selecao-de-notebooks-gamer-em-promocao/",
+      "title": "Impressora boa e barata existe: veja uma seleção com ótimas opções em oferta",
+      "summary": "Seja para o home office, para a escola dos filhos ou para o dia a dia do escritório, ter uma boa impressora em casa faz toda a diferença. Separamos três modelos…",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/25/reviews/impressora-boa-e-barata-existe-veja-uma-selecao-com-otimas-opcoes-em-oferta/",
       "source": "Olhar Digital",
-      "published": 1790343600000
+      "published": 1790361600000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Estado de São Paulo chega a 37 casos de sarampo",
-      "summary": "O estado de São Paulo soma 37 casos de sarampo em 2026, segundo informações da Secretaria Estadual da Saúde. O novo registro é de um homem de 42 anos, não vacinado,…",
+      "title": "Homem tenta esconder droga na boca e acaba preso com comparsa em Alenquer",
+      "summary": "Material apreendido com suspeito em Alenquer Portal Alessandro Costa Dois homens foram presos por tráfico de drogas na madrugada desta sexta-feira (25), em Alenquer, no…",
+      "image": "https://s2-g1.glbimg.com/zYFcRWErOau6qzDF2BD_tsv8_cg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/V/qefjzoRbqjhEUAOGXnRw/whatsapp-image-2026-09-25-at-16.30.43.jpeg",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/25/homem-tenta-esconder-droga-na-boca-e-acaba-preso-com-comparsa-em-alenquer.ghtml",
+      "source": "g1",
+      "published": 1790365057000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Datafolha no Ceará: Ciro tem 44% das intenções de voto; Elmano tem 43%",
+      "summary": "Ciro Gomes; Elmano de Freitas; eleições 2026; Governo do Ceará Sistema Verdes Mares Pesquisa Datafolha divulgada nesta sexta-feira (25) com as intenções de voto para o…",
+      "image": "https://s2-g1.glbimg.com/LKM5W4hSleXQznCqYGJ0k5lIScc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/O/4BzK6sTHWYmS8dZWDpEQ/cenario-1-ciro-elmano.jpg.jpeg",
+      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/25/datafolha-no-ceara-governador-25-setembro.ghtml",
+      "source": "g1",
+      "published": 1790365038000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "PrEP injetável tem maior adesão e menor exposição ao HIV, mostra estudo da Fiocruz",
+      "summary": "O cabotegravir , PrEP (profilaxia pré-exposição) injetável que deve ser disponibilizada no SUS (Sistema Único de Saúde ), oferece maior cobertura e menor incidência de…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/estado-de-sao-paulo-chega-a-37-casos-de-sarampo.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/prep-injetavel-tem-maior-adesao-e-menor-exposicao-ao-hiv-mostra-estudo-da-fiocruz.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1790347680000
+      "published": 1790365020000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Assista ao JAP1 desta sexta-feira (25)",
-      "summary": "Assista ao JAP1 desta sexta-feira (25) O g1 transmite ao vivo, diariamente, os telejornais Bom Dia Amapá (7h), JAP1 (11h45) e JAP2 (19h05).",
-      "image": "https://s2-g1.glbimg.com/Rrn6uigtBPmuyLD5TSkKcQ8i6v0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/5/NhZCdPRp2bgtE5YQkTiQ/whatsapp-image-2026-02-24-at-11.45.24.jpeg",
-      "link": "https://g1.globo.com/ap/ao-vivo/assista-ao-bom-dia-amapa-desta-segunda-21.ghtml",
+      "title": "Unimed Teresina abre seleção para médico ultrassonografista no CIS Ilhotas",
+      "summary": "Centro Integrado de Saúde Unimed Ilhotas (CIS). Unimed Teresina O Centro Integrado de Saúde Unimed Ilhotas (CIS) está com inscrições abertas para o Processo Seletivo…",
+      "image": "https://s2-g1.glbimg.com/nYUgLvzTNQrHZolQBcXjfbJ6rj8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/F/AMbja5SWeB1pGl24Qbbw/centro-integrado-de-saude-unimed-ilhotas-cis-.jpeg",
+      "link": "https://g1.globo.com/pi/piaui/especial-publicitario/unimed-teresina/sos-unimed/noticia/2026/09/25/unimed-teresina-abre-selecao-para-medico-ultrassonografista-no-cis-ilhotas.ghtml",
       "source": "g1",
-      "published": 1790347553000
+      "published": 1790364765000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "IA emite alerta ao identificar foragido e homem condenado a 22 anos é preso enquanto viajava para o litoral do Paraná",
-      "summary": "Homem condenado a 22 anos de prisão é detido após alerta emitido por IA, em Paranaguá Homem foi preso na PR-407, em Paranaguá, após alerta de IA - Foto: Polícia Militar…",
-      "image": "https://s2-g1.glbimg.com/jLHia4ScUJotiD7x0jit8az22Xo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/l/UEDl21R4yTyRIiY3cj1w/ia-identifica-condenado-prisao-paranagua.jpeg",
-      "link": "https://g1.globo.com/pr/parana/noticia/2026/09/25/ia-emite-alerta-ao-identificar-foragido-e-homem-condenado-a-22-anos-e-preso-enquanto-viajava-para-o-litoral-do-parana.ghtml",
+      "title": "Taubaté reforça operação para fiscalização em bares e adegas no período noturno",
+      "summary": "Taubaté realizou mais de 30 fiscalizações em estabelecimentos comerciais neste mês de setembro por meio da Operação Sossego. A atuação é realizada de forma integrada em…",
+      "image": "https://s2-g1.glbimg.com/ggZARUlrWnAQg-Vc9qDBSr3Pr-o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/Q/4g326oSmiuEKZeIOkqBA/publi-sossego-002-.jpeg",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-taubate/nosso-caminho-e-o-progresso/noticia/2026/09/25/taubate-reforca-operacao-para-fiscalizacao-em-bares-e-adegas-no-periodo-noturno.ghtml",
       "source": "g1",
-      "published": 1790347545000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Pai e filho morrem e outras 4 pessoas ficam feridas em batida frontal no interior de SP",
-      "summary": "Um homem de 57 anos e o filho dele, de 13, morreram em uma colisão frontal entre dois carros na noite desta quinta-feira (24), na Estrada Vicinal Roberto Kassim, em…",
-      "image": "https://s2-g1.glbimg.com/ef8CqtHXXv1pVNWQ9YD6LMGhnG0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/G/IzQ25PRoKcY6ckMG2B5A/design-sem-nome-2026-09-25t111756.217.png",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/25/pai-e-filho-morrem-e-outras-4-pessoas-ficam-feridas-em-batida-frontal-no-interior-de-sp.ghtml",
-      "source": "g1",
-      "published": 1790347522000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Assista ao Gazeta Meio Dia",
-      "summary": "Assista ao Gazeta Meio Dia Fique bem informado com o seu jornal da hora do almoço.",
-      "image": "https://s2-g1.glbimg.com/8CpQ4TsHbu6uACKLyR_f_YUppqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/8/1CAMCYT0S4Dlzd6UrYnQ/gazeta-meio-dia.png",
-      "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-gazeta-meio-dia.ghtml",
-      "source": "g1",
-      "published": 1790347467000
+      "published": 1790364693000
     }
   ]
 }
