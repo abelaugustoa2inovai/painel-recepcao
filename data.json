@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-09-27T13:25:14.061Z",
+  "updatedAt": "2026-09-27T18:00:13.524Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Motociclista morre em acidente com carreta em rodovia de São José do Rio Preto",
+      "summary": "Caso foi registrado na Delegacia de Rio Preto Polícia Civil/Divulgação Um motociclista morreu após se envolver em um acidente com uma carreta na Rodovia Transbrasiliana…",
+      "image": "https://s2-g1.glbimg.com/5z0jK-08EzddAym9r3fwaubv-DY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/W/t/t1iyyXSSmemyCW1wub5Q/vtr-em-rs.jpeg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/27/motociclista-morre-em-acidente-com-carreta-em-rodovia-de-sao-jose-do-rio-preto.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1790528593000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Motorista bêbado e sem CNH é preso após atropelar criança e outras três pessoas no interior de SP",
+      "summary": "Motorista atropela quatro pessoas no interior de SP Um motorista foi preso após atropelar quatro pessoas, entre elas uma criança, em Poloni (SP), no sábado (26). Uma das…",
+      "image": "https://s2-g1.glbimg.com/aXepdq_IkGwZNMIuN8vT8aPXTdY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/X/cAlOOKTGABpeAAYpU8hg/1200x800-3-51-.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/27/motorista-bebado-e-sem-cnh-e-preso-apos-atropelar-crianca-e-outras-tres-pessoas-no-interior-de-sp.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1790516720000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -33,224 +53,204 @@
       "published": 1790505001000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Os segredos do campo: projeto leva alunos de Promissão a vivenciar rotina no campo",
-      "summary": "Projeto leva alunos de Promissão a vivenciar rotina no campo Reprodução / TV TEM Alunos da Escola Estadual Comendador Antônio Figueiredo Navas, em Promissão (SP),…",
-      "image": "https://s2-g1.glbimg.com/9lOHNVkAkMHWYOXahBrATLTrEcY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/r/9r7ZAsTsmaQcWW5WNMfQ/nc-segredos-campo-270926-frame-5192.jpeg",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/27/os-segredos-do-campo-projeto-leva-alunos-de-promissao-a-vivenciar-rotina-no-campo.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1790505000000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Receita Nosso Campo: aprenda a preparar um bolo de fubá com calda de goiabada com laranja",
-      "summary": "Aprenda a preparar um bolo de fubá com calda de goiabada com laranja Reprodução / TV TEM O Nosso Campo deste domingo (20) ensina a preparar um delicioso bolo de fubá com…",
-      "image": "https://s2-g1.glbimg.com/ZABhEAcJETJMOC82fMbLrss2sOk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/5/zmENcBSxAaUMQTnXjF0w/nc-bolo-fuba-270926-frame-7598.jpeg",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/27/receita-nosso-campo-aprenda-a-preparar-um-bolo-de-fuba-com-calda-de-goiabada-com-laranja.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1790505000000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Trump diz que homens presos em base aérea dos EUA pretendiam causar “grandes danos”",
+      "summary": "U.S. President Donald Trump speaks during an observance ceremony marking the 25th anniversary of the September 11, 2001 attack on the Pentagon, in Washington, D.C.,…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/2026-09-11T152448Z_2113244704_RC23HNANJWKG_RTRMADP_3_USA-SEPT11-PENTAGON.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/trump-diz-que-homens-presos-em-base-aerea-dos-eua-pretendiam-causar-grandes-danos/",
+      "source": "InfoMoney",
+      "published": 1790531340000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Lula e Flávio chegam à última semana com eleitorado ainda em movimento",
-      "summary": "Uma imagem composta mostra o presidente do Brasil, Luiz Inácio Lula da Silva (à esquerda), reagindo durante uma cerimônia no Palácio do Planalto, em Brasília (Brasil),…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/2026-09-08T153031Z_609678555_RC23FNAS1I0A_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C230&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/lula-flavio-ultima-semana-eleicao-2026/",
+      "title": "Financial Times compara os Bolsonaros à família Trump e diz que têm estilo paranoico",
+      "summary": "Eduardo, Flávio e Jair Bolsonaro. Foto: Reprodução/X \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/eduardoflaviojair.png?fit=300%2C182&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/financial-times-compara-os-bolsonaros-a-familia-trump-e-diz-que-tem-estilo-paranoico/",
       "source": "InfoMoney",
-      "published": 1790513145000
+      "published": 1790530320000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Problemas financeiros afetam saúde mental; veja onde buscar ajuda",
-      "summary": "Imagem ilustrativa de uma mesa com contas, recibos, calculadora, celular e anotações de orçamento, usada em reportagem sobre a relação entre dificuldades financeiras e…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Imagem-do-ChatGPT-27-de-set.-de-2026-09_34_48.jpg?fit=300%2C169&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/saude/problemas-financeiros-saude-mental-onde-buscar-ajuda/",
+      "title": "Dias Toffoli mandar retirar a Federação PSDB-Cidadania da coligação de Raquel Lyra",
+      "summary": "Raquel Lyra (PSDB), governadora de Pernambuco (Foto: Divulgação) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/12/320891227_2061878574201617_3456769344778125900_n.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/dias-toffoli-mandar-retirar-a-federacao-psdb-cidadania-da-coligacao-de-raquel-lyra/",
       "source": "InfoMoney",
-      "published": 1790512528000
+      "published": 1790529660000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Nunes Marques suspende jingle de Lula que liga Flavio a Vorcaro e rachadinha",
-      "summary": "O ministro Kássio Nunes Marques. Foto: Marcelo Camargo/Agência Brasil \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/julgamento-tse-bolsonaro_mcamgo_abr_30062023-16.jpeg?fit=300%2C225&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/nunes-marques-suspende-jingle-de-lula-que-liga-flavio-a-vorcaro-e-rachadinha/",
+      "title": "Rússia ataca maior operadora de telefonia móvel da Ucrânia e atinge data centers",
+      "summary": "Fumaça se eleva sobre a sede da Kyivstar em Kiev, Ucrânia 27 de setembro de 2026 REUTERS/Gleb Garanich \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/2026-09-27T160242Z_1_LYNXMPEM8Q0EU_RTROPTP_4_UKRAINE-CRISIS-ATTACK-KYIV-DATA-CENTRES.jpg?fit=300%2C203&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/russia-ataca-maior-operadora-de-telefonia-movel-da-ucrania-e-atinge-data-centers/",
       "source": "InfoMoney",
-      "published": 1790511507000
+      "published": 1790529120000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Venezuela liberta presos políticos após diálogo entre governo e oposição",
-      "summary": "A presidente interina da Venezuela, Delcy Rodríguez &#8211; 02/09/2026 (Foto: REUTERS/Leonardo Fernández Viloria) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Delcy-Rodriguez.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/venezuela-liberta-presos-politicos-apos-dialogo-entre-governo-e-oposicao/",
+      "title": "Sem citar escândalos, Papa diz que Igreja deve ter a coragem de encarar seu passado",
+      "summary": "O papa Leão em reunião com bispos da Conferência Episcopal Francesa no Santuário de Nossa Senhora de Lourdes, França 27 de setembro de 2026 REUTERS/Remo Casilli \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/2026-09-27T155405Z_1_LYNXMPEM8Q0EJ_RTROPTP_4_POPE-FRANCE.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/sem-citar-escandalos-papa-diz-que-igreja-deve-ter-a-coragem-de-encarar-seu-passado/",
       "source": "InfoMoney",
-      "published": 1790510566000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Esther Towers: megaloção abre ciclo de escassez de escritórios em SP",
-      "summary": "Imagens de Esther Towers> Divulgação \" data-image-caption=\" Imagens de Esther Towers> Divulgação \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/esther-towers-1065-1-1705607880.jpg?fit=300%2C197&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/business/locacao-esther-towers-escritorios-sao-paulo/",
-      "source": "InfoMoney",
-      "published": 1790509560000
+      "published": 1790528460000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Martinelli celebra primeira convocação e projeta futuro na Seleção Brasileira",
-      "summary": "Convocado pela primeira vez para a Seleção Brasileira, Matheus Martinelli vive um momento especial na carreira. Em entrevista coletiva neste domingo, o volante do…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/27SET2026-TREINO-BRISBANE-17-MARTINELLI.webp",
-      "link": "https://www.gazetaesportiva.com/times/brasil/matheus-martinelli-celebra-primeira-convocacao-para-a-selecao-brasileira/",
+      "title": "Melhores momentos: CF Montréal 3 x 1 FC Cincinnati pela MLS",
+      "summary": "Melhores momentos: CF Montréal 3 x 1 FC Cincinnati pela MLS O post Melhores momentos: CF Montréal 3 x 1 FC Cincinnati pela MLS apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/ontre.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-cf-montreal-3-x-1-fc-cincinnati-pela-mls/",
       "source": "Gazeta Esportiva",
-      "published": 1790513481000
+      "published": 1790531701000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Lucas se aproxima de retorno no São Paulo; veja retrospecto do time com e sem o atacante",
-      "summary": "Lucas Moura está cada vez mais perto de retornar ao São Paulo após quase cinco meses afastado por uma ruptura no tendão de Aquiles. Os números mostram o impacto do…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/img_5615-jpg-1-819x102422-1.webp",
-      "link": "https://www.gazetaesportiva.com/times/sao-paulo/lucas-se-aproxima-de-retorno-no-sao-paulo-veja-retrospecto-do-time-com-e-sem-o-atacante/",
+      "title": "Zverev vence Tien e garante título da Laver Cup para a Europa",
+      "summary": "A Europa conquistou o título da Laver Cup 2026 neste domingo, em Londres. O ponto decisivo veio com Alexander Zverev, que derrotou o norte-americano Learner Tien por 2…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260927__C9GY3H2__v1__HighRes__776537365.webp",
+      "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/zverev-garante-titulo-europa-laver-cup-2026/",
       "source": "Gazeta Esportiva",
-      "published": 1790503259000
+      "published": 1790531474000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Confederação Brasileira busca usar jogo da NFL para desenvolver futebol americano no país",
-      "summary": "A Confederação Brasileira de Futebol Americano (CBFA) realizou o 2º Fórum Brasileiro do Futebol Americano no auditório do COB, aproveitando a visibilidade do jogo entre…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/cbfa_1.jpg.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/nfl/cbfa-forum-futebol-americano-flag-football-olimpiadas-2028/",
+      "title": "Veja as fotos do confronto entre Sérvia e Holanda",
+      "summary": "Veja as fotos do confronto entre Sérvia e Holanda pela segunda rodada da Liga das Nações da UEFA, no Rajko Mitic Stadium, em Belgrado. O post Veja as fotos do confronto…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260927__C9H22VA__v1__HighRes__FblEurNationsSrbNed.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/uefa-nations-league/veja-as-fotos-do-confronto-entre-servia-e-holanda/",
       "source": "Gazeta Esportiva",
-      "published": 1790503240000
+      "published": 1790529686000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Apesar de sequência positiva sem Neymar, aproveitamento do Santos segue maior com o jogador",
-      "summary": "O Santos vive uma fase positiva na temporada mesmo sem contar com Neymar nas últimas cinco partidas devido a uma lesão muscular na coxa direita. A equipe somou quatro…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55419312694_2dc237d300_o.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/santos-aproveitamento-superior-com-neymar-2026/",
+      "title": "Melhores momentos: Charlotte FC 0 x 1 Chicago Fire FC pela MLS",
+      "summary": "Melhores momentos: Charlotte FC 0 x 1 Chicago Fire FC pela MLS O post Melhores momentos: Charlotte FC 0 x 1 Chicago Fire FC pela MLS apareceu primeiro em Gazeta…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/arlott.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-charlotte-fc-0-x-1-chicago-fire-fc-pela-mls/",
       "source": "Gazeta Esportiva",
-      "published": 1790503224000
+      "published": 1790528475000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Vitor Roque retoma confiança e busca nova afirmação no Palmeiras em reta final da temporada",
-      "summary": "Vitor Roque está em processo de recuperação no Palmeiras em um momento decisivo da temporada após se recuperar de uma grave lesão no tornozelo esquerdo. O atacante, que…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/16092026_cg_palmeiras_1732_87.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/vitor-roque-recuperacao-palmeiras-data-fifa/",
+      "title": "Criciúma vence o Avaí e entra no G6 do Brasileirão Série B",
+      "summary": "O Criciúma venceu o Avaí por 3 a 0 neste domingo, no Estádio Heriberto Hulse, pela 30ª rodada da Série B do Campeonato Brasileiro. Com uma grande atuação no segundo…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/VITORIAAA-DO-TIGREEEE-%F0%9F%90%AF%F0%9F%92%AA-1-1.webp",
+      "link": "https://www.gazetaesportiva.com/times/criciuma/criciuma-vence-avai-entra-no-g6-e-segue-firme-na-briga-pelo-acesso/",
       "source": "Gazeta Esportiva",
-      "published": 1790503218000
+      "published": 1790525037000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Motorola em destaque: veja uma seleção de smartphones com 5G, câmera de 50MP e bateria potente em promoção",
-      "summary": "A Motorola segue como uma das marcas mais procuradas por quem quer bom custo-benefício em smartphone, e separamos três opções em promoção na Amazon para você comparar e…",
-      "image": "https://m.media-amazon.com/images/I/41uVEXHuhUL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/27/reviews/motorola-em-destaque-veja-uma-selecao-de-smartphones-com-5g-camera-de-50mp-e-bateria-potente-em-promocao/",
+      "title": "Sua casa mais segura: selecionamos câmeras de segurança em promoção na Amazon",
+      "summary": "Monitorar sua casa ou empresa ficou mais acessível do que nunca. Reunimos três opções de câmeras de segurança disponíveis agora na Amazon, com recursos como visão…",
+      "image": "https://m.media-amazon.com/images/I/31Akkcgda3L._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/27/reviews/sua-casa-mais-segura-selecionamos-cameras-de-seguranca-em-promocao-na-amazon-3/",
       "source": "Olhar Digital",
-      "published": 1790512800000
+      "published": 1790529600000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "iPhone 16e, 16 e até o novíssimo 17: confira uma seleção de iPhones Apple em promoção na Amazon",
-      "summary": "Se você está de olho em um iPhone novo, este é o momento certo para agir. Reunimos três modelos da Apple disponíveis na Amazon — do compacto iPhone 16e ao recém-chegado…",
-      "image": "https://m.media-amazon.com/images/I/318Rhf2amVL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/27/reviews/iphone-16e-16-e-ate-o-novissimo-17-confira-uma-selecao-de-iphones-apple-em-promocao-na-amazon/",
+      "title": "Anvisa investiga 13 casos de doença rara ligada a canetas para diabetes e controle do peso",
+      "summary": "Agência investiga casos de perda de visão por usuários que usaram canetas para diabetes e emagrecimento; relação com remédios não foi comprovada. O post Anvisa investiga…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/Destaque-Canetas-emagrecedoras-e-fita-metrica-1024x576.jpg",
+      "link": "https://olhardigital.com.br/2026/09/27/medicina-e-saude/anvisa-investiga-13-casos-de-doenca-rara-ligada-a-canetas-para-diabetes-e-controle-do-peso/",
       "source": "Olhar Digital",
-      "published": 1790511600000
+      "published": 1790529244000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Samsung na promoção: veja uma seleção de smartphones Galaxy em oferta na Amazon",
-      "summary": "A Samsung é uma das marcas mais confiáveis quando o assunto é smartphone, e a Amazon reúne algumas das melhores opções da linha Galaxy com condições interessantes.…",
-      "image": "https://m.media-amazon.com/images/I/41FYgZZD1ZL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/27/reviews/samsung-na-promocao-veja-uma-selecao-de-smartphones-galaxy-em-oferta-na-amazon-2/",
+      "title": "Casa inteligente começa pelo som: Echo Dot em oferta na Amazon",
+      "summary": "Se você quer dar um upgrade na sua casa inteligente, a Amazon está com uma seleção de Echo Dots em promoção — e vale muito a pena conferir. O smart speaker mais popular…",
+      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/27/reviews/casa-inteligente-comeca-pelo-som-echo-dot-em-oferta-na-amazon-9/",
       "source": "Olhar Digital",
-      "published": 1790510400000
+      "published": 1790528400000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Hora de turbinar sua TV: os melhores dispositivos de streaming em oferta agora",
-      "summary": "Se você ainda não atualizou sua experiência de entretenimento em casa, este é o momento certo. Reunimos três ótimas opções de dispositivos de streaming — entre Fire TV…",
-      "image": "https://m.media-amazon.com/images/I/31lBb1O2D7L._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/27/reviews/hora-de-turbinar-sua-tv-os-melhores-dispositivos-de-streaming-em-oferta-agora/",
+      "title": "Quer um som mais imersivo em casa? Confira esta seleção de soundbars em promoção",
+      "summary": "Transformar a sala de estar em uma verdadeira experiência de cinema nunca foi tão acessível. Reunimos três soundbars em oferta na Amazon que entregam qualidade sonora de…",
+      "image": "https://m.media-amazon.com/images/I/21yPj5NGVgL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/27/reviews/quer-um-som-mais-imersivo-em-casa-confira-esta-selecao-de-soundbars-em-promocao/",
       "source": "Olhar Digital",
-      "published": 1790509200000
+      "published": 1790527200000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Hora de renovar a sala: seleção de TVs QLED em promoção na Amazon",
-      "summary": "Se você está pensando em trocar a televisão ou montar um setup mais completo, este é o momento certo. Reunimos uma seleção de TVs QLED em oferta na Amazon, com modelos…",
-      "image": "https://m.media-amazon.com/images/I/418Y-M7w6FL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/27/reviews/hora-de-renovar-a-sala-selecao-de-tvs-qled-em-promocao-na-amazon-5/",
+      "title": "Som na praia, na festa ou na viagem: caixas Bluetooth portáteis em promoção na Amazon",
+      "summary": "Se você está em busca de uma boa caixa de som Bluetooth para levar a trilha sonora a qualquer lugar, a Amazon reúne algumas opções interessantes com ótimo…",
+      "image": "https://m.media-amazon.com/images/I/41-SWcb+ecL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/09/27/reviews/som-na-praia-na-festa-ou-na-viagem-caixas-bluetooth-portateis-em-promocao-na-amazon/",
       "source": "Olhar Digital",
-      "published": 1790508000000
+      "published": 1790526000000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "VÍDEO: Estação Agrícola, 27 de setembro de 2026",
-      "summary": "Confira as principais matérias do programa.",
-      "image": "https://s2-g1.glbimg.com/ll4TxYQWA-KPjGjpaRaXBh2NnWA=/s01.video.glbimg.com/deo/vi/02/54/14995402",
-      "link": "https://g1.globo.com/se/sergipe/edicao/2026/09/27/video-estacao-agricola-27-de-setembro-de-2026.ghtml",
+      "title": "Toffoli determina retirada da federação PSDB/Cidadania da coligação de Raquel Lyra",
+      "summary": "Dias Toffoli, ministro do Supremo Tribunal Federal (STF) Luiz Silveira/STF O ministro Dias Toffoli, do Supremo Tribunal Federal (STF), determinou a retirada da Federação…",
+      "image": "https://s2-g1.glbimg.com/3a0qkg8BuNdNr-f2EM2YlDDalVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/L/mak6B1Su64G9JmMO9d3g/55357138295-00e9a1fece-k.jpg",
+      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/27/toffoli-determina-retirada-da-federacao-psdbcidadania-da-coligacao-de-raquel-lyra.ghtml",
       "source": "g1",
-      "published": 1790514860000
+      "published": 1790531712000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Palmas terá lei seca no 1º turno das eleições; venda e consumo de bebidas alcoólicas serão proibidos",
-      "summary": "Lei Seca proíbe venda e consumo de bebidas alcoólicas durante eleição em Palmas A Justiça Eleitoral proibiu a venda, a distribuição e o consumo de bebidas alcoólicas em…",
-      "image": "https://s2-g1.glbimg.com/QhGL4FWFPyzPkdv_l8RT4RZJ1Ow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/M/0stbRpQfSNH2tOSmhp5Q/foto-e-montagem-vertical-2026-09-25t084339.077.png",
-      "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/27/palmas-tera-lei-seca-no-1o-turno-das-eleicoes-venda-e-consumo-de-bebidas-alcoolicas-serao-proibidos.ghtml",
-      "source": "g1",
-      "published": 1790514791000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Dupla é presa suspeita de furtar equipamentos de concessionária de energia no Marajó",
-      "summary": "Dupla é presa suspeita de furtar equipamentos de concessionária de energia no Marajó PCPA Dois homens foram presos em flagrante suspeitos de furtar equipamentos da…",
-      "image": "https://s2-g1.glbimg.com/m0vPrpSfUz2XaGKJyPQRnf0FYdM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/f/E9xI4jQOOa8KyJR3BBAA/whatsapp-image-2026-09-27-at-09.49.11.jpeg",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/09/27/dupla-e-presa-suspeita-de-furtar-equipamentos-de-concessionaria-de-energia-no-marajo.ghtml",
-      "source": "g1",
-      "published": 1790514652000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "CEOs de OpenAI e Anthropic são convocados para depor em investigação de IA na Austrália",
-      "summary": "Os CEOs da OpenAI e da Anthropic foram convocados a comparecer a uma comissão de inquérito do Senado australiano sobre inteligência artificial , informou neste domingo…",
+      "title": "A mulher que envia US$ 10 mil por semana para que crianças migrantes detidas nos EUA possam comprar comida: 'É uma fada-madrinha'",
+      "summary": "O nicaraguense Luis Sánchez* estava havia mais de três semanas ao lado dos seus quatro filhos em um centro de detenção de imigrantes em Dilley, no sul do Estado…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/09/ceos-de-openai-e-anthropic-sao-convocados-para-depor-em-investigacao-de-ia-na-australia.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/a-mulher-que-envia-us-10-mil-por-semana-para-que-criancas-migrantes-detidas-nos-eua-possam-comprar-comida-e-uma-fada-madrinha.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1790514540000
+      "published": 1790531640000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Preso passa por buraco em grade de cela e foge de delegacia em Florianópolis; VÍDEO",
-      "summary": "Preso passa por buraco em grade de cela e foge de delegacia em Florianópolis; VÍDEO Um homem foi flagrado por câmeras de segurança fugindo pelo buraco da grade da cela…",
-      "image": "https://s2-g1.glbimg.com/WXbLr2pFw4Fpsk4fYNFzFJnxQAY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/4/EDa698TAAp2n5K8yKHBg/designsemnome1-ezgif.com-video-to-gif-converter.gif",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/27/preso-passa-por-buraco-grade-cela-foge-delegacia-florianopolis-video.ghtml",
+      "title": "SC entra na rota de temporais após fim de semana marcado por 'calorão' de até 33°C",
+      "summary": "SC entra na rota de temporais após fim de semana marcado por calor Após um fim de semana de calor intenso, Santa Catarina terá uma sequência de dias instáveis. A Defesa…",
+      "image": "https://s2-g1.glbimg.com/etrVQECGikDg0L1L85mDS0bAr68=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/3/tzSlHYSGiTcnnECm1Smw/chuva.png",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/27/sc-entra-na-rota-de-temporais-fim-de-semana-marcado-calorao.ghtml",
       "source": "g1",
-      "published": 1790514503000
+      "published": 1790531614000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "CBF confirma datas das semifinais da Copa do Brasil em novembro",
+      "summary": "A Confederação Brasileira de Futebol ( CBF ) confirmou as datas das semifinais da Copa do Brasil neste domingo (27). O Grêmio enfrenta o Atlético-MG e o Palmeiras joga…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/cbf-confirma-datas-das-semifinais-da-copa-do-brasil-em-novembro.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1790531220000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Homem morre após tentar ultrapassar ônibus, cair de moto e ser atropelado no PI",
+      "summary": "Instituto de Medicina Legal (IML) em Parnaíba MP-PI Um homem identificado como Robson Jaime da Costa Pereira morreu após um acidente envolvendo uma motocicleta e um…",
+      "image": "https://s2-g1.glbimg.com/uYh-llSTmLi-_uK04C8r2bVDE0U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/E/W/uRFqtYTe6K2AFAKE8PcA/iml-parnaiba.jpg",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/27/homem-morre-atropelado.ghtml",
+      "source": "g1",
+      "published": 1790531167000
     }
   ]
 }
