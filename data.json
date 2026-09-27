@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T00:04:05.101Z",
+  "updatedAt": "2026-09-27T07:22:05.627Z",
   "count": 25,
   "items": [
     {
@@ -105,6 +105,26 @@
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
+      "title": "Barreal se recupera e Arão vai a campo em treino do Santos",
+      "summary": "O Santos deu continuidade aos treinamentos durante a pausa para a Data Fifa e teve duas boas notícias no CT Rei Pelé: o retorno de Willian Arão aos trabalhos no gramado,…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55552251209_0a8b55a953_o-1.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/santos-retorno-willian-arao-barreal-treinos/",
+      "source": "Gazeta Esportiva",
+      "published": 1790472944000
+    },
+    {
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Santa Cruz busca empate com o Floresta e encaminha acesso à Série B",
+      "summary": "Santa Cruz e Floresta empataram por 1 a 1 neste sábado (26), no Estádio Presidente Vargas, em Fortaleza, pela quarta rodada da segunda fase da Série C do Campeonato…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/91efcbe4-0fd1-4caa-b327-8961f8553c91.webp",
+      "link": "https://www.gazetaesportiva.com/times/santa-cruz/floresta-x-santa-cruz-empate-serie-c-grupo-b/",
+      "source": "Gazeta Esportiva",
+      "published": 1790469474000
+    },
+    {
+      "category": "esportes",
+      "categoryLabel": "Esportes",
       "title": "Atlético-GO vence clássico contra o Goiás e entra no G6 da Série B",
       "summary": "O Atlético-GO venceu o Goiás por 1 a 0 neste sábado (26), no Estádio da Serrinha, em Goiânia, pela 30ª rodada da Série B do Campeonato Brasileiro. O único gol da partida…",
       "image": "https://static.gazetaesportiva.com/uploads/2026/09/55553207185_ff7cb0d40b_o.webp",
@@ -131,26 +151,6 @@
       "link": "https://www.gazetaesportiva.com/times/santos/morre-naty-potira-influenciadora-e-torcedora-do-santos/",
       "source": "Gazeta Esportiva",
       "published": 1790463772000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Chapecoense e Atlético Nacional empatam no Joga da Amizade Eterna",
-      "summary": "A Chapecoense empatou por 1 a 1 com o Atlético Nacional neste sábado, em Medellín, no amistoso denominado Jogo da Amizade Eterna, realizado em homenagem aos dez anos da…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/SaveClip.App_825323911_18631410349056793_4464012915806588693_n.webp",
-      "link": "https://www.gazetaesportiva.com/times/chapecoense/chapecoense-e-atletico-nacional-empatam-no-joga-da-amizade-eterna/",
-      "source": "Gazeta Esportiva",
-      "published": 1790463754000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "CRB x Cuiabá: veja prováveis escalações e onde assistir ao jogo pela Série B",
-      "summary": "CRB e Cuiabá se enfrentam neste domingo, pela 30ª rodada do Campeonato Brasileiro Série B. A partida será disputada às 16h (de Brasília), no Estádio Rei Pelé, em Maceió.…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55531177938_e8ff440729_o.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/crb-x-cuiaba-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-pela-serie-b/",
-      "source": "Gazeta Esportiva",
-      "published": 1790463647000
     },
     {
       "category": "tecnologia",
@@ -205,52 +205,52 @@
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Tarifas, investimentos e terras raras: Trump e Xi Jinping chegam a acordos após encontro na ONU",
-      "summary": "Donald Trump e Xi Jinping. Reprodução/TV Globo Um dia depois do encontro entre Donald Trump e Xi Jinping, a Casa Branca divulgou os resultados da reunião. Os dois países…",
-      "image": "https://s2-g1.glbimg.com/77ydKKfCG66pcuf04VVr0kffltM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/e/m31AAAT9qmJ038Ri5vNQ/videoframe-3920453.png",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/09/26/tarifas-investimentos-e-terras-raras-trump-e-xi-jinping-chegam-a-acordos-apos-encontro-na-onu.ghtml",
+      "title": "Primeira fase do vestibular do ITA: 9,5 mil candidatos prestam prova neste domingo (27) em 25 cidades",
+      "summary": "Instituto Tecnológico de Aeronáutica (ITA), em São José dos Campos Peterson Grecco/TV Vanguarda Mais de 9,5 mil candidatos prestam, neste domingo (27), o vestibular 2027…",
+      "image": "https://s2-g1.glbimg.com/3aCYsA88lZaC_Qm7FCFiA14_q4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/y/T/du3vC6TKuTHFhGyQV6Mw/foto-4.jpg",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/27/primeira-fase-do-vestibular-do-ita-95-mil-candidatos-prestam-prova-neste-domingo-27-em-25-cidades.ghtml",
       "source": "g1",
-      "published": 1790467289000
+      "published": 1790492460000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Infertilidade masculina é um problema silencioso e ainda ignorado",
-      "summary": "A contagem de espermatozoides caiu mais de 51% em todo o mundo desde 1973, e o ritmo dessa queda vem se acelerando, segundo uma revisão de estudos publicada em 2026 na…",
+      "title": "Doula voluntária, Dona Rô acompanha gestantes em hospital público de São Paulo há 27 anos",
+      "summary": "Doula , substantivo feminino: na Grécia antiga , mulher que auxiliava a parturiente durante o parto; que orienta gestantes a fazer exercícios físicos para diminuir as…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/infertilidade-masculina-e-um-problema-silencioso-e-ainda-ignorado.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/doula-voluntaria-dona-ro-acompanha-gestantes-em-hospital-publico-de-sao-paulo-ha-27-anos.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1790467200000
+      "published": 1790492400000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Homem é assassinado a tiros em região entre João Pessoa e Bayeux",
-      "summary": "Homem é assassinado a tiros em região entre João Pessoa e Bayeux Divulgação/Flávio Fernandes Um homem de 50 anos de idade foi assassinado a tiros na noite deste sábado…",
-      "image": "https://s2-g1.glbimg.com/ABq4ufO1s-XP3agdkkyyZtvmr1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/A/Tzj5AnR92gZAfzBcAuBQ/assassinato-ilha-do-bispo.png",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/09/26/homem-e-assassinado-a-tiros-em-regiao-entre-joao-pessoa-e-bayeux.ghtml",
-      "source": "g1",
-      "published": 1790467103000
+      "title": "Plano de vingança, como o de Adriana de 'Quem Ama Cuida', pode causar mais dor do que satisfação",
+      "summary": "Na novela \" Quem Ama Cuida \", da Globo , Adriana, vivida por Letícia Colin , ficou seis anos presa por um crime que não cometeu. Foi tempo suficiente para planejar uma…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/plano-de-vinganca-como-o-de-adriana-de-quem-ama-cuida-pode-causar-mais-dor-do-que-satisfacao.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1790492400000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Eleições 2026: veja como foi o dia dos candidatos ao Governo do Piauí neste sábado (26)",
-      "summary": "Candidatos ao Governo do Piauí nesta quarta (16) Montagem/g1 Os candidatos ao Governo do Piauí cumpriram agenda de campanha neste sábado (26) em Teresina, Altos, Miguel…",
-      "image": "https://s2-g1.glbimg.com/AzIwyDuuyHzQTdI6bLiA2lZ0ZnY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/B/7K89A2SPCgPNLUwXkiMg/edicao-imagens-g1-87-.png",
-      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/26/eleicoes-2026-sabado-26.ghtml",
-      "source": "g1",
-      "published": 1790467062000
+      "title": "'Tradwives' vão ao cinema e à literatura em retratos ácidos de mulheres submissas",
+      "summary": "A influenciadora Virgínia, cristã e conservadora, trabalha ensinando mulheres a cuidar da casa, do marido e dos filhos. Nas redes sociais, ela propaga seus credos e diz…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/tradwives-vao-ao-cinema-e-a-literatura-em-retratos-acidos-de-mulheres-submissas.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1790492400000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Motorista envolvido em acidente com morte na BR-163 tem fratura no crânio",
-      "summary": "Moto ficou totalmente destruída após acidente na BR-163, no Planalto São José em Santarém Blog do Tabocal Notícias O motorista do carro envolvido no acidente que matou…",
-      "image": "https://s2-g1.glbimg.com/9VPSQBxiXINeHqaH0fJvIqfelFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/s/VfvxzNSbOzKXHoBM9swQ/whatsapp-image-2026-09-26-at-09.37.15.jpeg",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/26/motorista-envolvido-em-acidente-com-morte-na-br-163-tem-fratura-no-cranio.ghtml",
-      "source": "g1",
-      "published": 1790466641000
+      "title": "'Escândalo e Intriga' leva libertinagem de 'Ligações Perigosas' à dinastia Joseon",
+      "summary": "Um nobre libertino e uma viúva cristã descansam deitados no chão, nus. Os espectadores veem suas silhuetas de lado e de costas. O homem acaba de tirar a virgindade da…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/k-cultura/2026/09/escandalo-e-intriga-leva-libertinagem-de-ligacoes-perigosas-a-dinastia-joseon.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1790492400000
     }
   ]
 }
