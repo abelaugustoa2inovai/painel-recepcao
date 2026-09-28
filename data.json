@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T00:08:12.223Z",
+  "updatedAt": "2026-09-28T07:59:58.181Z",
   "count": 25,
   "items": [
     {
@@ -55,6 +55,16 @@
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
+      "title": "Ravens vencem Cowboys por 34 a 31 em jogo decidido no último segundo no Maracanã",
+      "summary": "Futebol Americano – NFL – Baltimore Ravens x Dallas Cowboys – Estádio do Maracanã, Rio de Janeiro, Brasil – 27 de setembro de 2026. O jogador do Baltimore Ravens, Tyler…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/2026-09-28T000701Z_2056136953_UP1EM9S00BOVM_RTRMADP_3_FOOTBALL-NFL-BAL-DAL.jpg?fit=300%2C199&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/esportes/ravens-vencem-cowboys-por-34-a-31-em-jogo-decidido-no-ultimo-segundo-no-maracana/",
+      "source": "InfoMoney",
+      "published": 1790554218000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
       "title": "Petróleo sobe e futuros de ações dos EUA recuam após rejeição de oferta do Irã",
       "summary": "(Foto: Jason Alden / Bloomberg) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/09/469195189-1.jpg?fit=1100%2C700&quality=70&strip=all\" />Os…",
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/469195189-1.jpg?fit=300%2C191&quality=70&strip=all",
@@ -93,64 +103,74 @@
       "published": 1790547960000
     },
     {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Furacão Polo, de categoria 3, ameaça costa do México e deve atingir continente na 2ª",
-      "summary": "(Foto: Raquel Cunha / Reuters) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/09/furacao-polo-mexico-01.jpg?fit=1100%2C700&quality=70&strip=all\"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/furacao-polo-mexico-01.jpg?fit=300%2C191&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/furacao-polo-de-categoria-3-ameaca-costa-do-mexico-e-deve-atingir-continente-na-2a/",
-      "source": "InfoMoney",
-      "published": 1790547060000
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Ramiro Gandola vence prova principal da Moto1000GP em Santa Cruz do Sul",
+      "summary": "Ramiro Gandola foi o grande vencedor da sexta etapa da temporada 2026 da Moto1000GP, neste final de semana, em Santa Cruz do Sul (RS). Tricampeão da categoria, o…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/m1gp_2026_etapa_06_scs_gp1000_sabado_31.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/ramiro-gandola-vence-prova-principal-da-moto1000gp-em-santa-cruz-do-sul/",
+      "source": "Gazeta Esportiva",
+      "published": 1790562359000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Fatal Model no Flamengo? Clube diz que informação é falsa",
-      "summary": "O Flamengo negou, neste domingo, que esteja negociando um novo patrocínio com a Fatal Model. Em nota oficial, o clube afirmou ter recebido com surpresa as informações…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/732561-TREINO-NO-NINHO-15-09-2026-077-2.webp",
-      "link": "https://www.gazetaesportiva.com/times/flamengo/fatal-model-no-flamengo-clube-diz-que-informacao-e-falsa/",
+      "title": "América-MG x Juventude pela Série B: veja prováveis escalações e onde assistir",
+      "summary": "América-MG e Juventude se enfrentam pela 30ª rodada da Série B. Veja onde assistir, prováveis escalações e a situação das equipes. O post América-MG x Juventude pela…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55528999874_2e1078878c_6k.webp",
+      "link": "https://www.gazetaesportiva.com/times/juventude/america-mg-x-juventude-pela-serie-b-veja-provaveis-escalacoes-e-onde-assistir/",
       "source": "Gazeta Esportiva",
-      "published": 1790553662000
+      "published": 1790559818000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: LA Galaxy 3 x 2 Colorado Rapids pela MLS",
-      "summary": "Melhores momentos: LA Galaxy 3 x 2 Colorado Rapids pela MLS O post Melhores momentos: LA Galaxy 3 x 2 Colorado Rapids pela MLS apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/Gala.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-la-galaxy-3-x-2-colorado-rapids-pela-mls/",
+      "title": "Alex Muller vê Abel Ferreira no Palmeiras até o fim do contrato: “Só sai se quiser”",
+      "summary": "No Mesa Redonda, Alex Muller afirmou que Abel Ferreira deve seguir no Palmeiras até o fim do contrato e só deixaria o clube por decisão própria. O post Alex Muller vê…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/26082026_cg_palmeiras_2_47.webp",
+      "link": "https://www.gazetaesportiva.com/times/palmeiras/alex-muller-ve-abel-ferreira-no-palmeiras-ate-o-fim-do-contrato-so-sai-se-quiser/",
       "source": "Gazeta Esportiva",
-      "published": 1790553348000
+      "published": 1790558964000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Em tarde de recorde no Maracanã, Ravens vencem os Cowboys no último lance pela NFL",
-      "summary": "O Baltimore Ravens derrotou o Dallas Cowboys por 31 a 28 no Maracanã, em partida da NFL que reuniu mais de 72 mil torcedores no Rio de Janeiro. O post Em tarde de…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260927__C9HH78U__v1__HighRes__AmfootBraNflCowboysRavens.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/nfl/diante-de-publico-recorde-no-maracana-ravens-vencem-os-cowboys-pela-nfl/",
+      "title": "Cruzeiro volta à ativa na Toca 2 de olho do Brasileirão",
+      "summary": "Cruzeiro volta à ativa na Toca 2 de olho do Brasileirão O post Cruzeiro volta à ativa na Toca 2 de olho do Brasileirão apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/Cruz.webp",
+      "link": "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-volta-a-ativa-na-toca-2-de-olho-do-brasileirao/",
       "source": "Gazeta Esportiva",
-      "published": 1790553004000
+      "published": 1790555404000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Vancouver 3 x 3 D.C. United pela MLS",
-      "summary": "Melhores momentos: Vancouver 3 x 3 D.C. United pela MLS O post Melhores momentos: Vancouver 3 x 3 D.C. United pela MLS apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/ncouve.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-vancouver-3-x-3-d-c-united-pela-mls/",
+      "title": "Diniz dá sequência aos treinamentos do Timão com Yuri Alberto em campo",
+      "summary": "Diniz dá sequência aos treinamentos do Timão com Yuri Alberto em campo O post Diniz dá sequência aos treinamentos do Timão com Yuri Alberto em campo apareceu primeiro em…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/corinthians-treino.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/diniz-da-sequencia-aos-treinamentos-do-timao-com-yuri-alberto-em-campo/",
       "source": "Gazeta Esportiva",
-      "published": 1790552711000
+      "published": 1790555115000
     },
     {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Real Salt Lake 3 x 0 New England Revolution pela MLS",
-      "summary": "Melhores momentos: Real Salt Lake 3 x 0 New England Revolution pela MLS O post Melhores momentos: Real Salt Lake 3 x 0 New England Revolution pela MLS apareceu primeiro…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/eal-Sa.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-real-salt-lake-3-x-0-new-england-revolution-pela-mls/",
-      "source": "Gazeta Esportiva",
-      "published": 1790552112000
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Eleições 2026: entenda a engenharia por trás da urna eletrônica",
+      "summary": "A urna eletrônica realmente fica offline o tempo todo? Entenda como funciona o dispositivo que você vai usar nas eleições em outubro O post Eleições 2026: entenda a…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/Urna-eletronica-passando-por-inspecao-1024x576.jpg",
+      "link": "https://olhardigital.com.br/2026/09/28/pro/eleicoes-2026-entenda-a-engenharia-por-tras-da-urna-eletronica/",
+      "source": "Olhar Digital",
+      "published": 1790579520000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Netflix: lançamentos da semana (28 de setembro a 4 de outubro)",
+      "summary": "Entre os lançamentos desta semana na Netflix, estão a minissérie \"A Leste do Éden\" e \"Mononoke: Capítulo 3\"; confira a lista completa O post Netflix: lançamentos da…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/09/28/cinema-e-streaming/netflix-lancamentos-da-semana-28-de-setembro-a-4-de-outubro/",
+      "source": "Olhar Digital",
+      "published": 1790578920000
     },
     {
       "category": "tecnologia",
@@ -183,74 +203,54 @@
       "published": 1790537860000
     },
     {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Hora de jogar: uma seleção de ótimas ofertas em jogos para Xbox",
-      "summary": "Se você é fã de Xbox e está de olho em bons títulos para adicionar à sua coleção, separamos três opções que valem muito a pena conferir agora mesmo. De clássicos do RPG…",
-      "image": "https://m.media-amazon.com/images/I/514w5tk0q3L._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/27/reviews/hora-de-jogar-uma-selecao-de-otimas-ofertas-em-jogos-para-xbox/",
-      "source": "Olhar Digital",
-      "published": 1790536800000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "GTA VI, EA FC 27 e mais: jogos imperdíveis para PS5 em promoção na Amazon",
-      "summary": "O catálogo do PlayStation 5 está cada vez mais forte, e a Amazon aproveita a temporada para oferecer ótimas condições em títulos disputadíssimos. Reunimos três jogos que…",
-      "image": "https://m.media-amazon.com/images/I/71OmGCyRnHL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/09/27/reviews/gta-vi-ea-fc-27-e-mais-jogos-imperdiveis-para-ps5-em-promocao-na-amazon/",
-      "source": "Olhar Digital",
-      "published": 1790535600000
-    },
-    {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "A 'recessão sexual' da geração Z é real",
-      "summary": "Dizem por aí que a geração Z não transa -ou transa menos que as outras gerações . Será mesmo? Em vez de especular, o Instituto Kinsey decidiu perguntar diretamente aos…",
+      "title": "Mais altos, prédios irregulares se espalham por bairros de São Paulo",
+      "summary": "O desabamento do prédio do distrito Penha , que deixou seis mortos há duas semanas, chamou a atenção para um problema em parte dos bairros de São Paulo : a profusão de…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/a-recessao-sexual-da-geracao-z-e-real.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mais-altos-predios-irregulares-se-espalham-por-bairros-de-sao-paulo.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1790553600000
+      "published": 1790579700000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Aos 91, Miriam Mehler estreia peça sobre velhice e burocracia bancária",
-      "summary": "Aos 91 anos, a atriz Miriam Mehler vai celebrar sete décadas de carreira com uma nova peça, \"Prova de Vida\". Leia mais (09/27/2026 - 21h00)",
+      "title": "Turista colombiano é dopado e jogado de carro no Rio de Janeiro",
+      "summary": "Um turista colombiano foi vítima do golpe conhecido como \"boa noite, Cinderela\" no Rio de Janeiro e chegou a ser jogado para fora de um carro após encontro marcado por…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/aos-91-miriam-mehler-estreia-peca-sobre-velhice-e-burocracia-bancaria.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/turista-colombiano-e-dopado-e-jogado-de-carro-no-rio-de-janeiro.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1790553600000
+      "published": 1790579040000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Especialistas apoiam decisão de Dino e alertam sobre intervenção judicial",
-      "summary": "A escalada do caso sobre a notícia falsa envolvendo Flávio Bolsonaro ( PL ) e Nossa Senhora Aparecida levanta questionamentos entre especialistas em direito eleitoral…",
+      "title": "Nossa Senhora Aparecida e bets pautam a reta final da eleição",
+      "summary": "A reta final do primeiro turno foi pautada por dois assuntos que não estavam no radar das campanhas um mês atrás. O primeiro é a proibição das bets e o segundo é o boato…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/especialistas-apoiam-decisao-de-dino-e-alertam-sobre-intervencao-judicial.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/09/nossa-senhora-aparecida-e-bets-pautam-a-reta-final-da-eleicao.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1790553540000
+      "published": 1790578800000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Entre Dois Mundos: a diplomacia panda em meio à corrida tecnológica",
-      "summary": "Entre Dois Mundos: a diplomacia panda em meio à corrida tecnológica Reprodução Dois países estão em meio a uma corrida histórica. Quem vai chegar primeiro numa…",
-      "image": "https://s2-g1.glbimg.com/IfuobKspst_f2oHT4SYruQ4hdAI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/z/ykDKy9RlWbNBJi4bHYcA/pandass.jpg",
-      "link": "https://g1.globo.com/fantastico/noticia/2026/09/27/entre-dois-mundos-a-diplomacia-panda-em-meio-a-corrida-tecnologica.ghtml",
-      "source": "g1",
-      "published": 1790553263000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Em decisão sobre publicação a respeito de Nossa Senhora, Dino age a favor do governo, diz leitor",
-      "summary": "Nossa Senhora \" Dino anula decisão do TSE e libera publicação sobre Nossa Senhora que causou dano a Flávio Bolsonaro \" (Política, 27/9). Mais uma vez agindo…",
+      "title": "Empresas americanas aderem a modelos de IA 'abertos' mais baratos",
+      "summary": "O mundo corporativo americano está recorrendo a modelos de IA de \"pesos abertos\" e menor custo, à medida que a disparada das despesas com tecnologia da informação leva…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/em-decisao-sobre-publicacao-a-respeito-de-nossa-senhora-dino-age-a-favor-do-governo-diz-leitor.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/09/empresas-americanas-aderem-a-modelos-de-ia-abertos-mais-baratos.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1790553060000
+      "published": 1790578800000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Kassio prepara reação à decisão de Dino sobre Nossa Senhora e vai cobrar de Fachin medida contra manipulação",
+      "summary": "O presidente do TSE (Tribunal Superior Eleitoral), Kassio Nunes Marques , prepara uma reação à decisão do ministro do STF (Supremo Tribunal Federal) Flávio Dino , que…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/kassio-prepara-reacao-a-decisao-de-dino-sobre-nossa-senhora-e-vai-cobrar-de-fachin-medida-contra-manipulacao.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1790578800000
     }
   ]
 }
