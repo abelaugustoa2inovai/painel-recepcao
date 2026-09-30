@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T00:54:56.260Z",
+  "updatedAt": "2026-09-30T07:43:50.254Z",
   "count": 25,
   "items": [
     {
@@ -55,6 +55,26 @@
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
+      "title": "Nunes Marques marca julgamento no TSE sobre posts envolvendo Nossa Senhora",
+      "summary": "O presidente do TSE, Kássio Nunes Marques, durante sessão plenária. Foto: Luiz Roberto/TSE \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/55502240497_5edd6624a9_c.jpg?fit=300%2C201&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/nunes-marques-marca-julgamento-no-tse-sobre-posts-envolvendo-nossa-senhora/",
+      "source": "InfoMoney",
+      "published": 1790731482000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Anvisa notifica Mercado Livre após anúncio de venda de medicamentos com receita",
+      "summary": "Imagem: Marcelo Camargo / Agência Brasil \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/01/Anvisa.jpg?fit=1170%2C765&quality=70&strip=all\"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Anvisa.jpg?fit=300%2C196&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/saude/anvisa-notifica-mercado-livre-apos-anuncio-de-venda-de-medicamentos-com-receita/",
+      "source": "InfoMoney",
+      "published": 1790731184000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
       "title": "China promete reagir caso UE adote medidas que visem comércio chinês",
       "summary": "Bandeira da China 20 de novembro de 2025. REUTERS/Maxim Shemetov \"…",
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T111639Z_1_LYNXMPEM650QA_RTROPTP_4_CHINA-DAILYLIFE.jpg?fit=300%2C207&quality=70&strip=all",
@@ -83,74 +103,94 @@
       "published": 1790727385000
     },
     {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Quina hoje, concurso 7130: confira o resultado sorteado nesta terça (29)",
-      "summary": "(Foto: Divulgação) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=1280%2C745&quality=70&strip=all\" />O prêmio…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7130-confira-o-resultado-sorteado-nesta-terca-29/",
-      "source": "InfoMoney",
-      "published": 1790726926000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Lotofácil hoje: confira o resultado do concurso 3792 sorteado nesta terça (29)",
-      "summary": "Lotofácil da Independência é um sorteio especial da Lotofácil, realizado em setembro. Foto: Marcelo Camargo/Agência Brasil \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorteio-lotofacil.webp?fit=300%2C225&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-confira-o-resultado-do-concurso-3792-sorteado-nesta-terca-29/",
-      "source": "InfoMoney",
-      "published": 1790726825000
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Com edema muscular, Raphinha é cortado de amistoso contra a Índia",
+      "summary": "Raphinha é cortado da Seleção Brasileira após exame apontar pequeno edema muscular na coxa direita. Por precaução, atacante não enfrenta a Índia no próximo amistoso. O…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260929__C9N73JZ__v1__MidRes__FblAusBraFriendly-2.webp",
+      "link": "https://www.gazetaesportiva.com/times/brasil/raphinha-cortado-selecao-brasileira/",
+      "source": "Gazeta Esportiva",
+      "published": 1790740802000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Botafogo-SP vence Ponte Preta e encerra jejum de sete jogos na Série B",
-      "summary": "O Botafogo-SP voltou a vencer pela Série B nesta terça-feira. O clube de Ribeirão Preto superou a Ponte Preta por 2 a 0 na Arena NicNet e findou um jejum de sete…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-29-at-21.21.12.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/botafogo-sp-vence-ponte-preta-e-encerra-jejum-de-sete-jogos-na-serie-b/",
+      "title": "México reage no segundo tempo e empata com o Peru em amistoso",
+      "summary": "México e Peru ficaram no empate por 1 a 1 em amistoso realizado em Harrison. Víctor Guzmán marcou para os mexicanos e Jairo Vélez fez o gol peruano. O post México reage…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260930__william_volcov_brazil_photo_press_18335__v1__HighRes__MexicoAndPeruFr.webp",
+      "link": "https://www.gazetaesportiva.com/times/mexico/mexico-reage-no-segundo-tempo-e-empata-com-o-peru-em-amistoso/",
       "source": "Gazeta Esportiva",
-      "published": 1790728200000
+      "published": 1790737197000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Cristiano Ronaldo não treina com Portugal após ficar no banco contra a Noruega",
-      "summary": "Cristiano Ronaldo não participou do treino de Portugal após ficar no banco na vitória sobre a Noruega. Atacante teria conversado com Jorge Jesus. O post Cristiano…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260929__C9P888W__v1__HighRes__FblEurNationsDenPor.webp",
-      "link": "https://www.gazetaesportiva.com/times/portugal/cristiano-ronaldo-nao-treina-com-portugal-apos-ficar-no-banco-contra-a-noruega/",
+      "title": "Estados Unidos vencem o Chile em amistoso com seis gols",
+      "summary": "Os Estados Unidos derrotaram o Chile por 4 a 2 em um jogo de seis gols disputado em San Diego, em amistoso internacional. O post Estados Unidos vencem o Chile em…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260930__C9QC8FY__v1__HighRes__FootballMatchesAmicauxEtatsUnisChili.webp",
+      "link": "https://www.gazetaesportiva.com/times/estados-unidos/estados-unidos-vencem-o-chile-em-amistoso-com-seis-gols/",
       "source": "Gazeta Esportiva",
-      "published": 1790725965000
+      "published": 1790733952000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Campeão com a Seleção, promessa do Santos de 14 anos ganha chance no sub-17",
-      "summary": "Campeão da Liga Evolución sub-15 com a Seleção Brasileira, Isaac Miranda, de 14 anos, foi relacionado pela primeira vez para uma partida do sub-17 do Santos. O post…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/Isaac-Miranda-Divulgacao-Santos-2.jpg.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/isaac-miranda-santos-primeira-chance-sub-17/",
+      "title": "Tocha olímpica de Los Angeles 2028 percorrerá os 50 estados dos EUA",
+      "summary": "O revezamento da tocha dos Jogos Olímpicos de Los Angeles 2028 percorrerá, pela primeira vez, os 50 estados dos Estados Unidos, começando pela Geórgia, anunciaram os…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260206__96GG94A__v1__HighRes__Oly2026MilanoCortinaOpeningTorch.webp",
+      "link": "https://www.gazetaesportiva.com/olimpiadas/tocha-olimpica-de-los-angeles-2028-percorrera-os-50-estados-dos-eua/",
       "source": "Gazeta Esportiva",
-      "published": 1790723872000
+      "published": 1790732095000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Cuca promove treino físico e tático, e Santos avança em preparação para clássico",
-      "summary": "Santos realizou trabalhos físicos e táticos nesta terça-feira no CT Rei Pelé. Neymar segue em transição, enquanto Cuca prepara a equipe para o clássico contra o São…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/55559620011_b486436656_3k.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/santos-treino-fisico-tatico-classico-sao-paulo/",
+      "title": "NBA deve definir em breve proprietários da futura franquia de Las Vegas",
+      "summary": "A NBA está perto de escolher os proprietários da futura equipe de Las Vegas, cuja franquia pode ser avaliada entre US$ 12 bilhões e US$ 13 bilhões. O post NBA deve…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/01/AFP__20260115__2255808408__v1__MidRes__MemphisGrizzliesVOrlandoMagic.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/nba/nba-deve-definir-em-breve-proprietarios-da-futura-franquia-de-las-vegas/",
       "source": "Gazeta Esportiva",
-      "published": 1790723352000
+      "published": 1790732006000
     },
     {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Palmeiras x Vasco: veja onde assistir ao jogo pelo Brasileiro sub-17",
-      "summary": "Palmeiras e Vasco se enfrentam nesta quarta-feira, às 15h, na Arena Crefisa Barueri, pela última rodada da primeira fase do Brasileiro sub-17. Veja onde assistir. O post…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/FTM-1086.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-vasco-sub-17-onde-assistir-2026/",
-      "source": "Gazeta Esportiva",
-      "published": 1790722856000
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Eleições 2026: candidatos à Presidência têm planos diferentes para IA, data centers e soberania digital",
+      "summary": "O Olhar Digital mergulhou em planos de governo para checar o que seis candidatos à presidência propõem em temas caros para a tecnologia O post Eleições 2026: candidatos…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/ia-semicondutores-infraestrutura-digital-e1790697675963-1024x577.jpg",
+      "link": "https://olhardigital.com.br/2026/09/30/pro/eleicoes-2026-candidatos-a-presidencia-tem-planos-diferentes-para-ia-data-centers-e-soberania-digital/",
+      "source": "Olhar Digital",
+      "published": 1790751720000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Estudo aponta que duas aves brasileiras estão entre as mais barulhentas",
+      "summary": "Cantos das duas ultrapassaram 120 decibéis de pico, volume comparável ou superior ao de equipamentos extremamente ruidosos, como motosserras e britadeiras O post Estudo…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/araponga-de-garganta-nua-1024x682.jpg",
+      "link": "https://olhardigital.com.br/2026/09/29/ciencia-e-espaco/estudo-aponta-que-duas-aves-brasileiras-estao-entre-as-mais-barulhentas/",
+      "source": "Olhar Digital",
+      "published": 1790733202000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "iOS 27: nova atualização corrige falhas no Face ID e na tela de iPhones",
+      "summary": "Update começou a ser disponibilizado na segunda-feira (28) e também resolve outros problemas detectados na versão anterior O post iOS 27: nova atualização corrige falhas…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/iStock-1359638443-1024x683.jpg",
+      "link": "https://olhardigital.com.br/2026/09/29/reviews/ios-27-nova-atualizacao-corrige-falhas-no-face-id-e-na-tela-de-iphones/",
+      "source": "Olhar Digital",
+      "published": 1790732044000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "OpenAI negocia rodada de R$ 156,1 bi e pode atingir valuation de R$ 7,3 tri",
+      "summary": "Possível captação ocorre poucos meses depois de a empresa levantar uma das maiores quantias já registradas no mercado privado O post OpenAI negocia rodada de R$ 156,1 bi…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/chatgpt3-e1737636498885-1024x577.jpg",
+      "link": "https://olhardigital.com.br/2026/09/29/pro/openai-negocia-rodada-de-r-156-1-bi-e-pode-atingir-valuation-de-r-7-3-tri/",
+      "source": "Olhar Digital",
+      "published": 1790728039000
     },
     {
       "category": "tecnologia",
@@ -163,94 +203,54 @@
       "published": 1790725473000
     },
     {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Resultado da Mega-Sena de hoje: veja números e ganhadores do concurso 3064 (terça, 29/09)",
-      "summary": "O sorteio de R$ 49,5 milhões do concurso 3064 é realizado em São Paulo. Além dos seis números premiados, confira como resgatar seu prêmio! O post Resultado da Mega-Sena…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/09/29/internet-e-redes-sociais/resultado-da-mega-sena-de-hoje-veja-numeros-e-ganhadores-do-concurso-3064-terca-29-09/",
-      "source": "Olhar Digital",
-      "published": 1790725200000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Resultado da Lotofácil de hoje: veja números e ganhadores do concurso 3792 (terça, 29/09)",
-      "summary": "O sorteio do concurso 3792 da Lotofácil acontece na noite desta terça-feira (29), às 21h. O prêmio está estimado em R$ 2 milhões O post Resultado da Lotofácil de hoje:…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/09/29/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3792-terca-29-09/",
-      "source": "Olhar Digital",
-      "published": 1790725200000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Resultado da Quina de hoje: veja números e ganhadores do concurso 7130 (terça, 29/09)",
-      "summary": "O sorteio de R$ 12,3 milhões do concurso 7130 é realizado em São Paulo. Além dos cinco números premiados, confira como resgatar seu prêmio O post Resultado da Quina de…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/09/29/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7130-terca-29-09/",
-      "source": "Olhar Digital",
-      "published": 1790725200000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Trump reúne líderes de tecnologia e anuncia acordo sobre segurança de IA",
-      "summary": "Presidente estadunidense também avançou na ideia de renomear tecnologia para \"superinteligência\" O post Trump reúne líderes de tecnologia e anuncia acordo sobre…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/data-center-1024x574.jpg",
-      "link": "https://olhardigital.com.br/2026/09/29/inteligencia-artificial/trump-reune-lideres-de-tecnologia-e-anuncia-acordo-sobre-seguranca-de-ia/",
-      "source": "Olhar Digital",
-      "published": 1790722660000
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Polícia diz ter convicção de que jovem desaparecida há 3 semanas foi vítima de homicídio; corpo ainda não foi localizado",
+      "summary": "Influenciadora está desaparecida desde 6 de setembro no RS A Polícia Civil afirmou, nesta terça-feira (29), que tem a convicção de que a motorista de aplicativo Gabriela…",
+      "image": "https://s2-g1.glbimg.com/SJBZ_noqgzGjRx9OR_836i7weXM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/5/pdnC4ITjSeO2AO2BNIxg/g1-4-.jpg",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/30/policia-jovem-desaparecida-3-semanas-vitima-homicidio-corpo-nao-localizado.ghtml",
+      "source": "g1",
+      "published": 1790753400000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Sob pressão, donos de big techs anunciam que vão criar as próprias regras para o setor",
-      "summary": "Na Casa Branca, maiores empresários de inteligência artificial dos EUA assinam acordo de autorregulação Em meio a alertas sobre o risco da inteligência artificial para a…",
-      "image": "https://s2-g1.glbimg.com/CrjDTETVryxzYb5A11GRlyEFfN0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/v/FzmY8TRdqQE1l1HxiTqQ/globo-canal-4-20260929-2000-frame-133276.jpeg",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/09/29/sob-pressao-donos-de-big-techs-anunciam-que-vao-criar-as-proprias-regras-para-o-setor.ghtml",
+      "title": "Candidatos ao governo de MG participaram de debate da TV Globo; veja íntegra",
+      "summary": "Candidatos ao governo de MG participaram de debate da TV Globo; veja íntegra Foram convidados Alexandre Kalil (PDT), Cleitinho Azevedo (Republicanos), Flávio Roscoe…",
+      "image": "https://s2-g1.glbimg.com/Coqsi5n1Rkzj8IZZSy16S4soBMg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/s/mmpytHSS6zdOzx20XrwQ/whatsapp-image-2026-09-29-at-22.09.38.jpeg",
+      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/ao-vivo/debate-candidatos-governo-mg.ghtml",
       "source": "g1",
-      "published": 1790729267000
+      "published": 1790752297000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Candidatos ao governo do Maranhão participam de debate da TV Mirante",
-      "summary": "Candidatos ao governo do Maranhão participam de debate da TV Mirante Participam os candidatos André Luís (Missão), Eduardo Braide (PSD), Felipe Camarão (PT), Orleans…",
-      "image": "",
-      "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/ao-vivo/debate-candidatos-governo-ma.ghtml",
+      "title": "Candidatos a deputado federal pelo PSDB no PI; veja quem são e os números",
+      "summary": "O Piauí (PI) tem 154 candidatos disputando 10 vagas na Câmara dos Deputados, em Brasília, nas Eleições 2026, segundo dados do Tribunal Superior Eleitoral (TSE). Veja…",
+      "image": "https://s2-g1.glbimg.com/rNznQMDqxVc3ji8mBGUx3bdOJMg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/k/KtFAoLRVKjIdqAXpb6dQ/urnaeletronica-tse.jpg",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/30/candidatos-a-deputado-federal-pelo-psdb-no-pi-veja-quem-sao-e-os-numeros.ghtml",
       "source": "g1",
-      "published": 1790729254000
+      "published": 1790751661000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Candidatos ao governo do Tocantins participam de debate da TV Anhanguera",
-      "summary": "Candidatos ao governo do Tocantins participam de debate da TV Anhanguera Participam do debate Laurez Moreira (PSD), Professor Witer Naves (PSOL), Professora Dorinha…",
-      "image": "https://s2-g1.glbimg.com/GXh5KAQW6uTm2XQW3ZWhwRktYts=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/z/CQJjYQRmKh4nLThRU3VA/whatsapp-image-2026-09-29-at-21.45.06.jpeg",
-      "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/ao-vivo/debate-candidatos-governo-tocantins.ghtml",
+      "title": "Candidatos a deputado federal pelo Avante no PI; veja quem são e os números",
+      "summary": "O Piauí (PI) tem 154 candidatos disputando 10 vagas na Câmara dos Deputados, em Brasília, nas Eleições 2026, segundo dados do Tribunal Superior Eleitoral (TSE). Veja…",
+      "image": "https://s2-g1.glbimg.com/okpLM-FjH0vtNZYxesFicJmBxfk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/t/xe9h8GSnW3uwnKY8sAHA/edicao-imagens-g1-71-.png",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/30/candidatos-a-deputado-federal-pelo-avante-no-pi-veja-quem-sao-e-os-numeros.ghtml",
       "source": "g1",
-      "published": 1790729190000
+      "published": 1790751661000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Rede Amazônica faz debate com candidatos ao governo de Rondônia",
-      "summary": "Rede Amazônica faz debate com candidatos ao governo de Rondônia Rede Amazônica convidou os seis candidatos que concorrem à vaga: Adailton Furia (PSD), Expedito Netto…",
-      "image": "",
-      "link": "https://g1.globo.com/ro/rondonia/eleicoes/2026/ao-vivo/debate-candidatos-governo-rondonia.ghtml",
+      "title": "Candidatos a deputado federal pelo Rede no PI; veja quem são e os números",
+      "summary": "O Piauí (PI) tem 154 candidatos disputando 10 vagas na Câmara dos Deputados, em Brasília, nas Eleições 2026, segundo dados do Tribunal Superior Eleitoral (TSE). Veja…",
+      "image": "https://s2-g1.glbimg.com/rNznQMDqxVc3ji8mBGUx3bdOJMg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/k/KtFAoLRVKjIdqAXpb6dQ/urnaeletronica-tse.jpg",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/30/candidatos-a-deputado-federal-pelo-rede-no-pi-veja-quem-sao-e-os-numeros.ghtml",
       "source": "g1",
-      "published": 1790729178000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "EM INSTANTES: Candidatos ao Governo do Acre participam de debate da Rede Amazônica",
-      "summary": "EM INSTANTES: Candidatos ao Governo do Acre participam de debate da Rede Amazônica Foram convidados todos os candidatos com representação no Congresso Nacional para o…",
-      "image": "https://s2-g1.glbimg.com/9hEjXFbSoUDvZLfI1LWXRFK39Nc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/u/4YrU3OTTudB46PCKTfvw/whatsapp-image-2026-09-29-at-19.44.59.jpeg",
-      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/ao-vivo/debate-candidatos-governo-acre.ghtml",
-      "source": "g1",
-      "published": 1790729173000
+      "published": 1790751661000
     }
   ]
 }
