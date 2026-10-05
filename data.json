@@ -1,16 +1,26 @@
 {
-  "updatedAt": "2026-10-05T00:19:51.180Z",
+  "updatedAt": "2026-10-05T07:58:10.414Z",
   "count": 25,
   "items": [
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
-      "title": "EM TEMPO REAL: veja os RESULTADOS da apuração dos votos no 1º turno na região",
-      "summary": "EM TEMPO REAL: veja os RESULTADOS da apuração dos votos no 1º turno na região O g1 acompanha, em tempo real, o dia de votação nas regiões de São José do Rio Preto e…",
+      "title": "Veja o resultado da votação em cada cidade das regiões de Rio Preto e Araçatuba",
+      "summary": "Veja como foi a votação do 1º turno das Eleições 2026 no interior de SP O g1 São José do Rio Preto e Araçatuba compilou a apuração em tempo real dos votos em cada um dos…",
+      "image": "https://s2-g1.glbimg.com/WeKQOfEtlmdP1MAfd5sESrGCSXk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/Yu0OiTRZeglPXGth143Q/whatsapp-image-2026-10-04-at-15.08.26.jpeg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/eleicoes/2026/noticia/2026/10/04/veja-o-resultado-da-votacao-em-cada-cidade-das-regioes-de-rio-preto-e-aracatuba.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1791164967000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Eleições 2026: resultados, votação e tudo o que marcou a disputa na região",
+      "summary": "Eleições 2026: resultados, votação e tudo o que marcou a disputa na região O g1 acompanhou, em tempo real, o dia de votação nas regiões de São José do Rio Preto e…",
       "image": "https://s2-g1.glbimg.com/eWlj8Rf4c7XrhcPwKLT0-GaqvKs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/w/SZ7AALQ821luNlvSJDWg/whatsapp-image-2026-10-01-at-09.14.42.jpeg",
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-sao-jose-do-rio-preto-aracatuba.ghtml",
       "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1791155914000
+      "published": 1791164609000
     },
     {
       "category": "local",
@@ -43,114 +53,124 @@
       "published": 1791125992000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "VÍDEO: guarda Civil flagra descarte irregular de propaganda eleitoral perto de locais de votação em Rio Preto",
-      "summary": "Homem é flagrado descartando materiais de propaganda eleitoral em Rio Preto A Guarda Civil Municipal (GCM) de São José do Rio Preto (SP) registrou dois casos de descarte…",
-      "image": "https://s2-g1.glbimg.com/4S4VHZdYWRybHdAeOgM7P1FM6F4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/V/iAR7pMSMa2Tm2BEUAa7g/flagrante-rio-preto.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/eleicoes/2026/noticia/2026/10/04/descarte-irregular-de-propaganda-eleitoral-em-rio-preto.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1791122830000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Erika Hilton se torna a mulher mais votada para a Câmara na história",
+      "summary": "Deputada federal Erika Hilton (PSOL-SP) (Foto: Zeca Ribeiro/Câmara dos Deputados) \" data-image-caption=\" Deputada federal Erika Hilton (PSOL-SP) (Foto: Zeca…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/11/erika-hilton-e1741444277330.jpg?fit=300%2C169&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/erika-hilton-se-torna-a-mulher-mais-votada-para-a-camara-na-historia/",
+      "source": "InfoMoney",
+      "published": 1791164871000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Jerônimo Rodrigues (PT) é reeleito governador da Bahia no primeiro turno",
-      "summary": "Petista supera ACM Neto (União Brasil), apoiado pelo PL, e evita segundo turno The post Jerônimo Rodrigues (PT) é reeleito governador da Bahia no primeiro turno appeared…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/BAHIA-1-TURNO-JERONIMO1.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/bahia-resultado-1-turno-2/",
+      "title": "Direita amplia força nos Estados e vence 10 de 19 governos no primeiro turno",
+      "summary": "Foto: Tânia Rêgo/Agência Brasil \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/03/urna-eletronica-eleicoes.webp?fit=1024%2C768&quality=70&strip=a…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/urna-eletronica-eleicoes.webp?fit=300%2C225&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/direita-amplia-forca-nos-estados-e-vence-10-de-19-governos-no-primeiro-turno/",
       "source": "InfoMoney",
-      "published": 1791159282000
+      "published": 1791164272000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Confira os resultados das eleições para governador em cada estado",
-      "summary": "Veja quem venceu a disputa pelos governos estaduais, onde a eleição foi definida no primeiro turno e quais estados terão a decisão adiada para o segundo turno The post…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/1200x800-2.png?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/confira-os-resultados-das-eleicoes-para-governador-em-cada-estado/",
+      "title": "Tarcísio diz que Bolsonaro sofre, mas que ‘tempo da Justiça’ e virada estão próximos",
+      "summary": "(Foto: Divulgação) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/tarcisio-2.jpeg?fit=1280%2C877&quality=70&strip=all\" />Governador reeleito…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/tarcisio-2.jpeg?fit=300%2C206&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/tarcisio-diz-que-bolsonaro-sofre-mas-que-tempo-da-justica-e-virada-estao-proximos/",
       "source": "InfoMoney",
-      "published": 1791159180000
+      "published": 1791163429000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Eduardo Braide (PSD) é eleito governador do Maranhão em 1º turno",
-      "summary": "A vitória leva Braide ao comando do governo estadual após dois mandatos consecutivos à frente da capital maranhense \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/1200x800-17.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/maranhao-resultado-1-turno/",
+      "title": "21,07%: abstenção bate recorde no 1º turno e supera 33 milhões de eleitores",
+      "summary": "Foto: Foto Paulo Pinto/Agencia Brasil \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/pin0331-1.jpg?fit=1280%2C893&quality=70&strip=all\"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/pin0331-1.jpg?fit=300%2C209&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/2107-abstencao-bate-recorde-no-1o-turno-e-supera-33-milhoes-de-eleitores/",
       "source": "InfoMoney",
-      "published": 1791159130000
+      "published": 1791163390000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Elmano é reeleito governador do Ceará no 1º turno",
-      "summary": "Petista venceu Ciro Gomes (PSDB) na eleição cearense The post Elmano é reeleito governador do Ceará no 1º turno appeared first on InfoMoney .",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/1200x800-20.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/ceara-resultado-1-turno/",
+      "title": "Milei parabeniza Flávio e vê oportunidade de aproximação entre Brasil e Argentina",
+      "summary": "O presidente argentino, Javier Milei, gesticula ao lado do senador brasileiro Flávio Bolsonaro, que será anunciado como candidato às eleições presidenciais do Brasil,…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-25T161010Z_2094840813_RC24LMA5KFP7_RTRMADP_3_BRAZIL-POLITICS.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/milei-parabeniza-flavio-e-ve-oportunidade-de-aproximacao-entre-brasil-e-argentina/",
       "source": "InfoMoney",
-      "published": 1791159043000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Dr. Daniel vence no 1º turno e é eleito governador do Pará",
-      "summary": "Ex-prefeito disputou o cargo com a governadora Hana Ghassan The post Dr. Daniel vence no 1º turno e é eleito governador do Pará appeared first on InfoMoney .",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/para-1-turno.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/dr-daniel-vence-no-1o-turno-e-e-eleito-governador-do-para/",
-      "source": "InfoMoney",
-      "published": 1791158953000
+      "published": 1791163019000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Vasco realiza treino visando retorno da temporada",
-      "summary": "Vasco realiza treino visando retorno da temporada O post Vasco realiza treino visando retorno da temporada apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Vasc.webp",
-      "link": "https://www.gazetaesportiva.com/times/vasco/vasco-realiza-treino-visando-retorno-da-temporada/",
+      "title": "Mesa Redonda celebra trajetórias de Muller e Paulo Sérgio em programa especial",
+      "summary": "Mesa Redonda exibiu programa especial sobre Muller e Paulo Sérgio, campeões mundiais em 1994, com homenagens de nomes como Careca, Silas, Neto e Pintado. O post Mesa…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/mullerepsergio.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/mesa-redonda-muller-paulo-sergio-programa-especial/",
       "source": "Gazeta Esportiva",
-      "published": 1791159201000
+      "published": 1791169783000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Neymar vota com camisa do Santos, é cercado por fãs e brinca: “Bem tranquilo”",
-      "summary": "Neymar foi às urnas neste domingo, em Santos, vestindo uma camisa retrô do Peixe. O camisa 10 foi cercado por fãs, brincou com a movimentação no local e publicou…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/IMG_5258.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/neymar-vota-com-camisa-do-santos-e-cercado-por-fas-e-brinca-bem-tranquilo/",
+      "title": "Igor Paixão revela sonho de defender o Flamengo: “No momento certo, vai acontecer",
+      "summary": "Atacante do Olympique de Marselha, Igor Paixão revelou ter o sonho de defender as cores do Flamengo futuramente. Revelado pelo Coritiba, o jogador disse já ter tido…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260911__C836948__v1__HighRes__FblFraLigue1RennesMarseille.webp",
+      "link": "https://www.gazetaesportiva.com/times/flamengo/igor-paixao-revela-sonho-de-defender-o-flamengo-no-momento-certo-vai-acontecer/",
       "source": "Gazeta Esportiva",
-      "published": 1791158574000
+      "published": 1791166179000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Jogadores israelenses usam braçadeira preta em empate contra a Irlanda",
-      "summary": "Os jogadores da seleção de futebol de Israel usaram uma braçadeira preta no empate em 1 a 1 contra a Irlanda, neste domingo, para marcar o ataque de 7 de outubro de…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261004__D28A29T__v1__HighRes__FblEurNationsIreIsr.webp",
-      "link": "https://www.gazetaesportiva.com/futebol/jogadores-israelenses-usam-bracadeira-preta-em-empate-contra-a-irlanda/",
+      "title": "Rival do Brasil na Copa, Haiti perde da Costa Rica pela Liga das Nações da Concacaf",
+      "summary": "Na noite deste domingo, o Haiti, adversário do Brasil na fase de grupos da Copa do Mundo, acabou derrotado por 2 a 0 para a Costa Rica no Estádio Ricardo Saprissa Aymá.…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261005__D28H7U4__v1__HighRes__FblConcacafNationsCrcHai.webp",
+      "link": "https://www.gazetaesportiva.com/times/haiti/rival-do-brasil-na-copa-haiti-perde-da-costa-rica-pela-liga-das-nacoes-da-concacaf/",
       "source": "Gazeta Esportiva",
-      "published": 1791158269000
+      "published": 1791165244000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Bastidores da goleada do Brasil contra a Índia",
-      "summary": "Bastidores da goleada do Brasil contra a Índia O post Bastidores da goleada do Brasil contra a Índia apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Bastid.webp",
-      "link": "https://www.gazetaesportiva.com/times/brasil/bastidores-da-goleada-do-brasil-contra-a-india/",
+      "title": "“Foi muito positivo”, diz Claus sobre polêmica com Trump na Copa do Mundo",
+      "summary": "O árbitro brasileiro Raphael Claus relembrou a polêmica com Donald Trump envolvendo sua atuação na Copa do Mundo. O juiz destacou o apoio que recebeu de entidades do…",
+      "image": "https://static.gazetaesportiva.com/uploads/2025/02/53286055906_9b23c60787_o.webp",
+      "link": "https://www.gazetaesportiva.com/futebol/foi-muito-positivo-diz-claus-sobre-polemica-com-trump-na-copa-do-mundo/",
       "source": "Gazeta Esportiva",
-      "published": 1791156029000
+      "published": 1791162665000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Jorge Jesus abre as portas para retorno de Cristiano Ronaldo à seleção portuguesa",
-      "summary": "Após a vitória sobre a Noruega neste domingo, o técnico de Portugal, Jorge Jesus, voltou a comentar a situação de Cristiano Ronaldo, que deixou a concentração da seleção…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261004__D28B7KX__v1__HighRes__FblEurNationsPorNor.webp",
-      "link": "https://www.gazetaesportiva.com/times/portugal/jorge-jesus-abre-as-portas-para-retorno-de-cristiano-ronaldo-a-selecao-portuguesa/",
+      "title": "Neto lembra Brasileiro de 1990 com Paulo Sérgio pelo Corinthians",
+      "summary": "Neto lembra Brasileiro de 1990 com Paulo Sérgio pelo Corinthians O post Neto lembra Brasileiro de 1990 com Paulo Sérgio pelo Corinthians apareceu primeiro em Gazeta…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Neto.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/neto-lembra-brasileiro-de-1990-com-paulo-sergio-pelo-corinthians/",
       "source": "Gazeta Esportiva",
-      "published": 1791155095000
+      "published": 1791162355000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Netflix: lançamentos da semana (5 a 11 de outubro)",
+      "summary": "Entre as estreias desta semana na Netflix, estão o filme Sobrevivência e a série Profundezas; confira a lista de lançamentos O post Netflix: lançamentos da semana (5 a…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/10/05/cinema-e-streaming/netflix-lancamentos-da-semana-5-a-11-de-outubro/",
+      "source": "Olhar Digital",
+      "published": 1791183780000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "França x Bélgica: onde assistir, horário e escalações da Nations League",
+      "summary": "Confira onde assistir, horário e escalações prováveis de França x Bélgica; confronto vale pela quarta rodada da Nations League O post França x Bélgica: onde assistir,…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/10/05/internet-e-redes-sociais/franca-x-belgica-onde-assistir-horario-e-escalacoes-da-nations-league/",
+      "source": "Olhar Digital",
+      "published": 1791183600000
     },
     {
       "category": "tecnologia",
@@ -183,74 +203,54 @@
       "published": 1791147761000
     },
     {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "EUA e Rússia disputam corrida para levar reatores nucleares à Lua",
-      "summary": "NASA quer ter um reator pronto para ser lançado até dezembro de 2030; do outro lado, uma parceria entre Rússia e China trabalha com a meta de colocar seu próprio sistema…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/iStock-2225408464-1024x683.jpg",
-      "link": "https://olhardigital.com.br/2026/10/04/ciencia-e-espaco/eua-e-russia-disputam-corrida-para-levar-reatores-nucleares-a-lua/",
-      "source": "Olhar Digital",
-      "published": 1791144800000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Samsung Galaxy Fit3: smartwatch elegante por um preço que vale a pena conferir",
-      "summary": "Se você está de olho em um smartwatch confiável, com boa tela e design moderno, o Samsung Galaxy Fit3 é uma das melhores pedidas do mercado agora. O dispositivo chegou…",
-      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/04/reviews/samsung-galaxy-fit3-smartwatch-elegante-por-um-preco-que-vale-a-pena-conferir/",
-      "source": "Olhar Digital",
-      "published": 1791142800000
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Resultado das eleições 2026 em Assis Brasil (AC): votação para presidente na Escola Baixa Verde - (Divisão) 40 Km de Ramal, na 6ª zona eleitoral",
+      "summary": "Resultado das Eleições 2026 em ASSIS BRASIL (AC) Flavio Bolsonaro (PL) foi o candidato a presidente mais votado em Assis Brasil (AC), com 3.274 votos. Lula (PT) foi o…",
+      "image": "https://s2-g1.glbimg.com/7w12ioKBWCJs7tHKe_8RIINwK4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/z/5hNswWTj2bYFJAOlm1og/260916-info-como-consultar-zona-eleitoral-1.jpg",
+      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-assis-brasil-ac-votacao-para-presidente-na-escola-baixa-verde-divisao-40-km-de-ramal-na-6a-zona-eleitoral.ghtml",
+      "source": "g1",
+      "published": 1791185999000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Jerônimo Rodrigues (PT) está matematicamente reeleito governador da Bahia",
-      "summary": "Jerônimo Rodrigues (PT) está matematicamente reeleito governador da Bahia O g1 fará a cobertura dos principais acontecimentos da votação neste domingo (4), da…",
-      "image": "https://s2-g1.glbimg.com/YcLiCXKbbnObZOa5EfUoFLn_-UA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/3/UbAskzS7iAuuNOMP0TAQ/bav2.jpg",
-      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-bahia.ghtml",
+      "title": "Resultado das eleições 2026 em Capela do Alto Alegre (BA): votação para presidente no Municipal de Ipiraí, na 196ª zona eleitoral",
+      "summary": "Resultado das Eleições 2026 em CAPELA DO ALTO ALEGRE (BA) Lula (PT) foi o candidato a presidente mais votado em Capela do Alto Alegre (BA), com 5.263 votos. Flavio…",
+      "image": "https://s2-g1.glbimg.com/7w12ioKBWCJs7tHKe_8RIINwK4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/z/5hNswWTj2bYFJAOlm1og/260916-info-como-consultar-zona-eleitoral-1.jpg",
+      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-capela-do-alto-alegre-ba-votacao-para-presidente-no-municipal-de-ipirai-na-196a-zona-eleitoral.ghtml",
       "source": "g1",
-      "published": 1791159191000
+      "published": 1791185948000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Alan Rick (Republicanos) diz que deve buscar alianças após avançar ao 2º turno no Acre: 'Diálogo'",
-      "summary": "Alan Rick (Republicanos) é definido no 2º turno para o governo do Acre Júnior Andrade/Rede Amazônica Alan Rick (Republicanos) fez sua primeira declaração pública, na…",
-      "image": "https://s2-g1.glbimg.com/sKo_OE7Cs8OjzXsOj4_TYkrOPmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/t/8tVYYpR0erfenrkxQJcQ/befunky-collage-2026-10-04t191001.958.jpg",
-      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/04/alan-rick-republicanos-diz-que-deve-buscar-aliancas-apos-avancar-ao-2o-turno-no-acre-dialogo.ghtml",
+      "title": "Resultado das eleições 2026 em Estrela de Alagoas (AL): votação para presidente na Creche Cria, na 46ª zona eleitoral",
+      "summary": "Resultado das Eleições 2026 em ESTRELA DE ALAGOAS (AL) Lula (PT) foi o candidato a presidente mais votado em Estrela de Alagoas (AL), com 6.859 votos. Flavio Bolsonaro…",
+      "image": "https://s2-g1.glbimg.com/7w12ioKBWCJs7tHKe_8RIINwK4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/z/5hNswWTj2bYFJAOlm1og/260916-info-como-consultar-zona-eleitoral-1.jpg",
+      "link": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-estrela-de-alagoas-al-votacao-para-presidente-na-creche-cria-na-46a-zona-eleitoral.ghtml",
       "source": "g1",
-      "published": 1791159157000
+      "published": 1791185894000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Acompanhe em tempo real o resultado das eleições no Ceará",
-      "summary": "Acompanhe em tempo real o resultado das eleições no Ceará Portões dos colégios eleitorais fecharam às 17h deste domingo (4). Oito candidatos concorrem ao governo do…",
-      "image": "https://s2-g1.glbimg.com/FCaDRQxmrCto1aT4amAEGgt9y38=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/y/BtpfXuTcWQULE5NtVBCA/whatsapp-image-2026-10-04-at-14.47.16.jpeg",
-      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-ceara.ghtml",
+      "title": "Resultado das eleições 2026 em Manoel Urbano (AC): votação para presidente na Escola Menino Jesus, na 3ª zona eleitoral",
+      "summary": "Resultado das Eleições 2026 em MANOEL URBANO (AC) Flavio Bolsonaro (PL) foi o candidato a presidente mais votado em Manoel Urbano (AC), com 3.823 votos. Lula (PT) foi o…",
+      "image": "https://s2-g1.glbimg.com/7w12ioKBWCJs7tHKe_8RIINwK4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/z/5hNswWTj2bYFJAOlm1og/260916-info-como-consultar-zona-eleitoral-1.jpg",
+      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-manoel-urbano-ac-votacao-para-presidente-na-escola-menino-jesus-na-3a-zona-eleitoral.ghtml",
       "source": "g1",
-      "published": 1791159151000
+      "published": 1791185849000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Peça-chave na campanha de Flávio Bolsonaro, Fernanda tenta suavizar imagem do marido",
-      "summary": "O candidato Flávio Bolsonaro e sua esposa Fernanda no palco da convenção do PL que oficializou a candidatura do senador à Presidência Jean Carniel/Reuters Flávio…",
-      "image": "https://s2-g1.glbimg.com/tUUm1VsEB5wB6A3oliCPfFtf3eA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/C/FgRUMAQtmdsKlZrgkLXg/2026-07-25t172757z-1109877049-rc25lmarpvix-rtrmadp-3-brazil-politics.jpg",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/peca-chave-na-campanha-de-flavio-bolsonaro-fernanda-tenta-suavizar-imagem-do-marido.ghtml",
+      "title": "Resultado das eleições 2026 em Nova Brasilândia D'Oeste (RO): votação para presidente no Ana Carolina Dalla Costa - Escola Municipal, na 15ª zona eleitoral",
+      "summary": "Eleições 2026 - Resultado em Nova Brasilândia D'Oeste Flavio Bolsonaro (PL) foi o candidato a presidente mais votado em Nova Brasilândia D'Oeste (RO), com 7.601 votos.…",
+      "image": "https://s2-g1.glbimg.com/7w12ioKBWCJs7tHKe_8RIINwK4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/z/5hNswWTj2bYFJAOlm1og/260916-info-como-consultar-zona-eleitoral-1.jpg",
+      "link": "https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-nova-brasilandia-d-oeste-ro-votacao-para-presidente-no-ana-carolina-dalla-costa-escola-municipal-na-15a-zona-eleitoral.ghtml",
       "source": "g1",
-      "published": 1791159149000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Marcos Rogério (PL) fala em 'resultado histórico' para Rondônia no primeiro discurso após vitória",
-      "summary": "Marcos Rogério (PL) em coletiva após ser eleito governador de Rondônia Mateus Santos/g1 Em seu primeiro discurso após a vitória, realizado neste domingo (4), Marcos…",
-      "image": "https://s2-g1.glbimg.com/9ILrrovubkHs687VYpDgXR6mtBU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/J/6wF2GDToaQ3POfwymBmg/whatsapp-image-2026-10-04-at-19.30.21.jpeg",
-      "link": "https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/04/marcos-rogerio-discursa-apos-ser-eleito-governador.ghtml",
-      "source": "g1",
-      "published": 1791159120000
+      "published": 1791185710000
     }
   ]
 }
