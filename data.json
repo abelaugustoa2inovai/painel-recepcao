@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-10-06T17:38:03.029Z",
+  "updatedAt": "2026-10-06T22:02:26.406Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Homem é morto a tiros dentro de casa em Rio Preto",
+      "summary": "Delegacia seccional de Rio Preto Reprodução/Google Street View Um homem de 33 anos foi morto a tiros na tarde desta segunda-feira (5), no bairro Solidariedade, em São…",
+      "image": "https://s2-g1.glbimg.com/k7asLpzwnveuXu--m1VCzUGat-o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/9/2/cuxuuATSaMfg7hBw079w/delegacia-rio-preto.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/06/homem-e-morto-a-tiros-dentro-de-casa-em-rio-preto.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1791313977000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Chuvas fortes causam deslizamento de terra de barranco e lama 'invade' rodovia no interior de SP",
+      "summary": "Chuvas fortes causam deslizamento de terra e interdição de alça de rodovia de Rio Preto Portal CCM/Artesp As fortes chuvas provocaram o deslizamento de terra de um…",
+      "image": "https://s2-g1.glbimg.com/PmXkGET6dnqhSxsLKGRnLQ27Yag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/b/EWKU1MSSWOkChNWi0C5Q/g1-8-.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/06/chuvas-fortes-causam-deslizamento-de-terra-de-barranco-em-rodovia-no-interior-de-sp.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1791310534000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -33,224 +53,204 @@
       "published": 1791288096000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Médica que teve dentes quebrados ao ser espancada por namorado relata trauma: 'Foco era sobreviver'",
-      "summary": "Médica agredida em Santa Fé do Sul recebe alta e suspeito passa por custódia A recuperação de um grande trauma costuma ser lenta, mas ganha contornos ainda mais…",
-      "image": "https://s2-g1.glbimg.com/hKb77DissD4oLb8tDHqIrKp1jkY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/q/2TunGdRMA3AjS3LzTBMQ/g1-5-.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/06/medica-que-teve-dentes-quebrados-ao-ser-espancada-por-namorado-relata-trauma-foco-era-sobreviver.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1791282337000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Criança é picada por escorpião encontrado entre os brinquedos em sala de aula em escola",
-      "summary": "Criança é picada por escorpião encontrado entre os brinquedos em sala de aula em escola Um aluno do 1º ano de uma escola municipal em São José do Rio Preto (SP), foi…",
-      "image": "https://s2-g1.glbimg.com/KkNzbuDRI9kCyjTJv8taZglqwIM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/1/64H2WeSLG0fJjyFmCWOA/design-sem-nome-2025-09-09t190258.274.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/05/crianca-e-picada-por-escorpiao-encontrado-entre-os-brinquedos-em-sala-de-aula-em-escola.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1791237996000
-    },
-    {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Flávio Bolsonaro confirma ida a debates contra Lula no 2º turno",
-      "summary": "Senador Flávio Bolsonaro em Brasília 15 de janeiro de 2026 REUTERS/Adriano Machado \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-11T200624Z_1_LYNXMPEM7A1GS_RTROPTP_4_BRAZIL-BOLSONARO.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-confirma-ida-a-debates-contra-lula-no-2o-turno/",
+      "title": "Aneel adia decisão sobre caducidade da Enel São Paulo por pedido da vista",
+      "summary": "Enel pode sofrer intervenção federal (Foto: Flavio Lo Scalzo/Reuters) \" data-image-caption=\" (Foto: Flavio Lo Scalzo/Reuters) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/11/2023-11-22T112308Z_1_LYNXMPEJAL0CG_RTROPTP_3_OPEN-FIBER-M-A-ENEL-CDP.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/brasil/aneel-adia-decisao-sobre-caducidade-da-enel-sao-paulo-por-pedido-da-vista/",
       "source": "InfoMoney",
-      "published": 1791307968000
+      "published": 1791321248000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "ETF de Brasil em NY capta US$ 700 milhões em um dia, maior valor da história",
-      "summary": "(Foto: Lukas Souza/Unsplash) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/lukas-souza-u8Usmbfq1Z0-unsplash-e1791306983948.jpg?fit=683%2C1024…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/lukas-souza-u8Usmbfq1Z0-unsplash-e1791306983948.jpg?fit=200%2C300&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/onde-investir/etf-de-brasil-em-ny-capta-us-700-milhoes-em-um-dia-maior-valor-da-historia/",
+      "title": "S&P 500 e Nasdaq batem recordes de fechamento, com foco voltado para balanços",
+      "summary": "(Foto: bfishadow/Wikimedia Commons) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/06/NASDAQ_stock_market_display.jpg?fit=1280%2C853&quality=70&s…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/NASDAQ_stock_market_display.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/sp-500-e-nasdaq-batem-recordes-de-fechamento-com-foco-voltado-para-balancos/",
       "source": "InfoMoney",
-      "published": 1791307103000
+      "published": 1791320260000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "JPMorgan rebaixa Banco do Brasil para venda e eleva Bradesco após rali; ações reagem",
+      "title": "Líderes de setor de seguros estão divididos sobre responsabilidade por riscos da IA",
+      "summary": "Infraestrutura digital protegida representa segurança, confiança e resiliência das grandes empresas de software diante do avanço da inteligência artificial. \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/491e5cdc-0b61-42ed-8be1-866d8de6c2e9.jpg?fit=300%2C169&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/business/lideres-de-setor-de-seguros-estao-divididos-sobre-responsabilidade-por-riscos-da-ia/",
+      "source": "InfoMoney",
+      "published": 1791319904000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Aena assume gestão do Aeroporto Internacional do Galeão",
+      "summary": "Aeroporto Internacional Tom Jobim – Galeão, no Rio de Janeiro (RJ) (Foto: Fernando Frazão/Agência Brasil) \" data-image-caption=\" Aeroporto Internacional Tom Jobim –…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/galeao-aeroporto.jpg?fit=300%2C197&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/aena-assume-gestao-do-aeroporto-internacional-do-galeao/",
+      "source": "InfoMoney",
+      "published": 1791319630000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "JPMorgan rebaixa BB para venda e eleva Bradesco; BBAS3 desaba 6% e BBDC4 sobe 4%",
       "summary": "(Foto: REUTERS/Adriano Machado/Foto de arquivo) \"…",
       "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/Captura-de-tela-2025-05-16-083653.png?fit=300%2C199&quality=70&strip=all",
       "link": "https://www.infomoney.com.br/mercados/bbas3-bbdc4-jpmorgan-rebaixa-banco-do-brasil-para-venda-e-eleva-bradesco-a-compra-apos-rali-acoes-reagem/",
       "source": "InfoMoney",
-      "published": 1791306780000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Petrobras (PETR4) e PRIO (PRIO3) recuam com petróleo, após altas da véspera",
-      "summary": "(Foto: Pedro Teixeira/Agência Brasil) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/05/petrobras-agencia-brasil.webp?fit=1024%2C614&quality=70&s…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/petrobras-agencia-brasil.webp?fit=300%2C180&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/petr3-petr4-petroleiras-petroleo-desempenho-06102026/",
-      "source": "InfoMoney",
-      "published": 1791306130000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Rali de bancos e financeiras muda preferências: quais ações podem subir ainda mais?",
-      "summary": "Amanda Garcia/Imagem gerada com auxílio de IA \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/bancos-eleicoes-relatorios.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/bbas3-bbdc4-rali-de-bancos-e-financeiras-muda-preferencias-quais-acoes-ainda-podem-subir-mais/",
-      "source": "InfoMoney",
-      "published": 1791306000000
+      "published": 1791319391000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Jannik Sinner, número 1 do tênis, encerra temporada devido a lesão no joelho",
-      "summary": "O número 1 do mundo, Jannik Sinner, anunciou o fim de sua temporada de 2026 devido a uma lesão no joelho direito. Ausente das quadras desde o título de Wimbledon, o…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261006__D2CE9NQ__v1__HighRes__FilesTennisItaSinner.webp",
-      "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/jannik-sinner-numero-1-do-tenis-encerra-temporada-devido-a-lesao-no-joelho/",
+      "title": "Celeiro de talentos, São Silvestrinha abre inscrições para edição de 2026; saiba detalhes",
+      "summary": "A tradicional São Silvestrinha, celeiro de talentos no atletismo brasileiro, terá sua 30ª edição disputada em 2026. Com crianças e jovens entre quatro e 17 anos, a…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Captura-de-tela-2026-10-06-173208.webp",
+      "link": "https://www.gazetaesportiva.com/sao-silvestre-conteudo/celeiro-de-talentos-sao-silvestrinha-abre-inscricoes-para-edicao-de-2026-saiba-detalhes/",
       "source": "Gazeta Esportiva",
-      "published": 1791307928000
+      "published": 1791321489000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Alcaraz é campeão do ATP 500 de Tóquio, seu primeiro título após lesão no punho",
-      "summary": "Carlos Alcaraz conquistou nesta terça-feira o título do ATP 500 de Tóquio ao derrotar Jiri Lehecka por 2 sets a 0. O troféu marca o primeiro título do espanhol desde a…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261006__D2D69RZ__v1__HighRes__TennisAtpJpn.webp",
-      "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/alcaraz-conquista-atp-de-toquio-e-volta-a-vencer-apos-lesao/",
+      "title": "CR7 vê “quebra de confiança de Jesus”, mas se diz à disposição para voltar à seleção",
+      "summary": "Cristiano Ronaldo afirmou que continua disponível para defender Portugal e pediu desculpas por ter deixado a concentração da seleção durante a última data FIFA. O…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20260930__C9V4963__v2__HighRes.webp",
+      "link": "https://www.gazetaesportiva.com/times/portugal/cr7-ve-quebra-de-confianca-de-jesus-mas-se-diz-a-disposicao-para-voltar-a-selecao/",
       "source": "Gazeta Esportiva",
-      "published": 1791306716000
+      "published": 1791320812000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Veja fotos do treino do Palmeiras desta terça-feira",
-      "summary": "Reforçado pelo trio paraguaio e pelas Crias da Academia que estavam na Seleção Brasileira sub-20, o Palmeiras treinou nesta terça. Veja fotos. O post Veja fotos do…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/06102026_cg_palmeiras_4531_22.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-treino-do-palmeiras-desta-terca-feira-06-10-2026/",
+      "title": "Com joias de Palmeiras e Santos, Seleção Sub-15 é convocada para Copa do Mundo",
+      "summary": "Palmeiras e Santos têm jogadores convocados para a Seleção Brasileira Sub-15, que disputará a Copa do Mundo e Festival da categoria, em outubro, no Azerbaijão. O post…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Isaac-Miranda-DivulgacaoCBF-2.jpg.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/com-joias-de-palmeiras-e-santos-selecao-sub-15-e-convocada-para-copa-do-mundo/",
       "source": "Gazeta Esportiva",
-      "published": 1791306684000
+      "published": 1791320663000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Aos 39 anos, Djokovic conquista 102º título da carreira no ATP 500 de Pequim",
-      "summary": "Novak Djokovic conquistou o ATP 500 de Pequim pela sétima vez ao vencer Alex de Minaur na final, encerrada após o australiano abandonar a partida por lesão no início do…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261006__D2E29CX__v1__HighRes__TennisChnOpen.webp",
-      "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/aos-39-anos-djokovic-conquista-102o-titulo-da-carreira-no-atp-500-de-pequim/",
+      "title": "Espanha vira contra a Croácia e garante classificação na Liga das Nações",
+      "summary": "A Espanha venceu a Croácia por 2 a 1, de virada, nesta terça-feira, em Split, e garantiu vaga na próxima fase da Liga das Nações. Mikel Merino foi o destaque ao marcar…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261006__D2FB7KP__v1__HighRes__FblEurNationsCroEsp.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/uefa-nations-league/espanha-vira-contra-a-croacia-e-garante-classificacao-na-liga-das-nacoes/",
       "source": "Gazeta Esportiva",
-      "published": 1791306662000
+      "published": 1791320528000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Paraguaios se reapresentam, e Palmeiras faz penúltimo treino antes de encarar o Bahia",
-      "summary": "Reforçado pelo trio do Paraguai, que se reapresentou na Academia de Futebol após a disputa de amistosos durante a data Fifa, o Palmeiras treinou na manhã desta…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/06102026_cg_palmeiras_4795_40.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/paraguaios-se-reapresentam-palmeiras-treino-bahia/",
+      "title": "São Paulo encontra alternativa para manter patrocínio com bet após proibição",
+      "summary": "O São Paulo adotará a marca Superscore na camisa para manter a parceria com a Superbet após a medida provisória que proibiu as casas de apostas online no Brasil. Como a…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55510567429_19d36ca8d3_o.webp",
+      "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-superscore-superbet-patrocinio-apostas-proibicao/",
       "source": "Gazeta Esportiva",
-      "published": 1791306269000
+      "published": 1791320265000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Echo Dot em várias cores: escolha o seu smart speaker com Alexa",
-      "summary": "Se você quer trazer mais praticidade e inteligência para o dia a dia, os smart speakers com Alexa são uma ótima pedida. Separamos três opções do Echo Dot — todas com…",
-      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/06/reviews/echo-dot-em-varias-cores-escolha-o-seu-smart-speaker-com-alexa-3/",
+      "title": "Anomalia que enfraquece o campo magnético da Terra sobre o Brasil “rachou” em duas?",
+      "summary": "A anomalia do campo magnético da Terra sobre o Brasil ganha segundo núcleo e acende o alerta para operações de satélites e GPS O post Anomalia que enfraquece o campo…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Anomalia-Magntica-do-Atlntico-Sul-1024x670.jpg",
+      "link": "https://olhardigital.com.br/2026/10/06/ciencia-e-espaco/anomalia-que-enfraquece-o-campo-magnetico-da-terra-sobre-o-brasil-rachou-em-duas/",
       "source": "Olhar Digital",
-      "published": 1791306000000
+      "published": 1791319659000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Som que transforma qualquer sala: selecionamos soundbars incríveis em promoção na Amazon",
-      "summary": "Se você ainda assiste filmes e séries com o áudio da TV, está perdendo muito da experiência. As soundbars chegaram para mudar esse cenário, entregando qualidade de som…",
-      "image": "https://m.media-amazon.com/images/I/21mcnu9wQEL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/06/reviews/som-que-transforma-qualquer-sala-selecionamos-soundbars-incriveis-em-promocao-na-amazon/",
+      "title": "Paramount e Warner Bros. vão cortar empregos após fusão",
+      "summary": "Em memorando, o presidente e CEO da Skydance e o co-CEO reconheceram que a união das duas empresas envolverá “decisões difíceis” que terão impacto sobre os trabalhadores…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/paramount-warner-bros-scaled-1-1024x576.jpg",
+      "link": "https://olhardigital.com.br/2026/10/06/pro/paramount-e-warner-bros-vao-cortar-empregos-apos-fusao/",
       "source": "Olhar Digital",
-      "published": 1791304800000
+      "published": 1791316160000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Estrela morta pode estar devorando planeta feito de seus próprios restos",
-      "summary": "Estrela morta pode estar perdendo material de um planeta gigante, em um caso que pode revelar como novos mundos se formam O post Estrela morta pode estar devorando…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/ana-branca-1024x576.jpg",
-      "link": "https://olhardigital.com.br/2026/10/06/ciencia-e-espaco/estrela-morta-pode-estar-devorando-planeta-feito-de-seus-proprios-restos/",
+      "title": "Samsung Galaxy Fit3: smartwatch estiloso em promoção na Amazon",
+      "summary": "Se você está pensando em investir em um smartwatch que une design moderno e funcionalidade, o Samsung Galaxy Fit3 é uma ótima pedida — e está em oferta na Amazon.…",
+      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/06/reviews/samsung-galaxy-fit3-smartwatch-estiloso-em-promocao-na-amazon/",
       "source": "Olhar Digital",
-      "published": 1791304770000
+      "published": 1791315600000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Curtir no volume máximo ficou mais fácil: caixas de som Bluetooth em promoção na Amazon",
-      "summary": "Seja para animar uma festa, acompanhar uma trilha ou relaxar na praia, uma boa caixa de som Bluetooth faz toda a diferença. Separamos três opções que estão em destaque…",
-      "image": "https://m.media-amazon.com/images/I/41-SWcb+ecL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/06/reviews/curtir-no-volume-maximo-ficou-mais-facil-caixas-de-som-bluetooth-em-promocao-na-amazon/",
+      "title": "De The Witcher a Dark Souls: veja uma seleção de jogos Xbox que estão em oferta na Amazon",
+      "summary": "O catálogo do Xbox tem títulos para todos os gostos, e a Amazon reuniu uma seleção de jogos imperdíveis com ótimas condições. Se você quer expandir sua biblioteca com…",
+      "image": "https://m.media-amazon.com/images/I/514w5tk0q3L._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/06/reviews/de-the-witcher-a-dark-souls-veja-uma-selecao-de-jogos-xbox-que-estao-em-oferta-na-amazon/",
       "source": "Olhar Digital",
-      "published": 1791303600000
+      "published": 1791314400000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Quer melhorar sua experiência nos games? Confira headsets gamer em promoção na Amazon",
-      "summary": "Seja para competir online, mergulhar em narrativas imersivas ou simplesmente curtir uma partida com mais qualidade de áudio, um bom headset gamer faz toda a diferença.…",
-      "image": "https://m.media-amazon.com/images/I/41j1S82Wg8L._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/06/reviews/quer-melhorar-sua-experiencia-nos-games-confira-headsets-gamer-em-promocao-na-amazon-4/",
-      "source": "Olhar Digital",
-      "published": 1791302400000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Flávio Bolsonaro diz que vai a debates no segundo turno, após Lula também sinalizar presença",
-      "summary": "O candidato a presidente e senador Flávio Bolsonaro ( PL -RJ) afirmou, nesta terça-feira (6), que vai comparecer a debates no segundo turno, após não ter participado na…",
+      "title": "O mistério do genoma obscuro. Ele representa 80% do nosso DNA",
+      "summary": "Regiões do genoma tratadas como irrelevantes por décadas voltam ao centro da pesquisa — mas cientistas alertam que o quebra-cabeça está longe do fim O post O mistério do…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-vai-a-debates-no-segundo-turno-apos-lula-tambem-sinalizar-presenca.shtml",
+      "link": "https://olhardigital.com.br/2026/10/06/ciencia-e-espaco/o-misterio-do-genoma-obscuro-ele-representa-80-do-nosso-dna/",
+      "source": "Olhar Digital",
+      "published": 1791314385000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Primeira sessão da Assembleia Legislativa de Roraima após as eleições é cancelada",
+      "summary": "Palácio Augusto Antônio Martins, sede da Assembleia Legislativa de Roraima Eduardo Andrade A primeira sessão ordinária após as eleições da Assembleia Legislativa de…",
+      "image": "https://s2-g1.glbimg.com/Plbqy_qeal2ydC0vG-mWkt6kBmE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/i/P/hBAWo5SJactDZLWuW3rw/foto-7-2-.jpg",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/10/06/primeira-sessao-da-assembleia-legislativa-de-roraima-apos-as-eleicoes-nao-e-realizada.ghtml",
+      "source": "g1",
+      "published": 1791323876000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "EPTV 2 Campinas ao vivo",
+      "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+      "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+      "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
+      "source": "g1",
+      "published": 1791323801000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Assista ao Jornal Vanguarda ao vivo no g1",
+      "summary": "Assista ao Jornal Vanguarda ao vivo no g1 Assista diariamente aos telejornais da emissora no g1. De segunda a sexta-feira, assista ao Bom Dia Vanguarda, Link Vanguarda e…",
+      "image": "https://s2-g1.glbimg.com/JUlrL8xbxN4SRa6eMbFfPbSqi4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/R/SdP4NhSuG9lQDEyOl9pg/texto-do-seu-paragrafo-21-.png",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/assista-ao-jornal-vanguarda-ao-vivo-no-g1.ghtml",
+      "source": "g1",
+      "published": 1791323780000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Lula teve 126 decisões favoráveis no TSE em 8 meses de campanha",
+      "summary": "A campanha do presidente Lula ( PT ) obteve 126 decisões favoráveis no TSE (Tribunal Superior Eleitoral) ao longo dos oito meses de disputa pelo primeiro turno das…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/lula-teve-126-decisoes-favoraveis-no-tse-em-8-meses-de-campanha.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1791307980000
+      "published": 1791323760000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Resultado das eleições 2026 em Remígio (PB): votação para presidente na Escola Municipal Prof.ª Gercina Eloy Freire, na 67ª zona eleitoral",
-      "summary": "Resultado das Eleições 2026 em REMÍGIO (PB) Lula (PT) foi o candidato a presidente mais votado em Remígio (PB), com 8.385 votos. Flavio Bolsonaro (PL) foi o segundo mais…",
-      "image": "https://s2-g1.glbimg.com/7w12ioKBWCJs7tHKe_8RIINwK4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/z/5hNswWTj2bYFJAOlm1og/260916-info-como-consultar-zona-eleitoral-1.jpg",
-      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-remigio-pb-votacao-para-presidente-na-escola-municipal-prof-a-gercina-eloy-freire-na-67a-zona-eleitoral.ghtml",
+      "title": "Siga o EPTV 2 Ribeirão e Franca",
+      "summary": "Siga o EPTV 2 Ribeirão e Franca Acompanhe as notícias desta terça-feira (6).",
+      "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv-2-ribeirao-e-franca-ao-vivo.ghtml",
       "source": "g1",
-      "published": 1791307878000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Resultado das eleições 2026 em Tobias Barreto (SE): votação para presidente no Centro Comunitário Antônio José Fontes, na 23ª zona eleitoral",
-      "summary": "Resultado das Eleições 2026 em TOBIAS BARRETO (SE) Lula (PT) foi o candidato a presidente mais votado em Tobias Barreto (SE), com 21.687 votos. Flavio Bolsonaro (PL) foi…",
-      "image": "https://s2-g1.glbimg.com/7w12ioKBWCJs7tHKe_8RIINwK4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/z/5hNswWTj2bYFJAOlm1og/260916-info-como-consultar-zona-eleitoral-1.jpg",
-      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tobias-barreto-se-votacao-para-presidente-no-centro-comunitario-antonio-jose-fontes-na-23a-zona-eleitoral.ghtml",
-      "source": "g1",
-      "published": 1791307873000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Resultado das eleições 2026 em Caridade do Piauí (PI): votação para presidente no Sala da Cidadania, na 56ª zona eleitoral",
-      "summary": "Resultado das Eleições 2026 em CARIDADE DO PIAUÍ (PI) Lula (PT) foi o candidato a presidente mais votado em Caridade do Piauí (PI), com 3.235 votos. Flavio Bolsonaro…",
-      "image": "https://s2-g1.glbimg.com/7w12ioKBWCJs7tHKe_8RIINwK4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/z/5hNswWTj2bYFJAOlm1og/260916-info-como-consultar-zona-eleitoral-1.jpg",
-      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-caridade-do-piaui-pi-votacao-para-presidente-no-sala-da-cidadania-na-56a-zona-eleitoral.ghtml",
-      "source": "g1",
-      "published": 1791307869000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Resultado das eleições 2026 em Terra Nova (PE): como foi a votação nos locais de votação da 78ª Zona Eleitoral",
-      "summary": "A 78ª zona eleitoral de Terra Nova (PE) tem 7 locais de votação. O g1 publicou reportagens com a votação para presidente em cada um deles, no 1º turno das Eleições 2026,…",
-      "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg",
-      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-terra-nova-pe-como-foi-a-votacao-nos-locais-de-votacao-da-78a-zona-eleitoral.ghtml",
-      "source": "g1",
-      "published": 1791307868000
+      "published": 1791323727000
     }
   ]
 }
