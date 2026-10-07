@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-07T03:24:56.638Z",
+  "updatedAt": "2026-10-07T10:43:06.569Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Mulheres são maioria entre mesários nos maiores colégios eleitorais do noroeste de SP",
+      "summary": "Justiça Eleitoral destaca atuação de mesários voluntários e convocados nas eleições As mulheres são maioria entre os mais de 6 mil mesários que atuam em São José do Rio…",
+      "image": "https://s2-g1.glbimg.com/es6zFytfnaiuYQCWC8a55M7P8KE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/q/20lavpSniqF7PxufyFCg/toms7757.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/eleicoes/2026/noticia/2026/10/07/mulheres-sao-maioria-entre-mesarios-nos-maiores-colegios-eleitorais-do-noroeste-de-sp.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1791368869000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -43,114 +53,144 @@
       "published": 1791310534000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "VÍDEO: incêndio atinge fábrica de pneus e espalha 'nuvem' preta de fumaça em Catanduva, SP",
-      "summary": "Incêndio atinge fábrica de reaproveitamento de pneus em Catanduva r Um incêndio de grandes proporções atingiu uma fábrica de reaproveitamento de pneus e formou uma nuvem…",
-      "image": "https://s2-g1.glbimg.com/YUsbvASfcGXAvG5XKwgpcfAwVg8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/a/A8V1qQSOmUtAPU86Q3ZQ/foto-g1-2026-10-06t102959.765.png",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/06/video-incendio-atinge-fabrica-de-pneus-e-espalha-nuvem-preta-de-fumaca-em-catanduva.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1791293616000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Aneel adia discussão sobre fim de contrato com a Enel em São Paulo",
+      "summary": "A Agência Nacional de Energia Elétrica (Aneel) adiou julgamento sobre a suspensão do contrato de concessão com a Enel SP , para distribuição na região metropolitana de…",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/aneel-adia-discussao-sobre-fim-de-contrato-com-enel-em-sao-paulo",
+      "source": "Feed Editoria",
+      "published": 1791369480000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Flávio Bolsonaro: Estou esperançoso com retaguarda de lideranças comigo como Tarcísio",
-      "summary": "Brazilian presidential candidate Flavio Bolsonaro of the Liberal Party (PL) joins hands with Sao Paulo Gov. Tarcisio de Freitas at a rally on Independence Day at…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/tarcisio-freitas-flavio-bolsonaro-paulista-eleicoes-01.jpg?fit=300%2C191&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-estou-esperancoso-com-retaguarda-de-liderancas-comigo-como-tarcisio/",
+      "title": "Estrangeiros trouxeram R$ 10 bilhões para Bolsa apenas no “Flávio Day”",
+      "summary": "Pessoas observam o painel de ações no Espaço B3 (Foto: Divulgação) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/EspacoB3_04.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/estrangeiros-trouxeram-r-10-bilhoes-para-bolsa-apenas-no-flavio-day/",
       "source": "InfoMoney",
-      "published": 1791334557000
+      "published": 1791368701000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Dia de Sorte: confira o resultado do concurso 1316 sorteado nesta terça-feira (6)",
-      "summary": "Loteria Dia de Sorte, da Caixa Econômica (Foto: Divulgação) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1316-sorteado-nesta-terca-feira-6/",
-      "source": "InfoMoney",
-      "published": 1791332277000
+      "title": "ANP espera leiloar mais de 320 blocos de petróleo nesta quarta",
+      "summary": "Dois leilões da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) vão colocar em disputa 326 blocos de exploração e produção de petróleo e gás natural…",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/anp-espera-leiloar-mais-de-320-blocos-de-petroleo-nesta-quarta",
+      "source": "Feed Editoria",
+      "published": 1791368400000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Quina hoje, concurso 7136: confira o resultado sorteado nesta terça (6)",
-      "summary": "(Divulgação) \" data-image-caption=\" (Divulgação) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/quina-caixa-divulgacao.png?fit=300%2C158&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7136-confira-o-resultado-sorteado-nesta-terca-6/",
+      "title": "Minidólar (WDOX26): pontos-chave para operar nesta quarta-feira",
+      "summary": "Saiba o que esperar para o minidólar nesta quarta (07) The post Minidólar (WDOX26): pontos-chave para operar nesta quarta-feira appeared first on InfoMoney .",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/WDOX26-15-MINUTOS-07.10.2026.png?fit=300%2C137&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-07102026/",
       "source": "InfoMoney",
-      "published": 1791331853000
+      "published": 1791367920000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Lotofácil hoje: confira o resultado do concurso 3798 sorteado nesta terça (6)",
-      "summary": "Lotofácil da Independência é um sorteio especial da Lotofácil, realizado em setembro. Foto: Marcelo Camargo/Agência Brasil \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorteio-lotofacil.webp?fit=300%2C225&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-confira-o-resultado-do-concurso-3798-sorteado-nesta-terca-6/",
+      "title": "Petrobras, Bradesco, Raízen, Padtec e mais ações para acompanhar nesta 4ª",
+      "summary": "Magda Chambriard, presidente da Petrobras, participa da cerimônia de abertura do ROG.e, o maior evento de petróleo e gás do Brasil, no Rio de Janeiro, em 21 de setembro…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Captura-de-tela-2026-10-02-165424.png?fit=300%2C206&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/petrobras-bradesco-raizen-padtec-e-mais-acoes-para-acompanhar-nesta-4a/",
       "source": "InfoMoney",
-      "published": 1791331688000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Mega-Sena hoje, concurso 3067: Confira o resultado sorteado nesta terça-feira (6)",
-      "summary": "(Foto: Rafa Neddermeyer/Agência Brasil) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/20230622_182658.jpg?fit=300%2C179&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3067-confira-o-resultado-sorteado-nesta-terca-feira-6/",
-      "source": "InfoMoney",
-      "published": 1791331441000
+      "published": 1791367677000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Caras novas dos EUA correspondem contra o Canadá e fecham data Fifa perfeita",
-      "summary": "Apoiados em seus novos talentos, os Estados Unidos fecharam nesta terça-feira uma data Fifa perfeita, com uma vitória por 1 a 0 sobre o Canadá, no Allianz Field, em St.…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261007__2298979985__v1__HighRes__UnitedStatesVCanadaInternationalFriendly.webp",
-      "link": "https://www.gazetaesportiva.com/times/estados-unidos/caras-novas-dos-eua-correspondem-contra-o-canada-e-fecham-data-fifa-perfeita/",
+      "title": "Gabigol reencontra Flamengo como líder ofensivo do Santos; veja números",
+      "summary": "Gabigol reencontra o Flamengo em grande fase pelo Santos. O atacante soma 23 gols em 2026 e chega ao duelo após marcar seis vezes nos últimos cinco jogos. O post Gabigol…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/02/gabigol-santos-210226.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/gabigol-reencontra-flamengo-como-lider-ofensivo-do-santos-veja-numeros/",
       "source": "Gazeta Esportiva",
-      "published": 1791342213000
+      "published": 1791367231000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Com Arias titular, Colômbia vence Peru e ganha a primeira na data Fifa",
-      "summary": "Titular da Colômbia, Jhon Arias participou da vitória por 2 a 0 sobre o Peru, em amistoso disputado nos Estados Unidos. O post Com Arias titular, Colômbia vence Peru e…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/imagem_2026-10-06_234617908.webp",
-      "link": "https://www.gazetaesportiva.com/times/colombia/com-arias-titular-colombia-vence-peru-e-ganha-a-primeira-na-data-fifa/",
+      "title": "Em jejum no Beira-Rio, Corinthians tenta evitar série inédita na era dos pontos corridos",
+      "summary": "O Corinthians visita o Internacional nesta quarta-feira pressionado por dois retrospectos negativos. Além de não vencer no Beira-Rio desde 2016, o Timão acumula seis…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/247077.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-jejum-beira-rio-sequencia-derrotas-brasileirao/",
       "source": "Gazeta Esportiva",
-      "published": 1791341586000
+      "published": 1791367229000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Messi se emociona ao lembrar do pai e dá adeus à seleção: “Dor muito grande”",
-      "summary": "Lionel Messi se despediu oficialmente da seleção argentina após a vitória sobre Benin, nesta terça-feira. Depois de mais de duas décadas defendendo as cores do país, o…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261007__D2FK9FU__v1__HighRes__FblFriendlyArgBen.webp",
-      "link": "https://www.gazetaesportiva.com/times/argentina/messi-se-emociona-ao-lembrar-do-pai-e-da-adeus-a-selecao-dor-muito-grande/",
+      "title": "Sem Rafael, Coronel deve ganhar nova chance de mostrar serviço no São Paulo",
+      "summary": "Carlos Coronel terá uma nova chance de mostrar serviço no gol do São Paulo. Em meio à ausência de Rafael, o goleiro deve ser titular na partida contra o Cruzeiro, nesta…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55565883493_d667ededbf_o.webp",
+      "link": "https://www.gazetaesportiva.com/times/sao-paulo/contra-o-cruzeiro-coronel-deve-ganhar-nova-chance-de-mostrar-servico-no-sao-paulo/",
       "source": "Gazeta Esportiva",
-      "published": 1791340944000
+      "published": 1791367211000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Com golaço, Juventude vence a Ponte Preta e dorme líder da Série B",
-      "summary": "O Juventude venceu a Ponte Preta por 2 a 0, chegou aos 59 pontos e assumiu a liderança provisória da Série B do Campeonato Brasileiro. O post Com golaço, Juventude vence…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/imagem_2026-10-06_234929520.webp",
-      "link": "https://www.gazetaesportiva.com/times/juventude/com-golaco-juventude-vence-a-ponte-preta-e-dorme-lider-da-serie-b/",
+      "title": "Palmeiras tem lista de pendurados contra o Bahia e liga alerta antes do Derby",
+      "summary": "O Palmeiras volta a campo nesta quinta-feira para enfrentar o Bahia, pela 29ª rodada do Campeonato Brasileiro, em duelo que marca a retomada da equipe após a data Fifa.…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/06102026_cg_palmeiras_4803_41.webp",
+      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-pendurados-bahia-risco-derby/",
       "source": "Gazeta Esportiva",
-      "published": 1791340846000
+      "published": 1791367204000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Marcelo Portugal Gouvêa lança candidatura à presidência do São Paulo: “Maior missão da minha vida”",
-      "summary": "Marcelo Marcucci Portugal Gouvêa lançou oficialmente sua candidatura à presidência do São Paulo em evento realizado na noite desta terça-feira, nos Jardins, na capital…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/WhatsApp-Image-2026-10-06-at-22.33.42-1.webp",
-      "link": "https://www.gazetaesportiva.com/times/sao-paulo/marcelo-portugal-gouvea-candidatura-a-presidencia-sao-paulo-missao-da-vida/",
+      "title": "SAF, gastos com futebol e mais: candidato à presidência detalha planos de gestão no São Paulo",
+      "summary": "Marcelo Marcucci Portugal Gouvêa oficializou sua candidatura à presidência do São Paulo em evento realizado na noite da última terça-feira, nos Jardins. O conselheiro…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/WhatsApp-Image-2026-10-07-at-00.16.39.webp",
+      "link": "https://www.gazetaesportiva.com/times/sao-paulo/saf-futebol-marcelo-portugal-gouvea-sao-paulo/",
       "source": "Gazeta Esportiva",
-      "published": 1791339336000
+      "published": 1791360018000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Resumo do OD: Prêmio Nobel; explosões solares; futuro da NASA",
+      "summary": "E mais: a Anthropic ampliou o acesso de profissionais de cibersegurança aos seus modelos de inteligência artificial (IA) mais avançados O post Resumo do OD: Prêmio…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/Oct-6-26-Sun-activity-M-flares.-ezgif.com-video-to-webp-converter.webp",
+      "link": "https://olhardigital.com.br/2026/10/07/pro/resumo-do-od-premio-nobel-explosoes-solares-futuro-da-nasa/",
+      "source": "Olhar Digital",
+      "published": 1791364074000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Cruzeiro x São Paulo: onde assistir, horário e escalações do jogo do Brasileirão",
+      "summary": "Confira onde assistir, horário e prováveis escalações de Cruzeiro e São Paulo; duelo é válido pela 29ª rodada do Brasileirão O post Cruzeiro x São Paulo: onde assistir,…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/10/07/internet-e-redes-sociais/cruzeiro-x-sao-paulo-onde-assistir-ao-jogo-do-brasileirao-2026/",
+      "source": "Olhar Digital",
+      "published": 1791361800000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Botafogo x Vasco da Gama: onde assistir, horário e escalações do jogo do Brasileirão",
+      "summary": "Confira onde assistir, horário e prováveis escalações de Botafogo e Vasco; duelo é válido pela 29ª rodada do Brasileirão O post Botafogo x Vasco da Gama: onde assistir,…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/10/07/internet-e-redes-sociais/botafogo-x-vasco-onde-assistir-ao-jogo-do-brasileirao-2026/",
+      "source": "Olhar Digital",
+      "published": 1791360600000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Internacional x Corinthians: onde assistir, horário e escalações do jogo do Brasileirão",
+      "summary": "Confira onde assistir, horário e prováveis escalações de Internacional e Corinthians; duelo é válido pela 29ª rodada do Brasileirão O post Internacional x Corinthians:…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/10/07/internet-e-redes-sociais/internacional-x-corinthians-onde-assistir-ao-jogo-do-brasileirao-2026/",
+      "source": "Olhar Digital",
+      "published": 1791360000000
     },
     {
       "category": "tecnologia",
@@ -163,94 +203,54 @@
       "published": 1791337106000
     },
     {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Anthropic libera IA mais poderosa para equipes que caçam falhas antes de hackers",
-      "summary": "Decisão ocorre depois de iniciativa anterior, a Project Glasswing, que ajudou parceiros a encontrar pelo menos 129 mil vulnerabilidades de software verificadas entre…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/anthropic-e1789230420387-1024x577.jpg",
-      "link": "https://olhardigital.com.br/2026/10/06/inteligencia-artificial/anthropic-libera-ia-mais-poderosa-para-equipes-que-cacam-falhas-antes-de-hackers/",
-      "source": "Olhar Digital",
-      "published": 1791336030000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Fala AI: Nobel de Física vai para detector de ‘partículas fantasmas’",
-      "summary": "Roberto Pena Spinelli, colunista do Olhar Digital News, explica qual a aplicação prática da chamada \"astronomia de neutrinos\", vencedora do Nobel de Física de 2026 O…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/10/06/colunistas/fala-ai-nobel-de-fisica-vai-para-detector-de-particulas-fantasmas/",
-      "source": "Olhar Digital",
-      "published": 1791335928000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Confira o Olhar Digital News na íntegra (06/10/2026)",
-      "summary": "Confira as principais notícias do mundo da tecnologia e da ciência no programa Olhar Digital News de hoje! O post Confira o Olhar Digital News na íntegra (06/10/2026)…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/10/06/videos/confira-o-olhar-digital-news-na-integra-06-10-2026/",
-      "source": "Olhar Digital",
-      "published": 1791335855000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Apple quer equipar sua casa com dispositivos feitos em parceria com a LG",
-      "summary": "Produtos serão vendidos sob a marca LG, embora tenham sido desenvolvidos em conjunto com a Apple O post Apple quer equipar sua casa com dispositivos feitos em parceria…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/lg-1024x682.jpg",
-      "link": "https://olhardigital.com.br/2026/10/06/reviews/apple-quer-equipar-sua-casa-com-dispositivos-feitos-em-parceria-com-a-lg/",
-      "source": "Olhar Digital",
-      "published": 1791334859000
-    },
-    {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "A Fazenda 18: Renê Thristan está na roça; Ariela, Jottapê e Thaíde disputam Prova do Fazendeiro",
-      "summary": "Renê Thristan está na terceira roça de A Fazenda 18 ( Record ). Ariela Carasso , Jottapê e Thaíde também foram parar nos banquinhos da berlinda nesta terça-feira (6),…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/10/a-fazenda-18-rene-thristan-esta-na-roca-ariela-jottape-e-thaide-disputam-prova-do-fazendeiro.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1791342840000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Resultado das eleições 2026 em Lagoa Grande do Maranhão (MA): como foi a votação no seu local de votação; consulte por zona eleitoral",
-      "summary": "Lagoa Grande do Maranhão (MA) tem 1 zona eleitoral. O g1 publica reportagens com a votação para presidente em cada local de votação da cidade, no 1º turno das Eleições…",
-      "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg",
-      "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/07/resultado-das-eleicoes-2026-em-lagoa-grande-do-maranhao-ma-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml",
+      "title": "Aposta de oito dezenas feita no Paraná garante prêmio de R$ 100 mil na Mega-Sena; veja outras cidades premiadas",
+      "summary": "Mega-Sena, concurso 3067: confira os números sorteados Três apostas do Paraná acertaram cinco números da Mega-Sena, no sorteio 3067, realizado na noite de terça-feira…",
+      "image": "https://s2-g1.glbimg.com/jA_AJtV3bEK-ryBrvYVDHvRDJoU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/m/s/XbYYMASlOrWF4a5Rf9Yg/volantes-loterias-q98a7803-credito-marcelo-brandt-g1.jpg",
+      "link": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/07/aposta-parana-mega-sena-premios-cidades.ghtml",
       "source": "g1",
-      "published": 1791342657000
+      "published": 1791369585000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Resultado das eleições 2026 em Belo Horizonte (MG): como foi a votação no seu local de votação; consulte por zona eleitoral",
-      "summary": "Belo Horizonte (MG) tem 18 zonas eleitorais. O g1 publica reportagens com a votação para presidente em cada local de votação da cidade, no 1º turno das Eleições 2026,…",
-      "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg",
-      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/07/resultado-das-eleicoes-2026-em-belo-horizonte-mg-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml",
+      "title": "Mega-Sena: três apostas feitas em PE ganham prêmios de R$ 33 mil na quina",
+      "summary": "G1 | Loterias - Mega-Sena 3067 Três apostas feitas em Pernambuco acertaram cinco dos seis números sorteados no concurso 3.067 da Mega-Sena, realizado na terça-feira (6).…",
+      "image": "https://s2-g1.glbimg.com/jpj93TvEzRokFMbPgZBNwyhs5fY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/M/c3yaQ3SqqpphvLcPI0JA/mega-sena-volante-rafa-neddermeyer-agencia-brasil.jpg",
+      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/07/mega-sena-tres-apostas-feitas-em-pe-ganham-premios-de-r-33-mil-na-quina.ghtml",
       "source": "g1",
-      "published": 1791342374000
+      "published": 1791369456000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Resultado das eleições 2026 em Goiânia (GO): como foi a votação no seu local de votação; consulte por zona eleitoral",
-      "summary": "Goiânia (GO) tem 9 zonas eleitorais. O g1 publica reportagens com a votação para presidente em cada local de votação da cidade, no 1º turno das Eleições 2026, com os…",
-      "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/07/resultado-das-eleicoes-2026-em-goiania-go-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml",
+      "title": "Tiroteio perto de escola assusta alunos em Nova Iguaçu; estudantes se abrigaram durante os disparos",
+      "summary": "Tiroteio perto de escola assusta alunos em Nova Iguaçu; estudantes se abrigaram durante os disparos Um tiroteio próximo a uma escola estadual assustou alunos no bairro…",
+      "image": "https://s2-g1.glbimg.com/lWkqvJq0JGgAJHlHuBXCa3tM-yI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/N/7V9TcBRGqY8V0Oh2LE8Q/carro-incendiado.jpeg",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/10/07/tiroteio-perto-de-escola-em-nova-iguacu.ghtml",
       "source": "g1",
-      "published": 1791342362000
+      "published": 1791369350000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Crédito empresarial: Descubra 5 cuidados essenciais antes de contratar",
-      "summary": "A linha de crédito é uma importante ferramenta, utilizada por muitas empresas, que permite a ampliação da produção, compra de equipamentos, renovação de frota, reposição…",
-      "image": "https://s2-g1.glbimg.com/T1yGiKoyzKwWAAQ9kTvSPq54ouM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/W/CEiKDLQZAAC5Awg7YCnQ/img-1834.jpg.jpg",
-      "link": "https://g1.globo.com/rj/norte-fluminense/especial-publicitario/sicoob-sul-sicoob-mais-que-uma-escolha-financeira/noticia/2026/10/07/credito-empresarial-descubra-5-cuidados-essenciais-antes-de-contratar.ghtml",
+      "title": "Receita Federal apreende cocaína escondida em molde industrial de 7,5 toneladas em Viracopos",
+      "summary": "Receita Federal apreende cocaína escondida em molde industrial de 7,5 t em Viracopos A Receita Federal apreendeu uma carga de cocaína escondida dentro de um molde de…",
+      "image": "https://s2-g1.glbimg.com/op8d4qqv4-3FoUXDuOm_spNg-1c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/x/fFTlUjRKqRk7d8TPm5Pw/vcp.png",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/07/receita-federal-apreende-cocaina-escondida-em-molde-industrial-de-75-toneladas-em-viracopos.ghtml",
       "source": "g1",
-      "published": 1791342360000
+      "published": 1791369267000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Documentário sobre curta de terror premiado no exterior chega a streaming norte-americano",
+      "summary": "Documentário feito em Jundiaí chega streaming de terror nos Estados Unidos 🩸Um grupo de amigos se hospeda em uma casa e, ao vasculhar o local, encontra fitas VHS que…",
+      "image": "https://s2-g1.glbimg.com/sZEIBJslLtboYx39-_8RW0SNG7U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/z/dQkK0gSjWbX6SKUBOQcA/texto-do-seu-paragrafo-2026-09-29t145834.433.png",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/07/documentario-sobre-curta-de-terror-premiado-no-exterior-chega-a-streaming-norte-americano.ghtml",
+      "source": "g1",
+      "published": 1791369225000
     }
   ]
 }
