@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-09T22:01:59.163Z",
+  "updatedAt": "2026-10-10T03:27:49.105Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Incêndio atinge fábrica de móveis em Valentim Gentil",
+      "summary": "Incêndio atinge indústria em Valentim Gentil Um incêndio atingiu uma fábrica de móveis em Valentim Gentil (SP) no fim da tarde desta sexta-feira (9). Conforme apurado…",
+      "image": "https://s2-g1.glbimg.com/EmS6U7pyjsLMqY6cjE0C6d11cUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/4/MpCDXuRFqTXYP7XhYQUQ/design-sem-nome-2026-10-09t194422.128.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/09/incendio-atinge-fabrica-de-moveis-em-valentim-gentil.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1791586255000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -26,7 +36,7 @@
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
       "title": "Ex-vereador e irmão são presos por manter fábrica clandestina com meia tonelada de carne imprópria para o consumo",
-      "summary": "Irmãos são presos por manter fábrica clandestina com meia tonelada de carne irregular em Araçatuba Polícia Civil/Divulgação Um ex-vereador e o irmão dele foram presos na…",
+      "summary": "Ex-vereador e irmão são presos por manter fábrica clandestina de carne Um ex-vereador e o irmão dele foram presos na manhã desta sexta-feira (9) por manterem uma fábrica…",
       "image": "https://s2-g1.glbimg.com/X-Oj9fDT0IB-EpJefKY5ZKprxfA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/Y/UhaVbXSsi41wqDjiXCmw/g1-2026-10-09t144824.066.jpg",
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/09/ex-vereador-e-irmao-sao-presos-por-manter-fabrica-clandestina-com-meia-tonelada-de-carne-impropria-para-o-consumo.ghtml",
       "source": "g1 > São José do Rio Preto e Araçatuba",
@@ -43,214 +53,204 @@
       "published": 1791567027000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Funcionário de obra é morto a facadas no local de trabalho; colega é principal suspeito",
-      "summary": "Homem de 36 anos é morto a facadas em obra por ex-colega de trabalho em Birigui Um funcionário de uma obra de 36 anos morreu após ser esfaqueado na manhã desta…",
-      "image": "https://s2-g1.glbimg.com/iAZ87f84qqLT-Z8BC2ugh6T7LX8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/w/pHn4cdRBWWCkxCAQrwhg/whatsapp-image-2026-10-01-at-16.00.44.jpeg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/09/funcionario-de-obra-e-morto-a-facadas-no-local-de-trabalho.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1791558913000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Dia de Sorte: confira o resultado do concurso 1319 sorteado nesta sexta-feira (9)",
+      "summary": "Loteria Dia de Sorte, da Caixa Econômica (Foto: Divulgação) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1319-sorteado-nesta-sexta-feira-9/",
+      "source": "InfoMoney",
+      "published": 1791591645000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Três policiais morrem após avião da PM cair em Santana do Paraíso, em Minas Gerais",
-      "summary": "(Reprodução/X) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/Captura-de-tela-2026-10-09-185253.png?fit=878%2C493&quality=70&strip=all\"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Captura-de-tela-2026-10-09-185253.png?fit=300%2C168&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/brasil/tres-policiais-morrem-apos-aviao-da-pm-cair-em-santana-do-paraiso-em-minas-gerais/",
+      "title": "Lotomania: confira o resultado do concurso 2986 sorteado nesta sexta-feira (9)",
+      "summary": "Foto: Divulgação \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=735%2C417&quality=70&strip=all\" />Veja as 20 dezenas sorteadas…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=300%2C170&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/lotomania-confira-o-resultado-do-concurso-2986-sorteado-nesta-sexta-feira-9/",
       "source": "InfoMoney",
-      "published": 1791582877000
+      "published": 1791591152000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Terremoto de 7,7 sacode Panamá, deixa rastro de danos e paralisa serviços",
-      "summary": "Pessoas estão perto de um prédio desabado após um terremoto, em Penonome, no Panamá 9 de outubro de 2026 Captura de tela obtida de um vídeo nas redes sociais. Jonathan…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-09T213506Z_1_LYNXMPEM981VI_RTROPTP_4_PANAMA-QUAKE.jpg?fit=167%2C300&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/forte-terremoto-de-magnitude-80-e-sentido-no-panama-diz-servico-geologico-dos-eua/",
+      "title": "Lotofácil hoje, concurso 3801: confira o resultado sorteado nesta sexta-feira (9)",
+      "summary": "Lotofácil da Independência é um sorteio especial da Lotofácil, realizado em setembro. Foto: Marcelo Camargo/Agência Brasil \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorteio-lotofacil.webp?fit=300%2C225&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3801-confira-o-resultado-sorteado-nesta-sexta-feira-9/",
       "source": "InfoMoney",
-      "published": 1791582621000
+      "published": 1791590991000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "PM mata sequestrador e resgata 13 crianças em escola municipal de Curitiba",
-      "summary": "Reprodução/Google Maps \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/Captura-de-tela-2026-10-09-183644.png?fit=877%2C585&quality=70&strip=all…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Captura-de-tela-2026-10-09-183644.png?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/brasil/pm-mata-sequestrador-e-resgata-13-criancas-em-escola-municipal-de-curitiba/",
+      "title": "Quina hoje, concurso 7139: confira o resultado sorteado nesta sexta-feira (9)",
+      "summary": "(Foto: Divulgação) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=1280%2C745&quality=70&strip=all\" />O prêmio…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7139-confira-o-resultado-sorteado-nesta-sexta-feira-9/",
       "source": "InfoMoney",
-      "published": 1791582387000
+      "published": 1791590902000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Guia do transporte seguro: como evitar golpes ao sair do Galeão? Veja oito dicas",
-      "summary": "Rio de Janeiro (RJ), 02/10/2023 &#8211; Movimento de passageiros no Aeroporto Internacional Tom Jobim, no Galeão, após migração de voos operados no Aeroporto Santos…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/mg_3422.webp?fit=300%2C225&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/guia-do-transporte-seguro-como-evitar-golpes-ao-sair-do-galeao-veja-oito-dicas/",
+      "title": "Santander (SANB11) aprova proventos no valor de R$ 1,5 bi; veja quem tem direito",
+      "summary": "Uma agência do banco Santander no distrito financeiro de São Paulo. Fotógrafo: Victor Moriyama/Bloomberg \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-07-084747.png?fit=300%2C201&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/santander-sanb11-aprova-proventos-no-valor-de-r-15-bi-veja-quem-tem-direito/",
       "source": "InfoMoney",
-      "published": 1791581701000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Porta-voz de Lula diz que ‘tesouraço’ de Flávio seria igual ao de Milei na Argentina",
-      "summary": "Flávio Bolsonaro, candidato do PL à Presidência, participa de ato de campanha em Juiz de Fora (MG), cidade onde seu pai, Jair Bolsonaro, foi esfaqueado durante a corrida…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/2026-09-09T170120Z_609283636_RC2RFNAJ268Y_RTRMADP_3_BRAZIL-ELECTION-BOLSONARO.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/porta-voz-de-lula-diz-que-tesouraco-de-flavio-seria-igual-ao-de-milei-na-argentina/",
-      "source": "InfoMoney",
-      "published": 1791581486000
+      "published": 1791590152000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Veja galeria de fotos do treino do Corinthians nesta sexta-feira",
-      "summary": "O post Veja galeria de fotos do treino do Corinthians nesta sexta-feira apareceu primeiro em Gazeta Esportiva .",
+      "title": "Palmeiras supera Santos nos pênaltis e vai às oitavas da Copa do Brasil sub-20",
+      "summary": "O Palmeiras garantiu vaga nas oitavas de final da Copa do Brasil Sub-20 ao superar o Santos nos pênaltis por 4 a 2, após um empate emocionante por 3 a 3 no tempo normal,…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/ad192aa1-4e06-4de1-8b17-d00de01ae95e.webp",
+      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-elimina-santos-penaltis-copa-do-brasil-sub-20/",
+      "source": "Gazeta Esportiva",
+      "published": 1791595362000
+    },
+    {
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Palmeiras volta ao trabalho de olho no clássico; veja treino",
+      "summary": "Palmeiras volta ao trabalho de olho no clássico; veja treino O post Palmeiras volta ao trabalho de olho no clássico; veja treino apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/09102026_cg_palmeiras_6289_13.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/palmeiras-volta-ao-trabalho-de-olho-no-classico-veja-treino/",
+      "source": "Gazeta Esportiva",
+      "published": 1791594641000
+    },
+    {
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Timão se prepara para enfrentar o Palmeiras pelo Brasileirão",
+      "summary": "Timão se prepara para enfrentar o Palmeiras pelo Brasileirão O post Timão se prepara para enfrentar o Palmeiras pelo Brasileirão apareceu primeiro em Gazeta Esportiva .",
       "image": "https://static.gazetaesportiva.com/uploads/2026/10/249598.webp",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-nesta-sexta-feira-22/",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/timao-se-prepara-para-enfrentar-o-palmeiras-pelo-brasileirao/",
       "source": "Gazeta Esportiva",
-      "published": 1791582927000
+      "published": 1791594145000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Braunschweig 1 x 0 Holstein Kiel pela Segunda Divisão da Bundesliga",
-      "summary": "Melhores momentos: Braunschweig 1 x 0 Holstein Kiel pela Segunda Divisão da Bundesliga O post Melhores momentos: Braunschweig 1 x 0 Holstein Kiel pela Segunda Divisão da…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/raunsc.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-braunschweig-1-x-0-holstein-kiel-pela-segunda-divisao-da-bundesliga/",
+      "title": "Bastidores do empate do Peixão com o Flamengo na Vila Belmiro",
+      "summary": "Bastidores do empate do Peixão com o Flamengo na Vila Belmiro O post Bastidores do empate do Peixão com o Flamengo na Vila Belmiro apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/astid.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/bastidores-do-empate-do-peixao-com-o-flamengo-na-vila-belmiro/",
       "source": "Gazeta Esportiva",
-      "published": 1791582663000
+      "published": 1791593805000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Com técnico interino e Carrillo de volta, Corinthians abre preparação para Derby",
-      "summary": "Após um dia de descanso em sequência à derrota para o Internacional e à demissão de Fernando Diniz na última quarta, o elenco do Corinthians se reapresentou no CT…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/249618.webp",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/com-tecnico-interino-e-carrillo-de-volta-corinthians-abre-preparacao-para-derby-apos-folga/",
+      "title": "Conmebol confirma Maracanã como palco de Vasco x Boca Juniors pela Sul-Americana",
+      "summary": "A Conmebol confirmou o Maracanã como palco da volta entre Vasco e Boca Juniors pela semifinal da Copa Sul-Americana, marcada para 20 de outubro. O post Conmebol confirma…",
+      "image": "https://static.gazetaesportiva.com/uploads/imagem/2023/01/03/000_33699QU.jpg",
+      "link": "https://www.gazetaesportiva.com/times/vasco/conmebol-confirma-maracana-como-palco-de-vasco-x-boca-juniors-pela-sul-americana/",
       "source": "Gazeta Esportiva",
-      "published": 1791582578000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Palmeiras inscreve 23 jogadoras para disputa da Libertadores feminina; veja lista",
-      "summary": "O Palmeiras disputará, nos próximos dias, a Libertadores Feminina, e a técnica Rosana Augusto já indicou na lista de boa fé, enviada à Conmebol, as 23 jogadores que…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/HT32k17XIAA6Eug.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-libertadores-feminina-inscritas/",
-      "source": "Gazeta Esportiva",
-      "published": 1791581147000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Borussia leva empate nos acréscimos e pode perder liderança do Alemão",
-      "summary": "O Borussia Dortmund deixou escapar a vitória nos acréscimos e empatou por 2 a 2 com o Werder Bremen, nesta sexta-feira, pela 5ª rodada do Campeonato Alemão. Após abrir 2…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261009__D2TH2UT__v1__HighRes__FblGerBundesligaDortmundWerderBremen.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/bundesliga/borussia-leva-empate-nos-acrescimos-e-pode-perder-lideranca-do-alemao/",
-      "source": "Gazeta Esportiva",
-      "published": 1791581136000
+      "published": 1791593497000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Apple reduz pedidos de componentes do iPhone 18 Pro",
-      "summary": "Segundo o Nikkei Asia, a Apple cortou em pelo menos 15% os pedidos de componentes para outubro, em meio à alta dos custos de memória e à demanda mais fraca O post Apple…",
+      "title": "Justiça derruba liminar que permitia funcionamento de bet no Brasil",
+      "summary": "AGU argumentou que permitir o funcionamento de uma única empresa enquanto as demais estão sujeitas às restrições criaria desigualdade regulatória O post Justiça derruba…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2024/10/iStock-1141068500-1024x683.jpg",
+      "link": "https://olhardigital.com.br/2026/10/09/pro/justica-derruba-liminar-que-permitia-funcionamento-de-bet-no-brasil/",
+      "source": "Olhar Digital",
+      "published": 1791594205000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "IA da Anthropic envia denúncia falsa de homicídio à polícia nos EUA",
+      "summary": "Formulário foi encaminhado em julho, mas acabou marcado como spam e não chegou a ser analisado pelos investigadores O post IA da Anthropic envia denúncia falsa de…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/claude-anthropic-1-1-1-1024x683.jpg",
+      "link": "https://olhardigital.com.br/2026/10/09/inteligencia-artificial/ia-da-anthropic-envia-denuncia-falsa-de-homicidio-a-policia-nos-eua/",
+      "source": "Olhar Digital",
+      "published": 1791592942000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Confira o Olhar Digital News na íntegra (09/10/2026)",
+      "summary": "Confira as principais notícias do mundo da tecnologia e da ciência no programa Olhar Digital News de hoje! O post Confira o Olhar Digital News na íntegra (09/10/2026)…",
       "image": "",
-      "link": "https://olhardigital.com.br/2026/10/09/reviews/apple-reduz-pedidos-de-componentes-do-iphone-18-pro/",
+      "link": "https://olhardigital.com.br/2026/10/09/videos/confira-o-olhar-digital-news-na-integra-09-10-2026/",
       "source": "Olhar Digital",
-      "published": 1791581608000
+      "published": 1791592028000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Samsung e Apple cortam produção de smartphones em até 30%, diz mídia asiática",
-      "summary": "Duas das maiores fabricantes de smartphones do mundo estão reduzindo a fabricação de aparelhos com efeito imediato . As informações são de dois sites jornalísticos da…",
-      "image": "https://www.estadao.com.br/resizer/v2/I2OTGODMMBNDJDVUB5DD53MRLQ.jpg?quality=80&amp;auth=0ff2c090f1336b34e5452d06c17d6a41dc8013e105d2946f716c085a7a3f8d37&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/samsung-e-apple-cortam-producao-de-smartphones-em-ate-30-diz-midia-asiatica/",
-      "source": "Novidades do TecMundo",
-      "published": 1791581400000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Tesla muda nome do sistema de direção assistida na Europa",
-      "summary": "Após críticas do governo alemão, Tesla troca o nome Full Self-Driving por Tesla Assisted Driving para facilitar a aprovação do sistema na Europa O post Tesla muda nome…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/tesla-fsd-2-1024x682.jpg",
-      "link": "https://olhardigital.com.br/2026/10/09/carros-e-tecnologia/tesla-muda-nome-do-sistema-de-direcao-assistida-na-europa/",
-      "source": "Olhar Digital",
-      "published": 1791581093000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Fundador da Rockstar está evitando GTA 6 para não atrapalhar seu trabalho! Entenda",
-      "summary": "Dan Houser, co-fundador da Rockstar e ex-roteirista da franquia Grand Theft Auto , revelou que ainda não assistiu à apresentação estendida de GTA 6 . Em entrevista à…",
-      "image": "https://www.estadao.com.br/resizer/v2/WQDJQPCJ6JNOZOWK25FBXKO5CI.jpg?quality=80&amp;auth=860fa8927cb1193058244de286d866328670e81d540de233665db38f6b10c5a6&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/fundador-da-rockstar-esta-evitando-gta-6-para-nao-atrapalhar-seu-trabalho-entenda/",
-      "source": "Novidades do TecMundo",
-      "published": 1791580500000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Gasolina cara leva brasileiros a considerar carros elétricos",
-      "summary": "Pesquisa do Instituto Locomotiva mostra que 87% dos motoristas entrevistados considerariam adquirir um veículo desse tipo O post Gasolina cara leva brasileiros a…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/EmFoco_68-1024x576.jpg",
-      "link": "https://olhardigital.com.br/2026/10/09/carros-e-tecnologia/gasolina-cara-leva-brasileiros-a-considerar-carros-eletricos/",
-      "source": "Olhar Digital",
-      "published": 1791580496000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Há dois dias, incêndio atinge área de reserva extrativista no Xingu",
-      "summary": "Um incêndio na Resex (Reserva Extrativista) Riozinho do Anfrísio, no Pará , teve início na quarta-feira (7) e ainda permanece ativo na região nesta sexta-feira (9).…",
+      "title": "Olhar Espacial: a extraordinária família de satélites de Saturno",
+      "summary": "Na coluna Olhar Espacial desta sexta-feira (09), Marcelo Zurita nos conta alguns dos segredos de Saturno O post Olhar Espacial: a extraordinária família de satélites de…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/ha-dois-dias-incendio-atinge-area-de-reserva-extrativista-no-xingu.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1791583200000
+      "link": "https://olhardigital.com.br/2026/10/09/colunistas/olhar-espacial-a-extraordinaria-familia-de-satelites-de-saturno/",
+      "source": "Olhar Digital",
+      "published": 1791591780000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Resultado da Quina de hoje: veja números e ganhadores do concurso 7139 (sexta, 09/10)",
+      "summary": "O sorteio de R$ 30 milhões do concurso 7139 é realizado em São Paulo. Além dos cinco números premiados, confira como resgatar seu prêmio O post Resultado da Quina de…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/10/09/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7139-sexta-09-10/",
+      "source": "Olhar Digital",
+      "published": 1791589200000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "AO VIVO: Assista ao GR2",
-      "summary": "AO VIVO: Assista ao GR2 Acompanhe o GR2 desta sexta-feira (9), com apresentação de João Barbosa",
-      "image": "https://s2-g1.glbimg.com/75nYMfj43UHs89N4E4HyaPWBWVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/A/n9BXJQSDe6xbPnD8Lcbg/img-20260620-115332373-hdr.jpg",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/ao-vivo/ao-vivo-assista-ao-gr2.ghtml",
+      "title": "Internacionalização amplia oportunidades para futuros médicos",
+      "summary": "Internacionalização amplia oportunidades para futuros universitários Afya A formação médica tem ampliado seus horizontes para além da sala de aula e das fronteiras…",
+      "image": "https://s2-g1.glbimg.com/-WrVqaZoaXe9zu3hdjx7qc1seU8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/Q/RWmJzqRBGOWf2nERRL2g/5.jpg",
+      "link": "https://g1.globo.com/rj/norte-fluminense/especial-publicitario/afya-itaperuna-afya-centro-universitario-itaperuna/noticia/2026/10/10/internacionalizacao-amplia-oportunidades-para-futuros-medicos.ghtml",
       "source": "g1",
-      "published": 1791583016000
+      "published": 1791602281000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Quem são as vítimas de acidente com avião da PM no interior de MG",
-      "summary": "Avião da PM cai perto do Aeroporto do Vale do Aço Um avião da Polícia Militar de Minas Gerais caiu em Santana do Paraíso, na Região do Vale do Aço, na tarde desta…",
-      "image": "https://s2-g1.glbimg.com/yIm40E6VduiwLvEQ-dbVWdaawPg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/U/M6cch1R1mSknASlE0PtA/whatsapp-image-2026-10-09-at-16.47.27.jpeg",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/09/quem-sao-as-vitimas-de-acidente-com-aviao-da-pm-no-interior-de-mg.ghtml",
+      "title": "Afya Itaperuna conquista acreditação do Conselho Federal de Medicina",
+      "summary": "Fachada do campus Afya Centro Universitario Itaperuna Afya A Afya Centro Universitário Itaperuna passou a integrar o seleto grupo de escolas médicas acreditadas pelo…",
+      "image": "https://s2-g1.glbimg.com/usgjMCLPpRjETR9ikEB9yfFxRGU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/o/yEUdf6TjaiEsb7BM35zg/4.png",
+      "link": "https://g1.globo.com/rj/norte-fluminense/especial-publicitario/afya-itaperuna-afya-centro-universitario-itaperuna/noticia/2026/10/10/afya-itaperuna-conquista-acreditacao-do-conselho-federal-de-medicina.ghtml",
       "source": "g1",
-      "published": 1791582957000
+      "published": 1791601860000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "'Quem Ama Cuida': Mau Mau despista Felipe quando o rapaz pensa em conhecer sua família",
-      "summary": "Divulgação TV Globo Maurício/Mau mau (João Victor Gonçalves) em 'Quem Ama Cuida' Leia mais (10/09/2026 - 18h54)",
-      "image": "https://f.i.uol.com.br/fotografia/2026/09/05/17886345116a9c658f43374_1788634511_3x2_md.jpg",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/05/14/6448-quem-ama-cuida-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post467451",
-      "source": "Folha de S.Paulo",
-      "published": 1791582840000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Datafolha: para 78%, é muito importante que Lula e Flávio Bolsonaro participem de debates",
-      "summary": "Luiz Inácio Lula da Silva (PT) e Flávio Bolsorano (PL) Reprodução/Ricardo Stuckert/Vittor Sales Pesquisa Datafolha divulgada nesta sexta-feira (9) mostra que a maioria…",
-      "image": "https://s2-g1.glbimg.com/RPSoo6EgfzCQ7jb1zgIawCxfA2s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/P/6eUL0tTA2c2Y76pqbbiQ/foto-e-montagem-vertical-2026-10-05t145940.410.png",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/datafolha-lula-flavio-bolsonaro-debates-9-outubro.ghtml",
+      "title": "Saiba como Giulia Be conheceu o herdeiro da família Kennedy",
+      "summary": "Giulia Be com o advogado americano Conor Kennedy, sobrinho-neto de John F. Kennedy Natalia Rampinelli / AgNews A cantora Giulia Be subirá ao altar neste final de semana,…",
+      "image": "https://s2-g1.glbimg.com/qjmDXyvgv61SW1V_qCBDV4uJ9CM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/U/TsAasPRQyeYznAoYLd2w/imagem-cortada.jpg",
+      "link": "https://g1.globo.com/pop-arte/noticia/2026/10/10/saiba-como-giulia-be-conheceu-o-herdeiro-da-familia-kennedy.ghtml",
       "source": "g1",
-      "published": 1791582810000
+      "published": 1791601800000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Afya Itaperuna amplia formação médica com projetos e ações na comunidade",
+      "summary": "Estudante e Docente de Medicina da Afya durante atividade prática de formação acadêmica Afya A formação médica vai além da sala de aula. Para desenvolver competências…",
+      "image": "https://s2-g1.glbimg.com/2z2iOpLy93e7p4eCwjFeWJA-CRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/W/doG7KwRkKyW5ZBEnzajg/3.jpg",
+      "link": "https://g1.globo.com/rj/norte-fluminense/especial-publicitario/afya-itaperuna-afya-centro-universitario-itaperuna/noticia/2026/10/10/afya-itaperuna-amplia-formacao-medica-com-projetos-e-acoes-na-comunidade.ghtml",
+      "source": "g1",
+      "published": 1791601741000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Medicina muito além do consultório",
+      "summary": "Professor e estudantes de Medicina Afya durante atividade prática em laboratório Afya A carreira médica já não se limita ao atendimento em consultórios, hospitais e…",
+      "image": "https://s2-g1.glbimg.com/zDEc7ELm4E21XZILzE5ppWM8tu4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/t/9lsDFBQpq7CBqkE69AAA/02.jpg",
+      "link": "https://g1.globo.com/rj/norte-fluminense/especial-publicitario/afya-itaperuna-afya-centro-universitario-itaperuna/noticia/2026/10/10/medicina-muito-alem-do-consultorio.ghtml",
+      "source": "g1",
+      "published": 1791601620000
     }
   ]
 }
