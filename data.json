@@ -1,12 +1,42 @@
 {
-  "updatedAt": "2026-10-15T14:33:16.619Z",
-  "count": 25,
+  "updatedAt": "2026-10-15T19:34:48.393Z",
+  "count": 20,
   "items": [
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
-      "title": "Homem diz que nunca foi à cidade onde recebeu multa por pilotar moto sem cinto de segurança",
-      "summary": "O radialista Daniel Sávio Dias com sua motocicleta em Guapiaçu (SP) Daniel Sávio Dias/Arquivo pessoal O radialista de Guapiaçu(SP) disse que nunca foi a Valinhos (SP),…",
+      "title": "Motociclista morre ao ser atropelado por caminhão em avenida de Rio Preto",
+      "summary": "Um motociclista de 61 anos morreu após ser atropelado por um caminhão nesta quinta-feira (15) na Avenida Philadelpho Gouveia Neto em São José do Rio Preto (SP). De…",
+      "image": "",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/15/acidente-com-morte-em-rio-preto.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792089790000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Ultraleve caiu no interior de SP por uso de peças automotivas e remendos com fita isolante, diz Cenipa",
+      "summary": "Piloto morreu em queda de ultraleve em Pereira Barreto (SP) Reprodução O Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa) concluiu o relatório final…",
+      "image": "https://s2-g1.glbimg.com/2PZgCYUMR-wocJnN6IwcW2LR9zs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/p/Y/bQyVH9QGmJWSs1VvVEoQ/whatsapp-image-2024-02-26-at-08.36.55.jpeg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/15/ultraleve-caiu-no-interior-de-sp-por-uso-de-pecas-automotivas-e-remendos-com-fita-isolante-diz-cenipa.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792087989000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Presidente da Câmara de Olímpia e assessores são presos suspeitos de usar sorveteria como ponto de repasse de 'rachadinha'",
+      "summary": "Presidente da Câmara de Olímpia é preso em operação da Polícia Civil contra esquema de desvio de dinheiro Arquivo pessoal O presidente da Câmara Municipal de Olímpia…",
+      "image": "https://s2-g1.glbimg.com/cjy42Bcvhd_TTB1BCVu_9_i56Uo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/4/XY5O46Qz6TKMXtAkx5QQ/g1-2026-10-15t105802.805.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/15/prisao-operacao-olimpia.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792078305000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Radialista diz que nunca foi à cidade onde recebeu multa por pilotar moto sem cinto de segurança",
+      "summary": "O radialista Daniel Sávio Dias com sua motocicleta em Guapiaçu (SP) Daniel Sávio Dias/Arquivo pessoal O radialista de Guapiaçu(SP) que recebeu uma multa por pilotar moto…",
       "image": "https://s2-g1.glbimg.com/R8923JY6PvTNRCaeVDLaJfdPDfw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/P/WyN8RlQBOsFgL8xZKcBg/design-sem-nome-2026-10-14t162127.806.jpg",
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/15/homem-diz-que-nunca-foi-a-cidade-onde-recebeu-multa-por-pilotar-moto-sem-cinto-de-seguranca.ghtml",
       "source": "g1 > São José do Rio Preto e Araçatuba",
@@ -23,234 +53,154 @@
       "published": 1792066554000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Da enxada à sala de aula: professor que trabalhou no campo durante infância vence prêmio 'Nota 1.000'",
-      "summary": "Professor de Novo Horizonte vence prêmio 'Nota 1.000' “Estude, pois a enxada é mais pesada que a caneta.” Essa frase resume a trajetória de Adelson Rodrigues, de 64…",
-      "image": "https://s2-g1.glbimg.com/yBWXauRK8SzJ5mBfj1k8nzA6hcU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/o/JbKkpCTk2G0KdFZzprww/design-sem-nome-2026-10-14t181542.546.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/15/da-enxada-a-sala-de-aula-professor-que-trabalhou-no-campo-durante-infancia-vence-premio-nota-1000.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792059506000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Moradores de Macedônia votam para prefeito e vice no dia do 2º turno das eleições 2026",
-      "summary": "Macedônia (SP) Câmara Municipal de Macedônia Os eleitores de Macedônia (SP) terão uma responsabilidade a mais no dia 25 de outubro. Além de participarem da escolha do…",
-      "image": "https://s2-g1.glbimg.com/X7RlFhoxig-NC-047MP1bNnvCRI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/e/dACjDwRvKYA0MjTXRgJw/formato-padrao-imagens-g1-82-.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/eleicoes/2026/noticia/2026/10/14/moradores-de-macedonia-votam-para-prefeito-e-vice-no-dia-do-2o-turno-das-eleicoes-2026.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792018669000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Fatecs terão novas unidades e ampliação de cursos no interior de SP; veja cidades contempladas",
-      "summary": "Fatecs abrem inscrições para o Vestibular do primeiro semestre com mais de 21 mil vagas O Centro Paula Souza (CPS) anunciou a criação de dez novas unidades das…",
-      "image": "https://s2-g1.glbimg.com/H61j6hArkULOH8nN-Lun7zStu3E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/V/Y/1uO674RWO0w3KBA6SNEw/fatectatui-02.jpg",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/14/fatecs-terao-novas-unidades-e-ampliacao-de-cursos-no-interior-de-sp.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792015784000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Petróleo fecha sem direção única em meio a ataques no Oriente Médio e alta da oferta",
+      "summary": "Um navio-tanque de petróleo bruto (Foto: Ali Mohammadi/Bloomberg) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/451259399.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-15102026/",
+      "source": "InfoMoney",
+      "published": 1792092748000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Ataques houthis expõem fragilidade da defesa saudita apesar de gastos bilionários",
-      "summary": "A Arábia Saudita opera centenas de caças F-15 Foto: Ryan Olson/Bloomberg \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/470998638.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/ataques-houthis-expoem-fragilidade-da-defesa-saudita-apesar-de-gastos-bilionarios/",
+      "title": "Caixa Seguridade (CXSE3): XP atualiza prévia do trimestre com impactos da greve",
+      "summary": "BB Seguridade e Caixa Seguridade (Foto: Reprodução) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/04/Seguridades-e1752377148207.jpg?fit=300%2C243&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/caixa-seguridade-cxse3-xp-atualiza-previa-do-trimestre-com-impactos-da-greve/",
       "source": "InfoMoney",
-      "published": 1792074718000
+      "published": 1792091760000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "China está mesmo se desfazendo dos títulos dos EUA? Cresce o ceticismo sobre a tese",
-      "summary": "O presidente da China, Xi Jinping (ao centro, à esquerda), cumprimenta o presidente dos Estados Unidos, Donald Trump, durante uma visita de Estado a Washington, em 25 de…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/470252215.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/china-esta-mesmo-se-desfazendo-dos-titulos-dos-eua-cresce-o-ceticismo-sobre-a-tese/",
+      "title": "Varejo cresce 4% no Dia das Crianças, diz Getnet; transações via Pix lideraram alta",
+      "summary": "(Foto: Fernando Frazão/Agência Brasil) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2023/10/dia-das-criancas-1.jpg?fit=1170%2C700&quality=70&strip=a…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/10/dia-das-criancas-1.jpg?fit=300%2C179&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/minhas-financas/varejo-cresce-4-no-dia-das-criancas-diz-getnet-transacoes-via-pix-lideraram-alta/",
       "source": "InfoMoney",
-      "published": 1792074138000
+      "published": 1792091631000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Pesquisas, EUA e fim da 6X1 em foco: o que faz Ibovespa ter nova queda nesta 5ª",
-      "summary": "Painel eletrônico mostra cotações de ações na B3, em São Paulo \" data-image-caption=\" Painel eletrônico mostra cotações de ações na B3, em São Paulo 05/08/2024…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/Captura-de-tela-2024-09-06-100616.png?fit=300%2C202&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-pesquisas-eleitorais-eua-fim-da-6x1-em-foco-o-que-faz-indice-ter-nova-queda-nesta-5a/",
+      "title": "Brasil deve voltar ao posto de 8ª maior economia do mundo em 2027, projeta FMI",
+      "summary": "economia-brasil-investimentos-investidor-estrangeiro \" data-image-caption=\" (Foto: Adobe Stock) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/economia-brasil-investimentos-investidor-estrangeiro.jpeg?fit=300%2C168&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/economia/brasil-deve-voltar-ao-posto-de-8a-maior-economia-do-mundo-em-2027-projeta-fmi/",
       "source": "InfoMoney",
-      "published": 1792074079000
+      "published": 1792090731000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Juros, risco fiscal e capital estrangeiro: o que pode mudar o rumo da Bolsa?",
-      "summary": "Após fortes altas e correções nas ações, analista da Clear explica a influência do DI sobre o mercado e alerta para os riscos fiscais The post Juros, risco fiscal e…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/capa_juros_futuros_infomoney_1200x675_d362ba.jpg?fit=300%2C169&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/juros-risco-fiscal-e-capital-estrangeiro-o-que-pode-mudar-o-rumo-da-bolsa/",
+      "title": "UBS vê continuidade no rali da Bolsa e eleva recomendação antes do 2º turno",
+      "summary": "B3 Bovespa Bolsa de Valores de São Paulo (Germano Lüders/InfoMoney) \" data-image-caption=\" B3 Bovespa Bolsa de Valores de São Paulo (Germano Lüders/InfoMoney) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/11/DSC_2768.jpg?fit=300%2C249&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/onde-investir/ubs-ve-continuidade-no-rali-da-bolsa-e-eleva-recomendacao-antes-do-2o-turno/",
       "source": "InfoMoney",
-      "published": 1792073700000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Eduardo Bolsonaro fala em “expurgar” Moraes do STF caso Flávio seja eleito",
-      "summary": "O ex-deputado federal Eduardo Bolsonaro, em ato do PL, em 2024 — Foto: Divulgação/PL &#8211; Beto Barata \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/eduardo-bolsonaro-pl.jpeg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/eduardo-bolsonaro-fala-em-expurgar-moraes-do-stf-caso-flavio-seja-eleito/",
-      "source": "InfoMoney",
-      "published": 1792073686000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Melhores momentos: FC Cincinnati 2 x 3 New England Revolution pela MLS",
-      "summary": "Melhores momentos: FC Cincinnati 2 x 3 New England Revolution pela MLS O post Melhores momentos: FC Cincinnati 2 x 3 New England Revolution pela MLS apareceu primeiro em…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/cin.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-fc-cincinnati-2-x-3-new-england-revolution-pela-mls/",
-      "source": "Gazeta Esportiva",
-      "published": 1792074631000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Melhores momentos: CF Montréal 0 x 3 Atlanta United pela MLS",
-      "summary": "Melhores momentos: CF Montréal 0 x 3 Atlanta United pela MLS O post Melhores momentos: CF Montréal 0 x 3 Atlanta United pela MLS apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Mo.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-cf-montreal-0-x-3-atlanta-united-pela-mls/",
-      "source": "Gazeta Esportiva",
-      "published": 1792074347000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Melhores momentos: D.C. United 2 x 1 New York Red Bulls pela MLS",
-      "summary": "Melhores momentos: D.C. United 2 x 1 New York Red Bulls pela MLS O post Melhores momentos: D.C. United 2 x 1 New York Red Bulls pela MLS apareceu primeiro em Gazeta…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/C.-Uni.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-d-c-united-2-x-1-new-york-red-bulls-pela-mls/",
-      "source": "Gazeta Esportiva",
-      "published": 1792074050000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Columbus Crew 3 x 1 Charlotte FC pela MLS",
-      "summary": "Melhores momentos: Columbus Crew 3 x 1 Charlotte FC pela MLS O post Melhores momentos: Columbus Crew 3 x 1 Charlotte FC pela MLS apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/mbu.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-columbus-crew-3-x-1-charlotte-fc-pela-mls/",
-      "source": "Gazeta Esportiva",
-      "published": 1792073740000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Griezmann aparece livre de marcação para marcar contra o Orlando City; confira",
-      "summary": "Griezmann aparece livre de marcação para marcar contra o Orlando City; confira O post Griezmann aparece livre de marcação para marcar contra o Orlando City; confira…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Griez.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/griezmann-aparece-livre-de-marcacao-para-marcar-contra-o-orlando-city-confira/",
-      "source": "Gazeta Esportiva",
-      "published": 1792073425000
+      "published": 1792090462000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Microsoft anuncia controle Xbox Nano com preço no Brasil; conheça",
-      "summary": "A Microsoft anunciou o Xbox Nano Controller , um controle compacto e mais barato que os modelos tradicionais da marca. O acessório chega ao Brasil em novembro deste ano,…",
-      "image": "https://www.estadao.com.br/resizer/v2/VIGFWWKDGZFINMP5NC3NANUVGM.jpg?quality=80&amp;auth=3b7f39c9ca95d08e23f30e1f54081ecf23122c99010104b513c7da31e152e3d7&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/microsoft-anuncia-controle-xbox-nano-com-preco-no-brasil-conheca/",
+      "title": "TSMC mantém lucro recorde, mas exige cautela para 2027",
+      "summary": "A TSMC registrou seu sexto lucro trimestral com recorde consecutivo nesta quinta-feira (15), graças ao forte impulsionamento do mercado de inteligência artificial. A…",
+      "image": "https://www.estadao.com.br/resizer/v2/YTMA2D6YGFF77AD2MZVSPSCT5I.jpg?quality=80&amp;auth=7aeaf8b163af3b2f797703328e3168d72d24137c94866dbb4e4e264c07e35855&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/tsmc-mantem-lucro-recorde-mas-exige-cautela-para-2027/",
       "source": "Novidades do TecMundo",
-      "published": 1792073700000
+      "published": 1792090800000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Musk diz que Micron é a única fabricante de memórias com preços razoáveis",
-      "summary": "O empresário Elon Musk elogiou publicamente a fabricante estadunidense de memórias Micron. Ele fez uma postagem sobre o assunto na rede social X, comentando um relatório…",
-      "image": "https://www.estadao.com.br/resizer/v2/2LGIP2XSOZHAHMJSUIBJEOPSL4.jpg?quality=80&amp;auth=0951ba8e8c1c3116d1b73e2cededf45219eddc137167b8deb88af113dd380af9&amp;width=1150",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/musk-diz-que-micron-e-a-unica-fabricante-de-memorias-com-precos-razoaveis/",
+      "title": "Incêndios na Amazônia reduzem a absorção de carbono pela floresta",
+      "summary": "Pesquisa mostra que o ozônio gerado por queimadas enfraquece a vegetação amazônica, exigindo novas estratégias de preservação O post Incêndios na Amazônia reduzem a…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/camada_ozonio-1024x558.jpg",
+      "link": "https://olhardigital.com.br/2026/10/15/ciencia-e-espaco/incendios-na-amazonia-reduzem-a-absorcao-de-carbono-pela-floresta/",
+      "source": "Olhar Digital",
+      "published": 1792090637000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Sistemas planetários da Via Láctea dividem-se em duas famílias",
+      "summary": "Estudo com 300 sistemas da Via Láctea identifica duas famílias planetárias, ligadas às características das estrelas que as abrigam O post Sistemas planetários da Via…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/Destaque-Sistema-Solar-1024x576.jpg",
+      "link": "https://olhardigital.com.br/2026/10/15/ciencia-e-espaco/sistemas-planetarios-da-via-lactea-dividem-se-em-duas-familias/",
+      "source": "Olhar Digital",
+      "published": 1792089038000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "One UI 9 chega ao Galaxy A57 no Brasil; saiba quais são os próximos modelos",
+      "summary": "A One UI 9 baseada no Android 17 enfim chegou ao Galaxy A57 vendido no Brasil. Donos do celular intermediário mais avançado da Samsung relataram a disponibilidade do…",
+      "image": "https://www.estadao.com.br/resizer/v2/ENEQFPVBNJB3VENW3AXGGHTKGQ.png?quality=80&amp;auth=2fc9a2f7310e050e84d7e151ab4eb3c192ca475269165d15146a6e8b6fb72935&amp;width=1150",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-lanca-atualizacao-one-ui-9-galaxy-a57-brasil/",
       "source": "Novidades do TecMundo",
-      "published": 1792072800000
+      "published": 1792089000000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "OpenAI alerta Polícia Federal sobre ameaças contra Lula feitas no ChatGPT",
-      "summary": "Empresa compartilhou diálogos com as autoridades após identificar mensagens sobre possíveis ataques ao presidente; caso pode levar à abertura de dois inquéritos O post…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/chatgpt-1024x682.jpg",
-      "link": "https://olhardigital.com.br/2026/10/15/pro/openai-alerta-policia-federal-sobre-ameacas-contra-lula-feitas-no-chatgpt/",
-      "source": "Olhar Digital",
-      "published": 1792072700000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "A extraordinária família de Saturno",
-      "summary": "Saturno e suas 293 luas formam um sistema fascinante. De rios em Titã a gêiseres em Encélado, conheça a diversidade dessa grande família! O post A extraordinária família…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/image-29.png",
-      "link": "https://olhardigital.com.br/2026/10/15/ciencia-e-espaco/a-extraordinaria-familia-de-saturno/",
-      "source": "Olhar Digital",
-      "published": 1792072466000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Grupo brasileiro invade sistema bancário em ataque ligado ao Pix",
-      "summary": "Grupo brasileiro explorou a nuvem de uma instituição financeira e buscou credenciais ligadas a ativos digitais; não há perdas confirmadas O post Grupo brasileiro invade…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/12/ciberataque_capa-1024x576.jpg",
-      "link": "https://olhardigital.com.br/2026/10/15/seguranca/grupo-brasileiro-invade-sistema-bancario-em-ataque-ligado-ao-pix/",
-      "source": "Olhar Digital",
-      "published": 1792072442000
+      "title": "Com fase no Brasil, Crazy Taxi World Tour dá vida a sonhos que não eram possíveis nos anos 90",
+      "summary": "Crazy Taxi: World Tour vai levar a tradicional corrida maluca de táxis para novos cenários, incluindo uma fase inspirada no Brasil. Durante a Brasil Game Show (BGS)…",
+      "image": "https://www.estadao.com.br/resizer/v2/ULPCKRBVNRBNZMP54ICE5JBUGI.jpg?quality=80&amp;auth=ab8c14c5f3ef0e660dd85dccaec5218118038e90a40cd3117e7a700b92a09644&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/com-fase-no-brasil-crazy-taxi-world-tour-da-vida-a-sonhos-que-nao-eram-possiveis-nos-anos-90/",
+      "source": "Novidades do TecMundo",
+      "published": 1792088280000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "summary": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "image": "",
-      "link": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml",
+      "title": "Delegacia antissequestro passa a atuar em buscas de jovem desaparecida na Grande BH",
+      "summary": "Mulher está desaparecida em Jaboticatubas A Delegacia Especializada Antissequestro (DAS), do Departamento Estadual de Operações Especiais (Deoesp), passou a atuar nas…",
+      "image": "https://s2-g1.glbimg.com/FqLk8E_WDDHHKg8IkwZPCXY5qfg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/s/jPHofeQDSFXtjoihA3Hg/chuva-distrito-paulo-camilo-1-15-.png",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/15/delegacia-antissequestro-passa-a-atuar-em-buscas-de-jovem-desaparecida-na-grande-bh.ghtml",
       "source": "g1",
-      "published": 1792074663000
+      "published": 1792092768000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-      "summary": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-      "image": "",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
+      "title": "Professor do Ifba e escritores baianos são finalistas do Prêmio Jabuti 2026",
+      "summary": "Professor do Ifba e escritores baianos são finalistas do Prêmio Jabuti 2026 Reprodução/Redes Sociais Três escritores ligados à Bahia estão entre os finalistas do Prêmio…",
+      "image": "https://s2-g1.glbimg.com/G7CHpD1iHCbFpNVZraCV7NHJ3rc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/i/tJxW4MR6mTVTO7WkQACQ/principio-de-incendio-atinge-maternidade-de-hospital-privado-de-salvador-20-.png",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/15/finalistas-do-premio-jabuti-2026-da-bahia.ghtml",
       "source": "g1",
-      "published": 1792074635000
+      "published": 1792092751000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "AO VIVO: Assista ao GR1",
-      "summary": "AO VIVO: Assista ao GR1 Acompanhe o GR1 desta quinta-feira (16), com apresentação de Leciane Lima",
-      "image": "https://s2-g1.glbimg.com/WT-uo8Zgf-UGhhtzJy5FmG-mDeA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/E/9SIw8vTBu3mIBf2H1Gtw/whatsapp-image-2026-09-02-at-11.30.54.jpeg",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/ao-vivo/ao-vivo-assista-ao-gr1.ghtml",
+      "title": "Hospital é condenado a pagar R$ 210 mil por troca de bebês em Arapiraca",
+      "summary": "O Hospital Regional Nossa Senhora do Bom Conselho, em Arapiraca, no Agreste de Alagoas, foi condenado a pagar R$ 210 mil em indenizações pela troca de dois bebês na…",
+      "image": "https://s2-g1.glbimg.com/MvelI0DYwxjaNO4bOWFe7h4Fo8I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/I/13vne1QQi8hRDTmkSarQ/captura-de-tela-2026-10-15-160934.png",
+      "link": "https://g1.globo.com/al/alagoas/noticia/2026/10/15/hospital-e-condenado-a-pagar-r-210-mil-por-troca-de-bebes-em-arapiraca.ghtml",
       "source": "g1",
-      "published": 1792074611000
+      "published": 1792092722000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Hong Kong virou a capital da coquetelaria",
-      "summary": "Um bar com nome italiano em Hong Kong , o Leone, foi eleito o melhor do mundo pelo 50 Best -três outros da região especial da China também estão na lista. Só Paris e…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2026/10/hong-kong-virou-a-capital-da-coquetelaria.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1792074600000
+      "title": "Assista ao Gazeta Meio Dia",
+      "summary": "Assista ao Gazeta Meio Dia Fique bem informado com o seu jornal da hora do almoço.",
+      "image": "https://s2-g1.glbimg.com/8CpQ4TsHbu6uACKLyR_f_YUppqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/8/1CAMCYT0S4Dlzd6UrYnQ/gazeta-meio-dia.png",
+      "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-gazeta-meio-dia.ghtml",
+      "source": "g1",
+      "published": 1792092670000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Nikolas Ferreira posta vídeo feito com IA de Flávio Bolsonaro atirando com dois fuzis em piscina",
-      "summary": "O deputado federal Nikolas Ferreira ( PL -MG) publicou na quarta-feira (14) um vídeo produzido com inteligência artificial que mostra o senador e candidato à Presidência…",
+      "title": "Petrobras bate recorde e chega a R$ 800 bilhões em valor de mercado; ações sobem até 110% em 2026",
+      "summary": "A Petrobras bateu recorde no valor de mercado ao atingir R$ 800 bilhões no encerramento do pregão na B3 nesta quarta-feira (14), a primeira vez que a companhia supera…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nikolas-ferreira-posta-video-feito-com-ia-de-flavio-bolsonaro-atirando-com-dois-fuzis-em-piscina.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1792074600000
+      "link": "https://g1.globo.com/economia/noticia/2026/10/15/petrobras-bate-recorde-e-chega-a-r-800-bilhoes-em-valor-de-mercado-acoes-sobem-ate-110percent-em-2026.ghtml",
+      "source": "g1",
+      "published": 1792092663000
     }
   ]
 }
