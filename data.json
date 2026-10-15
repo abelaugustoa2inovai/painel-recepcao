@@ -1,206 +1,256 @@
 {
-  "updatedAt": "2026-10-15T19:34:48.393Z",
-  "count": 20,
+  "updatedAt": "2026-10-15T22:47:33.465Z",
+  "count": 25,
   "items": [
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
+      "title": "Homem é preso suspeito de agredir e quebrar dentes da companheira",
+      "summary": "Delegacia de Polícia Civil em Buritama (SP) Felipe Nunes/TV TEM - Arquivo Um homem de 33 anos foi preso na manhã desta quinta-feira (15) em Buritama (SP) suspeito de…",
+      "image": "https://s2-g1.glbimg.com/eNA37LOYY9UdaoW4bunJpZnrOoc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/1/9ldcuiQBGBindCvXryqA/whatsapp-image-2025-04-02-at-14.51.04.jpeg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/15/homem-e-preso-suspeito-de-agredir-e-quebrar-dentes-da-companheira.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792101766000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Homem morre após cair de telhado em obra",
+      "summary": "Idosos de 73 anos morre após cair de telhado em Araçatuba (SP) Reprodução/Redes Sociais Um homem de 73 anos morreu após cair do telhado de uma obra em Araçatuba (SP), na…",
+      "image": "https://s2-g1.glbimg.com/QE2XQer7KuAJh6snVkXzHQYWF9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/N/4SciRvS2mc3LqmGb6YzA/formato-padrao-imagens-g1-82-.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/15/homem-morre-apos-cair-de-telhado-em-obra.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792098058000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Homem que morreu em suíte de motel estava com mulher e pastor, que arrombou portão para fugir",
+      "summary": "Polícia investiga morte de homem em motel em Catanduva O homem de 33 anos que morreu na suíte de um motel em Catanduva (SP) na noite de domingo (12) estava com um casal,…",
+      "image": "https://s2-g1.glbimg.com/tYLDus0HdZes3G9N7xvuSimUy6M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/m/Jet87RTpKPk46x75EnnQ/g1-2026-10-15t123203.946.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/15/homem-que-morreu-em-suite-de-motel-estava-com-mulher-e-pastor-que-arrombou-portao-para-fugir.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792094512000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Explore seu futuro: Vestibular Unifev 2027 está com inscrições abertas",
+      "summary": "Quatro novos cursos chegam à Unifev em 2027 para ampliar suas possibilidades de escolha Unifev/Divulgação Escolher uma graduação é dar o primeiro passo para transformar…",
+      "image": "https://s2-g1.glbimg.com/dp52EQNfLkPRF725Jr74VbDDc_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/W/EzlZ3FRgA6HEhl5slvhg/vestibular-unifev-27-g1-foto-01.png",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/especial-publicitario/unifev/noticia/2026/10/15/explore-seu-futuro-vestibular-unifev-2027-esta-com-inscricoes-abertas.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792093230000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
       "title": "Motociclista morre ao ser atropelado por caminhão em avenida de Rio Preto",
-      "summary": "Um motociclista de 61 anos morreu após ser atropelado por um caminhão nesta quinta-feira (15) na Avenida Philadelpho Gouveia Neto em São José do Rio Preto (SP). De…",
-      "image": "",
+      "summary": "Motociclista morre após ser atropelado por caminhão em avenida de São José do Rio Preto (SP) TV TEM / João Selari Um motociclista de 61 anos morreu após ser atropelado…",
+      "image": "https://s2-g1.glbimg.com/0QLH9IC-gcxSlqOPS_v1MKeTfnQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/4/ybGpJdRqml5OytJ5Vzww/whatsapp-image-2026-10-15-at-15.30.45.jpeg",
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/15/acidente-com-morte-em-rio-preto.ghtml",
       "source": "g1 > São José do Rio Preto e Araçatuba",
       "published": 1792089790000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Ultraleve caiu no interior de SP por uso de peças automotivas e remendos com fita isolante, diz Cenipa",
-      "summary": "Piloto morreu em queda de ultraleve em Pereira Barreto (SP) Reprodução O Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa) concluiu o relatório final…",
-      "image": "https://s2-g1.glbimg.com/2PZgCYUMR-wocJnN6IwcW2LR9zs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/p/Y/bQyVH9QGmJWSs1VvVEoQ/whatsapp-image-2024-02-26-at-08.36.55.jpeg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/15/ultraleve-caiu-no-interior-de-sp-por-uso-de-pecas-automotivas-e-remendos-com-fita-isolante-diz-cenipa.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792087989000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Presidente da Câmara de Olímpia e assessores são presos suspeitos de usar sorveteria como ponto de repasse de 'rachadinha'",
-      "summary": "Presidente da Câmara de Olímpia é preso em operação da Polícia Civil contra esquema de desvio de dinheiro Arquivo pessoal O presidente da Câmara Municipal de Olímpia…",
-      "image": "https://s2-g1.glbimg.com/cjy42Bcvhd_TTB1BCVu_9_i56Uo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/4/XY5O46Qz6TKMXtAkx5QQ/g1-2026-10-15t105802.805.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/15/prisao-operacao-olimpia.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792078305000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Radialista diz que nunca foi à cidade onde recebeu multa por pilotar moto sem cinto de segurança",
-      "summary": "O radialista Daniel Sávio Dias com sua motocicleta em Guapiaçu (SP) Daniel Sávio Dias/Arquivo pessoal O radialista de Guapiaçu(SP) que recebeu uma multa por pilotar moto…",
-      "image": "https://s2-g1.glbimg.com/R8923JY6PvTNRCaeVDLaJfdPDfw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/P/WyN8RlQBOsFgL8xZKcBg/design-sem-nome-2026-10-14t162127.806.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/15/homem-diz-que-nunca-foi-a-cidade-onde-recebeu-multa-por-pilotar-moto-sem-cinto-de-seguranca.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792072297000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "'Supino Miguel', 'Praliné' e 'Juma Elena': escolha do nome pode afetar o comportamento de pets; entenda",
-      "summary": "Escolha do nome pode afetar o comportamento de pets; entenda Mesmo com incontáveis apelidos, ao serem adotados, os pets recebem um nome específico de batismo. Apesar de…",
-      "image": "https://s2-g1.glbimg.com/fLR2Nssf7r3Gch3YyP8Ms7mQohc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/D/4ZLQvGRyuqhWN7f2dnBQ/a06752f3-cae7-4045-a7ae-fb749eb43c25.jpg",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/tem-mais-pet/noticia/2026/10/15/supino-miguel-praline-e-juma-elena-escolha-do-nome-pode-afetar-o-comportamento-de-pets-entenda.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792066554000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Senado aprova aumento do teto do MEI para R$ 140 mil e perdão de dívidas",
+      "summary": "Sessão no Senado Federal. Foto: Edilson Rodrigues/Agência Senado \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/senado-federal.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/senado-aprova-aumento-do-teto-do-mei-para-r-140-mil-e-perdao-de-dividas/",
+      "source": "InfoMoney",
+      "published": 1792102951000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Petróleo fecha sem direção única em meio a ataques no Oriente Médio e alta da oferta",
-      "summary": "Um navio-tanque de petróleo bruto (Foto: Ali Mohammadi/Bloomberg) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/451259399.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-15102026/",
+      "title": "MSCI congela mudanças em índices de ações da Turquia",
+      "summary": "Os índices da MSCI funcionam como uma \"termômetro\" global por calcular o desempenho de carteiras teóricas de ações The post MSCI congela mudanças em índices de ações da…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/06/stocks-vs-market-md.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/msci-congela-mudancas-em-indices-de-acoes-da-turquia/",
       "source": "InfoMoney",
-      "published": 1792092748000
+      "published": 1792102734000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Caixa Seguridade (CXSE3): XP atualiza prévia do trimestre com impactos da greve",
-      "summary": "BB Seguridade e Caixa Seguridade (Foto: Reprodução) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/04/Seguridades-e1752377148207.jpg?fit=300%2C243&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/caixa-seguridade-cxse3-xp-atualiza-previa-do-trimestre-com-impactos-da-greve/",
+      "title": "Datafolha: Desaprovação de Lula chega a 50%; aprovação é de 48%",
+      "summary": "O presidente da República, Luiz Inácio Lula da Silva. Foto: Ricardo Stuckert. \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/55506752756_6dcbc7d6eb_c.jpg?fit=300%2C194&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/datafolha-50-desaprovam-lula-enquanto-48-aprovam/",
       "source": "InfoMoney",
-      "published": 1792091760000
+      "published": 1792102115000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Varejo cresce 4% no Dia das Crianças, diz Getnet; transações via Pix lideraram alta",
-      "summary": "(Foto: Fernando Frazão/Agência Brasil) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2023/10/dia-das-criancas-1.jpg?fit=1170%2C700&quality=70&strip=a…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/10/dia-das-criancas-1.jpg?fit=300%2C179&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/minhas-financas/varejo-cresce-4-no-dia-das-criancas-diz-getnet-transacoes-via-pix-lideraram-alta/",
+      "title": "Lula diz que vai mandar PEC de tarifa zero aos fins de semana, custeado por emendas",
+      "summary": "O presidente do Brasil, Luiz Inácio Lula da Silva, participa de uma cerimônia no Palácio do Planalto, em Brasília, Brasil, em 14 de setembro de 2026. Foto:…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/2026-09-14T210751Z_119836162_RC27JNAF5PWV_RTRMADP_3_BRAZIL-ELECTION-LULA.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/lula-diz-que-vai-mandar-pec-de-tarifa-zero-aos-fins-de-semana-custeado-por-emendas/",
       "source": "InfoMoney",
-      "published": 1792091631000
+      "published": 1792101671000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Brasil deve voltar ao posto de 8ª maior economia do mundo em 2027, projeta FMI",
-      "summary": "economia-brasil-investimentos-investidor-estrangeiro \" data-image-caption=\" (Foto: Adobe Stock) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/economia-brasil-investimentos-investidor-estrangeiro.jpeg?fit=300%2C168&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/economia/brasil-deve-voltar-ao-posto-de-8a-maior-economia-do-mundo-em-2027-projeta-fmi/",
+      "title": "Libertadores: Onde assistir a Estudiantes x Flamengo?",
+      "summary": "Foto: Montagem IM/ Estudiantes x Flamengo \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/thumb-estudiantes-de-la-plata-x-flamengo.jpg?fit=300%2C191&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/esportes/estudiantes-flamengo-libertadores-onde-assistir/",
       "source": "InfoMoney",
-      "published": 1792090731000
+      "published": 1792101600000
     },
     {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "UBS vê continuidade no rali da Bolsa e eleva recomendação antes do 2º turno",
-      "summary": "B3 Bovespa Bolsa de Valores de São Paulo (Germano Lüders/InfoMoney) \" data-image-caption=\" B3 Bovespa Bolsa de Valores de São Paulo (Germano Lüders/InfoMoney) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/11/DSC_2768.jpg?fit=300%2C249&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/onde-investir/ubs-ve-continuidade-no-rali-da-bolsa-e-eleva-recomendacao-antes-do-2o-turno/",
-      "source": "InfoMoney",
-      "published": 1792090462000
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Com novidade em campo, Seedorf comanda atividade em dois períodos no Corinthians",
+      "summary": "O Corinthians deu sequência à preparação para enfrentar o Vitória, com Clarence Seedorf comandando trabalhos em dois períodos. Gabriel Paulista iniciou a transição no…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/249911.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/gabriel-paulista-volta-treino-corinthians-seedorf/",
+      "source": "Gazeta Esportiva",
+      "published": 1792103713000
+    },
+    {
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Melhores momentos: Palmeiras 4 x 1 Botafogo pela Copa do Brasil sub-20",
+      "summary": "O post Melhores momentos: Palmeiras 4 x 1 Botafogo pela Copa do Brasil sub-20 apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/WhatsApp-Image-2026-10-15-at-17.29.53.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-palmeiras-4-x-1-botafogo-pela-copa-do-brasil-sub-20/",
+      "source": "Gazeta Esportiva",
+      "published": 1792102851000
+    },
+    {
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Guto Miguel recebe primeiro wild card para o Costa do Sauípe Open",
+      "summary": "O brasileiro Guto Miguel, de 17 anos e atual número 1 do ranking mundial juvenil, recebeu o primeiro wild card para a chave principal do Costa do Sauípe Open, ATP…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/471742_1224415_54875516071_405e88b8a8_k_web_.webp",
+      "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/guto-miguel-wild-card-costa-do-sauipe-open/",
+      "source": "Gazeta Esportiva",
+      "published": 1792102324000
+    },
+    {
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Melhores momentos: CSKA Sofia 1 x 2 Monaco pela Conference League",
+      "summary": "Melhores momentos: CSKA Sofia 1 x 2 Monaco pela Conference League O post Melhores momentos: CSKA Sofia 1 x 2 Monaco pela Conference League apareceu primeiro em Gazeta…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/2p00ucfv-1920CSKA.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-cska-sofia-1-x-2-monaco-pela-conference-leagu/",
+      "source": "Gazeta Esportiva",
+      "published": 1792101697000
+    },
+    {
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Veja galeria de fotos do treino do Corinthians nesta quinta-feira",
+      "summary": "O post Veja galeria de fotos do treino do Corinthians nesta quinta-feira apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/249920.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-nesta-quinta-feira-11/",
+      "source": "Gazeta Esportiva",
+      "published": 1792101522000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "TSMC mantém lucro recorde, mas exige cautela para 2027",
-      "summary": "A TSMC registrou seu sexto lucro trimestral com recorde consecutivo nesta quinta-feira (15), graças ao forte impulsionamento do mercado de inteligência artificial. A…",
-      "image": "https://www.estadao.com.br/resizer/v2/YTMA2D6YGFF77AD2MZVSPSCT5I.jpg?quality=80&amp;auth=7aeaf8b163af3b2f797703328e3168d72d24137c94866dbb4e4e264c07e35855&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/tsmc-mantem-lucro-recorde-mas-exige-cautela-para-2027/",
+      "title": "Novo CEO da Acronis, Prakash Panjwani quer acelerar expansão em cibersegurança",
+      "summary": "A Acronis , gigante global em soluções de proteção cibernética, anunciou nesta quinta-feira, 15, a nomeação de Prakash Panjwani como seu novo CEO. O executivo assume o…",
+      "image": "https://www.estadao.com.br/resizer/v2/HL32VPCBORINJCHH2LZPNXU75Y.png?quality=80&amp;auth=e3adb6379dbf60e91e923f280e53e677046204848e71187567d620102c0f6f78&amp;width=1150",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/novo-ceo-da-acronis-prakash-panjwani-quer-acelerar-expansao-em-ciberseguranca/",
       "source": "Novidades do TecMundo",
-      "published": 1792090800000
+      "published": 1792101600000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Incêndios na Amazônia reduzem a absorção de carbono pela floresta",
-      "summary": "Pesquisa mostra que o ozônio gerado por queimadas enfraquece a vegetação amazônica, exigindo novas estratégias de preservação O post Incêndios na Amazônia reduzem a…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/camada_ozonio-1024x558.jpg",
-      "link": "https://olhardigital.com.br/2026/10/15/ciencia-e-espaco/incendios-na-amazonia-reduzem-a-absorcao-de-carbono-pela-floresta/",
+      "title": "DLSS 5 fica 20% mais leve e Frame Gen dá mais FPS com updates da Nvidia",
+      "summary": "A Nvidia anunciou melhorias importantes para tecnologias como o DLSS 5 e o Multi Frame Generation nos últimos dias. Esses recursos receberam atualizações que reduzem o…",
+      "image": "https://www.estadao.com.br/resizer/v2/VRHNKZZ6HZCWHFVJYJ5VVGBJKA.jpeg?quality=80&amp;auth=ae9b3286ec12a80429849159d6d7225c9885ea6a1683805684678b5739f97646&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/dlss-5-fica-20-mais-leve-e-frame-gen-da-mais-fps-com-updates-da-nvidia/",
+      "source": "Novidades do TecMundo",
+      "published": 1792098900000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Empresa de Musk promete reembolsar quem tiver compras erradas feitas pelo Grok",
+      "summary": "Erros em compras feitas pelo agente de inteligência artificial (IA) da plataforma Grok , da SpaceX, serão convertidos em reembolso imediatamente . Essa é uma garantia…",
+      "image": "https://www.estadao.com.br/resizer/v2/UVN2QHC7Y5GALBSZ3BAS2EWNSY.png?quality=80&amp;auth=98a5562fd2ca3eb0e51b0d8eb6fea6aa4750526a37c62be3fe107f69739d09cc&amp;width=1150",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/empresa-de-musk-promete-reembolsar-quem-tiver-compras-erradas-feitas-pelo-grok/",
+      "source": "Novidades do TecMundo",
+      "published": 1792098000000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Governo quer levar internet a 72 mil km de rodovias até 2030; veja como vai funcionar",
+      "summary": "Plano também busca melhorar as condições para chamadas de emergência e ampliar o uso de serviços digitais nas estradas O post Governo quer levar internet a 72 mil km de…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/internet_movel-1024x683.jpg",
+      "link": "https://olhardigital.com.br/2026/10/15/pro/governo-quer-levar-internet-a-72-mil-km-de-rodovias-ate-2030-veja-como-vai-funcionar/",
       "source": "Olhar Digital",
-      "published": 1792090637000
+      "published": 1792096074000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Sistemas planetários da Via Láctea dividem-se em duas famílias",
-      "summary": "Estudo com 300 sistemas da Via Láctea identifica duas famílias planetárias, ligadas às características das estrelas que as abrigam O post Sistemas planetários da Via…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/Destaque-Sistema-Solar-1024x576.jpg",
-      "link": "https://olhardigital.com.br/2026/10/15/ciencia-e-espaco/sistemas-planetarios-da-via-lactea-dividem-se-em-duas-familias/",
-      "source": "Olhar Digital",
-      "published": 1792089038000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "One UI 9 chega ao Galaxy A57 no Brasil; saiba quais são os próximos modelos",
-      "summary": "A One UI 9 baseada no Android 17 enfim chegou ao Galaxy A57 vendido no Brasil. Donos do celular intermediário mais avançado da Samsung relataram a disponibilidade do…",
-      "image": "https://www.estadao.com.br/resizer/v2/ENEQFPVBNJB3VENW3AXGGHTKGQ.png?quality=80&amp;auth=2fc9a2f7310e050e84d7e151ab4eb3c192ca475269165d15146a6e8b6fb72935&amp;width=1150",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-lanca-atualizacao-one-ui-9-galaxy-a57-brasil/",
+      "title": "Opera Air ganha redesign pensando em foco, som e bem-estar digital",
+      "summary": "A Opera anunciou uma atualização para o Opera Air , a versão de seu navegador desenhada desde a origem para combater a sobrecarga de informações e promover o bem-estar…",
+      "image": "https://www.estadao.com.br/resizer/v2/3PK6WXNPQJFANOPEDEK2GPCBIM.jpg?quality=80&amp;auth=cb2329fb97bc1af476e4fcd18d3907addb33c99db7ea806a33f2f4a370699612&amp;width=1150",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/opera-air-ganha-redesign-pensando-em-foco-som-e-bem-estar-digital/",
       "source": "Novidades do TecMundo",
-      "published": 1792089000000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Com fase no Brasil, Crazy Taxi World Tour dá vida a sonhos que não eram possíveis nos anos 90",
-      "summary": "Crazy Taxi: World Tour vai levar a tradicional corrida maluca de táxis para novos cenários, incluindo uma fase inspirada no Brasil. Durante a Brasil Game Show (BGS)…",
-      "image": "https://www.estadao.com.br/resizer/v2/ULPCKRBVNRBNZMP54ICE5JBUGI.jpg?quality=80&amp;auth=ab8c14c5f3ef0e660dd85dccaec5218118038e90a40cd3117e7a700b92a09644&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/com-fase-no-brasil-crazy-taxi-world-tour-da-vida-a-sonhos-que-nao-eram-possiveis-nos-anos-90/",
-      "source": "Novidades do TecMundo",
-      "published": 1792088280000
+      "published": 1792095300000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Delegacia antissequestro passa a atuar em buscas de jovem desaparecida na Grande BH",
-      "summary": "Mulher está desaparecida em Jaboticatubas A Delegacia Especializada Antissequestro (DAS), do Departamento Estadual de Operações Especiais (Deoesp), passou a atuar nas…",
-      "image": "https://s2-g1.glbimg.com/FqLk8E_WDDHHKg8IkwZPCXY5qfg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/s/jPHofeQDSFXtjoihA3Hg/chuva-distrito-paulo-camilo-1-15-.png",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/15/delegacia-antissequestro-passa-a-atuar-em-buscas-de-jovem-desaparecida-na-grande-bh.ghtml",
-      "source": "g1",
-      "published": 1792092768000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Professor do Ifba e escritores baianos são finalistas do Prêmio Jabuti 2026",
-      "summary": "Professor do Ifba e escritores baianos são finalistas do Prêmio Jabuti 2026 Reprodução/Redes Sociais Três escritores ligados à Bahia estão entre os finalistas do Prêmio…",
-      "image": "https://s2-g1.glbimg.com/G7CHpD1iHCbFpNVZraCV7NHJ3rc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/i/tJxW4MR6mTVTO7WkQACQ/principio-de-incendio-atinge-maternidade-de-hospital-privado-de-salvador-20-.png",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/15/finalistas-do-premio-jabuti-2026-da-bahia.ghtml",
-      "source": "g1",
-      "published": 1792092751000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Hospital é condenado a pagar R$ 210 mil por troca de bebês em Arapiraca",
-      "summary": "O Hospital Regional Nossa Senhora do Bom Conselho, em Arapiraca, no Agreste de Alagoas, foi condenado a pagar R$ 210 mil em indenizações pela troca de dois bebês na…",
-      "image": "https://s2-g1.glbimg.com/MvelI0DYwxjaNO4bOWFe7h4Fo8I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/I/13vne1QQi8hRDTmkSarQ/captura-de-tela-2026-10-15-160934.png",
-      "link": "https://g1.globo.com/al/alagoas/noticia/2026/10/15/hospital-e-condenado-a-pagar-r-210-mil-por-troca-de-bebes-em-arapiraca.ghtml",
-      "source": "g1",
-      "published": 1792092722000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Assista ao Gazeta Meio Dia",
-      "summary": "Assista ao Gazeta Meio Dia Fique bem informado com o seu jornal da hora do almoço.",
-      "image": "https://s2-g1.glbimg.com/8CpQ4TsHbu6uACKLyR_f_YUppqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/8/1CAMCYT0S4Dlzd6UrYnQ/gazeta-meio-dia.png",
-      "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-gazeta-meio-dia.ghtml",
-      "source": "g1",
-      "published": 1792092670000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Petrobras bate recorde e chega a R$ 800 bilhões em valor de mercado; ações sobem até 110% em 2026",
-      "summary": "A Petrobras bateu recorde no valor de mercado ao atingir R$ 800 bilhões no encerramento do pregão na B3 nesta quarta-feira (14), a primeira vez que a companhia supera…",
+      "title": "Casas Bahia fecha acordo com sindicatos e vai pagar R$ 7.500 para trabalhadores demitidos",
+      "summary": "O Grupo Casas Bahia fechou acordo com sindicatos nesta quinta-feira (15) e vai pagar R$ 7.500 aos 4.300 trabalhadores demitidos pela varejista em agosto . Conforme o…",
       "image": "",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/15/petrobras-bate-recorde-e-chega-a-r-800-bilhoes-em-valor-de-mercado-acoes-sobem-ate-110percent-em-2026.ghtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/casas-bahia-fecha-acordo-com-sindicatos-e-vai-pagar-r-7500-para-trabalhadores-demitidos.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1792104240000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Globo entrevista candidatos ao governo do DF no 2º turno das eleições",
+      "summary": "Globo entrevista candidatos ao governo do DF no 2º turno das eleições Celina Leão (PP) será sabatinada nesta quinta (15), e Leandro Grass (PT), na sexta (16).…",
+      "image": "https://s2-g1.glbimg.com/c2Sj-LY91-VZveVX7EmkRckc2Zk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/J/kcFb3pTAG1CyDAqp8bAA/whatsapp-image-2026-10-15-at-18.44.43.jpeg",
+      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/entrevista-candidatos-df-segundo-turno.ghtml",
       "source": "g1",
-      "published": 1792092663000
+      "published": 1792104229000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Onças-pintadas surpreendem jacarés durante ‘banho de sol’ no Pantanal de MT",
+      "summary": "Onças surpreendem jacarés durante 'banho de sol' no Pantanal de MT Um vídeo mostra duas onças-pintadas próximas a uma lagoa na zona rural de Poconé, no Pantanal…",
+      "image": "https://s2-g1.glbimg.com/5x9p-D8bNbicp_toqkJ0B7-SNHU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/s/7rjr1cSmqA2XzhmPOEyA/1200m-x-800-g1-1-.png",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/15/oncas-pintadas-surpreendem-jacares-durante-banho-de-sol-no-pantanal-de-mt.ghtml",
+      "source": "g1",
+      "published": 1792104206000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Boa Noite Espírito Santo entrevista Lorenzo Pazolini, candidato ao governo no 2º turno",
+      "summary": "Boa Noite Espírito Santo entrevista Lorenzo Pazolini, candidato ao governo no 2º turno Lorenzo Pazolini (Republicanos) e Ricardo Ferraço (MDB) concedem entrevista a…",
+      "image": "https://s2-g1.glbimg.com/MkBVb64-dXwl-lbkeGWfUeMVrC0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/N/TyV6FMQDCuyaJiIK5LZg/thumb-videos-g1-2026-10-15t182920.147.jpg",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/boa-noite-espirito-santo-entrevista-candidatos-ao-governo-no-2-turno.ghtml",
+      "source": "g1",
+      "published": 1792104164000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Governo dos EUA processa Califórnia por não verificar registro de eleitores",
+      "summary": "O governo dos Estados Unidos anunciou, nesta quinta-feira (15), uma ação judicial contra o estado da Califórnia, por falta de colaboração na verificação dos registros…",
+      "image": "",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/15/governo-dos-eua-processa-california-por-nao-verificar-registro-de-eleitores.ghtml",
+      "source": "g1",
+      "published": 1792104097000
     }
   ]
 }
