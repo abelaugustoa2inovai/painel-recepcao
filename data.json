@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-15T22:47:33.465Z",
+  "updatedAt": "2026-10-16T02:21:14.890Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Câmeras ajudam na identificação e prisão de suspeito de furtar comércios em Rio Preto",
+      "summary": "Homem é preso suspeito de furtar comércios em Rio Preto Um homem de 40 anos foi preso nesta quinta-feira (15) suspeito de cometer furtos a comércios em São José do Rio…",
+      "image": "https://s2-g1.glbimg.com/giVfsOZDc7ePjZzhoprw8lFDv8Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/7/UgirgDTbGec2dkDimTAg/design-sem-nome-2026-10-15t193643.906.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/15/cameras-ajudam-na-identificacao-e-prisao-de-suspeito-de-furtar-comercios-em-rio-preto.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792106330000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -43,214 +53,204 @@
       "published": 1792093230000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Motociclista morre ao ser atropelado por caminhão em avenida de Rio Preto",
-      "summary": "Motociclista morre após ser atropelado por caminhão em avenida de São José do Rio Preto (SP) TV TEM / João Selari Um motociclista de 61 anos morreu após ser atropelado…",
-      "image": "https://s2-g1.glbimg.com/0QLH9IC-gcxSlqOPS_v1MKeTfnQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/4/ybGpJdRqml5OytJ5Vzww/whatsapp-image-2026-10-15-at-15.30.45.jpeg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/15/acidente-com-morte-em-rio-preto.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792089790000
-    },
-    {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Senado aprova aumento do teto do MEI para R$ 140 mil e perdão de dívidas",
-      "summary": "Sessão no Senado Federal. Foto: Edilson Rodrigues/Agência Senado \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/senado-federal.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/senado-aprova-aumento-do-teto-do-mei-para-r-140-mil-e-perdao-de-dividas/",
+      "title": "Corregedor do TSE pede mais dados em ação sobre uso de estrutura sindical por Lula",
+      "summary": "Lula no anúncio do governo sobre proibição das bets (Foto: REUTERS/Amanda Perobelli) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Captura-de-tela-2026-09-25-184312.png?fit=300%2C201&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/corregedor-do-tse-pede-mais-dados-em-acao-sobre-uso-de-estrutura-sindical-por-lula/",
       "source": "InfoMoney",
-      "published": 1792102951000
+      "published": 1792112368000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "MSCI congela mudanças em índices de ações da Turquia",
-      "summary": "Os índices da MSCI funcionam como uma \"termômetro\" global por calcular o desempenho de carteiras teóricas de ações The post MSCI congela mudanças em índices de ações da…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/06/stocks-vs-market-md.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/msci-congela-mudancas-em-indices-de-acoes-da-turquia/",
-      "source": "InfoMoney",
-      "published": 1792102734000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Datafolha: Desaprovação de Lula chega a 50%; aprovação é de 48%",
+      "title": "Lula diz acreditar em acordo com EUA sobre tarifas, mas não descarta reciprocidade",
       "summary": "O presidente da República, Luiz Inácio Lula da Silva. Foto: Ricardo Stuckert. \"…",
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/55506752756_6dcbc7d6eb_c.jpg?fit=300%2C194&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/datafolha-50-desaprovam-lula-enquanto-48-aprovam/",
+      "link": "https://www.infomoney.com.br/politica/lula-diz-acreditar-em-acordo-com-eua-sobre-tarifas-mas-nao-descarta-reciprocidade/",
       "source": "InfoMoney",
-      "published": 1792102115000
+      "published": 1792112159000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Lula diz que vai mandar PEC de tarifa zero aos fins de semana, custeado por emendas",
-      "summary": "O presidente do Brasil, Luiz Inácio Lula da Silva, participa de uma cerimônia no Palácio do Planalto, em Brasília, Brasil, em 14 de setembro de 2026. Foto:…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/2026-09-14T210751Z_119836162_RC27JNAF5PWV_RTRMADP_3_BRAZIL-ELECTION-LULA.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/lula-diz-que-vai-mandar-pec-de-tarifa-zero-aos-fins-de-semana-custeado-por-emendas/",
+      "title": "Flávio: Lula prometeu tudo que não vai entregar; agora, promete ônibus gratuito",
+      "summary": "O candidato à Presidência Flávio Bolsonaro (PL) fala durante encontro com prefeitos da região metropolitana de São Paulo, na capital paulista, em 11 de outubro de 2026.…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-11T171312Z_818764233_RC241OAK9X5F_RTRMADP_3_BRAZIL-ELECTION-BOLSONARO.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/flavio-lula-prometeu-tudo-que-nao-vai-entregar-agora-promete-onibus-gratuito/",
       "source": "InfoMoney",
-      "published": 1792101671000
+      "published": 1792111866000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Libertadores: Onde assistir a Estudiantes x Flamengo?",
-      "summary": "Foto: Montagem IM/ Estudiantes x Flamengo \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/thumb-estudiantes-de-la-plata-x-flamengo.jpg?fit=300%2C191&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/esportes/estudiantes-flamengo-libertadores-onde-assistir/",
+      "title": "Datafolha: 20% apontam violência como principal problema do País; 18% escolhem Saúde",
+      "summary": "Violência (Fernando Frazão/Agência Brasil) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2024/07/violencia.png?fit=1170%2C700&quality=70&strip=all\"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/violencia.png?fit=300%2C179&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/datafolha-20-apontam-violencia-como-principal-problema-do-pais-18-escolhem-saude/",
       "source": "InfoMoney",
-      "published": 1792101600000
+      "published": 1792111574000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "TSE proíbe Meta de limitar alcance de conteúdos políticos sobre Lula ou Flávio",
+      "summary": "(Fotos Adriano Machado / Reuters) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes2026-pesquisa-lula-flavio-04.jpg?fit=1120%2C720&quali…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes2026-pesquisa-lula-flavio-04.jpg?fit=300%2C193&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/tse-proibe-meta-de-limitar-alcance-de-conteudos-politicos-sobre-lula-ou-flavio/",
+      "source": "InfoMoney",
+      "published": 1792111332000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Com novidade em campo, Seedorf comanda atividade em dois períodos no Corinthians",
-      "summary": "O Corinthians deu sequência à preparação para enfrentar o Vitória, com Clarence Seedorf comandando trabalhos em dois períodos. Gabriel Paulista iniciou a transição no…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/249911.webp",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/gabriel-paulista-volta-treino-corinthians-seedorf/",
+      "title": "Palmeiras vence Universitario e larga na liderança do grupo na Libertadores feminina",
+      "summary": "Em busca do bicampeonato, o Palmeiras estreou com vitória na Libertadores feminina na noite desta quinta-feira. Com um gol marcado por Brena, o Verdão venceu o…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/WhatsApp-Image-2026-10-15-at-22.22.34.webp",
+      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-vence-universitario-e-larga-na-lideranca-do-grupo-na-libertadores-feminina/",
       "source": "Gazeta Esportiva",
-      "published": 1792103713000
+      "published": 1792115874000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Palmeiras 4 x 1 Botafogo pela Copa do Brasil sub-20",
-      "summary": "O post Melhores momentos: Palmeiras 4 x 1 Botafogo pela Copa do Brasil sub-20 apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/WhatsApp-Image-2026-10-15-at-17.29.53.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-palmeiras-4-x-1-botafogo-pela-copa-do-brasil-sub-20/",
+      "title": "Felipe Massa exalta chegada de Rafael Câmara à Fórmula 1: “Será um sucesso”",
+      "summary": "A chegada de Rafael Câmara à Fórmula 1 na próxima temporada foi celebrada por Felipe Massa. Em suas redes sociais, o ex-piloto e vice-campeão da principal categoria do…",
+      "image": "https://static.gazetaesportiva.com/uploads/2025/11/felipe-massa.webp",
+      "link": "https://www.gazetaesportiva.com/motor/formula-1/felipe-massa-exalta-chegada-de-rafael-camara-a-formula-1-sera-um-sucesso/",
       "source": "Gazeta Esportiva",
-      "published": 1792102851000
+      "published": 1792115762000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Guto Miguel recebe primeiro wild card para o Costa do Sauípe Open",
-      "summary": "O brasileiro Guto Miguel, de 17 anos e atual número 1 do ranking mundial juvenil, recebeu o primeiro wild card para a chave principal do Costa do Sauípe Open, ATP…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/471742_1224415_54875516071_405e88b8a8_k_web_.webp",
-      "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/guto-miguel-wild-card-costa-do-sauipe-open/",
+      "title": "Veja fotos do duelo entre Estudiantes e Flamengo pelas semis da Libertadores",
+      "summary": "Veja uma galeria de fotos do duelo entre Estudiantes e Flamengo, nesta quinta-feira, pela ida da semifinal da Copa Libertadores. O post Veja fotos do duelo entre…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261016__D3FN6UA__v1__HighRes__FblLibertadoresEstudiantesFlamengo.webp",
+      "link": "https://www.gazetaesportiva.com/times/flamengo/veja-fotos-do-duelo-entre-estudiantes-e-flamengo-pelas-semis-da-libertadores/",
       "source": "Gazeta Esportiva",
-      "published": 1792102324000
+      "published": 1792112451000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: CSKA Sofia 1 x 2 Monaco pela Conference League",
-      "summary": "Melhores momentos: CSKA Sofia 1 x 2 Monaco pela Conference League O post Melhores momentos: CSKA Sofia 1 x 2 Monaco pela Conference League apareceu primeiro em Gazeta…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/2p00ucfv-1920CSKA.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-cska-sofia-1-x-2-monaco-pela-conference-leagu/",
+      "title": "Grêmio faz jogo-treino em meio à preparação para enfrentar o Cruzeiro",
+      "summary": "O elenco do Grêmio voltou a treinar no CT Presidente Luiz Carvalho na tarde desta quinta-feira. Os trabalhos contaram com um jogo-treino diante do Sindicato dos Atletas,…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55592150354_12646a7361_o-1.webp",
+      "link": "https://www.gazetaesportiva.com/times/gremio/gremio-faz-jogo-treino-em-meio-a-preparacao-para-enfrentar-o-cruzeiro/",
       "source": "Gazeta Esportiva",
-      "published": 1792101697000
+      "published": 1792112029000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Veja galeria de fotos do treino do Corinthians nesta quinta-feira",
-      "summary": "O post Veja galeria de fotos do treino do Corinthians nesta quinta-feira apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/249920.webp",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-treino-do-corinthians-nesta-quinta-feira-11/",
+      "title": "Tenista sérvio é suspenso até 2050 por manipular jogos",
+      "summary": "O tenista sérvio Stefan Milicevic foi suspenso até 2050 pela Agência Internacional para a Integridade no Tênis (ITIA) após ser considerado líder de uma rede de…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261015__D3DF6G3__v1__HighRes__TennisAtpChn.webp",
+      "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/stefan-milicevic-suspenso-2050-manipulacao-resultados/",
       "source": "Gazeta Esportiva",
-      "published": 1792101522000
+      "published": 1792111767000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Novo CEO da Acronis, Prakash Panjwani quer acelerar expansão em cibersegurança",
-      "summary": "A Acronis , gigante global em soluções de proteção cibernética, anunciou nesta quinta-feira, 15, a nomeação de Prakash Panjwani como seu novo CEO. O executivo assume o…",
-      "image": "https://www.estadao.com.br/resizer/v2/HL32VPCBORINJCHH2LZPNXU75Y.png?quality=80&amp;auth=e3adb6379dbf60e91e923f280e53e677046204848e71187567d620102c0f6f78&amp;width=1150",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/novo-ceo-da-acronis-prakash-panjwani-quer-acelerar-expansao-em-ciberseguranca/",
-      "source": "Novidades do TecMundo",
-      "published": 1792101600000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "DLSS 5 fica 20% mais leve e Frame Gen dá mais FPS com updates da Nvidia",
-      "summary": "A Nvidia anunciou melhorias importantes para tecnologias como o DLSS 5 e o Multi Frame Generation nos últimos dias. Esses recursos receberam atualizações que reduzem o…",
-      "image": "https://www.estadao.com.br/resizer/v2/VRHNKZZ6HZCWHFVJYJ5VVGBJKA.jpeg?quality=80&amp;auth=ae9b3286ec12a80429849159d6d7225c9885ea6a1683805684678b5739f97646&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/dlss-5-fica-20-mais-leve-e-frame-gen-da-mais-fps-com-updates-da-nvidia/",
-      "source": "Novidades do TecMundo",
-      "published": 1792098900000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Empresa de Musk promete reembolsar quem tiver compras erradas feitas pelo Grok",
-      "summary": "Erros em compras feitas pelo agente de inteligência artificial (IA) da plataforma Grok , da SpaceX, serão convertidos em reembolso imediatamente . Essa é uma garantia…",
-      "image": "https://www.estadao.com.br/resizer/v2/UVN2QHC7Y5GALBSZ3BAS2EWNSY.png?quality=80&amp;auth=98a5562fd2ca3eb0e51b0d8eb6fea6aa4750526a37c62be3fe107f69739d09cc&amp;width=1150",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/empresa-de-musk-promete-reembolsar-quem-tiver-compras-erradas-feitas-pelo-grok/",
-      "source": "Novidades do TecMundo",
-      "published": 1792098000000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Governo quer levar internet a 72 mil km de rodovias até 2030; veja como vai funcionar",
-      "summary": "Plano também busca melhorar as condições para chamadas de emergência e ampliar o uso de serviços digitais nas estradas O post Governo quer levar internet a 72 mil km de…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/internet_movel-1024x683.jpg",
-      "link": "https://olhardigital.com.br/2026/10/15/pro/governo-quer-levar-internet-a-72-mil-km-de-rodovias-ate-2030-veja-como-vai-funcionar/",
+      "title": "Tesla revela Roadster que “voa” e dirige de ponta-cabeça com tecnologia da SpaceX",
+      "summary": "Novo supercarro promete recursos dignos de ficção científica, mas ainda não tem data de entrega confirmada; reservas seguem abertas por R$ 270 mil O post Tesla revela…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/roadster-tesla-ramp-1024x517.jpg",
+      "link": "https://olhardigital.com.br/2026/10/15/carros-e-tecnologia/tesla-revela-roadster-que-voa-e-dirige-de-ponta-cabeca-com-tecnologia-da-spacex/",
       "source": "Olhar Digital",
-      "published": 1792096074000
+      "published": 1792115020000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Opera Air ganha redesign pensando em foco, som e bem-estar digital",
-      "summary": "A Opera anunciou uma atualização para o Opera Air , a versão de seu navegador desenhada desde a origem para combater a sobrecarga de informações e promover o bem-estar…",
-      "image": "https://www.estadao.com.br/resizer/v2/3PK6WXNPQJFANOPEDEK2GPCBIM.jpg?quality=80&amp;auth=cb2329fb97bc1af476e4fcd18d3907addb33c99db7ea806a33f2f4a370699612&amp;width=1150",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/opera-air-ganha-redesign-pensando-em-foco-som-e-bem-estar-digital/",
-      "source": "Novidades do TecMundo",
-      "published": 1792095300000
+      "title": "Seu Direito Digital: MPF investiga redes sociais por bloqueios de conteúdo nas eleições",
+      "summary": "Leandro Alvarenga, colunista do Olhar Digital News, explica até onde vai o poder das plataformas de moderar conteúdo em período eleitoral O post Seu Direito Digital: MPF…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/10/15/colunistas/seu-direito-digital-mpf-investiga-redes-sociais-por-bloqueios-de-conteudo-nas-eleicoes/",
+      "source": "Olhar Digital",
+      "published": 1792112193000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "ChatGPT ganha acesso às abas do Chrome e pode executar tarefas no navegador",
+      "summary": "Atualização da extensão permite comparar páginas abertas, preencher formulários, enviar mensagens e organizar abas; recursos dependem de permissões do usuário O post…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/google-chrome-1024x576.jpg",
+      "link": "https://olhardigital.com.br/2026/10/15/inteligencia-artificial/chatgpt-ganha-acesso-as-abas-do-chrome-e-pode-executar-tarefas-no-navegador/",
+      "source": "Olhar Digital",
+      "published": 1792110876000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Anthropic: investidores reduzem expectativa de avaliação para IPO de R$ 8,1 trilhões",
+      "summary": "Desaceleração do crescimento da receita e custos bilionários de infraestrutura de IA preocupam investidores antes da abertura de capital, prevista para novembro O post…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/10/15/pro/anthropic-investidores-reduzem-expectativa-de-avaliacao-para-ipo-de-r-8-1-trilhoes/",
+      "source": "Olhar Digital",
+      "published": 1792108047000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Resultado da Lotofácil de hoje: veja números e ganhadores do concurso 3805 (quinta, 15/10)",
+      "summary": "O sorteio do concurso 3805 da Lotofácil acontece na noite desta quinta-feira (15), às 21h. O prêmio está estimado em R$ 5 milhões O post Resultado da Lotofácil de hoje:…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/10/15/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3805-quinta-15-10/",
+      "source": "Olhar Digital",
+      "published": 1792107600000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Casas Bahia fecha acordo com sindicatos e vai pagar R$ 7.500 para trabalhadores demitidos",
-      "summary": "O Grupo Casas Bahia fechou acordo com sindicatos nesta quinta-feira (15) e vai pagar R$ 7.500 aos 4.300 trabalhadores demitidos pela varejista em agosto . Conforme o…",
+      "title": "Datafolha: Flávio tem 59% dos votos válidos entre não alinhados, contra 41% de Lula",
+      "summary": "O senador Flávio Bolsonaro ( PL ) tem 59% das intenções de votos válidos entre eleitores não alinhados ao petismo ou ao bolsonarismo, contra 41% do presidente Lula ( PT…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/casas-bahia-fecha-acordo-com-sindicatos-e-vai-pagar-r-7500-para-trabalhadores-demitidos.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-tem-59-dos-votos-validos-entre-nao-alinhados-contra-41-de-lula.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1792104240000
+      "published": 1792116900000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Globo entrevista candidatos ao governo do DF no 2º turno das eleições",
-      "summary": "Globo entrevista candidatos ao governo do DF no 2º turno das eleições Celina Leão (PP) será sabatinada nesta quinta (15), e Leandro Grass (PT), na sexta (16).…",
-      "image": "https://s2-g1.glbimg.com/c2Sj-LY91-VZveVX7EmkRckc2Zk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/J/kcFb3pTAG1CyDAqp8bAA/whatsapp-image-2026-10-15-at-18.44.43.jpeg",
-      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/entrevista-candidatos-df-segundo-turno.ghtml",
-      "source": "g1",
-      "published": 1792104229000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Onças-pintadas surpreendem jacarés durante ‘banho de sol’ no Pantanal de MT",
-      "summary": "Onças surpreendem jacarés durante 'banho de sol' no Pantanal de MT Um vídeo mostra duas onças-pintadas próximas a uma lagoa na zona rural de Poconé, no Pantanal…",
-      "image": "https://s2-g1.glbimg.com/5x9p-D8bNbicp_toqkJ0B7-SNHU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/s/7rjr1cSmqA2XzhmPOEyA/1200m-x-800-g1-1-.png",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/15/oncas-pintadas-surpreendem-jacares-durante-banho-de-sol-no-pantanal-de-mt.ghtml",
-      "source": "g1",
-      "published": 1792104206000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Boa Noite Espírito Santo entrevista Lorenzo Pazolini, candidato ao governo no 2º turno",
-      "summary": "Boa Noite Espírito Santo entrevista Lorenzo Pazolini, candidato ao governo no 2º turno Lorenzo Pazolini (Republicanos) e Ricardo Ferraço (MDB) concedem entrevista a…",
-      "image": "https://s2-g1.glbimg.com/MkBVb64-dXwl-lbkeGWfUeMVrC0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/N/TyV6FMQDCuyaJiIK5LZg/thumb-videos-g1-2026-10-15t182920.147.jpg",
-      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/boa-noite-espirito-santo-entrevista-candidatos-ao-governo-no-2-turno.ghtml",
-      "source": "g1",
-      "published": 1792104164000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Governo dos EUA processa Califórnia por não verificar registro de eleitores",
-      "summary": "O governo dos Estados Unidos anunciou, nesta quinta-feira (15), uma ação judicial contra o estado da Califórnia, por falta de colaboração na verificação dos registros…",
+      "title": "Por que muitas mulheres não conseguem produzir leite materno suficiente",
+      "summary": "A dificuldade para amamentar é uma característica marcante do início da maternidade para muitas mulheres. Dos cerca de 90% das mães de países ricos que começam a…",
       "image": "",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/15/governo-dos-eua-processa-california-por-nao-verificar-registro-de-eleitores.ghtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/10/por-que-muitas-mulheres-nao-conseguem-produzir-leite-materno-suficiente.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1792116600000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Veja o que é #FATO ou #FAKE na entrevista de Lula à Globo no 2º turno das eleições 2026",
+      "summary": "Lula dá entrevista ao JN Manuella Mello/Globo O presidente Lula (PT), candidato à reeleição, foi entrevistado nesta quinta-feira (15) pela TV Globo. Conduzida pela…",
+      "image": "https://s2-g1.glbimg.com/YWW0J5ke-1FKadoeIAy0ZpBwHx8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/y/Gm4VveTTODawKHx6CJYQ/whatsapp-image-2026-10-15-at-21.18.18.jpeg",
+      "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/15/veja-o-que-e-fato-ou-fake-na-entrevista-de-lula-a-globo-no-2o-turno-das-eleicoes-2026.ghtml",
       "source": "g1",
-      "published": 1792104097000
+      "published": 1792116593000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Vídeo mostra carro tomado pelas chamas próximo ao Hospital Mário Gatti, em Campinas",
+      "summary": "Vídeo mostra carro tomado pelas chamas próximo ao Hospital Mário Gatti, em Campinas Um automóvel ficou completamente destruído após pegar fogo na noite desta…",
+      "image": "https://s2-g1.glbimg.com/gXO292Ih-Ijz2vNQJkpT--7Ml_Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/G/UVxS33SEuGVTzFygLzjA/design-sem-nome-2026-10-15t225038.513.jpg",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/15/video-mostra-carro-tomado-pelas-chamas-proximo-ao-hospital-mario-gatti-em-campinas.ghtml",
+      "source": "g1",
+      "published": 1792116304000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Sofrimento com, ou talvez logo sem, Seedorf",
+      "summary": "Clarence Seedorf será o primeiro holandês a atuar no Campeonato Brasileiro como treinador. Ele chega ao Corinthians para substituir Fernando Diniz, demitido depois de o…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/o-mundo-e-uma-bola/2026/10/sofrimento-com-ou-talvez-logo-sem-seedorf.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1792116300000
     }
   ]
 }
