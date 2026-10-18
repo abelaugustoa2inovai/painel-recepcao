@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-18T17:01:16.150Z",
+  "updatedAt": "2026-10-18T19:53:22.188Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Polícia investiga caso de injúria contra adolescente venezuelano em condomínio de Rio Preto",
+      "summary": "Delegacia de Polícia Civil de São José do Rio Preto (SP) Google Street View/Reprodução A Polícia Civil investiga uma denúncia de injúria praticada contra um adolescente…",
+      "image": "https://s2-g1.glbimg.com/RzWwwE91mdIpnBQ9ngvsg5fyIsk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/h/wnFFe0TmKSO08vmkkrrg/rp.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/18/policia-investiga-caso-de-injuria-contra-adolescente-venezuelano-em-condominio-de-rio-preto.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792348246000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -43,214 +53,204 @@
       "published": 1792319401000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Produtores do oeste paulista se preparam para período de chuvas e adaptam lavouras",
-      "summary": "Produtores do oeste paulista se preparam para período de chuvas e adaptam lavouras TV TEM Entre outubro e março, período conhecido como época das águas, produtores…",
-      "image": "https://s2-g1.glbimg.com/lwcAG5qH6QJq0fsSnrBZQR-42YE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/6/f78xoVSkaSs8dsnt5Log/bau-epoca-aguas.copy.01-frame-2797.jpeg",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/10/18/produtores-do-oeste-paulista-se-preparam-para-periodo-de-chuvas-e-adaptam-lavouras.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792319401000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Brasileirão 2026: Onde assistir a Bahia x Flamengo?",
+      "summary": "Foto: Montagem IM/ Bahia x Flamengo \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/thumb-bahia-x-flamengo.jpg?fit=1100%2C700&quality=70&strip=…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/thumb-bahia-x-flamengo.jpg?fit=300%2C191&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/esportes/bahia-flamengo-brasileirao-2026-onde-assistir/",
+      "source": "InfoMoney",
+      "published": 1792353000000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Aliados de Trump na América Latina aprofundam laços com credores de Washington",
-      "summary": "Donald Trump, à direita, e Javier Milei. Fotógrafo: Roberto Schmidt/Getty Images © Bloomberg LP All rights reserved \" data-image-caption=\" Donald Trump, à direita, e…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/471238166.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/aliados-de-trump-na-america-latina-aprofundam-lacos-com-credores-de-washington/",
+      "title": "Macron condena cenas “chocantes” de violência em toda a França",
+      "summary": "O presidente francês Emmanuel Macron aparece na tela enquanto faz um discurso televisionado à nação, um dia após confrontos ocorridos durante um dia nacional de…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-18T190006Z_1_LYNXMPEM9H0IG_RTROPTP_4_FRANCE-PROTEST.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/macron-condena-cenas-chocantes-de-violencia-em-toda-a-franca/",
       "source": "InfoMoney",
-      "published": 1792342800000
+      "published": 1792352546000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Fluminense x Santos: Onde assistir ao Brasileirão?",
-      "summary": "Foto: Montagem IM/ Fluminense x Santos \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/thumb-fluminense-x-santos.jpg?fit=1100%2C700&quality=70&…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/thumb-fluminense-x-santos.jpg?fit=300%2C191&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/esportes/fluminense-santos-onde-assistir-brasileirao/",
+      "title": "Lavrov visitará Irã para discutir crise no Golfo Pérsico e ampliar cooperação",
+      "summary": "O ministro das Relações Exteriores da Rússia, Sergei Lavrov, fala durante coletiva de imprensa conjunta com o chanceler do Egito, Badr Abdelatty, após reunião em Moscou,…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-03T133320Z_178475066_RC2MHKAHV7RI_RTRMADP_3_RUSSIA-EGYPT.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/lavrov-visitara-ira-para-discutir-crise-no-golfo-persico-e-ampliar-cooperacao/",
       "source": "InfoMoney",
-      "published": 1792341900000
+      "published": 1792352520000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Caminhão invade partida de futebol no Kansas e mata duas pessoas, incluindo criança",
-      "summary": "Polícia no local onde um veículo invadiu uma partida de futebol no Stryker Sports Complex, em Wichita, Kansas, EUA, em 17 de outubro de 2026, em uma imagem estática…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-18T152652Z_1_LYNXMPEM9H0BY_RTROPTP_4_USA-CRASH-WICHITA.jpg?fit=300%2C169&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/caminhao-invade-partida-de-futebol-no-kansas-e-mata-duas-pessoas-incluindo-crianca/",
+      "title": "Vietnã assina acordo de livre comércio com países europeus, incluindo Noruega e Suíça",
+      "summary": "Bandeira do Vietnã (Aerra Carnicom via Wikimedia Commons) \" data-image-caption=\" Bandeira do Vietnã (Aerra Carnicom via Wikimedia Commons) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/CGI_Vietnam_Flag.png?fit=300%2C169&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/vietna-assina-acordo-de-livre-comercio-com-paises-europeus-incluindo-noruega-e-suica/",
       "source": "InfoMoney",
-      "published": 1792340220000
+      "published": 1792351800000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Eleições: quem não votou no primeiro turno pode participar do segundo",
-      "summary": "(Foto: Rovena Rosa/Agência Brasil) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/0g0a9889.webp?fit=1170%2C700&quality=70&strip=all\" />Cada…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/0g0a9889.webp?fit=300%2C179&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/eleicoes-quem-nao-votou-no-primeiro-turno-pode-participar-do-segundo/",
+      "title": "Quatro ministros desembarcam em Manaus para reforçar combate a incêndios e fumaça",
+      "summary": "Fumaça dos incêndios na Floresta Amazônica cobre a cidade de Manaus, no Amazonas 12 de outubro de 2026 REUTERS/Bruno Kelly \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-14T151231Z_1_LYNXMPEM9D1M1_RTROPTP_4_BRAZIL-ENVIRONMENT.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/brasil/quatro-ministros-desembarcam-em-manaus-para-reforcar-combate-a-incendios-e-fumaca/",
       "source": "InfoMoney",
-      "published": 1792340194000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Trump apoia Netanyahu nas eleições em Israel",
-      "summary": "Uma pessoa anda de bicicleta perto de um cartaz eleitoral com a imagem do primeiro-ministro de Israel, Benjamin Netanyahu, líder do partido Likud, em Sderot, próximo à…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-18T154302Z_1_LYNXMPEM9H0CS_RTROPTP_4_ISRAEL-ELECTION.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/trump-apoia-netanyahu-nas-eleicoes-em-israel/",
-      "source": "InfoMoney",
-      "published": 1792339920000
+      "published": 1792351500000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Leverkusen 2 x 1 Freiburg pelo Alemão",
-      "summary": "Melhores momentos: Leverkusen 2 x 1 Freiburg pelo Alemão O post Melhores momentos: Leverkusen 2 x 1 Freiburg pelo Alemão apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Leverkusen.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-leverkusen-2-x-1-freiburg-pelo-alemao/",
+      "title": "Grêmio x Cruzeiro: veja fotos do jogo pela 31ª rodada do Brasileiro",
+      "summary": "O post Grêmio x Cruzeiro: veja fotos do jogo pela 31ª rodada do Brasileiro apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55597926280_8337b9f4ee_k-1.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/gremio-x-cruzeiro-veja-fotos-do-jogo-pela-31a-rodada-do-brasileiro/",
       "source": "Gazeta Esportiva",
-      "published": 1792340003000
+      "published": 1792352712000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Leverkusen bate Freiburg e ajuda Bayern de Munique a assumir liderança isolada do Alemão",
-      "summary": "O Bayer Leverkusen venceu o Freiburg por 2 a 1 neste sábado, na BayArena, pela Bundesliga. Após sair atrás no placar, a equipe reagiu com gols de Ibrahim Maza e Patrik…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261018__D3N336P__v1__HighRes__FblGerBundesligaLeverkusenFreiburg.webp",
-      "link": "https://www.gazetaesportiva.com/times/bayer-leverkusen/leverkusen-vence-freiburg-bundesliga/",
+      "title": "Milan vence Atalanta e volta ao G4 do Campeonato Italiano",
+      "summary": "O Milan venceu a Atalanta por 3 a 2 no San Siro pela sétima rodada do Campeonato Italiano e entrou no G4 da competição, chegando aos 15 pontos. Já a Atalanta permaneceu…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261018__D3NB77V__v1__HighRes__FblItaSerieaAcMilanAtalanta.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/serie-a/milan-vence-atalanta-e-volta-ao-g4-do-campeonato-italiano/",
       "source": "Gazeta Esportiva",
-      "published": 1792339147000
+      "published": 1792350318000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Santos vence a Ponte Preta e avança às quartas de final do Paulista Sub-20",
-      "summary": "O Santos venceu a Ponte Preta por 2 a 1 neste domingo, no CT Rei Pelé, pelo jogo de volta das oitavas de final do Campeonato Paulista Sub-20. Após repetir o placar da…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/HU7BvANWYAAIi0T.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/santos-vence-ponte-preta-paulista-sub-20/",
+      "title": "PSG confirma lesão de Nuno Mendes e acende alerta para duelo com o Barcelona",
+      "summary": "O Paris Saint-Germain confirmou que o lateral-esquerdo Nuno Mendes sofreu uma lesão muscular na coxa esquerda e ficará afastado dos gramados por várias semanas. O…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261014__D3BH9E9__v1__HighRes__FblEurC1ManCityPsg.webp",
+      "link": "https://www.gazetaesportiva.com/times/paris-saint-germain/psg-confirma-lesao-nuno-mendes/",
       "source": "Gazeta Esportiva",
-      "published": 1792337557000
+      "published": 1792350156000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Palmeiras vence Botafogo-SP e avança às quartas de final do Paulista Sub-20",
-      "summary": "O Palmeiras venceu o Botafogo-SP por 3 a 0 neste domingo, na Arena Crefisa Barueri, pelo jogo de volta das oitavas de final do Campeonato Paulista Sub-20. Com o…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/FTM_3360.jpg-2000x1200-1.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-vence-botafogo-sp-e-avanca-as-quartas-de-final-do-paulista-sub-20/",
+      "title": "Fluminense x Santos: siga o tempo real do jogo pelo Brasileirão",
+      "summary": "Fluminense e Santos se enfrentam neste domingo, às 16h, no Maracanã, pela 31ª rodada do Brasileirão. Acompanhe o jogo em tempo real. O post Fluminense x Santos: siga o…",
+      "image": "https://static.gazetaesportiva.com/uploads/2025/04/image-18.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/fluminense-x-santos-brasileirao-2026/",
       "source": "Gazeta Esportiva",
-      "published": 1792335405000
+      "published": 1792349125000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Manchester United cede empate ao Leeds e chega a cinco jogos sem vencer no Inglês",
-      "summary": "O Manchester United empatou por 1 a 1 com o Leeds United, neste domingo, em Elland Road, pela sétima rodada da Premier League. Bryan Mbeumo marcou para os visitantes,…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261018__D3MT6V2__v1__MidRes__FblEngPrLeedsManUtd.webp",
-      "link": "https://www.gazetaesportiva.com/times/manchester-united/manchester-united-cede-empate-ao-leeds-e-chega-a-cinco-jogos-sem-vencer-no-ingles/",
+      "title": "Grêmio x Cruzeiro: siga o tempo real do jogo pela 31ª rodada do Brasileirão",
+      "summary": "Grêmio e Cruzeiro se enfrentam a partir das 16h (de Brasília) deste domingo, na Arena do Grêmio, em Porto Alegre (RS), pela 31ª rodada do Campeonato Brasileiro.…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/HU7fKXxW0AA7EVg.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/gremio-x-cruzeiro-brasileirao-18-10-2026/",
       "source": "Gazeta Esportiva",
-      "published": 1792335353000
+      "published": 1792349118000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Desenvolvedores de GTA 6 visitaram clubes de striptease e andaram com a polícia em Miami",
-      "summary": "A Rockstar Games levou a equipe de desenvolvimento de GTA 6 a Miami, cidade que serve de inspiração para a fictícia Vice City, para pesquisar de perto os ambientes e as…",
-      "image": "https://www.estadao.com.br/resizer/v2/YUXNAO5LA5AWRO6HZRFX2NPYIA.jpg?quality=80&amp;auth=1418e677c753bd587331fe8d4a378e79f8c9ae9c5620686cf3bdf51a26ba0a12&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/desenvolvedores-de-gta-6-visitaram-clubes-de-striptease-e-andaram-com-a-policia-em-miami/",
+      "title": "Som portátil sem complicação: veja uma seleção de caixas de som Bluetooth em promoção na Amazon",
+      "summary": "Se você está em busca de uma boa caixa de som Bluetooth para levar na praia, na festa ou simplesmente para ouvir música em casa com mais liberdade, a Amazon reúne…",
+      "image": "https://m.media-amazon.com/images/I/41iyGCvpRtL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/18/reviews/som-portatil-sem-complicacao-veja-uma-selecao-de-caixas-de-som-bluetooth-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "published": 1792350242000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Supernova de 1181 deixou estrela viva e estruturas misteriosas no espaço",
+      "summary": "Imagens do remanescente Pa 30 mostram filamentos de gases e estruturas uniformes que intrigam astrônomos desde a explosão registrada em 1181 O post Supernova de 1181…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/apjae9cb2f1_hr-1024x1019.jpg",
+      "link": "https://olhardigital.com.br/2026/10/18/ciencia-e-espaco/supernova-de-1181-deixou-estrela-viva-e-estruturas-misteriosas-no-espaco/",
+      "source": "Olhar Digital",
+      "published": 1792349604000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Quer jogar com mais imersão? Confira uma seleção de headsets gamer em promoção na Amazon",
+      "summary": "Se você está em busca de um headset gamer para elevar a experiência nos seus jogos favoritos, a Amazon reúne boas opções com preços atrativos agora mesmo. Separamos três…",
+      "image": "https://m.media-amazon.com/images/I/41j1S82Wg8L._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/18/reviews/quer-jogar-com-mais-imersao-confira-uma-selecao-de-headsets-gamer-em-promocao-na-amazon-13/",
+      "source": "Olhar Digital",
+      "published": 1792349042000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Selecionamos os melhores fones Bluetooth em promoção para você aproveitar agora",
+      "summary": "Se você está em busca de um bom fone de ouvido sem fio, chegou a hora certa. Reunimos três opções de fones Bluetooth em oferta na Amazon, com modelos para diferentes…",
+      "image": "https://m.media-amazon.com/images/I/31eeSqQHCvL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/18/reviews/selecionamos-os-melhores-fones-bluetooth-em-promocao-para-voce-aproveitar-agora-2/",
+      "source": "Olhar Digital",
+      "published": 1792347842000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Barracuda V2 Pro: novo fone da Razer deixa escutar som do PC e celular ao mesmo tempo",
+      "summary": "A Razer anunciou o Barracuda V2 Pro , seu mais novo headset gamer sem fio de categoria premium. O modelo chega com a proposta de oferecer conectividade simultânea aos…",
+      "image": "https://www.estadao.com.br/resizer/v2/LVKAACWGCZHSLJGQFGSJLTONFA.png?quality=80&amp;auth=b96d93a0392083c20980e16119bb6f845dce9bd225240d92ce71ecd7d3dddc0f&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/barracuda-v2-pro-novo-fone-da-razer-deixa-escutar-som-do-pc-e-celular-ao-mesmo-tempo/",
       "source": "Novidades do TecMundo",
-      "published": 1792340100000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Quer monitorar sua saúde com estilo? Confira uma seleção de smartwatches em promoção na Amazon",
-      "summary": "Os smartwatches deixaram de ser apenas acessório e se tornaram aliados do dia a dia — do monitoramento da saúde às notificações no pulso. Se você está pensando em dar um…",
-      "image": "https://m.media-amazon.com/images/I/41NXd7sA45L._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/18/reviews/quer-monitorar-sua-saude-com-estilo-confira-uma-selecao-de-smartwatches-em-promocao-na-amazon/",
-      "source": "Olhar Digital",
-      "published": 1792339442000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Lula x Flávio Bolsonaro: veja onde assistir ao debate da Band hoje",
-      "summary": "Lula e Flávio Bolsonaro se enfrentam neste domingo (18), às 20h, em debate transmitido pela Band, YouTube e outras plataformas O post Lula x Flávio Bolsonaro: veja onde…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/10/18/internet-e-redes-sociais/lula-x-flavio-bolsonaro-veja-onde-assistir-ao-debate-da-band-hoje/",
-      "source": "Olhar Digital",
-      "published": 1792339384000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Hora de economizar: Xiaomi Redmi em promoção na Amazon",
-      "summary": "Se você está de olho em um smartphone confiável, com boa memória e desempenho sólido para o dia a dia, a Xiaomi tem opções interessantes em oferta agora na Amazon.…",
-      "image": "https://m.media-amazon.com/images/I/415mBguZF6L._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/18/reviews/hora-de-economizar-xiaomi-redmi-em-promocao-na-amazon-8/",
-      "source": "Olhar Digital",
-      "published": 1792338242000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Moto g em destaque: uma seleção de smartphones Motorola que valem muito a pena",
-      "summary": "A Motorola segue firme como uma das marcas mais populares do mercado brasileiro, e não é à toa: a linha Moto g oferece boa relação entre desempenho, câmera e bateria em…",
-      "image": "https://m.media-amazon.com/images/I/41uVEXHuhUL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/18/reviews/moto-g-em-destaque-uma-selecao-de-smartphones-motorola-que-valem-muito-a-pena/",
-      "source": "Olhar Digital",
-      "published": 1792337042000
+      "published": 1792347300000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Mega-Sena: bolão de Palmas acerta quina e ganha mais de R$ 117 mil",
-      "summary": "Concurso 3071 da Mega-Sena: veja os números sorteados Um bolão com registrado em Palmas acertou cinco números da Mega-Sena e faturou R$ 117.613,42. O sorteio do concurso…",
-      "image": "https://s2-g1.glbimg.com/PiWlLi5ewKcoHIeUBaB5eWHX9Yg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/n/hYlvhFRMWHYN7QY4XkQg/edicao-imagens-g1-45-.png",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/10/18/mega-sena-bolao-de-palmas-acerta-quina-e-ganha-mais-de-r-117-mil.ghtml",
+      "title": "Baixada Santista e Vale do Ribeira têm previsão de chuva forte durante a semana; confira",
+      "summary": "Chuva forte em Santos (SP) Arquivo/A Tribuna Jornal A Baixada Santista e o Vale do Ribeira devem ter períodos de sol entre nuvens e pancadas de chuva entre esta…",
+      "image": "https://s2-g1.glbimg.com/wKQclc7xFPZatOOrDtKT-LBFlbA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/z/BC8lzoRf6YHHHnQGNfQA/100826chuva03.jpg",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/18/baixada-santista-e-vale-do-ribeira-tem-previsao-de-chuva-forte-durante-a-semana-confira.ghtml",
       "source": "g1",
-      "published": 1792342659000
+      "published": 1792352921000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "França registra novos confrontos em Paris após dia de protestos",
-      "summary": "Policiais franceses com equipamento de proteção nas ruas de Paris durante protesto no domingo (18) Abdul Saboor/Reuters Novos confrontos eclodiram em Paris neste domingo…",
-      "image": "https://s2-g1.glbimg.com/9XA5cJkyT3eptdHwOyxpN0cRSFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/T/8dkAyVRlOvPVIhVPW3kg/2026-10-18t162830z-1582667973-rc2r5oaerroy-rtrmadp-3-france-protest.jpg",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/18/franca-registra-novos-confrontos-em-paris-apos-dia-de-protestos.ghtml",
+      "title": "Eleitores com deficiência podem solicitar transporte gratuito para votar em MS",
+      "summary": "Eleitores podem ter acesso a transporte gratuito TSE Eleitores com deficiência ou mobilidade reduzida que votam em Campo Grande podem solicitar transporte especial…",
+      "image": "https://s2-g1.glbimg.com/7vmtKptOHtgFaPvAWbsYhBxRAu0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/2/MbAiyORhm4JMAnEcuBLg/eleitor-com-deficientca.jpg",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/18/eleitores-com-deficiencia-podem-solicitar-transporte-gratuito-para-votar-em-ms.ghtml",
       "source": "g1",
-      "published": 1792342403000
+      "published": 1792352708000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Manutenção da Copasa pode deixar bairros de BH sem água neste domingo; veja lista",
-      "summary": "Falta de água (imagem ilustrativa) Divulgação Uma manutenção operacional emergencial da Companhia de Saneamento de Minas Gerais (Copasa) pode causar intermitências no…",
-      "image": "https://s2-g1.glbimg.com/Mzm1X9MeO46vUg9__CHZDwOSuOc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/s/EJuph8R7iNU0D0B68SEw/torneira-2.jpg",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/18/manutencao-da-copasa-intermitencia-abastecimento-bairros-bh-domingo-lista.ghtml",
+      "title": "Tatuí abre inscrições para curso gratuito de empreendedorismo feminino; saiba como participar",
+      "summary": "Tatuí oferece cursos para empreendedorismo feminino Divulgação / Prefeitura de Tatuí Tatuí (SP) abriu inscrições para cursos e capacitações gratuitas de empreendedorismo…",
+      "image": "https://s2-g1.glbimg.com/gg20vWAcEA3pKEAO8E-o9I6Vo4U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/n/B6DyRIQnWHMUBTkPDdkQ/tatui.jpg",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/18/tatui-abre-inscricoes-para-curso-gratuito-de-empreendedorismo-feminino-saiba-como-participar.ghtml",
       "source": "g1",
-      "published": 1792342387000
+      "published": 1792352666000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Milhares de romeiros participam da peregrinação a Divina Pastora",
-      "summary": "Milhares de romeiros participam da 68ª peregrinação a Divina Pastora. Rafael Carvalho/ TV Sergipe Milhares de romeiros participaram, na manhã deste domingo (18), da…",
-      "image": "https://s2-g1.glbimg.com/yicRVKO5mWjZJaAlkxnQdwRndb8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/X/CKBdylQjqEMdIxPCQsCg/divina.jpg",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/10/18/milhares-de-romeiros-participam-da-peregrinacao-a-divina-pastora.ghtml",
+      "title": "Câmera flagra acidente na BR-116 que matou duas pessoas em Itaobim",
+      "summary": "Câmera registra colisão frontal que deixou dois mortos na BR-116 Uma câmera instalada em um veículo que trafegava pela BR-116 registrou o momento de uma batida frontal…",
+      "image": "https://s2-g1.glbimg.com/_K_xFZS5hiGbxwBUswYDWQEEM0A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/A/g2e04cTkq0ksie7fd9nA/1200x675-38-.png",
+      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/10/18/camera-flagra-acidente-na-br-116-que-matou-duas-pessoas-em-itaobim.ghtml",
       "source": "g1",
-      "published": 1792342381000
+      "published": 1792352551000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "VÍDEOS: Jornal do Acre 2ª Edição deste sábado, 17 de outubro de 2026",
-      "summary": "Site g1 AC transmite os telejornais todos os dias.",
-      "image": "https://s2-g1.glbimg.com/HPO6nYv-lhRaj0XEBk5RQlQVpO4=/s01.video.glbimg.com/deo/vi/62/97/15099762",
-      "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-deste-sabado-17-de-outubro-de-2026.ghtml",
+      "title": "Lua Blanco: de Roberta Messi, em 'Rebelde', à carreira musical, relembre a trajetória da artista",
+      "summary": "A atriz Lua Blanco Reprodução Lua Blanco, atriz e cantora brasileira, ficou conhecida nacionalmente ao interpretar Roberta Messi na versão brasileira da novela Rebelde,…",
+      "image": "https://s2-g1.glbimg.com/IEH9GsBAPdhhnAzpKjJjF183zPA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/I/3Ni7HkSbmCq2fYB5su0g/montagem-horizontal-1200px-38-.jpg",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/18/lua-blanco-de-roberta-messi-em-rebelde-a-carreira-musical-relembre-a-trajetoria-da-artista.ghtml",
       "source": "g1",
-      "published": 1792342288000
+      "published": 1792352207000
     }
   ]
 }
