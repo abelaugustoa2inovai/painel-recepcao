@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-18T22:04:41.486Z",
+  "updatedAt": "2026-10-19T02:29:31.265Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Médico morre em troca de tiros com a polícia no noroeste de SP",
+      "summary": "Médico de 52 anos morre em troca de tiros com a polícia, em Catanduva (SP) Reprodução/Instagram Um médico de 52 anos morreu na tarde deste domingo (18) em uma troca de…",
+      "image": "https://s2-g1.glbimg.com/DyIApW9_60FiEompK5oGxIBGT40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/f/UW6lAdToSshPVqpb1LAQ/g1-2026-10-18t182412.793.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/18/medico-morre-em-troca-de-tiros-com-policia-no-noroeste-de-sp.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792360871000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -43,14 +53,44 @@
       "published": 1792321200000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Novas gerações assumem o comando nas lavouras do interior de SP",
-      "summary": "Novas gerações assumem o comando nas lavouras do interior de SP TV TEM O trabalho no campo tem passado de geração em geração, unindo experiência, tradição e novas…",
-      "image": "https://s2-g1.glbimg.com/zUoRCjGF-Kx5y7Bjc1VxmFkrv_4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/2/nh564nTpK4pIdhLBO8RQ/nc-jovens-agro-151224-frame-7685.jpeg",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/10/18/novas-geracoes-assumem-o-comando-nas-lavouras-do-interior-de-sp.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792319401000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Suspeita de bomba mobiliza esquadrão antibomba após debate entre Lula e Flávio",
+      "summary": "Os candidatos à presidência do Brasil, Flavio Bolsonaro e Luiz Inácio Lula da Silva, participam de um debate presidencial antes do segundo turno das eleições, em São…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-19T004729Z_594983746_RC206OAPA9BK_RTRMADP_3_BRAZIL-ELECTION-DEBATE.jpeg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/suspeita-de-bomba-mobiliza-esquadrao-antibomba-apos-debate-entre-lula-e-flavio/",
+      "source": "InfoMoney",
+      "published": 1792376072000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Lula x Flávio: veja as principais frases do primeiro debate do 2º turno",
+      "summary": "Lula (Foto: Jean Carniel / Reuters) &#8211; Flávio Bolsonaro (Jean Carniel / Reuters) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/montagem-infomoney-1-1.jpg?fit=300%2C193&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/lula-x-flavio-veja-as-principais-frases-do-primeiro-debate-do-2o-turno/",
+      "source": "InfoMoney",
+      "published": 1792373979000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Debate entre Lula e Flávio tem ataques, acusações e propostas econômicas; veja resumo",
+      "summary": "Os candidatos à presidência do Brasil, Flavio Bolsonaro e Luiz Inácio Lula da Silva, participam de um debate presidencial antes do segundo turno das eleições, em São…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-19T001809Z_810304029_RC2Z5OA485UA_RTRMADP_3_BRAZIL-ELECTION-DEBATE.jpeg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/debate-entre-lula-e-flavio-tem-ataques-acusacoes-e-propostas-economicas-veja-resumo/",
+      "source": "InfoMoney",
+      "published": 1792372927000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Flávio e Lula se enfrentam no primeiro debate após apoiadores ocuparem as ruas",
+      "summary": "Imagem combinada mostra o presidente do Brasil, Luiz Inácio Lula da Silva (à esquerda) e o senador Flávio Bolsonaro (à direita), ambos candidatos à Presidência do Brasil…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/2026-08-26T090003Z_1030496109_RC233NAIN4O1_RTRMADP_3_BRAZIL-ELECTION-MARKETS.jpg?fit=300%2C221&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/flavio-e-lula-se-enfrentam-no-primeiro-debate-apos-apoiadores-ocuparem-as-ruas/",
+      "source": "InfoMoney",
+      "published": 1792362600000
     },
     {
       "category": "mercado",
@@ -63,94 +103,64 @@
       "published": 1792360800000
     },
     {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Incêndio em base militar no Canadá deixa 4 mortos e dezenas de feridos",
-      "summary": "Bombeiros continuam trabalhando nos focos de incêndio, um dia após um grave incidente que resultou em um incêndio com mortes e feridos, em Wainwright, Alberta, Canadá,…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-18T190209Z_2059396955_RC2U5OA1PP6F_RTRMADP_3_CANADA-ALBERTA-WAINWRIGHT-1.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/incendio-em-base-militar-no-canada-deixa-4-mortos-e-dezenas-de-feridos/",
-      "source": "InfoMoney",
-      "published": 1792359300000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Minerais críticos e estratégicos empregam 129 mil pessoas no Brasil",
-      "summary": "Serra dos Carajás, onde fica uma das maiores reservas de ferro e outros minerais estratégicos do mundo (Foto: IsabeleC/Wikimedia Commons) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/Isa_Carajas.jpg?fit=300%2C225&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/economia/minerais-criticos-e-estrategicos-empregam-129-mil-pessoas-no-brasil/",
-      "source": "InfoMoney",
-      "published": 1792358333000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "McLaren vai vender cinco carros de F1 pilotados por campeões – e um por Brad Pitt",
-      "summary": "Logotipo da McLaren é visto durante os testes de pré-temporada da Fórmula 1 no Bahrein. 21 de fevereiro de 2024. REUTERS/Hamad I Mohammed \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-18T182501Z_1_LYNXMPEM9H0H8_RTROPTP_4_MOTOR-F1-TESTING.jpg?fit=300%2C195&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/mclaren-vai-vender-cinco-carros-de-f1-pilotados-por-campeoes-e-um-por-brad-pitt/",
-      "source": "InfoMoney",
-      "published": 1792355760000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Papa Leão promete retorno gradual às funções em 1º evento desde cirurgia de câncer",
-      "summary": "O Papa Leão conduz a oração do Angelus de uma janela do Palácio Apostólico, após receber alta hospitalar — decorrente de uma cirurgia para a remoção de parte de seu…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-18T103048Z_1097097405_RC2M5OAHB8KG_RTRMADP_3_POPE-HEALTH-PRAYER.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/papa-leao-promete-retorno-gradual-as-funcoes-em-1o-evento-desde-cirurgia-de-cancer/",
-      "source": "InfoMoney",
-      "published": 1792354560000
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Corinthians faz sete no Caracas e avança às quartas da Libertadores feminina",
+      "summary": "Com show ofensivo, o Corinthians goleou o Caracas por 7 a 0, garantiu vaga nas quartas de final da Libertadores feminina e segue com 100% de aproveitamento. O post…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/imagem_2026-10-18_225239911.webp",
+      "link": "https://www.gazetaesportiva.com/futebol/corinthians-faz-sete-no-caracas-e-avanca-as-quartas-da-libertadores-feminina/",
+      "source": "Gazeta Esportiva",
+      "published": 1792374918000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Renê lamenta derrota do Fluminense para o Santos e mira reação na Libertadores",
-      "summary": "Após a derrota por 2 a 1 para o Santos, Renê reconheceu a atuação abaixo do esperado do Fluminense e apontou os primeiros minutos do segundo tempo como decisivos. O…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55597784483_b2c186890b_o.webp",
-      "link": "https://www.gazetaesportiva.com/times/fluminense/rene-lamenta-derrota-fluminense-santos-libertadores/",
+      "title": "Após derrota, Renato dispara contra montagem de elenco do Grêmio: “Traz sem analisar”",
+      "summary": "Após a derrota do Grêmio por 4 a 2 para o Cruzeiro, Renato Gaúcho fez duras críticas à montagem do elenco, revelou que um reforço chegou nove quilos acima do peso e…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55597740036_78c1b9a44a_o.webp",
+      "link": "https://www.gazetaesportiva.com/times/gremio/renato-gaucho-critica-montagem-elenco-gremio-cruzeiro/",
       "source": "Gazeta Esportiva",
-      "published": 1792360826000
+      "published": 1792374666000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Palmeiras vence Belgrano e garante ida às quartas da Libertadores feminina",
-      "summary": "O Palmeiras venceu o Belgrano por 3 a 1 neste domingo (18), no Estádio Banco Guayaquil, em Quito, pela segunda rodada do Grupo B da Libertadores Feminina. Após sair…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/HU8c0BvXcAALump.webp",
-      "link": "https://www.gazetaesportiva.com/futebol-feminino/palmeiras-vence-belgrano-classifica-quartas-libertadores-feminina/",
+      "title": "Kaio César cobra mudança de postura e mira reação do Corinthians no Brasileirão",
+      "summary": "Kaio César pediu reação do Corinthians no Brasileirão e cobrou mais concentração da equipe para o duelo contra o Vitória. O post Kaio César cobra mudança de postura e…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/250018.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/kaio-cesar-cobra-mudanca-de-postura-e-mira-reacao-do-corinthians-no-brasileirao/",
       "source": "Gazeta Esportiva",
-      "published": 1792360607000
+      "published": 1792371677000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Avaí fica no empate em casa contra o Athletic pela Série B do Brasileiro",
-      "summary": "Avaí e Athletic empataram em 0 a 0 na Ressacada pela 34ª rodada da Série B. O resultado foi ruim principalmente para o Avaí, que segue na zona de rebaixamento, em 17º…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/20261018-Avai-x-Athletic-MG-FOTO-Fabiano-Rateke-21.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/avai-fica-no-empate-em-casa-contra-o-athletic-pela-serie-b-do-brasileiro/",
+      "title": "Veja os melhores momentos de Remo 1 x 1 Bragantino pelo Brasileirão",
+      "summary": "Remo e Red Bull Bragantino empataram por 1 a 1 no Mangueirão. Resultado manteve o Massa Bruta atrás do São Paulo na tabela do Brasileirão. O post Veja os melhores…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55598118938_d46a27f2a7_k.webp",
+      "link": "https://www.gazetaesportiva.com/times/bragantino/veja-os-melhores-momentos-de-remo-1-x-1-bragantino-pelo-brasileirao/",
       "source": "Gazeta Esportiva",
-      "published": 1792360478000
+      "published": 1792371403000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Botafogo-SP surpreende CRB e ganha fôlego na luta contra a queda na Série B",
-      "summary": "O Botafogo-SP venceu o CRB por 1 a 0 neste domingo, no Estádio Rei Pelé, em Maceió, pela 34ª rodada da Série B do Campeonato Brasileiro. Hygor marcou o gol da vitória na…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Captura-de-tela-2026-10-18-181227.webp",
-      "link": "https://www.gazetaesportiva.com/times/botafogo-sp/botafogo-sp-surpreende-crb-e-ganha-folego-na-luta-contra-a-queda-na-serie-b/",
+      "title": "Bragantino cede empate ao Remo, e São Paulo mantém nono lugar do Brasileiro",
+      "summary": "O Bragantino saiu na frente, mas ficou no empate por 1 a 1 com o Remo e perdeu a chance de ultrapassar o São Paulo na tabela do Campeonato Brasileiro. O post Bragantino…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55598150643_568109b96d_k.webp",
+      "link": "https://www.gazetaesportiva.com/times/bragantino/bragantino-cede-empate-ao-remo-e-sao-paulo-mantem-nono-lugar-do-brasileiro/",
       "source": "Gazeta Esportiva",
-      "published": 1792359571000
+      "published": 1792370182000
     },
     {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Coutinho vibra com primeiro gol pelo Santos e exalta vitória no Maracanã",
-      "summary": "Philippe Coutinho comemorou seu primeiro gol com a camisa do Santos, marcado na vitória por 2 a 1 sobre o Fluminense, no Maracanã. O meia destacou a felicidade de voltar…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/HU8BeYPWMAErlWE-1.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/coutinho-primeiro-gol-santos-vitoria-fluminense-maracana/",
-      "source": "Gazeta Esportiva",
-      "published": 1792358968000
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Call of Duty: MW 4, Final Fantasy Resonance e mais! Veja os lançamentos de games da semana",
+      "summary": "Mais uma semana começando com a nossa lista de lançamentos de jogos, para que você possa programar a sua agenda para os próximos dias. E o destaque dessa vez é Call of…",
+      "image": "https://www.estadao.com.br/resizer/v2/BKE5BL675ZGFFORTSUPKGH3FZ4.jpg?quality=80&amp;auth=4a3f44105dde67ef95bc08b78b045a3989a6cf626f34b008ebd1c8dc044d9344&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/call-of-duty-mw-4-final-fantasy-resonance-e-mais-veja-os-lancamentos-de-games-da-semana/",
+      "source": "Novidades do TecMundo",
+      "published": 1792362600000
     },
     {
       "category": "tecnologia",
@@ -193,64 +203,54 @@
       "published": 1792352642000
     },
     {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Site falso oferece programa legítimo, mas rouba senhas de VPN",
-      "summary": "Página fraudulenta coleta credenciais de acesso a redes corporativas e, em seguida, disponibiliza o instalador original do serviço de VPN O post Site falso oferece…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/watchguard-1024x576.png",
-      "link": "https://olhardigital.com.br/2026/10/18/seguranca/site-falso-oferece-programa-legitimo-mas-rouba-senhas-de-vpn/",
-      "source": "Olhar Digital",
-      "published": 1792351635000
-    },
-    {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Médico morre em troca de tiros com polícia no noroeste de SP",
-      "summary": "Médico de 52 anos morre em troca de tiros com a polícia, em Catanduva (SP) Reprodução/Instagram Um médico de 52 anos morreu na tarde deste domingo (18) em uma troca de…",
-      "image": "https://s2-g1.glbimg.com/DyIApW9_60FiEompK5oGxIBGT40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/f/UW6lAdToSshPVqpb1LAQ/g1-2026-10-18t182412.793.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/18/medico-morre-em-troca-de-tiros-com-policia-no-noroeste-de-sp.ghtml",
-      "source": "g1",
-      "published": 1792360871000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Adolescente fantasiado de Fofão fica ferido após cair durante apresentação em MG",
-      "summary": "Um adolescente de 17 anos que trabalhava fantasiado de Fofão ficou ferido após sofrer uma queda durante uma apresentação na noite de sábado (17), em Alfenas (MG). O…",
-      "image": "https://s2-g1.glbimg.com/C8II4s6W8VQiZ5u-GEb_kJLc4A8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/v/lG6CT1Q3OkqL2P3ZrTRA/corpo-de-bombeiros.jpg",
-      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/18/adolescente-fantasiado-de-fofao-fica-ferido-apos-cair-durante-apresentacao-em-mg.ghtml",
-      "source": "g1",
-      "published": 1792360871000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Estudante morre após acidente em Goiás",
-      "summary": "Estudante morre após acidente na GO-080, em Petrolina de Goiá Reprodução/TV Anhanguera Um estudante de 18 anos morreu depois que o carro em que estava capotou na GO-080,…",
-      "image": "https://s2-g1.glbimg.com/woQpO6Rp9ZwcA7h3Uc52LwSbm0c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/q/stvi2bQ6WRCOLjA4lu5w/acidente.jpg",
-      "link": "https://g1.globo.com/go/goias/transito/noticia/2026/10/18/estudante-morre-apos-acidente-em-goias.ghtml",
-      "source": "g1",
-      "published": 1792360845000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Documentário retrata da tradição indígena à IA na medicina brasileira",
-      "summary": "O médico Alexandre Kalache, a geneticista Lygia da Veiga Pereira e o escritor Laurentino Gomes participam do documentário \"Medicinas - Um Brasil que Corre nas Veias\".…",
+      "title": "Brasil vive primeira eleição do 'precariado', diz economista britânico",
+      "summary": "Há 15 anos, o economista britânico Guy Standing lançou o livro \"O Precariado: A Nova Classe Perigosa\", popularizando o conceito de um novo segmento social que ganhava…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/documentario-retrata-da-tradicao-indigena-a-ia-na-medicina-brasileira.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/brasil-vive-primeira-eleicao-do-precariado-diz-economista-britanico.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1792360800000
+      "published": 1792376040000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Grupo entra em blocos da UFRR, interrompe aulas e retira cartazes em Boa Vista",
-      "summary": "Ocorrência envolveu um grupo de pessoas, policiais militares e servidores da UFRR, em Boa Vista. Reprodução/Redes sociais Um grupo com cerca de cinco pessoas entrou nos…",
-      "image": "https://s2-g1.glbimg.com/vj8Bz9ITYxYNpaMYfdBk6pMnNhU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/w/OQnnAXR0CY7989xA5WBA/caso-foi-atendido-pela-pm.jpg",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/10/18/grupo-entra-em-blocos-da-ufrr-interrompe-aulas-e-retira-cartazes-em-boa-vista.ghtml",
+      "title": "Gate é acionado para checar carro de Flávio Bolsonaro após suspeita de bomba durante debate na Band",
+      "summary": "Flávio Bolsonaro e Lula em debate na Band Renato Pizzutto/Band O Grupo de Ações Táticas Especiais (GATE) foi acionado na noite deste domingo (18) para verificar o carro…",
+      "image": "https://s2-g1.glbimg.com/B1gYgFirOODBBgHdJ_RyLTtUsAM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/y/JAbzYUSTelkqB1rSNuhA/55598209118-3adc0ab19d-k.jpg",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/gate-e-acionado-para-checar-carro-de-flavio-bolsonaro-apos-suspeita-de-bomba-durante-debate-na-band.ghtml",
       "source": "g1",
-      "published": 1792360741000
+      "published": 1792376013000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "'Triste ver bandeiras americanas em um evento como esse' diz leitor sobre ato na Paulista",
+      "summary": "Roberta Luchsinger Leia mais (10/18/2026 - 23h00)",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/triste-ver-bandeiras-americanas-em-um-evento-como-esse-diz-leitor-sobre-ato-na-paulista.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1792375200000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Quem faz o RUF 2026",
+      "summary": "O Ranking Universitário Folha ( RUF ) chega a sua 12ª edição e classifica mais de 2.200 instituições de ensino superior, entre universidades, centros universitários e…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://ruf.folha.uol.com.br/2026/noticias/quem-faz-o-ruf-2026.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1792375200000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "O que é o Ranking Universitário Folha 2026",
+      "summary": "O RUF (Ranking Universitário Folha) é uma avaliação anual do ensino superior do Brasil feita pela Folha desde 2012. Leia mais (10/18/2026 - 23h00)",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://ruf.folha.uol.com.br/2026/noticias/o-que-e-o-ranking-universitario-folha-2026.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1792375200000
     }
   ]
 }
