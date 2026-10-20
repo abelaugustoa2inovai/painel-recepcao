@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-10-19T21:52:30.419Z",
+  "updatedAt": "2026-10-20T00:49:52.983Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Presidente da Câmara de Olímpia preso suspeito de participação em 'rachadinha' renuncia ao cargo",
+      "summary": "Presidente da Câmara de Olímpia presos em operação renuncia ao cargo O presidente da Câmara Municipal de Olímpia (SP), Flávio Augusto Olmos (PP), que foi preso suspeito…",
+      "image": "https://s2-g1.glbimg.com/cjy42Bcvhd_TTB1BCVu_9_i56Uo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/4/XY5O46Qz6TKMXtAkx5QQ/g1-2026-10-15t105802.805.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/19/presidente-da-camara-de-olimpia-preso-suspeito-de-participacao-em-rachadinha-renuncia-ao-cargo.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792452825000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Polícia investiga suspeita de agressão contra menino de dois anos em Araçatuba",
+      "summary": "Criança é internada em estado grave e com sinais de agressão em Araçatuba A Polícia Civil de Araçatuba (SP) investiga a suspeita de agressão contra uma criança de dois…",
+      "image": "https://s2-g1.glbimg.com/84O0uAep0uyFMJzbSfbm4yGN4SI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/8/BuWHgwQFOIB4gqbmSa9w/design-sem-nome-14-.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/19/policia-investiga-suspeita-de-agressao-contra-menino-de-dois-anos-em-aracatuba.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792450123000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Jovem é baleado e morto após tentar ajudar amigo em discussão por dívida",
+      "summary": "Jovem de 22 anos é morto a tiros após discussão por dívida no interior de SP Reprodução/Redes Sociais Um homem de 22 anos foi morto a tiros na manhã de domingo (18) em…",
+      "image": "https://s2-g1.glbimg.com/WdsNjPfMhvHr7G9sr1iptvt5cjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/n/xBlvwWS7KjEkankvF4dQ/formato-padrao-imagens-g1-2026-10-19t155512.853.png",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/19/jovem-e-baleado-e-morto-apos-tentar-ajudar-amigo-em-discussao-por-divida.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792447382000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -23,234 +53,204 @@
       "published": 1792440120000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Homem desaparece em prainha no interior de SP",
-      "summary": "Bombeiros buscam por desaparecido em Prainha de Itajobi (SP) Prefeitura de Itajobi Um homem desapareceu no domingo (18) na Prainha de Itajobi (SP). O Corpo de Bombeiros…",
-      "image": "https://s2-g1.glbimg.com/ilRb7Zm8_uKzXrso043L1lwp7DM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/X/8iATW1SkC5VZowBFTJOg/formato-padrao-imagens-g1-2026-10-19t130841.712.png",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/19/homem-desaparece-em-prainha-no-interior-de-sp.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792432883000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Mulher diz à polícia que se escondeu em porta-malas antes de ir para motel com pastor e homem que morreu",
-      "summary": "Polícia investiga morte de homem em motel em Catanduva A mulher de 26 anos que estava na suíte onde um homem de 33 anos morreu, em um motel de Catanduva (SP), afirmou à…",
-      "image": "https://s2-g1.glbimg.com/tYLDus0HdZes3G9N7xvuSimUy6M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/m/Jet87RTpKPk46x75EnnQ/g1-2026-10-15t123203.946.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/19/mulher-pastor-porta-malas.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792430879000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Vídeo registra som de tiroteio que terminou com morte de médico e revelou arsenal e suástica nazista",
-      "summary": "Vídeo registra disparos em troca de tiros entre polícia e médico que morreu em Catanduva Um vídeo registrou o som dos disparos durante a ocorrência que terminou com a…",
-      "image": "https://s2-g1.glbimg.com/lOR_g1HEQTKEAroa85UEC6d6Vos=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/T/fznNAdTSuqyluadyDT3g/foto-g1-2026-10-19t115927.923.png",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/19/video-tiroteio-medico.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792422538000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Dia de Sorte: confira o resultado do concurso 1326 sorteado nesta segunda-feira (19)",
+      "summary": "Loteria Dia de Sorte, da Caixa Econômica (Foto: Divulgação) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1326-sorteado-nesta-segunda-feira-19/",
+      "source": "InfoMoney",
+      "published": 1792455884000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "PGR se manifesta contra investigação de Mendonça por abuso de autoridade",
-      "summary": "13 de maio de 2026 &#8211; Ministro André Mendonça em sessão plenária do STF. Foto: Luiz Silveira/STF \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/55268422526_630e61248b_k.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/pgr-se-manifesta-contra-investigacao-de-mendonca-por-abuso-de-autoridade/",
+      "title": "Lotomania: confira o resultado do concurso 2989 sorteado nesta segunda-feira (19)",
+      "summary": "Foto: Divulgação \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=735%2C417&quality=70&strip=all\" />Veja as 20 dezenas sorteadas…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=300%2C170&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/lotomania-confira-o-resultado-do-concurso-2989-sorteado-nesta-segunda-feira-19/",
       "source": "InfoMoney",
-      "published": 1792446116000
+      "published": 1792455636000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "MP aciona TSE para que eleitor seja avisado por WhatsApp sobre locais de votação",
-      "summary": "Mesário monta urnas eletrônicas em uma escola pública para o primeiro turno das eleições (Foto: Joédson Alves/Agência Brasil) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Eleicoes_2026-e1791050619716.jpg?fit=300%2C181&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/mp-aciona-tse-para-que-eleitor-seja-avisado-por-whatsapp-sobre-locais-de-votacao/",
+      "title": "Lotofácil hoje, concurso 3808: confira o resultado sorteado nesta segunda (19)",
+      "summary": "(Foto: Marcelo Camargo/Agência Brasil) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-4.webp?fit=1024%2C768&quality=70&stri…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-4.webp?fit=300%2C225&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3808-confira-o-resultado-sorteado-nesta-segunda-19/",
       "source": "InfoMoney",
-      "published": 1792444918000
+      "published": 1792455210000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Quadro de Janones é estável e alta pode ocorrer nas próximas 48h, diz boletim médico",
-      "summary": "André Janones (Avante-MG), deputado federal (Foto: Renato Araújo/Câmara dos Deputados) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/andre-janones.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/quadro-de-janones-e-estavel-e-alta-pode-ocorrer-nas-proximas-48h-diz-boletim-medico/",
+      "title": "Quina hoje, concurso 7146: confira o resultado sorteado nesta segunda-feira (19)",
+      "summary": "(Foto: Divulgação) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=1280%2C745&quality=70&strip=all\" />O prêmio…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7146-confira-o-resultado-sorteado-nesta-segunda-feira-19/",
       "source": "InfoMoney",
-      "published": 1792444735000
+      "published": 1792454890000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Anthropic reforça aposta em data centers e negocia contrato de US$ 45 bilhões",
-      "summary": "Placa instalada em uma cerca do projeto de data center da Nscale em Barstow, Texas. Foto: Eli Hartman/Bloomberg \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/471393049.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/business/anthropic-reforca-aposta-em-data-centers-e-negocia-contrato-de-us-45-bilhoes/",
+      "title": "Milei diz que Argentina está próxima de produzir 1 mi de barris de petróleo por dia",
+      "summary": "O presidente da Argentina, Javier Milei, durante discurso especial na 55ª edição do Fórum Econômico Mundial (WEF), em Davos, Suíça, em 23 de janeiro de 2025.…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-21T125933Z_633032162_RC2KFCA1ZT5K_RTRMADP_3_USA-FOREX-ARGENTINA.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/milei-diz-que-argentina-esta-proxima-de-produzir-1-mi-de-barris-de-petroleo-por-dia/",
       "source": "InfoMoney",
-      "published": 1792444085000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "ASSISTA: Lula x Flávio: o que está em jogo na última semana antes do segundo turno?",
-      "summary": "Lula (Foto: Jean Carniel / Reuters) &#8211; Flávio Bolsonaro (Jean Carniel / Reuters) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/montagem-infomoney-1-1.jpg?fit=300%2C193&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/assista-lula-x-flavio-o-que-esta-em-jogo-na-ultima-semana-antes-do-segundo-turno/",
-      "source": "InfoMoney",
-      "published": 1792443688000
+      "published": 1792451249000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Kovač antes do duelo com o Sabah FK: ‘Somos favoritos e temos que vencer’",
-      "summary": "O técnico do Borussia Dortmund, Niko Kovač, alertou para o risco de subestimar o Sabah FK na Champions League, mas reforçou que o BVB precisa corresponder ao…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/du4wgiqu-1920Kova.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/kovac-antes-do-duelo-com-o-sabah-fk-somos-favoritos-e-temos-que-vencer/",
+      "title": "Adson e Pedro Emanuel projetam duelo decisivo do Vasco no Maracanã",
+      "summary": "Após o Vasco fechar sua preparação para encarar o Boca Juniors pela volta da semifinal da Sul-Americana, Pedro Emanuel e Adson projetaram o duelo. O post Adson e Pedro…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55596028136_ca4d387972_o.webp",
+      "link": "https://www.gazetaesportiva.com/times/vasco/adson-e-pedro-emanuel-projetam-duelo-decisivo-do-vasco-no-maracana/",
       "source": "Gazeta Esportiva",
-      "published": 1792445660000
+      "published": 1792457109000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Portuguesa anuncia ex-goleiro de Bahia e Athletico-PR para 2027",
-      "summary": "A Portuguesa anunciou a contratação do goleiro Tiago Gomes para a temporada 2027. Aos 23 anos, o arqueiro chega após passagens pelas categorias de base do Athletico…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/9e7bae63-1820-41ed-8e86-d0ae6d488abf.webp",
-      "link": "https://www.gazetaesportiva.com/times/portuguesa/portuguesa-contrata-goleiro-tiago-gomes-para-2027/",
+      "title": "Atual pentacampeão, Franca vence São José na estreia do NBB",
+      "summary": "O Sesi Franca, atual pentacampeão do NBB, começou a temporada 2026/27 com uma vitória convincente ao superar o São José por 90 a 59 no Ginásio Pedrocão. Com o resultado,…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/f57f8481-0b25-490a-a132-c03b6c8f3a7d.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/nbb-novo-basquete-brasil/atual-pentacampeao-franca-vence-sao-jose-na-estreia-do-nbb/",
       "source": "Gazeta Esportiva",
-      "published": 1792445287000
+      "published": 1792456979000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Com um a menos, Getafe busca empate com Rayo Vallecano no Espanhol",
-      "summary": "O Getafe arrancou um empate por 1 a 1 diante do Rayo Vallecano nesta segunda-feira, no Coliseum Alfonso Pérez, pela nona rodada do Campeonato Espanhol. Mesmo após a…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Getafe.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/laliga/getafe-x-rayo-vallecano-campeonato-espanhol/",
+      "title": "Goiás empata com Náutico e perde chance de se aproximar do G6 da Série B",
+      "summary": "Goiás e Náutico empataram por 0 a 0 nesta segunda-feira (19), no Estádio Hailé Pinheiro, em Goiânia, pela 34ª rodada da Série B do Campeonato Brasileiro. O resultado…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55600377561_332373cc6a_o.webp",
+      "link": "https://www.gazetaesportiva.com/times/goias/goias-empata-com-nautico-e-perde-chance-de-se-aproximar-do-g6-da-serie-b/",
       "source": "Gazeta Esportiva",
-      "published": 1792443704000
+      "published": 1792456075000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Tottenham bate Coventry, vence a primeira no Inglês e deixa o Z3",
-      "summary": "O Tottenham enfim venceu sua primeira partida pelo Campeonato Inglês nesta temporada. Na tarde desta segunda-feira, o clube londrino superou o Coventry City por 3 a 1 no…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261019__D3RV38A__v1__HighRes__FblEngPrTottenhamCoventry.webp",
-      "link": "https://www.gazetaesportiva.com/times/tottenham/tottenham-bate-coventry-vence-a-primeira-no-ingles-e-deixa-o-z3/",
+      "title": "Vasco encerra preparação para enfrentar o Boca Juniors por vaga na final da Sul-Americana",
+      "summary": "O Vasco concluiu nesta segunda-feira os preparativos para o confronto diante do Boca Juniors, no Maracanã, pela semifinal da Copa Sul-Americana. Após vencer a partida de…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/HVBgKPAWoAAsMgO.webp",
+      "link": "https://www.gazetaesportiva.com/times/vasco/vasco-encerra-preparacao-para-enfrentar-o-boca-juniors-por-vaga-na-final-da-sul-americana/",
       "source": "Gazeta Esportiva",
-      "published": 1792443671000
+      "published": 1792455730000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Torino vence Parma com dois de Simeone e sobe na tabela do Italiano",
-      "summary": "O Torino venceu o Parma por 3 a 0 nesta segunda-feira, pela sétima rodada do Campeonato Italiano. Giovanni Simeone marcou duas vezes, enquanto Che Adams completou a…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/7e9079c9732e4ad0093533042146c2c9.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/serie-a/torino-vence-parma-com-dois-de-simeone-e-sobe-na-tabela-do-italiano/",
+      "title": "Seedorf acompanha jogo do Corinthians das arquibancadas e faz “poropopó”",
+      "summary": "Impedido de comandar o Corinthians por problemas com o visto de trabalho, Seedorf acompanhou o jogo contra o Vitória das arquibancadas, próximo ao banco de reservas. O…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261019__AGIF862201__v1__HighRes__BrazilianChampionship2026CorinthiansVsVitori.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/seedorf-arquibancada-corinthians-vitoria/",
       "source": "Gazeta Esportiva",
-      "published": 1792442945000
+      "published": 1792453526000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Empresa brasileira transforma partidas de videogame em duelos por dinheiro",
-      "summary": "Ganhar dinheiro enquanto joga videogame é o sonho de muitos jovens atualmente, e a empresa brasileira Gamers Brawl quer surfar nesta onda. A companhia busca transformar…",
-      "image": "https://www.estadao.com.br/resizer/v2/VGADW2G35ZF5XALUTAHUU5YZW4.png?quality=80&amp;auth=52cb6008b5400b3d85a4e21e8f54aa73695383687cc9d651e2e0849cf5684140&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/x1-pago-empresa-brasileira-transforma-partidas-de-videogame-em-duelos-por-dinheiro/",
-      "source": "Novidades do TecMundo",
-      "published": 1792445400000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Plex2Shell: falha em servidores permite instalação de programas e roubo de dados",
-      "summary": "Cibercriminosos começaram a explorar uma sequência de vulnerabilidades no software de mídia Plex apenas um dia após a publicação dos detalhes técnicos e da demonstração…",
-      "image": "https://www.estadao.com.br/resizer/v2/FTLDPEO2RNJ47CDVKZPDYV4DQM.jpg?quality=80&amp;auth=ce4d7a4f9502d5a995c64cb4308d377b0c0e7cf05fe37d8017d4aa88fcf191c4&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/plex2shell-falha-em-servidores-permite-instalacao-de-programas-e-roubo-de-dados/",
-      "source": "Novidades do TecMundo",
-      "published": 1792444500000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Monitore tudo com segurança: veja uma seleção de câmeras em promoção na Amazon",
-      "summary": "Manter a segurança em casa ou no trabalho ficou muito mais acessível com as câmeras Wi-Fi disponíveis hoje. Separamos três opções em oferta na Amazon que combinam…",
-      "image": "https://m.media-amazon.com/images/I/31Akkcgda3L._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/19/reviews/monitore-tudo-com-seguranca-veja-uma-selecao-de-cameras-em-promocao-na-amazon/",
+      "title": "Sua casa mais limpa sem esforço: os melhores robôs aspiradores em promoção na Amazon",
+      "summary": "Deixar o chão limpo sem precisar passar um único minuto com o aspirador na mão já é realidade — e ficou ainda mais fácil com as ofertas que encontramos na Amazon.…",
+      "image": "https://m.media-amazon.com/images/I/41vCiJqoLXL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/19/reviews/sua-casa-mais-limpa-sem-esforco-os-melhores-robos-aspiradores-em-promocao-na-amazon/",
       "source": "Olhar Digital",
-      "published": 1792444479000
+      "published": 1792454079000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Echo Dot em destaque: smart speakers com Alexa para todos os estilos",
-      "summary": "Se você quer transformar qualquer ambiente da sua casa em um espaço inteligente, os smart speakers com Alexa são uma das melhores pedidas do mercado. Reunimos três…",
-      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/19/reviews/echo-dot-em-destaque-smart-speakers-com-alexa-para-todos-os-estilos/",
+      "title": "Vírus que afetou Carlos Alberto de Nóbrega pode atingir o coração; entenda",
+      "summary": "Infecção por Coxsackie costuma causar sintomas leves, mas pode atingir o músculo cardíaco e alterar o ritmo das batidas O post Vírus que afetou Carlos Alberto de Nóbrega…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/coracao-digital-1024x576.jpg",
+      "link": "https://olhardigital.com.br/2026/10/19/medicina-e-saude/virus-que-afetou-carlos-alberto-de-nobrega-pode-atingir-o-coracao-entenda/",
       "source": "Olhar Digital",
-      "published": 1792443279000
+      "published": 1792453250000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Vazamento no OpenCode expõe chaves de IA da Google, OpenAI e Anthropic",
-      "summary": "Um incidente de segurança na plataforma OpenCode comprometeu as chaves de acesso a serviços de inteligência artificial (IA) de empresas como OpenAI, Anthropic e Google.…",
-      "image": "https://www.estadao.com.br/resizer/v2/H4N7G4AB2VEM5C2LLIXB3DZLUA.png?quality=80&amp;auth=19be9f1aef6d49f3d5285c348073fcdd7822b5924809b15abcaebfc00bfcbe40&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/vazamento-no-opencode-expoe-chaves-de-ia-da-google-openai-e-anthropic/",
-      "source": "Novidades do TecMundo",
-      "published": 1792442700000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Instrutora de autoescola é flagrada com CNH cassada em Curitiba",
-      "summary": "Instrutora de autoescola é flagrada com CNH cassada em Curitiba PMPR Uma instrutora de uma autoescola foi flagrada com a CNH cassada durante uma ação do Detran-PR e o…",
-      "image": "https://s2-g1.glbimg.com/-vvPMOHhecjiOxBc2c8t-iN_hy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/B/1LDJvOT6W78R5wItZeKw/abordagem.jpg",
-      "link": "https://g1.globo.com/pr/parana/noticia/2026/10/19/instrutora-de-autoescola-e-flagrada-com-cnh-cassada-em-curitiba.ghtml",
-      "source": "g1",
-      "published": 1792446732000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Obra em frente à Rodoviária Nova de Taubaté vai substituir estrutura de drenagem que apresentou falha; entenda",
-      "summary": "Obra em frente à Rodoviária Nova de Taubaté: entenda o que será feito, no interior de SP A obra de drenagem em frente à Rodoviária Nova de Taubaté, que começou nesta…",
-      "image": "https://s2-g1.glbimg.com/ZE5pcLhM9gT2XNIwjxfrnUpbT9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/B/5EjwFcQL6BKA3JWXR5DA/foto-g1.jpg",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/19/obra-em-frente-a-rodoviaria-nova-de-taubate-vai-substituir-estrutura-de-drenagem-que-apresentou-falha-entenda.ghtml",
-      "source": "g1",
-      "published": 1792446494000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "AO VIVO: Assista ao GR2",
-      "summary": "AO VIVO: Assista ao GR2 Acompanhe o GR2 desta segunda-feira (19), com apresentação de João Barbosa",
-      "image": "https://s2-g1.glbimg.com/75nYMfj43UHs89N4E4HyaPWBWVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/A/n9BXJQSDe6xbPnD8Lcbg/img-20260620-115332373-hdr.jpg",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/ao-vivo/ao-vivo-assista-ao-gr2.ghtml",
-      "source": "g1",
-      "published": 1792446482000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Siga o EPTV 2 Ribeirão e Franca",
-      "summary": "Siga o EPTV 2 Ribeirão e Franca Acompanhe as notícias desta segunda-feira (19).",
-      "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv-2-ribeirao-e-franca-ao-vivo.ghtml",
-      "source": "g1",
-      "published": 1792446462000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Primeira semana de fiscalização tem 111 bicicletas elétricas e autopropelidos abordados em SP",
-      "summary": "A fiscalização de trânsito realizou 111 abordagens na primeira semana de fiscalização de bicicletas elétricas e veículos autopropelidos, como patinetes, na avenida…",
+      "title": "Resultado da Quina de hoje: veja números e ganhadores do concurso 7146 (segunda, 19/10)",
+      "summary": "O sorteio de R$ 50,2 milhões do concurso 7146 é realizado em São Paulo. Além dos cinco números premiados, confira como resgatar seu prêmio O post Resultado da Quina de…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/primeira-semana-de-fiscalizacao-tem-111-bicicletas-eletricas-e-autopropelidos-abordados-em-sp.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1792446420000
+      "link": "https://olhardigital.com.br/2026/10/19/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7146-segunda-19-10/",
+      "source": "Olhar Digital",
+      "published": 1792453200000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Resultado da Lotofácil de hoje: veja números e ganhadores do concurso 3808 (segunda, 19/10)",
+      "summary": "O sorteio do concurso 3808 da Lotofácil acontece na noite desta segunda-feira (19), às 21h. O prêmio está estimado em R$ 2 milhões O post Resultado da Lotofácil de hoje:…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/10/19/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3808-segunda-19-10/",
+      "source": "Olhar Digital",
+      "published": 1792453200000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Smartwatch bom e bonito: veja uma seleção de relógios inteligentes em promoção na Amazon",
+      "summary": "Se você está pensando em colocar um smartwatch no pulso, este é um bom momento para pesquisar. Reunimos duas opções de relógios inteligentes disponíveis na Amazon, de…",
+      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/19/reviews/smartwatch-bom-e-bonito-veja-uma-selecao-de-relogios-inteligentes-em-promocao-na-amazon-4/",
+      "source": "Olhar Digital",
+      "published": 1792452879000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Chuva de granizo com ventania destelha imóveis, derruba árvores e deixa homem ferido após desabamento na Bahia",
+      "summary": "Temporal em Itambé deixa ruas alagadas e causa chuva de granizo A cidade de Itambé, no sudoeste da Bahia, foi atingida por uma série de estragos provocados por um…",
+      "image": "https://s2-g1.glbimg.com/0CeLPAg1pW2cODacBsYsTAZBYww=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/d/SXH7yQSvWWYkvG72r9og/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-10-19t214415.452.jpg",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/19/chuva-no-sudoeste-da-bahia.ghtml",
+      "source": "g1",
+      "published": 1792457227000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Resultado da Lotofácil 3808: duas apostas de MT ficam a um acerto do prêmio principal",
+      "summary": "Lotofácil Millena Sartori/g1 Duas apostas feitas em Canarana e Cuiabá ficaram a um acerto do prêmio principal da Lotofácil no concurso 3808, sorteado nesta segunda-feira…",
+      "image": "https://s2-g1.glbimg.com/bx77Bvf7OUj0LB_0AVRAt8Nhcvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/k/XjWWbsSw2eKWY4E5RBsA/edicao-imagens-g1-11-.png",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/19/resultado-da-lotofacil-3808-duas-apostas-de-mt-ficam-a-um-acerto-do-premio-principal.ghtml",
+      "source": "g1",
+      "published": 1792457126000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Resultados das Loterias Caixa",
+      "summary": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo a segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios…",
+      "image": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png",
+      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "source": "g1",
+      "published": 1792457094000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Dia de Sorte hoje: resultado do concurso 1326 e números sorteados",
+      "summary": "Volantes da Dia de Sorte G1 Veja abaixo os números do sorteio do concurso 1326 da Dia de Sorte realizado nesta segunda-feira (19): Dezenas: 1 - 2 - 6 - 11 - 19 - 21 - 23…",
+      "image": "https://s2-g1.glbimg.com/bkxUa57DD_g5ZKKe6aX3gdCBfok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/p/qPpsDkRR6jHhwhLAVv2A/volatne-dia-de-sorte.jpeg",
+      "link": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/10/19/dia-de-sorte-hoje-resultado-do-concurso-1326-e-numeros-sorteados.ghtml",
+      "source": "g1",
+      "published": 1792456846000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Dupla Sena hoje: resultado do concurso 3022 e números sorteados",
+      "summary": "Volantes da Dupla Sena G1 Veja abaixo os números do sorteio do concurso 3022 da Dupla Sena realizado nesta segunda-feira (19): 1º sorteio: 14 - 29 - 32 - 38 - 39 - 42 2º…",
+      "image": "https://s2-g1.glbimg.com/dejfjE2j0cgr0V32YrgjDTe4vKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/J/I/FGNm09TOiKlaZVOMAfPA/volantes-dupla-sena.jpg",
+      "link": "https://g1.globo.com/loterias/dupla-sena/noticia/2026/10/19/dupla-sena-hoje-resultado-do-concurso-3022-e-numeros-sorteados.ghtml",
+      "source": "g1",
+      "published": 1792456836000
     }
   ]
 }
