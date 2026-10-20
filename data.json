@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T00:49:52.983Z",
+  "updatedAt": "2026-10-20T06:52:58.021Z",
   "count": 25,
   "items": [
     {
@@ -55,6 +55,16 @@
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
+      "title": "Justiça decreta fim da recuperação judicial da Americanas",
+      "summary": "A Justiça do Rio de Janeiro decretou, nesta segunda-feira (19), o fim da recuperação judicial do Grupo Americanas. A decisão, da 4ª Vara Empresarial da capital,…",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/justica-decreta-fim-da-recuperacao-judicial-da-americanas",
+      "source": "Feed Editoria",
+      "published": 1792459560000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
       "title": "Dia de Sorte: confira o resultado do concurso 1326 sorteado nesta segunda-feira (19)",
       "summary": "Loteria Dia de Sorte, da Caixa Econômica (Foto: Divulgação) \"…",
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&quality=70&strip=all",
@@ -93,164 +103,154 @@
       "published": 1792454890000
     },
     {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Milei diz que Argentina está próxima de produzir 1 mi de barris de petróleo por dia",
-      "summary": "O presidente da Argentina, Javier Milei, durante discurso especial na 55ª edição do Fórum Econômico Mundial (WEF), em Davos, Suíça, em 23 de janeiro de 2025.…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-21T125933Z_633032162_RC2KFCA1ZT5K_RTRMADP_3_USA-FOREX-ARGENTINA.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/milei-diz-que-argentina-esta-proxima-de-produzir-1-mi-de-barris-de-petroleo-por-dia/",
-      "source": "InfoMoney",
-      "published": 1792451249000
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Veja galeria de fotos do jogo entre Corinthians e Vitória pela 31ª rodada do Brasileirão",
+      "summary": "O post Veja galeria de fotos do jogo entre Corinthians e Vitória pela 31ª rodada do Brasileirão apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/250118.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-galeria-de-fotos-do-jogo-entre-corinthians-e-vitoria-pela-31a-rodada-do-brasileirao/",
+      "source": "Gazeta Esportiva",
+      "published": 1792463730000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Adson e Pedro Emanuel projetam duelo decisivo do Vasco no Maracanã",
-      "summary": "Após o Vasco fechar sua preparação para encarar o Boca Juniors pela volta da semifinal da Sul-Americana, Pedro Emanuel e Adson projetaram o duelo. O post Adson e Pedro…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55596028136_ca4d387972_o.webp",
-      "link": "https://www.gazetaesportiva.com/times/vasco/adson-e-pedro-emanuel-projetam-duelo-decisivo-do-vasco-no-maracana/",
+      "title": "Auxiliar lamenta falta de eficiência e vê elenco do Corinthians unido com Seedorf",
+      "summary": "Léo Porto lamentou a falta de eficiência do Corinthians no empate com o Vitória, mas destacou a evolução no desempenho da equipe. O auxiliar afirmou que o elenco está…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/250113.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/leo-porto-evolucao-uniao-corinthians/",
       "source": "Gazeta Esportiva",
-      "published": 1792457109000
+      "published": 1792463375000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Atual pentacampeão, Franca vence São José na estreia do NBB",
-      "summary": "O Sesi Franca, atual pentacampeão do NBB, começou a temporada 2026/27 com uma vitória convincente ao superar o São José por 90 a 59 no Ginásio Pedrocão. Com o resultado,…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/f57f8481-0b25-490a-a132-c03b6c8f3a7d.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/nbb-novo-basquete-brasil/atual-pentacampeao-franca-vence-sao-jose-na-estreia-do-nbb/",
+      "title": "Sesc-Flamengo domina Paulistano Barueri e estreia com vitória na Superliga",
+      "summary": "O Sesc-Flamengo estreou com vitória na Superliga Feminina 2026/27 ao derrotar o Paulistano Barueri por 3 sets a 0, no Tijuca Tênis Clube, no Rio de Janeiro. Com parciais…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/78c143e8-6431-4890-91cb-309247942533.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/superliga-feminina-de-volei/sesc-flamengo-domina-paulistano-barueri-e-estreia-com-vitoria-na-superliga/",
       "source": "Gazeta Esportiva",
-      "published": 1792456979000
+      "published": 1792462656000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Goiás empata com Náutico e perde chance de se aproximar do G6 da Série B",
-      "summary": "Goiás e Náutico empataram por 0 a 0 nesta segunda-feira (19), no Estádio Hailé Pinheiro, em Goiânia, pela 34ª rodada da Série B do Campeonato Brasileiro. O resultado…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55600377561_332373cc6a_o.webp",
-      "link": "https://www.gazetaesportiva.com/times/goias/goias-empata-com-nautico-e-perde-chance-de-se-aproximar-do-g6-da-serie-b/",
+      "title": "Yuri Alberto lamenta empate, mas exalta postura do Corinthians e projeta evolução com Seedorf",
+      "summary": "Yuri Alberto lamentou as chances desperdiçadas pelo Corinthians no empate por 1 a 1 com o Vitória, mas valorizou a mudança de postura da equipe. O atacante também…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/250105.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/yuri-alberto-nova-postura-corinthians-empate-vitoria/",
       "source": "Gazeta Esportiva",
-      "published": 1792456075000
+      "published": 1792460822000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Vasco encerra preparação para enfrentar o Boca Juniors por vaga na final da Sul-Americana",
-      "summary": "O Vasco concluiu nesta segunda-feira os preparativos para o confronto diante do Boca Juniors, no Maracanã, pela semifinal da Copa Sul-Americana. Após vencer a partida de…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/HVBgKPAWoAAsMgO.webp",
-      "link": "https://www.gazetaesportiva.com/times/vasco/vasco-encerra-preparacao-para-enfrentar-o-boca-juniors-por-vaga-na-final-da-sul-americana/",
+      "title": "Veja os melhores momentos de Corinthians 1 x 1 Vitória pelo Brasileirão",
+      "summary": "Com o técnico Clarence Seedorf nas arquibancadas da Neo Química Arena, o Corinthians empatou por 1 a 1 com o Vitória na noite desta segunda-feira, pela 31ª rodada do…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/250114.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/veja-os-melhores-momentos-de-corinthians-1-x-1-vitoria-pelo-brasileirao/",
       "source": "Gazeta Esportiva",
-      "published": 1792455730000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Seedorf acompanha jogo do Corinthians das arquibancadas e faz “poropopó”",
-      "summary": "Impedido de comandar o Corinthians por problemas com o visto de trabalho, Seedorf acompanhou o jogo contra o Vitória das arquibancadas, próximo ao banco de reservas. O…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261019__AGIF862201__v1__HighRes__BrazilianChampionship2026CorinthiansVsVitori.webp",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/seedorf-arquibancada-corinthians-vitoria/",
-      "source": "Gazeta Esportiva",
-      "published": 1792453526000
+      "published": 1792460762000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Sua casa mais limpa sem esforço: os melhores robôs aspiradores em promoção na Amazon",
-      "summary": "Deixar o chão limpo sem precisar passar um único minuto com o aspirador na mão já é realidade — e ficou ainda mais fácil com as ofertas que encontramos na Amazon.…",
-      "image": "https://m.media-amazon.com/images/I/41vCiJqoLXL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/19/reviews/sua-casa-mais-limpa-sem-esforco-os-melhores-robos-aspiradores-em-promocao-na-amazon/",
+      "title": "“Grampo” na OpenAI: juiz vê risco de fuga e nega liberdade a ex-engenheiro da empresa",
+      "summary": "Abdulrahman Alfozan ficará detido sem direito a fiança; promotores alegam que ele mantinha contatos frequentes com integrante da família real saudita O post “Grampo” na…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/openai_justica-1024x682.jpg",
+      "link": "https://olhardigital.com.br/2026/10/19/pro/grampo-na-openai-juiz-ve-risco-de-fuga-e-nega-liberdade-a-ex-engenheiro-da-empresa/",
       "source": "Olhar Digital",
-      "published": 1792454079000
+      "published": 1792462057000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Vírus que afetou Carlos Alberto de Nóbrega pode atingir o coração; entenda",
-      "summary": "Infecção por Coxsackie costuma causar sintomas leves, mas pode atingir o músculo cardíaco e alterar o ritmo das batidas O post Vírus que afetou Carlos Alberto de Nóbrega…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/coracao-digital-1024x576.jpg",
-      "link": "https://olhardigital.com.br/2026/10/19/medicina-e-saude/virus-que-afetou-carlos-alberto-de-nobrega-pode-atingir-o-coracao-entenda/",
+      "title": "OpenAI corre para levantar R$ 163,5 bilhões antes de IPO da Anthropic",
+      "summary": "Nova rodada de financiamento pode avaliar a dona do ChatGPT em mais de R$ 7,63 trilhões O post OpenAI corre para levantar R$ 163,5 bilhões antes de IPO da Anthropic…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/anthropic_ipo-1024x567.jpg",
+      "link": "https://olhardigital.com.br/2026/10/19/pro/openai-corre-para-levantar-r-163-5-bilhoes-antes-de-ipo-da-anthropic/",
       "source": "Olhar Digital",
-      "published": 1792453250000
+      "published": 1792461166000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Resultado da Quina de hoje: veja números e ganhadores do concurso 7146 (segunda, 19/10)",
-      "summary": "O sorteio de R$ 50,2 milhões do concurso 7146 é realizado em São Paulo. Além dos cinco números premiados, confira como resgatar seu prêmio O post Resultado da Quina de…",
+      "title": "Lula vai pedir cassação da chapa de Flávio Bolsonaro por atuação da Meta",
+      "summary": "PT acusa plataformas de favorecer candidato do PL com algoritmos e ferramentas de IA O post Lula vai pedir cassação da chapa de Flávio Bolsonaro por atuação da Meta…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/meta-1024x682.jpg",
+      "link": "https://olhardigital.com.br/2026/10/19/pro/lula-vai-pedir-cassacao-da-chapa-de-flavio-bolsonaro-por-atuacao-da-meta/",
+      "source": "Olhar Digital",
+      "published": 1792459630000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Anthropic mira IPO e promete compensar impactos da IA: isso faz sentido?",
+      "summary": "Enquanto avança em seus planos de IPO, a Anthropic prometeu destinar 5% de suas ações a um fundo para enfrentar os impactos da IA O post Anthropic mira IPO e promete…",
       "image": "",
-      "link": "https://olhardigital.com.br/2026/10/19/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7146-segunda-19-10/",
+      "link": "https://olhardigital.com.br/2026/10/19/colunistas/anthropic-mira-ipo-e-promete-compensar-impactos-da-ia-isso-faz-sentido/",
       "source": "Olhar Digital",
-      "published": 1792453200000
+      "published": 1792457826000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Resultado da Lotofácil de hoje: veja números e ganhadores do concurso 3808 (segunda, 19/10)",
-      "summary": "O sorteio do concurso 3808 da Lotofácil acontece na noite desta segunda-feira (19), às 21h. O prêmio está estimado em R$ 2 milhões O post Resultado da Lotofácil de hoje:…",
+      "title": "Toyota vai produzir Corolla elétrico na China a partir de 2028",
+      "summary": "Nova geração do carro mais vendido da marca terá versões elétrica, híbrida e a combustão; autonomia do modelo elétrico pode superar 400 km O post Toyota vai produzir…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/corolla_conceito_2.jpg",
+      "link": "https://olhardigital.com.br/2026/10/19/carros-e-tecnologia/toyota-vai-produzir-corolla-eletrico-na-china-a-partir-de-2028/",
+      "source": "Olhar Digital",
+      "published": 1792456200000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Província de Alberta rejeita separação e decide permanecer no Canadá",
+      "summary": "O primeiro-ministro do Canadá, Mark Carney, assina um autógrafo durante um ato pela unidade nacional em Red Deer, na província de Alberta. John Ulan/The Canadian Press…",
+      "image": "https://s2-g1.glbimg.com/xYhJptv3k0Y4KnpgnFsBtqWDjhI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/b/kUKzxwRUSApzAqOlc9Cg/ap26289707930085.jpg",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/20/provincia-de-alberta-rejeita-separacao-e-decide-permanecer-no-canada.ghtml",
+      "source": "g1",
+      "published": 1792478151000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Flávio Bolsonaro promete BR-319 e apoio contra queimadas em Manaus",
+      "summary": "O senador e candidato à Presidência Flávio Bolsonaro ( PL ) afirmou nesta segunda-feira (19) em Manaus que vai ajudar o Amazonas a combater as queimadas caso seja…",
       "image": "",
-      "link": "https://olhardigital.com.br/2026/10/19/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3808-segunda-19-10/",
-      "source": "Olhar Digital",
-      "published": 1792453200000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Smartwatch bom e bonito: veja uma seleção de relógios inteligentes em promoção na Amazon",
-      "summary": "Se você está pensando em colocar um smartwatch no pulso, este é um bom momento para pesquisar. Reunimos duas opções de relógios inteligentes disponíveis na Amazon, de…",
-      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/19/reviews/smartwatch-bom-e-bonito-veja-uma-selecao-de-relogios-inteligentes-em-promocao-na-amazon-4/",
-      "source": "Olhar Digital",
-      "published": 1792452879000
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-promete-br-319-e-apoio-contra-queimadas-em-manaus.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1792476180000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Chuva de granizo com ventania destelha imóveis, derruba árvores e deixa homem ferido após desabamento na Bahia",
-      "summary": "Temporal em Itambé deixa ruas alagadas e causa chuva de granizo A cidade de Itambé, no sudoeste da Bahia, foi atingida por uma série de estragos provocados por um…",
-      "image": "https://s2-g1.glbimg.com/0CeLPAg1pW2cODacBsYsTAZBYww=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/d/SXH7yQSvWWYkvG72r9og/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-10-19t214415.452.jpg",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/19/chuva-no-sudoeste-da-bahia.ghtml",
+      "title": "Adolescente lança livro de poemas e revela influência de Clarice Lispector: 'Nunca tinha experimentado nada parecido'",
+      "summary": "Adolescente lança livro de poemas e revela influência de Clarice Lispector Aos 14 anos, Leonardo Ciorlia encontrou na poesia uma forma de dizer justamente aquilo que,…",
+      "image": "https://s2-g1.glbimg.com/T718wyJBQIAjuuB7DTyfS_l01Nk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/d/ZdGNB4SAiPMXHl2DOxAg/operacao-infortunio.png",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/20/adolescente-lanca-livro-de-poemas-e-revela-influencia-de-clarice-lispector-nunca-tinha-experimentado-nada-parecido.ghtml",
       "source": "g1",
-      "published": 1792457227000
+      "published": 1792476001000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Resultado da Lotofácil 3808: duas apostas de MT ficam a um acerto do prêmio principal",
-      "summary": "Lotofácil Millena Sartori/g1 Duas apostas feitas em Canarana e Cuiabá ficaram a um acerto do prêmio principal da Lotofácil no concurso 3808, sorteado nesta segunda-feira…",
-      "image": "https://s2-g1.glbimg.com/bx77Bvf7OUj0LB_0AVRAt8Nhcvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/k/XjWWbsSw2eKWY4E5RBsA/edicao-imagens-g1-11-.png",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/19/resultado-da-lotofacil-3808-duas-apostas-de-mt-ficam-a-um-acerto-do-premio-principal.ghtml",
+      "title": "O líder de seita apocalíptica que deixou quase 200 crianças morrerem de fome",
+      "summary": "Seita religiosa deixa mortos no Quênia Importante: esta reportagem contém detalhes que podem ser perturbadores para alguns leitores. O líder de uma seita apocalíptica…",
+      "image": "https://s2-g1.glbimg.com/NBxwUwxDv5dy_D92bqbikOnVstk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/q/O/5xSbZcRPiSoPKNE6ejDw/2023-05-02t142555z-1-lynxmpej410kl-rtroptp-4-quenia-lider-culto.jpg",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/20/o-lider-de-seita-apocaliptica-que-deixou-quase-200-criancas-morrerem-de-fome.ghtml",
       "source": "g1",
-      "published": 1792457126000
+      "published": 1792476000000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Resultados das Loterias Caixa",
-      "summary": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo a segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios…",
-      "image": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png",
-      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "title": "Você não herda o câncer, herda o risco: entenda a síndrome de Li-Fraumeni, diagnosticada em Isabel Teixeira",
+      "summary": "Isabel Teixeira revela diagnóstico de síndrome genética que aumenta risco de câncer A descoberta de uma alteração genética hereditária levou a atriz Isabel Teixeira a…",
+      "image": "https://s2-g1.glbimg.com/K3Ls2fQ1G6pb0dtbflH01rHCEcI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/8/kkhLzURpiw4aS6qRNX1g/captura-de-tela-2026-10-19-065750.jpg",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/10/20/voce-nao-herda-o-cancer-herda-o-risco-entenda-a-sindrome-de-li-fraumeni-diagnosticada-em-isabel-teixeira.ghtml",
       "source": "g1",
-      "published": 1792457094000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Dia de Sorte hoje: resultado do concurso 1326 e números sorteados",
-      "summary": "Volantes da Dia de Sorte G1 Veja abaixo os números do sorteio do concurso 1326 da Dia de Sorte realizado nesta segunda-feira (19): Dezenas: 1 - 2 - 6 - 11 - 19 - 21 - 23…",
-      "image": "https://s2-g1.glbimg.com/bkxUa57DD_g5ZKKe6aX3gdCBfok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/p/qPpsDkRR6jHhwhLAVv2A/volatne-dia-de-sorte.jpeg",
-      "link": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/10/19/dia-de-sorte-hoje-resultado-do-concurso-1326-e-numeros-sorteados.ghtml",
-      "source": "g1",
-      "published": 1792456846000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Dupla Sena hoje: resultado do concurso 3022 e números sorteados",
-      "summary": "Volantes da Dupla Sena G1 Veja abaixo os números do sorteio do concurso 3022 da Dupla Sena realizado nesta segunda-feira (19): 1º sorteio: 14 - 29 - 32 - 38 - 39 - 42 2º…",
-      "image": "https://s2-g1.glbimg.com/dejfjE2j0cgr0V32YrgjDTe4vKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/J/I/FGNm09TOiKlaZVOMAfPA/volantes-dupla-sena.jpg",
-      "link": "https://g1.globo.com/loterias/dupla-sena/noticia/2026/10/19/dupla-sena-hoje-resultado-do-concurso-3022-e-numeros-sorteados.ghtml",
-      "source": "g1",
-      "published": 1792456836000
+      "published": 1792476000000
     }
   ]
 }
