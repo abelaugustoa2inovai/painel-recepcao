@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-10-20T13:09:35.209Z",
+  "updatedAt": "2026-10-20T18:12:43.622Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Investigador da Polícia Civil é alvo de operação contra rede clandestina de importação de eletrônicos; BMW dele foi apreendida",
+      "summary": "PF deflagra operação contra esquema de R$ 460 milhões em eletrônicos contrabandeados Um investigador da Polícia Civil foi alvo da operação da Polícia Federal nesta…",
+      "image": "https://s2-g1.glbimg.com/di-8yjfPCF4YDLxB6Wg82quUUiM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/w/roEcDSSOWoeVeNhbLzJg/foto-g1-2026-10-20t114210.220.png",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/20/operacao-contra-rede-clandestina-de-importacao-de-eletronicos.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792513514000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Médico que morreu em confronto com a polícia após ameaçar a esposa foi atingido por 3 tiros, diz PM",
+      "summary": "Vídeo registra som de tiroteio que terminou com morte de médico em Catanduva, SP O médico que morreu em um confronto com a polícia após ameaçar a esposa foi atingido por…",
+      "image": "https://s2-g1.glbimg.com/DyIApW9_60FiEompK5oGxIBGT40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/f/UW6lAdToSshPVqpb1LAQ/g1-2026-10-18t182412.793.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/20/tiros-em-medico-que-morreu-em-confronto-com-a-policia.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792506471000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "'Café e Cacau': votação popular define nomes de filhotes de onça-parda em zoológico no interior de SP",
+      "summary": "Filhotes de onça-parda no Zoobotânico de São José do Rio Preto (SP) Marcos Morelli/Pref Rio Preto Os dois filhotes de onça-parda resgatados em Monte Aprazível (SP) e…",
+      "image": "https://s2-g1.glbimg.com/rk-0e6Z_kOxPhZBH28VAHjpuOZM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/m/LxJwznQJSnyHRdrNegWA/whatsapp-image-2026-09-22-at-18.31.24.jpeg",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/20/cafe-e-cacau-votacao-popular-define-nomes-de-filhotes-de-onca-parda-em-zoologico-no-interior-de-sp.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792503368000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Mãe e padrasto de bebê na UTI são presos após médicos suspeitarem de hematomas incompatíveis com queda de berço",
+      "summary": "Mãe e padrasto são presos em flagrante suspeitos de agredir criança em Araçatuba A mãe e o padrasto de um bebê internado na Unidade de Terapia Intensiva (UTI) com…",
+      "image": "https://s2-g1.glbimg.com/T5QTetB3n5zr2vqhiOBkW9qJsjQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/T/pJQM6LR5m56DCQJ63x9Q/design-sem-nome-15-.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/20/mae-e-padrasto-presos-crianca-internada.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792501813000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -13,244 +53,204 @@
       "published": 1792493965000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Saiba quem era o médico que morreu em troca de tiros com policiais após ameaçar esposa",
-      "summary": "Vídeo registra som de tiroteio que terminou com morte de médico em Catanduva, SP O médico de 52 anos que morreu em uma troca de tiros com a polícia após ameaçar a esposa…",
-      "image": "https://s2-g1.glbimg.com/DyIApW9_60FiEompK5oGxIBGT40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/f/UW6lAdToSshPVqpb1LAQ/g1-2026-10-18t182412.793.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/20/saiba-quem-era-o-medico-que-morreu-em-troca-de-tiros-com-policiais-apos-ameacar-esposa.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792492341000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Idosa completa 100 anos e revela segredo da longevidade: 'Dança e um copinho de vinho'",
-      "summary": "‘Dança e um copinho de vinho’: Idosa completa 100 anos e revela segredo da longevidade A ciência e o mercado de consumo estão sempre em busca de fórmulas, algumas vezes…",
-      "image": "https://s2-g1.glbimg.com/28dTgNFnRePGvdRDIoGhGT0O7gA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/n/wvJbxRTz6LRaGQsB8xBQ/whatsapp-image-2026-10-13-at-17.03.16.jpeg",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/20/idosa-completa-100-anos-e-revela-segredo-da-longevidade-danca-e-um-copinho-de-vinho.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792491583000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Presidente da Câmara de Olímpia preso suspeito de participação em 'rachadinha' renuncia ao cargo",
-      "summary": "Presidente da Câmara de Olímpia presos em operação renuncia ao cargo O presidente da Câmara Municipal de Olímpia (SP), Flávio Augusto Olmos (PP), que foi preso suspeito…",
-      "image": "https://s2-g1.glbimg.com/cjy42Bcvhd_TTB1BCVu_9_i56Uo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/4/XY5O46Qz6TKMXtAkx5QQ/g1-2026-10-15t105802.805.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/19/presidente-da-camara-de-olimpia-preso-suspeito-de-participacao-em-rachadinha-renuncia-ao-cargo.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792452825000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Polícia investiga suspeita de agressão contra menino de dois anos em Araçatuba",
-      "summary": "Criança é internada em estado grave e com sinais de agressão em Araçatuba A Polícia Civil de Araçatuba (SP) investiga a suspeita de agressão contra uma criança de dois…",
-      "image": "https://s2-g1.glbimg.com/84O0uAep0uyFMJzbSfbm4yGN4SI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/8/BuWHgwQFOIB4gqbmSa9w/design-sem-nome-14-.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/19/policia-investiga-suspeita-de-agressao-contra-menino-de-dois-anos-em-aracatuba.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792450123000
-    },
-    {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
-      "summary": "Índices futuros dos EUA operam mistos The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Ibovespa-ao-vivo-11.png?fit=300%2C200&quality=70&strip=all",
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe com novas pesquisas e força no exterior",
+      "summary": "Bolsas dos EUA sobem com quedas dos preços do petróleo The post Ibovespa Hoje Ao Vivo: Bolsa sobe com novas pesquisas e força no exterior appeared first on InfoMoney .",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-23-1.jpg?fit=300%2C200&quality=70&strip=all",
       "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/",
       "source": "InfoMoney",
-      "published": 1792501702000
+      "published": 1792519207000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Saques, violência e toque de recolher: é hora de adiar a viagem a Paris?",
-      "summary": "(Foto: Stephanie Lecocq / Reuters) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/paris-torre-eiffel-franca-protestos-policia-01.jpg?fit=1100%…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/paris-torre-eiffel-franca-protestos-policia-01.jpg?fit=300%2C191&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/saques-violencia-e-toque-de-recolher-e-hora-de-adiar-a-viagem-a-paris/",
+      "title": "Como usar IA para organizar sua vida financeira: 20 prompts práticos",
+      "summary": "Imagem: Tung Nguyen/Pixabay \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/03/tungnguyen0905-ai-7111803_b.jpg?fit=1280%2C699&quality=70&strip=all…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/tungnguyen0905-ai-7111803_b.jpg?fit=300%2C164&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/minhas-financas/como-usar-ia-para-organizar-sua-vida-financeira-20-prompts-praticos/",
       "source": "InfoMoney",
-      "published": 1792501595000
+      "published": 1792519200000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Quem é obrigado a votar no 2º turno das eleições? Veja as regras",
-      "summary": "TSE registra mais de 158 milhões de eleitores aptos; voto é obrigatório a partir dos 18 anos The post Quem é obrigado a votar no 2º turno das eleições? Veja as regras…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/Quem-e-obrigado-a-votar_.png?fit=300%2C195&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/quem-obrigado-votar-eleicoes-2026-regras/",
+      "title": "China suspende importações de carne de aves de SC após Newcastle; México barra país",
+      "summary": "Frangos em granja em Taquari, no Rio Grande do Sul -12/03/2025 (Foto: REUTERS/Diego Vara) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Frango_RS.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/economia/china-suspende-importacoes-de-carne-de-aves-de-sc-apos-newcastle-mexico-barra-pais/",
       "source": "InfoMoney",
-      "published": 1792501383000
+      "published": 1792517606000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Eleições 2026: O que Lula e Flávio Bolsonaro propõem para reforma tributária",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) sanciona a regulamentação da reforma tributária (Foto: Ricardo Stuckert/PR) \" data-image-caption=\" O presidente Luiz Inácio…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/01/lula-tributaria.jpg?fit=300%2C226&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/propostas-lula-flavio-reforma-tributaria/",
+      "title": "WEG, Embraer e Marcopolo: o que esperar dos balanços de bens de capital do 3T26",
+      "summary": "WEG \" data-image-caption=\" Logo da WEG (Foto: Adobe Stock) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/weg.jpeg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/temporada-balanco-3t26-bens-de-capital-wege3-embj3/",
       "source": "InfoMoney",
-      "published": 1792501200000
+      "published": 1792517435000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Vale (VALE3) entra em sobrevenda; ação pode reagir ou ainda tem espaço para cair?",
-      "summary": "Papel segue pressionado abaixo das principais médias e dentro de um canal de baixa; minério mais fraco e expectativa pelo balanço do 3T26 aumentam atenção sobre os…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/vale3_capa_1200x675.jpg?fit=300%2C169&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/vale-vale3-entra-em-sobrevenda-acao-pode-reagir-ou-ainda-tem-espaco-para-cair/",
+      "title": "No Canadá, eleitores de Alberta rejeitam proposta que levaria à independência",
+      "summary": "Uma pessoa chega a um local de votação durante um referendo não vinculativo sobre a separação da província de Alberta do Canadá, em Edmonton, Alberta, Canadá, 19 de…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Captura-de-tela-2026-10-19-164217.png?fit=300%2C199&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/no-canada-eleitores-de-alberta-rejeitam-proposta-que-levaria-a-independencia/",
       "source": "InfoMoney",
-      "published": 1792501195000
+      "published": 1792517355000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Treinador do Tottenham, De Zerbi agradece o apoio dos torcedores a Kulusevski",
-      "summary": "De Zerbi agradece o apoio dos torcedores a Kulusevski O post Treinador do Tottenham, De Zerbi agradece o apoio dos torcedores a Kulusevski apareceu primeiro em Gazeta…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/09/9ttq54c4-1920De-Zerbi.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/treinador-do-tottenham-de-zerbi-agradece-o-apoio-dos-torcedores-a-kulusevski/",
+      "title": "Veja fotos de Fenerbahçe x Slavia Praha pela Liga dos Campeões",
+      "summary": "O post Veja fotos de Fenerbahçe x Slavia Praha pela Liga dos Campeões apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261020__D3VR862__v2__HighRes__FblEurC1FenerbahceSlaviaPrague.webp",
+      "link": "https://www.gazetaesportiva.com/fotos/veja-fotos-de-fenerbahce-x-slavia-praha-pela-liga-dos-campeoes/",
       "source": "Gazeta Esportiva",
-      "published": 1792501325000
+      "published": 1792518478000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Ten Hag revela decepção com Cristiano Ronaldo durante passagem pelo Manchester United",
-      "summary": "Erik ten Hag voltou a falar sobre sua relação com Cristiano Ronaldo durante a passagem pelo Manchester United, entre julho e novembro de 2022. Em entrevista ao The…",
-      "image": "https://static.gazetaesportiva.com/uploads/imagem/2022/10/10/000_32L32JB.jpg",
-      "link": "https://www.gazetaesportiva.com/times/manchester-united/ten-hag-critica-cristiano-ronaldo-united/",
+      "title": "Conselheiro do Palmeiras é suspenso por nove meses após discussão com Leila Pereira",
+      "summary": "O Conselho Deliberativo do Palmeiras suspendeu, na noite da última segunda-feira o conselheiro José Corona Netto, por um período de nove meses, por conta de uma…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/leila-palmeiras-conselheiro.webp",
+      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-suspensao-conselheiro-discussao-leila-pereira/",
       "source": "Gazeta Esportiva",
-      "published": 1792500360000
+      "published": 1792518410000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Confira as melhores defesas da semana da MLS",
-      "summary": "Confira as melhores defesas da semana da MLS O post Confira as melhores defesas da semana da MLS apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/defes.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/confira-as-melhores-defesas-da-semana-da-mls-12/",
+      "title": "São Paulo recebe advertência e corre risco de sofrer novo transfer ban; entenda",
+      "summary": "O São Paulo foi advertido pela Agência Nacional de Regulação e Sustentabilidade do Futebol (Anresf) e pode sofrer um transfer ban em âmbito nacional. O post São Paulo…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/HU3K7geW0AA04oY-1.webp",
+      "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-advertencia-risco-transfer-ban/",
       "source": "Gazeta Esportiva",
-      "published": 1792499379000
+      "published": 1792518228000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Corinthians critica arbitragem e cobra explicações por lance com Gui Negão",
-      "summary": "O Corinthians voltou a criticar a arbitragem após o empate com o Vitória pelo Campeonato Brasileiro. Em publicação nas redes sociais, o clube reclamou de um lance…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Captura-de-tela-2026-10-20-085846.webp",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-reclama-de-possivel-penalti-em-gui-negao-e-cobra-cbf/",
+      "title": "Atlético-MG tem desfalque no ataque e retorno de Éverson para decisão na Sul-Americana; veja relacionados",
+      "summary": "O Atlético-MG divulgou na tarde desta terça-feira os relacionados para o confronto contra o Montevideo City Torque desta quarta, pela volta das semifinais da Copa…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/WhatsApp-Image-2026-10-20-at-14.35.52.webp",
+      "link": "https://www.gazetaesportiva.com/times/atletico-mg/atletico-mg-tem-desfalque-no-ataque-e-retorno-de-everson-para-decisao-na-sul-americana-veja-relacionados/",
       "source": "Gazeta Esportiva",
-      "published": 1792497748000
+      "published": 1792517899000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Auxiliar do Corinthians analisa início com Seedorf e empate com Vitória",
-      "summary": "Auxiliar do Corinthians analisa início com Seedorf e empate com Vitória O post Auxiliar do Corinthians analisa início com Seedorf e empate com Vitória apareceu primeiro…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Auxilia.webp",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/auxiliar-do-corinthians-analisa-inicio-com-seedorf-e-empate-com-vitoria/",
+      "title": "Gnabry elogia ex-companheiro Arteta antes de Bayern x Arsenal na Champions",
+      "summary": "Serge Gnabry elogiou Mikel Arteta antes do confronto entre Bayern de Munique e Arsenal pela Liga dos Campeões. O atacante alemão afirmou que não se surpreende com o…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261020__D3UA2Y9__v1__HighRes__FblEurC1ArsenalTraining.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/champions-league/gnabry-elogia-ex-companheiro-arteta-antes-de-bayern-x-arsenal-na-champions/",
       "source": "Gazeta Esportiva",
-      "published": 1792497024000
+      "published": 1792517720000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Cupom Terabyte | Até 51% de desconto - Outubro 2026",
-      "summary": "Se você está procurando um Cupom Terabyte para economizar na montagem ou atualização do seu computador, está no lugar certo. Na TerabyteShop, você encontra ofertas em…",
-      "image": "https://www.estadao.com.br/resizer/v2/QX37DHAQZNAFDA3CHVC5UTMBTM.png?quality=80&amp;auth=09588936d83af66dbb1094d56f36520d4237173ed9d933eebad26d4ec7eb2c0c&amp;width=1150",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/cupons/cupom-terabyte/",
+      "title": "Spotify aperta cerco a planos Família e exige verificação por QR Code",
+      "summary": "O plano Premium Família do Spotify é oferecido como opção mais barata para pessoas que residem no mesmo endereço, e a plataforma implementou um novo método de…",
+      "image": "https://www.estadao.com.br/resizer/v2/OEIC575RBVHTDE2WS6WB45JCE4.jpeg?quality=80&amp;auth=d16e3d7401da57abe326e58b82fb9ef1364b8ac3d8a33db5e7e7ee09c1ed5a29&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/spotify-aperta-cerco-a-planos-familia-e-exige-verificacao-por-qr-code/",
       "source": "Novidades do TecMundo",
-      "published": 1792500780000
+      "published": 1792519200000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Hora de renovar a sala: seleção de TVs QLED em promoção na Amazon",
-      "summary": "Se você está pensando em trocar a televisão ou montar um setup de entretenimento mais completo, este é um bom momento para pesquisar. Reunimos três opções de TVs QLED…",
-      "image": "https://m.media-amazon.com/images/I/418Y-M7w6FL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/20/reviews/hora-de-renovar-a-sala-selecao-de-tvs-qled-em-promocao-na-amazon-7/",
-      "source": "Olhar Digital",
-      "published": 1792499876000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Satélite russo chega a centenas de metros de equipamento dos EUA",
-      "summary": "Satélite militar da Rússia se aproxima de equipamento comercial a 540 km da Terra; veja os detalhes do rastreamento feito no espaço O post Satélite russo chega a…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/Gemini_Generated_Image_sbnuywsbnuywsbnu-1024x682.jpg",
-      "link": "https://olhardigital.com.br/2026/10/20/ciencia-e-espaco/satelite-russo-chega-a-centenas-de-metros-de-equipamento-dos-eua/",
-      "source": "Olhar Digital",
-      "published": 1792499403000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Hora de renovar a sala: Smart TVs 4K em promoção na Amazon",
-      "summary": "Se você está pensando em trocar aquela televisão antiga por um modelo moderno com imagem nítida e recursos inteligentes, este é o momento certo. Reunimos três opções de…",
-      "image": "https://m.media-amazon.com/images/I/41UmF6dm83L._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/20/reviews/hora-de-renovar-a-sala-smart-tvs-4k-em-promocao-na-amazon-70/",
-      "source": "Olhar Digital",
-      "published": 1792498706000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "HomeView Ultra deve ter braço robótico para movimentar a tela",
-      "summary": "A Apple já anunciou o HomeView e lançará o aparelho em novembro, mas a companhia também já pensa no HomeView Ultra , uma versão mais parruda e com braço articulado. De…",
-      "image": "https://www.estadao.com.br/resizer/v2/T3JXX5FOGFCZNNDWNJAFZICWJ4.jpg?quality=80&amp;auth=761806dc95dc88549417f8085a6aca533dcf0dbdbf3d8b1630c1a85365f1e30d&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/homeview-ultra-deve-ter-braco-robotico-para-movimentar-a-tela/",
+      "title": "Smart Sampa: entenda o que vazou e quem são as empresas que operam o sistema de câmeras de SP",
+      "summary": "O sistema de monitoramento Smart Sampa sofreu um vazamento de dados . A Prefeitura de São Paulo confirmou a exposição de informações restritas e investiga o caso.…",
+      "image": "https://www.estadao.com.br/resizer/v2/EEVNWAJVM5PHLFIBJCAG7UA5MY.jpg?quality=80&amp;auth=349be5c89f402044953f5bf9c1dbf7f13eeb5591cc2f51dfea3711a424c1aeeb&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/smart-sampa-entenda-o-que-vazou-e-quem-sao-as-empresas-que-operam-o-sistema-de-cameras-de-sp/",
       "source": "Novidades do TecMundo",
-      "published": 1792497600000
+      "published": 1792518300000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Som potente onde você estiver: selecionamos caixas de som Bluetooth em promoção na Amazon",
+      "summary": "Seja para animar uma festa na praia, embalar uma viagem ou simplesmente ouvir música com mais qualidade no dia a dia, uma boa caixa de som Bluetooth faz toda a…",
+      "image": "https://m.media-amazon.com/images/I/41-SWcb+ecL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/20/reviews/som-potente-onde-voce-estiver-selecionamos-caixas-de-som-bluetooth-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "published": 1792517876000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Outubro Rosa: ela venceu um câncer de mama considerado incurável em meio à alta de casos entre jovens",
+      "summary": "Conheça a história da jovem que venceu um câncer de mama avançado em um cenário de alta nos registros em pessoas com menos de 50 anos O post Outubro Rosa: ela venceu um…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/leticia-prates-antes-depois-1024x539.jpg",
+      "link": "https://olhardigital.com.br/2026/10/20/medicina-e-saude/outubro-rosa-ela-venceu-um-cancer-de-mama-considerado-incuravel-em-meio-a-alta-de-casos-entre-jovens/",
+      "source": "Olhar Digital",
+      "published": 1792516957000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Quer jogar com som de qualidade? Confira uma seleção de headsets gamer em promoção na Amazon",
+      "summary": "Para quem leva os games a sério, um bom headset faz toda a diferença — seja para ouvir os passos do inimigo ou para se comunicar com o time. Separamos três opções de…",
+      "image": "https://m.media-amazon.com/images/I/41j1S82Wg8L._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/20/reviews/quer-jogar-com-som-de-qualidade-confira-uma-selecao-de-headsets-gamer-em-promocao-na-amazon-6/",
+      "source": "Olhar Digital",
+      "published": 1792516676000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Brasil vira o segundo maior fornecedor de petróleo à China neste ano",
-      "summary": "O Brasil ultrapassou a Arábia Saudita como o segundo maior fornecedor de petróleo bruto para a China nos primeiros nove meses de 2026, segundo dados alfandegários…",
+      "title": "TSE vê falha de tribunais regionais em mudança de seções eleitorais",
+      "summary": "Integrantes do TSE (Tribunal Superior Eleitoral) apontam falhas dos Tribunais Regionais Eleitorais na crise gerada com a mudança de milhares de locais de votação entre o…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/brasil-vira-o-segundo-maior-fornecedor-de-petroleo-a-china-neste-ano.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/tse-ve-falha-de-tribunais-regionais-em-mudanca-de-secoes-eleitorais.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1792501380000
+      "published": 1792519800000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Gari morre atropelado por caminhão de coleta de lixo durante coleta em Ponta Porã",
-      "summary": "Gari morre após cair embaixo de caminhão de lixo durante coleta em MS Liniker Ribeiro, TV Morena O gari Patrick Revert Borborema, de 48 anos, morreu após ser atropelado…",
-      "image": "https://s2-g1.glbimg.com/A5fwoKAb4ffNkef03bpolSD53bA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/w/c4oDBdR3e6WvpA3PhNMw/fgfnhbjm.png",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/20/gari-morre-atropelado-por-caminhao-de-coleta-de-lixo-durante-coleta-em-ponta-pora.ghtml",
+      "title": "VÍDEO: Detento é flagrado fugindo de penitenciária em Governador Valadares",
+      "summary": "Detento é flagrado fugindo de penitenciária em Governador Valadares Um detento de 25 anos fugiu do Presídio de Governador Valadares, no bairro Santos Dumont II, na manhã…",
+      "image": "https://s2-g1.glbimg.com/AJ5Nuk5FeU96qr6u-WVvKuxniMI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/T/vhWKNES0WLUYfEYBip9w/video.gif",
+      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/10/20/video-detento-e-flagrado-fugindo-de-penitenciaria-em-governador-valadares.ghtml",
       "source": "g1",
-      "published": 1792501264000
+      "published": 1792519345000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Casa do Trabalhador oferece 100 vagas para atendimento em Feira de Santana; saiba mais",
-      "summary": "Casa do Trabalhador anuncia 100 vagas para atendimento em Feira de Santana; saiba mais Divulgação: Valdenir Lima e Valto Novaes A Casa do Trabalhador, serviço de…",
-      "image": "https://s2-g1.glbimg.com/LXmqki6Cv6Un74aaD3xAyfmxg3A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/0/D/4C2bzlSNq7f8Oz85lSPw/casa-do-trabalhador.jfif",
-      "link": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/10/20/vagas-de-emprego-na-bahia.ghtml",
+      "title": "Lula visita José Sarney após ato de campanha em São Luís",
+      "summary": "Lula visita José Sarney após ato de campanha em São Luís O presidente Luiz Inácio Lula da Silva (PT) visitou o ex-presidente José Sarney, no início da tarde desta…",
+      "image": "https://s2-g1.glbimg.com/MRHmT6YAsbtElkwis0mujh6rKYU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/Z/WU4LAWQSWroA50DzUbgw/img-1159.jpg.jpeg",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/10/20/lula-visita-jose-sarney-apos-ato-de-campanha-em-sao-luis.ghtml",
       "source": "g1",
-      "published": 1792501231000
+      "published": 1792519277000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Concurso público da Polícia Militar de SC abre 500 vagas para soldado com salário inicial de R$ 8,5 mil",
-      "summary": "Polícia Militar de Santa Catarina abriu concurso com 500 vagas para cargo de soldado. PMSC/Divulgação A Polícia Militar de Santa Catarina (PMSC) publicou na…",
-      "image": "https://s2-g1.glbimg.com/OGsLK8EuVfBAGkWTYLSrGYwn-qg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/n/t/iC8gU7SJK76gaR6LD7Pg/30652982-1882108838467631-795308860955951104-o.jpg",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/20/concurso-publico-policia-militar-santa-catarina-2026.ghtml",
-      "source": "g1",
-      "published": 1792501222000
+      "title": "'Onde Repousar Meus Olhos' faz um elogio à beleza da concisão",
+      "summary": "Depois de dez anos, Sang-hee -uma mulher vivida por Kim Min-hee- é levada pelo irmão para visitar a casa da mãe na turística Ilha de Jeju, na Coreia do Sul. A matriarca…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/onde-repousar-meus-olhos-faz-um-elogio-a-beleza-da-concisao.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1792519200000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Shein, famosa pelas 'blusinhas', abre loja em Florianópolis com 12 mil peças e visitação limitada",
-      "summary": "Loja da Shein chega a Florianópolis A marca chinesa de roupas e acessórios Shein, conhecida pelas \"blusinhas\", abrirá sua primeira loja temporária de Santa Catarina em…",
-      "image": "https://s2-g1.glbimg.com/p2kjNwbCj0SmmH9kgCRQn__si-s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/E/jzhASqTZmFGQAH6yB32w/shein-em-florianopolis-.png",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/20/shein-abre-loja-em-florianopolis-visitacao-limitada.ghtml",
-      "source": "g1",
-      "published": 1792501201000
+      "title": "Mostra de Cinema resgata filmes clássicos e exibe joias restauradas",
+      "summary": "Entre as atrações mais fascinantes da Mostra Internacional de Cinema de São Paulo está a seleção de filmes restaurados, que apresenta às novas gerações tanto obras de…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/mostra-de-cinema-resgata-filmes-classicos-e-exibe-joias-restauradas.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1792519200000
     }
   ]
 }
