@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-23T19:39:12.457Z",
+  "updatedAt": "2026-10-23T22:45:23.516Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Chuva de granizo atinge cidades no interior de SP",
+      "summary": "Chuva de granizo foi registrada em Novais Uma chuva de granizo ocorreu em Novais e Cajobi, no interior de São Paulo, nesta sexta-feira (23). Severínia e Ouroeste também…",
+      "image": "https://s2-g1.glbimg.com/HH2cbc-L4VBjOfIWJ4UxhBDnZAU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/p/VjFQKPSZKfswLlUNZZJA/design-sem-nome-2026-10-23t165816.892.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/23/chuva-de-granizo-atinge-cidades-no-interior-de-sp.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792786106000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -43,214 +53,204 @@
       "published": 1792772847000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Eleitores voltam às urnas no domingo para o 2º turno; Macedônia escolhe prefeito e vice na mesma data",
-      "summary": "Urna Eletrônica TSE Os moradores das regiões de Araçatuba e São José do Rio Preto (SP) voltam às urnas neste domingo (25) para o 2º turno das eleições presidenciais de…",
-      "image": "https://s2-g1.glbimg.com/Dou4oOuEGleQ9dEWygd5qsQIGes=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/D/U7JSE4Ry6mhgCgFJCvBg/design-sem-nome-17-.png",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/23/eleitores-voltam-as-urnas-no-domingo-para-o-2o-turno-macedonia-escolhe-prefeito-e-vice-na-mesma-data.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792771365000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "BC reforça regras de proteção ao consumidor nas ofertas de crédito",
+      "summary": "As propagandas de empréstimos obedecerão a novas regras a partir do próximo ano, decidiu nesta sexta-feira (23) o Banco Central (BC). O órgão aprovou três resoluções…",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/bc-reforca-regras-de-protecao-ao-consumidor-nas-ofertas-de-credito",
+      "source": "Feed Editoria",
+      "published": 1792794660000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Real ainda pode subir após eleição, mas riscos aumentam, diz Goldman Sachs",
-      "summary": "Notas de dólares e moedas de real (Imagem gerada com auxílio IA/Leonardo Albertino) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/AdobeStock_866688608.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/real-ainda-pode-subir-apos-eleicao-mas-riscos-aumentam-diz-goldman-sachs/",
-      "source": "InfoMoney",
-      "published": 1792784144000
+      "title": "Dólar fecha abaixo de R$ 5 e recua 1,58% na semana",
+      "summary": "O dólar fechou abaixo de R$ 5 nesta sexta-feira (23), e a bolsa brasileira subiu no último dia útil antes do segundo turno das eleições presidenciais. O petróleo avançou…",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-abaixo-de-r-5-e-recua-158-na-semana",
+      "source": "Feed Editoria",
+      "published": 1792792920000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Nova York aprova proibição de carruagens no Central Park a partir de 2028",
-      "summary": "ATENÇÃO: NÃO REUTILIZAR ESSA IMAGEM. EXCLUSIVIDADE DO PACOTE NYT \" data-image-caption=\" Um condutor de carruagem puxada por cavalos aponta os pontos turísticos para seus…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Carruaggem-Nova-York.jpg?fit=300%2C198&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/business/global/nova-york-aprova-proibicao-de-carruagens-no-central-park-a-partir-de-2028/",
+      "title": "Como uma pedra preciosa de 1 milhão de euros virou peso de porta de idosa na Romênia",
+      "summary": "Foto: Divulgação Museu Buzau \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/pepita-ambar-romenia.jpg?fit=1200%2C800&quality=70&strip=all\"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/pepita-ambar-romenia.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/pedra-ambar-milhao-euros-peso-porta-romenia/",
       "source": "InfoMoney",
-      "published": 1792783847000
+      "published": 1792791000000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Além das operações: networking ganha destaque na estreia da Casa Clear",
-      "summary": "Casa Clear 2026 \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/Casa-Clear-2026.jpeg?fit=1280%2C859&quality=70&strip=all\" />Além das operações…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Casa-Clear-2026.jpeg?fit=300%2C201&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/alem-das-operacoes-networking-ganha-destaque-na-estreia-da-casa-clear/",
+      "title": "Moedas Globais: dólar sobe por tensão em geopolítica e à espera de reunião do Fed",
+      "summary": "Notas de dólar 19/03/2025 REUTERS/Dado Ruvic/Foto ilustrativa \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-18T220859Z_1_LYNXMPEM2H1GS_RTROPTP_3_GLOBAL-MARKETS.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/moedas-globais-dolar-sobe-por-tensao-em-geopolitica-e-a-espera-de-reuniao-do-fed/",
       "source": "InfoMoney",
-      "published": 1792783183000
+      "published": 1792790128000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Quanto é a multa por não votar nas eleições de 2026?",
-      "summary": "Marcello Casal Jr/Agência Brasil \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/09/etitulo.webp?fit=1170%2C700&quality=70&strip=all\" />Pagamento…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/etitulo.webp?fit=300%2C179&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/multa-por-nao-votar-eleicoes-2026/",
+      "title": "ASSISTA: Lula x Flávio: o que revelam as últimas pesquisas a dois dias da eleição?",
+      "summary": "A diretora-executiva do Instituto Ideia, Cila Schulman, analisa o empate técnico entre os candidatos, o perfil dos eleitores e os fatores que ainda podem influenciar o…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/imagem-4.jpeg?fit=300%2C169&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/assista-lula-x-flavio-o-que-revelam-as-ultimas-pesquisas-a-dois-dias-da-eleicao/",
       "source": "InfoMoney",
-      "published": 1792782109000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Brasileira morre em lua de mel em Portugal após reação alérgica; entenda",
-      "summary": "Homenagem do Coren-DF a Amanda Marinho Nascimento (Reprodução / Instagram) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Amanda-Marinho-Nascimento.jpg?fit=300%2C181&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/minhas-financas/brasileira-morre-lua-de-mel-portugal/",
-      "source": "InfoMoney",
-      "published": 1792782000000
+      "published": 1792789952000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Escalação: com desfalques, Seedorf prepara novidades no Corinthians contra o Vasco",
-      "summary": "Clarence Seedorf encerrou a preparação do Corinthians para o duelo contra o Vasco com testes na equipe titular e vários desfalques. Gabriel Paulista, Memphis Depay,…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/250223.webp",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/seedorf-testa-corinthians-desfalques-vasco-brasileirao/",
+      "title": "Nonato se pronuncia após pênalti perdido contra o Palmeiras: “doendo demais”",
+      "summary": "O meio-campista Nonato se pronunciou nesta sexta-feira após desperdiçar uma cobrança de pênalti na eliminação do Fluminense para o Palmeiras, na semifinal da…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261022__D42C8DQ__v3__HighRes__FblLibertadoresPalmeirasFluminense.webp",
+      "link": "https://www.gazetaesportiva.com/times/fluminense/nonato-se-pronuncia-apos-penalti-perdido-contra-o-palmeiras-doendo-demais/",
       "source": "Gazeta Esportiva",
-      "published": 1792783412000
+      "published": 1792795415000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Peres Jepchirchir, campeã mundial de maratona, é suspensa por doping",
-      "summary": "Campeã olímpica em Tóquio e atual campeã mundial da maratona, a queniana foi suspensa provisoriamente após teste detectar vestígios de EPO antes da Maratona de Sydney. O…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Peres-Jepchirchir-1536x1024-1.webp",
-      "link": "https://www.gazetaesportiva.com/mais-esportes/peres-jepchirchir-campea-mundial-de-maratona-e-suspensa-por-doping/",
+      "title": "Veja fotos do treino do Palmeiras nesta sexta-feira",
+      "summary": "O post Veja fotos do treino do Palmeiras nesta sexta-feira apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/23102026_cg_palmeiras_4897_48.webp",
+      "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-treino-do-palmeiras-nesta-sexta-feira-24/",
       "source": "Gazeta Esportiva",
-      "published": 1792782683000
+      "published": 1792793973000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Alix Vinícius pode chegar a 200 jogos como profissional diante do Palmeiras",
-      "summary": "O Red Bull Bragantino volta a campo neste sábado para enfrentar o Palmeiras, fora de casa, pela 32ª rodada do Campeonato Brasileiro. O confronto pode ser especial para o…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/WhatsApp-Image-2026-10-23-at-15.06.36.webp",
-      "link": "https://www.gazetaesportiva.com/times/bragantino/alix-vinicius-pode-chegar-a-200-jogos-como-profissional-diante-do-palmeiras/",
+      "title": "Com Roque na parte interna, Abel esboça escalação para jogo com Bragantino",
+      "summary": "O Palmeiras deu sequência na tarde desta sexta-feira, na Academia de Futebol, à preparação para o duelo com o Red Bull Bragantino, no sábado, às 18h30 (de Brasília), na…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/23102026_cg_palmeiras_5037_61.webp",
+      "link": "https://www.gazetaesportiva.com/times/palmeiras/com-roque-na-parte-interna-abel-esboca-escalacao-para-jogo-com-bragantino/",
       "source": "Gazeta Esportiva",
-      "published": 1792782365000
+      "published": 1792793706000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Palmeiras anuncia venda de ingressos para semifinal da Copa do Brasil contra o Vasco",
-      "summary": "O Palmeiras divulgou as informações sobre a venda de ingressos para o confronto contra o Vasco, pelo jogo de ida da semifinal da Copa do Brasil. A partida será disputada…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/03/PALMEIRAS_Torcida6.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-anuncia-venda-de-ingressos-para-semifinal-da-copa-do-brasil-contra-o-vasco/",
+      "title": "Corinthians busca empate com o Guarani e deixa tudo igual nas quartas do Paulista sub-20",
+      "summary": "Corinthians e Guarani empataram por 2 a 2 nesta sexta-feira (22), no Estádio Brinco de Ouro da Princesa, em Campinas, pelo jogo de ida das quartas de final do Campeonato…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/HVWPBOuXcAAu1HL.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-guarani-empate-quartas-paulistao-sub-20/",
       "source": "Gazeta Esportiva",
-      "published": 1792781133000
+      "published": 1792793623000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Medina perde final em Peniche e segue sem vitória na WSL em 2026",
-      "summary": "Gabriel Medina ficou com o vice-campeonato da etapa de Peniche, em Portugal, ao ser derrotado pelo norte-americano Griffin Colapinto por 17,60 a 16,77 na final. O…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/04/Gabriel-Medina_26MargaretRiver_BRR_7605_Beatriz-Ryder.webp",
-      "link": "https://www.gazetaesportiva.com/mais-esportes/surfe/medina-perde-final-em-peniche-e-segue-sem-vitoria-na-wsl-em-2026/",
+      "title": "Santos faz treino tático e finaliza preparação para pegar o Bahia; veja provável escalação",
+      "summary": "O Santos realizou um treino físico e tático nesta sexta-feira (23), no CT Rei Pelé, e encerrou a preparação para enfrentar o Bahia, pela 32ª rodada do Brasileirão. Cuca…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55608412785_ab9f301a09_3k-1.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/santos-faz-treino-tatico-e-finaliza-preparacao-para-pegar-o-bahia-veja-provavel-escalacao/",
       "source": "Gazeta Esportiva",
-      "published": 1792780954000
+      "published": 1792793091000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Nvidia quer alcançar ‘todos os gamers do Brasil’ e ampliar presença fora do eixo Rio-São Paulo",
-      "summary": "No início de outubro, o Brasil recebeu dois grandes eventos de games e tecnologia no mesmo fim de semana: a Brasil Game Show 2026, em São Paulo, e a Pichau Arena, em…",
-      "image": "https://www.estadao.com.br/resizer/v2/X4QGDPZHR5C77PBC3RGLY2H3RU.jpg?quality=80&amp;auth=0e728f7ed4e1a3938837b9b8d74e71f8326f40bee295853a53472f1da94804cf&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/nvidia-quer-alcancar-todos-os-gamers-do-brasil-e-ampliar-presenca-fora-do-eixo-rio-sao-paulo/",
+      "title": "Monster Hunter Wilds e mais jogos para Switch na eShop com até 90% OFF",
+      "summary": "Neste final de semana que tem tudo para ser muito movimentado, é mais do que natural querer relaxar e se desligar um pouco do mundo real. Nesse caso, a boa é aproveitar…",
+      "image": "https://www.estadao.com.br/resizer/v2/L7UWRSUXJJPONBHWRF4BEO34GU.jpg?quality=80&amp;auth=9217a5b3dc48098a68987b258b65d73ac4f7b447c2ae076b7a7c961251381a88&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/monster-hunter-wilds-e-mais-jogos-para-switch-na-eshop-com-ate-90-off/",
       "source": "Novidades do TecMundo",
-      "published": 1792782900000
+      "published": 1792794600000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Som que imersiona: headsets 7.1 surround em promoção na Amazon",
-      "summary": "Se você busca uma experiência sonora mais imersiva nos games, vale a pena olhar para os headsets com som surround 7.1. A tecnologia posiciona os sons ao redor do…",
-      "image": "https://m.media-amazon.com/images/I/41aU1vsLZWL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/23/reviews/som-que-imersiona-headsets-7-1-surround-em-promocao-na-amazon-8/",
-      "source": "Olhar Digital",
-      "published": 1792782883000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Starlink: Trump diz que serviço foi restaurado, mas Ucrânia afirma que restrições continuam",
-      "summary": "Segundo autoridades ucranianas e um especialista em segurança nacional, os problemas persistiam nesta sexta-feira (23), com impactos sobre o uso de drones contra a…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/donald-trump-3-1024x753.jpg",
-      "link": "https://olhardigital.com.br/2026/10/23/pro/starlink-trump-diz-que-servico-foi-restaurado-mas-ucrania-afirma-que-restricoes-continuam/",
-      "source": "Olhar Digital",
-      "published": 1792782624000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "ChatVote: assistente virtual do TSE agora tira dúvidas de eleitores pelo WhatsApp",
-      "summary": "Assistente virtual oficial da Justiça Eleitoral, o ChatVote agora também está disponível no WhatsApp, permitindo tirar dúvidas e realizar consultas sobre assuntos…",
-      "image": "https://www.estadao.com.br/resizer/v2/I62WO6ZJZBHXFJMX6DQIRINWJE.jpeg?quality=80&amp;auth=96129507dab5403ba39650ae2ace61bfedce62dccd958c456e963a0d901222d2&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/chatvote-assistente-virtual-do-tse-agora-tira-duvidas-de-eleitores-pelo-whatsapp/",
+      "title": "Missão chinesa encontra ‘cápsula do tempo’ de ferro gama na Lua; entenda",
+      "summary": "A análise de amostras do lado oculto da Lua colhidas pela missão chinesa Chang’e 6 e trazidas para a Terra, em 2024, revelou a existência de ferro gama naquela região do…",
+      "image": "https://www.estadao.com.br/resizer/v2/4VOLVTY66ZKDXJ2X7VBPKGXI6Q.jpg?quality=80&amp;auth=e8256a9b3a1d5485b7618caf22615f31f99a71741a10710cb9a94d5b8b2660fa&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/stem/missao-chinesa-encontra-capsula-do-tempo-de-ferro-gama-na-lua-entenda/",
       "source": "Novidades do TecMundo",
-      "published": 1792782000000
+      "published": 1792792800000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Política, poder e intrigas: o que assistir neste fim de semana",
-      "summary": "Filmes e séries para entrar no clima das eleições, além das novidades do cinema e do streaming O post Política, poder e intrigas: o que assistir neste fim de semana…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/10/23/cinema-e-streaming/politica-poder-e-intrigas-o-que-assistir-neste-fim-de-semana/",
+      "title": "Sua casa mais limpa sem esforço: aspiradores robô em promoção na Amazon",
+      "summary": "Manter a casa limpa ficou muito mais fácil com os aspiradores robô — e agora dá para garantir um desses dispositivos inteligentes com ótimas condições na Amazon.…",
+      "image": "https://m.media-amazon.com/images/I/21ScH4ZeIFL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/23/reviews/sua-casa-mais-limpa-sem-esforco-aspiradores-robo-em-promocao-na-amazon/",
       "source": "Olhar Digital",
-      "published": 1792782000000
+      "published": 1792791283000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Google muda política para usar dados do Gmail e Fotos em publicidade",
+      "summary": "O Google atualizou sua política de privacidade para permitir o uso de dados do Gmail e do Google Fotos, entre outros aplicativos conectados, para exibir anúncios…",
+      "image": "https://www.estadao.com.br/resizer/v2/RB4C6GEXGJNYNODW6KATGP4MQM.jpg?quality=80&amp;auth=86f1ac13d6a4e819cfba7c7da1c69836a98183770ea3d88aec0e7b3afc271bc8&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/google-muda-politica-para-usar-dados-do-gmail-e-fotos-em-publicidade/",
+      "source": "Novidades do TecMundo",
+      "published": 1792790400000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Steam recebe 5 jogos grátis nesta semana! Veja lista e resgate (23)",
+      "summary": "Você já sabe, sexta-feira é o dia da nossa tradicional lista de indicações de jogos grátis na Steam para você aproveitar no fim de semana. Nela, o Voxel traz opções de…",
+      "image": "https://www.estadao.com.br/resizer/v2/7EZOOIYHI5FXVAKUNSNXPWEUDY.jpg?quality=80&amp;auth=e3f01cdeacf8679a564c47ae11ce47cb98870613d98e5ac888352398b02c4e97&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/steam-recebe-5-jogos-gratis-nesta-semana-veja-lista-e-resgate-23/",
+      "source": "Novidades do TecMundo",
+      "published": 1792790100000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Esqueletos no armário revelam os crimes de Flávio",
-      "summary": "O caso das rachadinhas -movimentações atípicas de R$ 1,2 milhão na conta do assessor Queiroz- veio a público no fim de 2018, logo após a eleição de Bolsonaro. De lá para…",
+      "title": "EUA e Paraguai fazem acordo para abastecer infraestrutura de IA com energia de Itaipu",
+      "summary": "Estados Unidos e Paraguai fizeram um acordo para abastecer um projeto de computação de alto desempenho voltado para inteligência artificial com a energia gerada pela…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/10/esqueletos-no-armario-revelam-os-crimes-de-flavio.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/eua-e-paraguai-fazem-acordo-para-abastecer-infraestrutura-de-ia-com-energia-de-itaipu.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1792783740000
+      "published": 1792795140000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Argentina identifica restos mortais de oito desaparecidos da ditadura",
-      "summary": "Familiares seguram cartazes com a imagem de Pascual Delfin Ludena, uma das oito vítimas identificadas a partir de restos mortais encontrados em uma vala comum CESAR…",
-      "image": "https://s2-g1.glbimg.com/7Y3_oyhMXPcmV121vC9V2VWMfvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/x/ykqK83QKma7fkDFn6iPA/afp-20261023-d49k8nq-v1-highres-argentinadictatorshipcrimejusticeremains.jpg",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/23/argentina-identifica-restos-mortais-de-oito-desaparecidos-da-ditadura.ghtml",
-      "source": "g1",
-      "published": 1792783615000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Fernando Castelo Branco recebe Michel Temer em lançamento de livro em SP",
-      "summary": "Ao lado do sócio Frederico Crissiúma, o advogado Fernando Castelo Branco recebeu na quarta (21) convidados para o lançamento do livro \"Como a Mídia Elege e Dissemina o…",
+      "title": "Bernardo Carvalho lança 'Xilocosmos' em São Paulo",
+      "summary": "O escritor e colunista da Folha Bernardo Carvalho lança neste sábado (24) o romance \"Xilocosmos\", publicado pela Companhia das Letras. A sessão de autógrafos será às…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/fernando-castelo-branco-recebe-michel-temer-em-lancamento-de-livro-em-sp.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/bernardo-carvalho-lanca-xilocosmos-em-sao-paulo.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1792783440000
+      "published": 1792794600000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Eleitor na Paraíba deve levar 12 segundos para votar no 2° turno, projeta TRE",
-      "summary": "Eleitor na Paraíba deve levar 12 segundos para votar no segundo turno, projeta TRE-PB Karina de Araujo Os paraibanos devem passar cerca de 12 segundos na cabine de…",
-      "image": "https://s2-g1.glbimg.com/_XZ01OycEuHq-ZwHpLghKc7txq0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/3/Pp0ThXRYmAtqQhYJUPLw/design-sem-nome-2026-10-04t171745.258.jpg",
-      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/23/eleitor-na-paraiba-deve-levar-12-segundos-para-votar-no-2-turno-projeta-tre.ghtml",
+      "title": "Jovem que colocou recém-nascida na lixeira de hospital em MT afirmou à polícia que não sabia da gravidez",
+      "summary": "Hospital Municipal Dr. Daercio Oliveira de Morais, em Nova Xavantina (MT) Reprodução Uma jovem de 18 anos que foi autuada em flagrante após confessar que colocou a filha…",
+      "image": "https://s2-g1.glbimg.com/t3kZGWicNlI4uvFhZK8fqA52j_I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/L/C1Knn8S1AKaVl7ARZn6w/foto-g1-2026-10-22t185638.356.png",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/23/jovem-que-colocou-recem-nascida-na-lixeira-de-hospital-em-mt-afirmou-a-policia-que-nao-sabia-da-gravidez.ghtml",
       "source": "g1",
-      "published": 1792783399000
+      "published": 1792794513000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Governo notifica empresas de ônibus que negam emissão de passagens gratuitas para eleição",
-      "summary": "Embarque em ônibus intermunicipal no Terminal Integrado de Passageiros (TIP), na Zona Oeste do Recife Semobi/Divulgação A Empresa Pernambucana de Transporte…",
-      "image": "https://s2-g1.glbimg.com/C0q0XqLuqAR-JIdtBYj-wmK3zzg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/I/QqdhvNRDOSPjCHNnH3Tw/embarque-tip.jpeg",
-      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/23/denuncia-empresas-onibus-transporte-gratuito-eleicao.ghtml",
+      "title": "Datafolha: 25% dizem que combater a violência deve ser a prioridade do presidente eleito",
+      "summary": "Pesquisa Datafolha divulgada nesta sexta-feira (23) mostra que, para 25% dos entrevistados, combater a violência deve ser a prioridade do próximo presidente da…",
+      "image": "https://s2-g1.glbimg.com/tKVnXx2XRvkYaqGzV83MscXbkGg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/D/OXq59cQSKNQce1vENz8Q/montagem-horizontal-1280x720px-24-.jpg",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/23/datafolha-violencia-presidente.ghtml",
       "source": "g1",
-      "published": 1792783385000
+      "published": 1792794507000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Palmeiras busca revanche contra Estudiantes para dar ao Brasil liderança na Libertadores",
+      "summary": "Palmeiras e Estudiantes voltam a decidir uma Copa Libertadores após 58 anos, em uma final que vai isolar Brasil ou Argentina no ranking de países com mais troféus no…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/palmeiras-busca-revanche-contra-estudiantes-para-dar-ao-brasil-lideranca-na-libertadores.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1792794360000
     }
   ]
 }
