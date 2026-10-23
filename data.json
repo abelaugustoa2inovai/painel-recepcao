@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-22T22:52:58.961Z",
+  "updatedAt": "2026-10-23T02:37:39.899Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Família confirma morte cerebral de bebê internado com lesões, fraturas e hematomas; mãe e padrasto foram presos",
+      "summary": "Família confirma morte encefálica de bebê hospitalizado por suspeita de agressão A família do bebê de dois anos, que foi internado em Araçatuba (SP) com lesões no…",
+      "image": "https://s2-g1.glbimg.com/MkXL6xm-bsRYMmSL9xrCdZbBvdQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/B/1HIR00SbqfZpNtEPXOgA/foto-g1-2026-10-22t130949.852.png",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/22/familia-confirma-morte-cerebral-de-bebe-internado-com-lesoes-no-cranio-fraturas-e-hematomas-mae-e-padrasto-foram-presos.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792709416000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -43,214 +53,204 @@
       "published": 1792691230000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "'Eu confiava nele', diz adolescente que arrombou porta do quarto para tentar salvar mãe morta a facadas pelo padrasto",
-      "summary": "Adolescente arrombou porta do quarto para tentar salvar mãe morta pelo padrasto A adolescente de 15 anos disse que arrombou porta do quarto para tentar salvar a mãe, que…",
-      "image": "https://s2-g1.glbimg.com/jyMNgLkUfzgMcQOFReN4zr7ENaE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/4/EDESHxSCmeAH8JNwN3jw/foto-g1-2026-10-22t094529.871.png",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/22/eu-confiava-nele-diz-adolescente-que-arrombou-porta-para-tentar-salvar-mae-morta-a-facadas-pelo-padrasto.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792677715000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Portaria convoca instituições financeiras para 3ª fase do Desenrola",
+      "summary": "As instituições financeiras terão cinco dias úteis para a informar ao governo as dívidas que pretendem oferecer para renegociação na primeira etapa do Desenrola 3.0. O…",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/portaria-convoca-instituicoes-financeiras-para-3a-fase-do-desenrola",
+      "source": "Feed Editoria",
+      "published": 1792717440000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Mendonça diz que Lula e Flávio podem abrir sigilos sem autorização do TSE",
-      "summary": "O ministro André Mendonça em sessão plenária. (Foto: Rosinei Coutinho/SCO/STF) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/53629152127_616de6ba79_c.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/mendonca-diz-que-lula-e-flavio-podem-abrir-sigilos-sem-autorizacao-do-tse/",
+      "title": "No Paraná, lideranças tradicionais e ex-ministro de Collor apoiam Lula no 2º turno",
+      "summary": "Presidente da República, Luiz Inácio Lula da Silva, durante ato de campanha em Belém. Foto: Ricardo Stuckert. \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/55556976837_12196b5332_c.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/no-parana-liderancas-tradicionais-e-ex-ministro-de-collor-apoiam-lula-no-2o-turno/",
       "source": "InfoMoney",
-      "published": 1792709089000
+      "published": 1792716305000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Polilaminina: Anvisa diz por que não apoia ampliar uso experimental após 9 mortes",
-      "summary": "Laboratório Crisália \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/Polilaminina-frasco.png?fit=1106%2C800&quality=70&strip=all\" />Após…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Polilaminina-frasco.png?fit=300%2C217&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/saude/poliaminina-anvisa/",
+      "title": "Dia de Sorte: confira o resultado do concurso 1329 sorteado nesta quinta-feira (22)",
+      "summary": "Loteria Dia de Sorte, da Caixa Econômica (Foto: Divulgação) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1329-sorteado-nesta-quinta-feira-22/",
       "source": "InfoMoney",
-      "published": 1792708200000
+      "published": 1792714766000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Datafolha: Flávio Bolsonaro é rejeitado por 46%, enquanto Lula, por 45% dos eleitores",
-      "summary": "Brazilian presidential candidates Flavio Bolsonaro and Luiz Inacio Lula da Silva take part in a presidential debate, ahead of the runoff presidential election, in Sao…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-19T001043Z_721583684_RC2Z5OA1VAZH_RTRMADP_3_BRAZIL-ELECTION-DEBATE.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/datafolha-flavio-bolsonaro-e-rejeitado-por-46-enquanto-lula-por-45-dos-eleitores/",
+      "title": "Quina hoje, concurso 7149: confira o resultado sorteado nesta quinta-feira (22)",
+      "summary": "(Foto: Divulgação) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=1280%2C745&quality=70&strip=all\" />O prêmio…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7149-confira-o-resultado-sorteado-nesta-quinta-feira-22/",
       "source": "InfoMoney",
-      "published": 1792707854000
+      "published": 1792714474000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Datafolha: Flávio Bolsonaro tem 47%, e Lula, 46%, a três dias do 2º turno",
-      "summary": "(Montagem Fotos IM/ Lula &#8211; Ricardo Stuckert / PR e Flavio/ Hugo Barreto) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/montagem-infomoney-1.jpg?fit=300%2C193&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/datafolha-flavio-bolsonaro-tem-47-lula-46-a-tres-dias-segundo-turno/",
+      "title": "Lotofácil hoje, concurso 3811: confira o resultado sorteado nesta quinta-feira (22)",
+      "summary": "Lotofácil da Independência é um sorteio especial da Lotofácil, realizado em setembro. Foto: Marcelo Camargo/Agência Brasil \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorteio-lotofacil.webp?fit=300%2C225&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3811-confira-o-resultado-sorteado-nesta-quinta-feira-22/",
       "source": "InfoMoney",
-      "published": 1792707092000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Flamengo x Estudiantes: Onde assistir à semifinal Libertadores?",
-      "summary": "Foto: Montagem IM/ Flamengo x Estudiantes \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/thumb-flamengo-x-estudiantes-de-la-plata.jpg?fit=300%2C191&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/esportes/flamengo-estudiantes-onde-assistir-libertadores-4/",
-      "source": "InfoMoney",
-      "published": 1792706400000
+      "published": 1792714218000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Santos reduz capacidade da Vila Belmiro para duelo contra o Bahia; entenda",
-      "summary": "O Santos anunciou a interdição de 437 lugares da Arquibancada Térrea da Vila Belmiro para o confronto contra o Bahia, neste sábado (24), pelo Campeonato Brasileiro. Com…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55578462495_d196db97d5_3k.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/santos-reduz-capacidade-vila-belmiro-bahia-obras/",
+      "title": "Conselheiros do Santos contestam reforma do estatuto e questionam votação de SAF",
+      "summary": "Um grupo de conselheiros do Santos divulgou uma nota questionando a condução da reforma estatutária do clube e os prazos para a Assembleia Geral de Sócios, prevista para…",
+      "image": "https://static.gazetaesportiva.com/uploads/53540243998_01da547558_o.jpg",
+      "link": "https://www.gazetaesportiva.com/times/santos/santos-conselheiros-contestam-reforma-estatuto-saf/",
       "source": "Gazeta Esportiva",
-      "published": 1792708658000
+      "published": 1792721679000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Maracanã tem prejuízo de R$ 300 mil e não é reparado a tempo para jogo do Flamengo",
-      "summary": "O Maracanã teve um prejuízo superior a R$ 300 mil após os danos causados ao estádio após partida entre Vasco e Boca Juniors, realizada na última terça-feira, que selou a…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/IMG_6477.webp",
-      "link": "https://www.gazetaesportiva.com/times/flamengo/maracana-tem-prejuizo-de-r-300-mil-e-nao-e-reparado-a-tempo-para-jogo-do-flamengo/",
+      "title": "Justiça nega pedido de prisão preventiva de vice do Corinthians",
+      "summary": "*Por Tiago Salazar A Justiça de São Paulo negou, nesta quinta-feira, o pedido de prisão preventiva de Armando Mendonça, vice-presidente do Corinthians, no processo que…",
+      "image": "https://static.gazetaesportiva.com/uploads/2025/11/WhatsApp-Image-2025-11-19-at-15.41.32.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/justica-nega-pedido-de-prisao-preventiva-de-vice-do-corinthians/",
       "source": "Gazeta Esportiva",
-      "published": 1792706674000
+      "published": 1792720293000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Paris Brunner dá lençol no zagueiro e marca golaço no Freiburg pela Conference League",
-      "summary": "Paris Brunner dá lençol no zagueiro e marca golaço no Freiburg pela Conference League O post Paris Brunner dá lençol no zagueiro e marca golaço no Freiburg pela…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/fhfss4d7-1920Paris-Brunner.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/paris-brunner-da-lencol-no-zagueiro-e-marca-golaco-no-freiburg-pela-conference-league/",
+      "title": "Corinthians é derrotado pelo Brasília e perde a segunda no NBB",
+      "summary": "O Corinthians foi mais uma vez derrotado no NBB. Em sua segunda partida pela competição, disputada na noite desta quinta-feira, o Timão perdeu para o Brasília por 104 a…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/MMM_0588-768x512-1.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/nbb-novo-basquete-brasil/corinthians-e-derrotado-pelo-brasilia-e-perde-a-segunda-no-nbb/",
       "source": "Gazeta Esportiva",
-      "published": 1792705614000
+      "published": 1792718420000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Monaco 3 x 0 Freiburg pelo Conference League",
-      "summary": "Melhores momentos: Monaco 3 x 0 Freiburg pelo Conference League O post Melhores momentos: Monaco 3 x 0 Freiburg pelo Conference League apareceu primeiro em Gazeta…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/rwb5885h-1920Monaco.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-monaco-3-x-0-freiburg-pelo-conference-league/",
+      "title": "Neymar e Gabigol recebem influenciador argentino e posam com camisa do Boca Juniors",
+      "summary": "Neymar e Gabigol receberam a visita do influenciador argentino Davo Xeneize na Vila Belmiro. Torcedor do Boca Juniors, o streamer presenteou os atacantes do Santos com…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/SnapInsta.to_863887536_18115673453213846_1775795644033402388_n.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/neymar-gabigol-camisa-boca-juniors-davo-xeneize/",
       "source": "Gazeta Esportiva",
-      "published": 1792705502000
+      "published": 1792717173000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Palmeiras volta a vencer o Botafogo e enfrenta o Paysandu nas quartas da Copa do Brasil sub-20",
-      "summary": "O Palmeiras confirmou a vaga nas quartas de final da Copa do Brasil sub-20 nesta quinta-feira ao voltar a vencer o Botafogo por 4 a 2, de virada, em duelo de volta das…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/palmeiras-botafogo-sub-20.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-vence-botafogo-avanca-quartas-copa-do-brasil-sub-20/",
+      "title": "Flamengo x Estudiantes: veja fotos do jogo pela semifinal da Libertadores",
+      "summary": "Flamengo e Estudiantes se enfrentam nesta quinta-feira (22), no Maracanã, pelo jogo de volta da semifinal da Copa Libertadores 2026. Após o empate sem gols na Argentina,…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261023__D46T7RX__v1__HighRes__FblLibertadoresFlamengoEstudiantes.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/flamengo-x-estudiantes-fotos-semifinal-libertadores-2026/",
       "source": "Gazeta Esportiva",
-      "published": 1792704788000
+      "published": 1792716021000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "FF7 Rebirth e mais jogos para PS4 e PS5 com até 90% OFF na PS Store",
-      "summary": "Além de a PS Plus estar prestes a receber diversos jogos de peso, quem não assina o serviço também pode se divertir bastante sem gastar tanto. Basta aproveitar os jogos…",
-      "image": "https://www.estadao.com.br/resizer/v2/4TXTVFAVRRI4BCYIVY5G32TJCI.jpg?quality=80&amp;auth=298d01a8a7df7d7513c6b2cdccd2c0892e09e68eb28dd2755682c5e2768ed874&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/ff7-rebirth-e-mais-jogos-para-ps4-e-ps5-com-ate-90-off-na-ps-store/",
-      "source": "Novidades do TecMundo",
-      "published": 1792708200000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Falha crítica no GitLab permite invasão de servidores",
-      "summary": "O GitLab liberou, nesta quarta-feira (21), uma rodada de atualizações de segurança para corrigir uma falha de gravidade máxima no sistema. O problema possibilita que…",
-      "image": "https://www.estadao.com.br/resizer/v2/STVLY7ZWVVKRHABHZDLDIGLBIY.jpg?quality=80&amp;auth=f158062395f005d29a3fd0a83f1c40dee25dcecf70cf7b6644c0791396a000b0&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-critica-no-gitlab-permite-invasao-de-servidores/",
-      "source": "Novidades do TecMundo",
-      "published": 1792707300000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Próxima geração do iPhone Duo deve trazer Face ID e botão de ação, sugere rumor",
-      "summary": "Um dos aspectos mais criticados no iPhone Duo, a ausência do Face ID não deverá ser motivo de reclamação quando o celular dobrável da Apple chegar à segunda geração .…",
-      "image": "https://www.estadao.com.br/resizer/v2/ON5VHV4OZJA6BHQ3HAXNAYZTKQ.png?quality=80&amp;auth=86971f7f56eb0aec8c4d44156c0eeb14068ad848d11038bb4440931b7df74ae0&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/proxima-geracao-do-iphone-duo-deve-trazer-face-id-e-botao-de-acao-sugere-rumor/",
-      "source": "Novidades do TecMundo",
-      "published": 1792706400000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Casa mais limpa sem esforço: aspiradores robô em oferta na Amazon",
-      "summary": "Manter o chão limpo sem precisar passar o aspirador todo dia é possível — e as opções de aspiradores robô disponíveis na Amazon tornam isso ainda mais acessível.…",
-      "image": "https://m.media-amazon.com/images/I/41vCiJqoLXL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/22/reviews/casa-mais-limpa-sem-esforco-aspiradores-robo-em-oferta-na-amazon/",
+      "title": "Artemis 2: comandante relata momento de medo durante viagem à Lua",
+      "summary": "Reid Wiseman achou que algo havia dado errado quando a cápsula Orion ultrapassou a distância máxima prevista da Terra durante a viagem ao redor da Lua O post Artemis 2:…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/Reid_Wiseman-768x1024.jpg",
+      "link": "https://olhardigital.com.br/2026/10/22/ciencia-e-espaco/artemis-2-comandante-relata-momento-de-medo-durante-viagem-a-lua/",
       "source": "Olhar Digital",
-      "published": 1792705629000
+      "published": 1792719433000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Navegador Arc terá atividades encerradas; saiba detalhes",
-      "summary": "A The Browser Company, responsável pelo navegador Arc , anunciou nesta quinta-feira (22) que o programa deixará de funcionar em breve . A companhia publicou uma carta de…",
-      "image": "https://www.estadao.com.br/resizer/v2/WZQUBFZ2IBBPBBT5SQB7F35YY4.jpeg?quality=80&amp;auth=7c59965efa65d2aa6c317e3ef6e9bc87dd0923649978697548df254d5c511928&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/navegador-arc-tera-atividades-encerradas-saiba-detalhes/",
-      "source": "Novidades do TecMundo",
-      "published": 1792704600000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Polícia Civil investiga agressão contra homem encontrado em fossa após discussão na Paraíba",
-      "summary": "Polícia Civil investiga agressão contra homem encontrado em fossa após discussão na Paraíba Arquivo Pessoal A Polícia Civil investiga uma agressão contra um homem que…",
-      "image": "https://s2-g1.glbimg.com/h6MRGsVwVtfS1UPWMtSYgPBkgnc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/z/W2ifDJTtSM2LWUd53z4Q/bgs-g1-pb-e-jp-1-.jpg",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/22/policia-civil-investiga-agressao-contra-homem-encontrado-em-fossa-apos-discussao-na-paraiba.ghtml",
-      "source": "g1",
-      "published": 1792708996000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Fazendeiro é suspeito de castrar animais de vizinho de forma irregular e sem autorização",
-      "summary": "Produtor rural é detido sob suspeita de maus-tratos a gado em Catalão Um fazendeiro foi levado para a delegacia sob a suspeita de castrar 15 cabeças de gado de um…",
-      "image": "https://s2-g1.glbimg.com/ZzzOyDiP89HhTMqtnIbbcsweP_8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/Q/CwLP3URgejWE713l3YXw/g1-2026-10-22t193606.393.jpg",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/10/22/fazendeiro-e-suspeito-de-castrar-animais-de-vizinho-de-forma-irregular-e-sem-autorizacao.ghtml",
-      "source": "g1",
-      "published": 1792708931000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Ladrão em moto vermelha é suspeito de praticar série de roubos contra mulheres em Ribeirão Preto, SP",
-      "summary": "Noélia Balbina da Silva, vítima de ladrão com moto vermelha em Ribeirão Preto, SP Reprodução/Câmeras de segurança Mulheres que tiveram objetos roubados enquanto…",
-      "image": "https://s2-g1.glbimg.com/KvdPV8asZxKBcrduGgzFX-sSL90=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/1/0tr2KlSX2G3TNd3rBWjA/vitima-moto.jpg",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/22/ladrao-em-moto-vermelha-e-suspeito-de-praticar-serie-de-roubos-contra-mulheres-em-ribeirao-preto-sp.ghtml",
-      "source": "g1",
-      "published": 1792708878000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "VÍDEOS: JL2 de quinta-feira, 22 de outubro de 2026",
-      "summary": "Assista aos vídeos do telejornal com notícias do Pará.",
-      "image": "https://s2-g1.glbimg.com/YCrYO0opewxmSKRyREQ1bnGB7lk=/s01.video.glbimg.com/deo/vi/93/40/15114093",
-      "link": "https://g1.globo.com/pa/para/edicao/2026/10/22/videos-jl2-de-quinta-feira-22-de-outubro-de-2026.ghtml",
-      "source": "g1",
-      "published": 1792708828000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Assista aos telejornais da TV Liberal",
-      "summary": "Assista aos telejornais da TV Liberal g1 transmite os telejornais Jornal Liberal 1ª e 2ª Edição.",
+      "title": "Seu Direito Digital: quem decide o que você consome sobre política nas redes?",
+      "summary": "Leandro Alvarenga, colunista do Olhar Digital News, analisa os questionamentos sobre a atuação da Meta durante as eleições brasileiras O post Seu Direito Digital: quem…",
       "image": "",
-      "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
+      "link": "https://olhardigital.com.br/2026/10/22/colunistas/seu-direito-digital-quem-decide-o-que-voce-consome-sobre-politica-nas-redes/",
+      "source": "Olhar Digital",
+      "published": 1792718353000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Olhar do Amanhã: eleições podem definir o futuro das terras raras brasileiras",
+      "summary": "Álvaro Machado Dias, colunista do Olhar Digital News, analisa os planos de governo dos candidatos à presidência sobre as terras raras O post Olhar do Amanhã: eleições…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/10/22/colunistas/olhar-do-amanha-eleicoes-podem-definir-o-futuro-das-terras-raras-brasileiras/",
+      "source": "Olhar Digital",
+      "published": 1792718341000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Calor extremo matou mais de 50 mil pessoas em cidades europeias no verão de 2026",
+      "summary": "Estimativa aponta que cerca de dois terços das mortes relacionadas ao calor foram provocadas pelo aquecimento causado pela atividade humana O post Calor extremo matou…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/calor-1-1024x683.jpg",
+      "link": "https://olhardigital.com.br/2026/10/22/ciencia-e-espaco/calor-extremo-matou-mais-de-50-mil-pessoas-em-cidades-europeias-no-verao-de-2026/",
+      "source": "Olhar Digital",
+      "published": 1792713632000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Resultado da Mega-Sena de hoje: veja números e ganhadores do concurso 3073 (quinta, 22/10)",
+      "summary": "O sorteio de R$ 206,4 milhões do concurso 3073 é realizado em São Paulo. Além dos seis números premiados, confira como resgatar seu prêmio! O post Resultado da Mega-Sena…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/10/22/internet-e-redes-sociais/resultado-da-mega-sena-de-hoje-veja-numeros-e-ganhadores-do-concurso-3073-quinta-22-10/",
+      "source": "Olhar Digital",
+      "published": 1792712400000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Janones anuncia live de 24 h do 'Exército do Lula' após debate na Globo",
+      "summary": "O deputado federal André Janones (Rede-MG) convocou membros do canal de WhatsApp \"Exército do Lula \" para uma transmissão ao vivo de 24 horas de duração nesta…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/janones-anuncia-live-de-24-h-do-exercito-do-lula-apos-debate-na-globo.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1792722420000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Dois jovens são baleados por delegado em tentativa abordagem em Guarulhos (SP)",
+      "summary": "Dois jovens foram baleados por um delegado durante uma tentativa de abordagem na madrugada de domingo (18), em Guarulhos , na Grande São Paulo . O caso é investigado…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/dois-jovens-sao-baleados-por-delegado-em-tentativa-abordagem-em-guarulhos-sp.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1792722360000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "OpenAI reduz meta de avaliação para US$ 1,25 trilhão em nova rodada de captação de recursos",
+      "summary": "A OpenAI reduziu sua meta de avaliação para a mais recente rodada de captação após enfrentar resistência de alguns investidores a um valor de US$ 1,4 trilhão (R$ 7 tri),…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/openai-reduz-meta-de-avaliacao-para-us-125-trilhao-em-nova-rodada-de-captacao-de-recursos.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1792722300000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "ASSISTA: acompanhe o debate com Lorenzo Pazolini e Ricardo Ferraço para governo do ES na TV Gazeta",
+      "summary": "ASSISTA: acompanhe o debate com Lorenzo Pazolini e Ricardo Ferraço para governo do ES na TV Gazeta O programa começou às 22h37 desta quinta-feira (22) e também está…",
+      "image": "https://s2-g1.glbimg.com/j9g4f8JnkZeVqAC38Zv4g4Argz0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/C/iYVrBCRdmUBWbbtXWsqg/thumb-debate-para-governo-do-es-no-2o-turno.mp4-snapshot-00.02.005.jpg",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/debate-lorenzo-pazolini-ricardo-ferraco-governo-espirito-santo.ghtml",
       "source": "g1",
-      "published": 1792708714000
+      "published": 1792722101000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Acompanhe o dia de votação e a apuração dos votos no 2º turno no Tocantins",
+      "summary": "Acompanhe o dia de votação e a apuração dos votos no 2º turno no Tocantins g1 acompanha em tempo real o domingo de eleição no Tocantins e os votos dos dois candidatos ao…",
+      "image": "https://s2-g1.glbimg.com/igHA98NiYcPD9kiAhHXMJGICwvs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/3/eO9TvERmCNWMYdQgGO5g/to.jpg",
+      "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-tocantins.ghtml",
+      "source": "g1",
+      "published": 1792721772000
     }
   ]
 }
