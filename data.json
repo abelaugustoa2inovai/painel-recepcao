@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-10-23T08:57:10.598Z",
+  "updatedAt": "2026-10-23T14:32:59.150Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Upfront 2027 da TV TEM apresenta oportunidades de negócios para marcas no interior paulista",
+      "summary": "Upfront 2027 da TV TEM apresenta oportunidades de negócios para marcas no interior de SP A TV TEM realiza, entre os dias 26 e 29 de outubro, o Upfront 2027, evento…",
+      "image": "https://s2-g1.glbimg.com/GZsS3JCUxE4UX9-wNSRXlJ8H-5k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/r/VNKKBqSKeST6iBA3Lg9A/upfront-27-tv-tem.jpeg",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/23/upfront-tv-tem-2027.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792758103000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Mulher mencionou 'atestado de morte' em mensagens à amiga quase um mês antes de ser espancada por namorado",
+      "summary": "Troca de mensagens entre Gabriela e amiga; jovem foi agredida em Tanabi (SP) Arquivo pessoal A mulher que foi espancada pelo namorado com socos e pontapés no rosto, no…",
+      "image": "https://s2-g1.glbimg.com/57BmdwStV3P7XJDNp4hoxOZoUZ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/x/e2FlBZRuyRXciHKO7LEg/foto-g1-2026-10-23t080932.303.png",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/23/mulher-mencionou-atestado-de-morte-em-mensagens-a-amiga-quase-um-mes-antes-de-ser-espancada-por-namorado.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792754980000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Sem citar Flávio Bolsonaro, 47 bispos católicos divulgam carta sobre 2º turno e criticam 'políticas de devastação que caracterizaram o Governo de seu pai'",
+      "summary": "Bispos católicos divulgam carta sobre 2º turno e alertam para 'política de devastação' Um grupo de 47 bispos católicos de 19 estados brasileiros divulgou, nesta…",
+      "image": "https://s2-g1.glbimg.com/yF8-UrZJHMHYOx5yArvazJ3LwbE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/p/M5yH11QUqcXDbBJEJROw/montagem-horizontal-1280x720px-27-.jpg",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/bispos-catolicos-carta-segundo-turno-eleicoes-2026.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792754585000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "'Ele era muito ciumento', diz filha mais velha de mulher morta a facadas pelo marido no interior de SP",
+      "summary": "Marido foge a pé após matar a esposa em Rio Preto, SP A pedagoga e filha mais velha da mulher de 51 anos, que foi morta na frente da filha de 15 anos, em São José do Rio…",
+      "image": "https://s2-g1.glbimg.com/vXvooTk0q4-X2a2Um7o9Iv_AYM8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/u/O1vioQSQ22qTBACOYxMQ/g1-2026-10-22t073147.153.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/23/ele-era-muito-ciumento-diz-filha-mais-velha-de-mulher-morta-a-facadas-pelo-marido-no-interior-de-sp.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792750974000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -13,244 +53,204 @@
       "published": 1792709416000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Suspeito de matar mulher a facadas em Rio Preto se entrega à polícia",
-      "summary": "Marido foge a pé após matar a esposa em Rio Preto, SP O homem suspeito de matar a mulher de 51 anos a facadas em São José do Rio Preto (SP) se entregou à polícia na…",
-      "image": "https://s2-g1.glbimg.com/vXvooTk0q4-X2a2Um7o9Iv_AYM8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/u/O1vioQSQ22qTBACOYxMQ/g1-2026-10-22t073147.153.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/22/suspeito-de-matar-mulher-a-facadas-em-rio-preto-se-entrega-a-policia.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792707273000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Suspeito de assassinar esposa a facadas saiu da prisão em janeiro após condenação por matar a ex",
-      "summary": "Marido foge a pé após matar a esposa em Rio Preto, SP O homem apontado como principal suspeito de matar a esposa a facadas em São José do Rio Preto (SP) deixou a cadeia…",
-      "image": "https://s2-g1.glbimg.com/TvDTiO9rS6onKu0Ni0pVv96eCs8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/N/833u4KR5iSk8oBC2Ek4Q/foto-g1-2026-10-22t154350.656.png",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/22/suspeito-de-assassinar-esposa-a-facadas-saiu-da-prisao-9-meses-apos-condenacao-por-matar-a-ex.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792699557000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Saiba quem é o pastor investigado por estar com mulher e homem que morreu em motel",
-      "summary": "Pastor que estava com homem que morreu em motel já foi preso por agredir esposa O pastor de 47 anos investigado por estar na companhia de uma mulher e de um homem que…",
-      "image": "https://s2-g1.glbimg.com/ZQVw29uADSLiF0_fCwV2QNBOz_s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/8/2e0AAjSfSECsDHf5pjcw/foto-g1-2026-10-21t143603.692.png",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/22/saiba-quem-e-o-pastor-investigado-por-estar-com-mulher-e-homem-que-morreu-em-motel.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792693091000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Polícia investiga professora por suspeita de crime eleitoral e racismo após falas sobre ‘pezinho na senzala’ e fascismo em aula",
-      "summary": "Professora é afastada após fazer comentários sobre regime fascista em Potirendaba A Polícia Civil investiga se a professora da rede municipal de Potirendaba (SP) cometeu…",
-      "image": "https://s2-g1.glbimg.com/Ljwf318RhonvvJQNGqtoB8vu_fs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/3/BNM0wXSayleUYqfrslSQ/design-sem-nome-2026-10-21t202137.470.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/22/policia-investiga-professora.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792691230000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Índice Small Caps salta 20% em outubro e tem 2ª maior alta mensal de sua história",
+      "summary": "Home Broker \" data-image-caption=\" (Foto: Pixabay) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/chart-1905224_1280.jpg?fit=300%2C169&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/indice-small-caps-salta-20-em-outubro-e-tem-2a-maior-alta-mensal-de-sua-historia/",
+      "source": "InfoMoney",
+      "published": 1792765800000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Estrangeiros lideram otimismo com Brasil; Petrobras supera Itaú entre ações favoritas",
-      "summary": "Ilustração combina uma plataforma de petróleo com um gráfico ascendente para representar a forte valorização de PETR4 e PETR3 na Bolsa brasileira após o primeiro turno…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Petroleo-e-Alta-na-Bolsa-ao-Amanhecer-1.jpg?fit=300%2C169&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/estrangeiros-lideram-otimismo-com-brasil-petrobras-supera-itau-entre-acoes-favoritas/",
+      "title": "Volkswagen pode enfrentar greve histórica na Alemanha em janeiro",
+      "summary": "Logotipo da Volkswagen em carro da empresa em julho de 2025 REUTERS/Dado Ruvic \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-04T201503Z_1_LYNXMPEM231FM_RTROPTP_4_VOLKSWAGEN-RESULTS.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/volkswagen-pode-enfrentar-greve-historica-na-alemanha-em-janeiro/",
       "source": "InfoMoney",
-      "published": 1792744200000
+      "published": 1792765652000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Por que quem hesita em liderar pode ser a melhor escolha para o cargo",
-      "summary": "Foto de Sasun Bughdaryan na Unsplash \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/sasun-bughdaryan-_8ClZT7RwkY-unsplash.jpg?fit=1280%2C853&q…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/sasun-bughdaryan-_8ClZT7RwkY-unsplash.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/business/global/por-que-quem-hesita-em-liderar-pode-ser-a-melhor-escolha-para-o-cargo/",
-      "source": "InfoMoney",
-      "published": 1792742400000
+      "title": "Receita abre consulta a lote residual do Imposto de Renda",
+      "summary": "A Receita Federal abriu nesta sexta-feira (23) a consulta ao lote residual de restituição do Imposto de Renda Pessoa Física (IRPF). Ao todo, 184.442 contribuintes serão…",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/receita-abre-consulta-lote-residual-do-imposto-de-renda",
+      "source": "Feed Editoria",
+      "published": 1792765080000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Bancos centrais acumulam ouro em ritmo quatro vezes maior e retiram reservas dos EUA",
-      "summary": "Reservas de ouro mantidas pelo Banco da França (Banque de France). Bancos centrais ao redor do mundo vêm ampliando suas compras do metal precioso e diversificando os…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/CENTRAL-BANKS-AROUND-THE-WORLD-ARE-QUIETLY-STOCKPILING-FOUR-TIMES-AS-MUCH-GOLD-AS-USUAL-AND-ARE-MOVING-IT-OUT-OF-THE-US.jpg?fit=300%2C199&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/business/global/bancos-centrais-acumulam-ouro-em-ritmo-quatro-vezes-maior-e-retiram-reservas-dos-eua/",
+      "title": "Musk doa mais de US$ 445 Milhões para o Partido Republicano nas “midterms”",
+      "summary": "O presidente dos EUA, Donald Trump, entrega a Medalha Nacional de Ciências ao CEO da Tesla e SpaceX, Elon Musk -9 08/10/2026 (Foto: REUTERS/Evan Vucci) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Elon-Musk-e-Donaldo-Trump.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/musk-doa-mais-de-us-445-milhoes-para-o-partido-republicano-nas-midterms/",
       "source": "InfoMoney",
-      "published": 1792742400000
+      "published": 1792764810000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Análise – Putin se aproxima de um prêmio: reatar laços com EUA sem ceder na Ucrânia",
-      "summary": "O presidente dos Estados Unidos, Donald Trump, ao lado do presidente da Rússia, Vladimir Putin, em Anchorage, no Alasca, em 15 de agosto de 2025. Segundo análise do New…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/PUTIN-ASSESS-2-e1792698817948.jpg?fit=300%2C202&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/business/global/analise-putin-se-aproxima-de-um-premio-reatar-lacos-com-eua-sem-ceder-na-ucrania/",
+      "title": "Mudança nas regras eleitorais a dois dias da eleição pode ocorrer, diz Nunes Marques",
+      "summary": "O ministro Kássio Nunes Marques. Foto: Marcelo Camargo/Agência Brasil \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/julgamento-tse-bolsonaro_mcamgo_abr_30062023-16.jpeg?fit=300%2C225&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/mudanca-nas-regras-eleitorais-a-dois-dias-da-eleicao-pode-ocorrer-diz-nunes-marques/",
       "source": "InfoMoney",
-      "published": 1792742400000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Do “Flávio Day” à cautela pré-segundo turno: o que moveu o mercado desde 5 de outubro",
-      "summary": "B3 Bovespa Bolsa de Valores de São Paulo (Germano Lüders/InfoMoney) \" data-image-caption=\" B3 Bovespa Bolsa de Valores de São Paulo (Germano Lüders/InfoMoney) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/11/DSC_2811.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/do-flavio-day-a-cautela-pre-segundo-turno-o-que-moveu-o-mercado-desde-5-de-outubro/",
-      "source": "InfoMoney",
-      "published": 1792742400000
+      "published": 1792764762000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Veja a galeria de memes da eliminação do Flamengo na Libertadores",
-      "summary": "A eliminação do Flamengo para o Estudiantes nos pênaltis, pela semifinal da Libertadores de 2026, movimentou as redes sociais. Confira uma galeria com os memes e as…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/WhatsApp-Image-2026-10-23-at-01.10.20.webp",
-      "link": "https://www.gazetaesportiva.com/times/flamengo/memes-eliminacao-flamengo-libertadores-2026/",
+      "title": "Jairo, ex-Corinthians, completaria 80 anos nesta sexta: veja fotos da carreira do eterno “Pantera Negra”",
+      "summary": "Jairo, o eterno “Pantera Negra”, completaria 80 anos nesta sexta-feira: veja fotos da carreira do ex-goleiro do Corinth O post Jairo, ex-Corinthians, completaria 80 anos…",
+      "image": "https://static.gazetaesportiva.com/uploads/imagem/2018/12/28/00097469.jpg",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-com-fotos-da-carreira-do-goleiro-jairo-ex-corinthians/",
       "source": "Gazeta Esportiva",
-      "published": 1792729085000
+      "published": 1792764803000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Final da Libertadores 2026: saiba data e local de Palmeiras x Estudiantes",
-      "summary": "Palmeiras e Estudiantes disputarão a final da Copa Libertadores de 2026 no dia 28 de novembro, no Estádio Centenário, em Montevidéu. O Verdão busca o tetracampeonato…",
-      "image": "https://static.gazetaesportiva.com/uploads/imagem/2022/07/08/libertadores-taca.jpg",
-      "link": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/final-libertadores-2026-palmeiras-estudiantes-data-local/",
+      "title": "LeBron James estreia em casa com vaias, resposta a Trump e virada histórica",
+      "summary": "LeBron James é vaiado na estreia em casa pelo Philadelphia 76ers, responde a críticas de Donald Trump e participa da oitava maior virada da história da NBA, na vitória…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261023__2301002978__v1__HighRes__ClevelandCavaliersVPhiladelphia76ers.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/nba/lebron-james-estreia-em-casa-com-vaias-resposta-a-trump-e-virada-historica/",
       "source": "Gazeta Esportiva",
-      "published": 1792727275000
+      "published": 1792764244000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Veja a disputa de pênaltis entre Flamengo x Estudiantes pela semifinal da Libertadores",
-      "summary": "Flamengo perde por 3 a 2 nos pênaltis para o Estudiantes, no Maracanã, e é eliminado da Libertadores. Veja as cobranças da decisão. O post Veja a disputa de pênaltis…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261023__D46W862__v1__HighRes__FblLibertadoresFlamengoEstudiantes.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/penaltis-flamengo-estudiantes-libertadores-2026/",
+      "title": "Jardim admite decepção com eliminação do Flamengo e cobra foco no Brasileirão",
+      "summary": "Jardim admite decepção com eliminação do Flamengo e cobra foco no Brasileirão O post Jardim admite decepção com eliminação do Flamengo e cobra foco no Brasileirão…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/04/Jardim.webp",
+      "link": "https://www.gazetaesportiva.com/times/flamengo/jardim-admite-decepcao-com-eliminacao-do-flamengo-e-cobra-foco-no-brasileirao/",
       "source": "Gazeta Esportiva",
-      "published": 1792726375000
+      "published": 1792761955000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Palmeiras lembra 2021 e tira onda após queda do Flamengo: “Ventos a nosso favor”",
-      "summary": "Palmeiras ironizou a eliminação do Flamengo para o Estudiantes na Libertadores de 2026. Nas redes sociais, o Verdão publicou uma previsão do tempo para Montevidéu e…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261023__D46W836__v1__HighRes__FblLibertadoresFlamengoEstudiantes.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-provoca-flamengo-vento-libertadores-2021/",
+      "title": "Palmeiras chega à sua 8ª final da Libertadores; veja bastidores",
+      "summary": "Palmeiras chega à sua 8ª final da Libertadores; veja bastidores O post Palmeiras chega à sua 8ª final da Libertadores; veja bastidores apareceu primeiro em Gazeta…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Pal.webp",
+      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-chega-a-sua-8a-final-da-libertadores-veja-bastidores/",
       "source": "Gazeta Esportiva",
-      "published": 1792725745000
+      "published": 1792761264000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "De volta, Arrascaeta lamenta eliminação do Flamengo e cobra postura: “Pagamos caro”",
-      "summary": "Arrascaeta lamentou a eliminação do Flamengo para o Estudiantes na semifinal da Libertadores, após derrota por 3 a 2 nos pênaltis. O uruguaio cobrou uma postura melhor…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261023__D46W83A__v2__HighRes__FblLibertadoresFlamengoEstudiantes.webp",
-      "link": "https://www.gazetaesportiva.com/times/flamengo/arrascaeta-lamenta-eliminacao-flamengo-libertadores/",
+      "title": "Muslera dá a volta por cima após falhas na Copa e leva Estudiantes à final da Libertadores",
+      "summary": "Fernando Muslera deu a volta por cima ao defender três pênaltis e garantir a classificação do Estudiantes à final da Libertadores, após uma Copa do Mundo marcada por…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261023__D46W84G__v1__HighRes__FblLibertadoresFlamengoEstudiantes.webp",
+      "link": "https://www.gazetaesportiva.com/estudiantes-de-la-plata/muslera-da-a-volta-por-cima-apos-falhas-na-copa-e-leva-estudiantes-a-final-da-libertadores/",
       "source": "Gazeta Esportiva",
-      "published": 1792724735000
+      "published": 1792760914000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "ChatGPT e outras IAs mudam resultados de testes de personalidade conforme o idioma",
-      "summary": "Estudo comparou cinco chatbots em inglês e mandarim e identificou diferenças nas respostas, além de divergências com os resultados de humanos O post ChatGPT e outras IAs…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/ia-1024x488.jpg",
-      "link": "https://olhardigital.com.br/2026/10/23/inteligencia-artificial/chatgpt-e-outras-ias-mudam-resultados-de-testes-de-personalidade-conforme-o-idioma/",
-      "source": "Olhar Digital",
-      "published": 1792744200000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Cruzeiro x Remo: onde assistir, horário e escalações do jogo do Brasileirão",
-      "summary": "Confira onde assistir, horário e prováveis escalações de Cruzeiro e Remo; duelo é válido pela 32ª rodada do Brasileirão O post Cruzeiro x Remo: onde assistir, horário e…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/10/23/internet-e-redes-sociais/cruzeiro-x-remo-onde-assistir-horario-e-escalacoes-do-jogo-do-brasileirao/",
-      "source": "Olhar Digital",
-      "published": 1792743000000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Pacote LiteLLM sofre ataque cibernético e vaza senhas",
-      "summary": "O ecossistema de inteligência artificial (IA) enfrentou um incidente de segurança quando a versão 1.107.0 do pacote Python LiteLLM foi comprometida em um ataque à cadeia…",
-      "image": "https://www.estadao.com.br/resizer/v2/YP2QBUB2CNATTHPOEWWBLBUVXU.webp?quality=80&amp;auth=3ff6401981ba3485579377080e603a197ed1caf1c39c3dc2c1cbd98a52dd766b&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/pacote-litellm-sofre-ataque-cibernetico-e-vaza-senhas/",
+      "title": "Trailer vazado de Mass Effect 5 revela detalhes do jogo cancelado pela EA",
+      "summary": "Um trailer de Mass Effect 5 vazou na internet e revelou detalhes do projeto que a BioWare desenvolvia antes de encerrar suas atividades no início desta semana . O vídeo,…",
+      "image": "https://www.estadao.com.br/resizer/v2/HDUKSIVF7ZEZTPG4ZZQKLYRU7M.jpg?quality=80&amp;auth=c6fdadd047f3f9615b77608fa571a1c18933a65da52d0b9e722207946c63cc83&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/trailer-vazado-de-mass-effect-5-revela-detalhes-do-jogo-cancelado-pela-ea/",
       "source": "Novidades do TecMundo",
-      "published": 1792742400000
+      "published": 1792764900000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Resumo do OD: Falha no PHP, calor extremo, Meta investigada e mais",
-      "summary": "Trump ajuda Ucrânia com Starlink, OpenAI busca dinheiro no Oriente Médio e China de olho na fusão entre SpaceX e Tesla O post Resumo do OD: Falha no PHP, calor extremo,…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/10/23/seguranca/resumo-do-od-falha-no-php-calor-extremo-meta-investigada-e-mais/",
+      "title": "Vai começar o último Mercúrio “retrógrado” de 2026 – o que isso significa",
+      "summary": "Muito se fala em \"Mercúrio retrógrado\", especialmente no âmbito da astrologia. Mas, para a astronomia, o que isso quer dizer? O post Vai começar o último Mercúrio…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2024/11/mercurio-retrogrado-1.webp",
+      "link": "https://olhardigital.com.br/2026/10/23/ciencia-e-espaco/vai-comecar-o-ultimo-mercurio-retrogrado-de-2026-o-que-isso-significa/",
       "source": "Olhar Digital",
-      "published": 1792742400000
+      "published": 1792764360000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Eleições 2026: conheça os planos de Lula e Flávio Bolsonaro para terras raras e minerais críticos",
-      "summary": "Saiba o que Lula e Flávio Bolsonaro propõem para terras raras e minerais críticos no Brasil e quais são as diferenças entre seus planos O post Eleições 2026: conheça os…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/minerais-criticos-x-terras-raras-819x1024.png",
-      "link": "https://olhardigital.com.br/2026/10/23/pro/eleicoes-2026-conheca-os-planos-de-lula-e-flavio-bolsonaro-para-terras-raras-e-minerais-criticos/",
+      "title": "The Crew Motorfest chega ao Nintendo Switch 2 em versão robusta",
+      "summary": "Jogo de corrida da Ubisoft chega ao Nintendo Switch 2 com gráficos impressionantes, variedade de veículos e eventos, mas exige conexão permanente à internet O post The…",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-11.13.12-AM-2-1024x576.jpeg",
+      "link": "https://olhardigital.com.br/2026/10/23/games-e-consoles/the-crew-motorfest-no-nintendo-switch-2-vale-a-pena-confira-a-analise/",
       "source": "Olhar Digital",
-      "published": 1792738800000
+      "published": 1792764000000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Ofertas do dia: MacBook Pro M5, AirPods 4, Monitor Gamer e mais",
+      "summary": "A sexta-feira abre com descontos de peso em categorias tech premium no comércio online brasileiro. Garimpamos 6 ofertas em destaque com descontos que vão de 19% a 50%…",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/10/Apple-MacBook-Pro.jpg",
+      "link": "https://olhardigital.com.br/2026/10/23/reviews/ofertas-dia-apple-macbook-pro-m5-airpods-4-anc-samsung-galaxy-a17-5g-monitor-philips-evnia-27-jbl-partybox-120-epson-ecotank-l3250/",
+      "source": "Olhar Digital",
+      "published": 1792763853000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Quer trocar de iPhone? Veja uma seleção com boas ofertas na Amazon",
+      "summary": "Se você está pensando em renovar o smartphone, a Amazon reúne algumas opções interessantes de iPhones Apple com boas condições. Reunimos três modelos que valem atenção —…",
+      "image": "https://m.media-amazon.com/images/I/31OjtAUpdiL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/23/reviews/quer-trocar-de-iphone-veja-uma-selecao-com-boas-ofertas-na-amazon/",
+      "source": "Olhar Digital",
+      "published": 1792763683000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Assista ao Jornal da Manhã",
-      "summary": "Assista ao Jornal da Manhã",
-      "image": "",
-      "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+      "title": "Segundo turno das eleições 2026 em Sergipe",
+      "summary": "Segundo turno das eleições 2026 em Sergipe Acompanhe aqui toda a cobertura ao vivo do segundo turno das eleições em SE no dia 25 de outubro.",
+      "image": "https://s2-g1.glbimg.com/uMuzFciIz3uMGdhyr3Cd5BW-zek=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/A/T7Lh4DTM2q4q3lhZcyUw/urnaeletronica-tse.avif",
+      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/ao-vivo/segundo-turno-das-eleicoes-2026-em-sergipe.ghtml",
       "source": "g1",
-      "published": 1792745479000
+      "published": 1792765682000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "De 'O Exorcista' a 'Jogos Mortais': casa em Santos ganha decoração macabra para o Halloween; FOTOS",
-      "summary": "Moradores transformam casa em atração de terror para o Halloween em Santos Uma casa em Santos, no litoral de São Paulo, se transforma em um cenário de filme de terror…",
-      "image": "https://s2-g1.glbimg.com/QrF6nXFqKsFVJnIxKW9PESmpkcU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/R/g8QZFdRQCAtkGIUEE4Mg/casa-terror.jpg",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/23/de-o-exorcista-a-jogos-mortais-casa-em-santos-ganha-decoracao-macabra-para-o-halloween-fotos.ghtml",
+      "title": "Incêndio florestal na AM-254 é extinto; vídeos mostram fogo se alastrando rapidamente",
+      "summary": "Vídeos mostram fogo se alastrando rapidamente durante incêndio florestal na AM-254 Um incêndio florestal que atingiu a comunidade Novo Céu, às margens da rodovia AM-254,…",
+      "image": "https://s2-g1.glbimg.com/Q4iWhwKwg_a_pv_6-PgX0TBoHD4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/E/dVl8q3TrKty0yBuZBKJw/imagens-aereas-mostram-a-proporcao-do-incendio-florestal-registrado-na-am-254-em-autazes-na-quinta-22-.-fogo-foi-extinto-foto-reproducao-rede-amazonica.jpg",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/23/incendio-florestal-na-am-254-e-extinto-videos-mostram-fogo-se-alastrando-rapidamente.ghtml",
       "source": "g1",
-      "published": 1792743921000
+      "published": 1792765458000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Fenômeno cria efeito de 'cachoeira no céu' na maior boca de caverna do mundo; VÍDEO",
-      "summary": "Queda d'água da maior boca de caverna do mundo parece cair do céu em vídeo Uma queda d'água aparentando cair do céu em meio a um halo solar, fenômeno que forma um enorme…",
-      "image": "https://s2-g1.glbimg.com/aMoscYtvpnHcGZ4RojcJEPXajNc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/i/GXlO6xSAaNAe4Hvlucww/fenomeno-caverna.jpg",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/23/fenomeno-cria-efeito-de-cachoeira-no-ceu-na-maior-boca-de-caverna-do-mundo-video.ghtml",
+      "title": "Suspeitos atiram contra a PM durante fuga e adolescente é apreendido com granada e drogas em Resende",
+      "summary": "Adolescente é apreendido com grande quantidade de droga em Resende Divulgação/Polícia Militar Um adolescente, de 17 anos, foi apreendido com uma grande quantidade de…",
+      "image": "https://s2-g1.glbimg.com/jzqxRDbgSBJspop_Uy9JCI9O4ms=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/N/wAEpYdSWiMRJBvULfbXg/whatsapp-image-2026-10-23-at-09.52.07.jpeg",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/23/adolescente-e-apreendido-com-grande-quantidade-de-droga-em-resende.ghtml",
       "source": "g1",
-      "published": 1792743895000
+      "published": 1792765433000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Jovem deixou computador desbloqueado com vídeo sobre golpe antes de desaparecer em SP",
-      "summary": "Jovem desaparece após gravar vídeo chorando ao descobrir golpe O notebook de José Luis da Costa Oliveira, de 25 anos, foi encontrado desbloqueado no apartamento dele, em…",
-      "image": "https://s2-g1.glbimg.com/QlqM7sVg-P2H9_cPAsD6Uf0us_Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/U/qvOXjgTXasiswVeypLjQ/jose-desaparecido.jpg",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/23/jovem-deixou-computador-desbloqueado-com-video-sobre-golpe-antes-de-desaparecer-em-sp.ghtml",
+      "title": "Lei reconhece Praça da Mandioca e Parque Tia Nair como patrimônios culturais de Cuiabá",
+      "summary": "Praça da Mandioca e o Parque Tia Nair Reprodução A Praça da Mandioca e o Parque Tia Nair foram reconhecidos foram reconhecidos por lei como patrimônios de Cuiabá, nessa…",
+      "image": "https://s2-g1.glbimg.com/17t8KrVxMsgQ1MQ-9zoTuE3UrVg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/N/IG4wYhTLCukT9huha7jg/foto-g1-5-.jpg",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/23/lei-reconhece-praca-da-mandioca-e-parque-tia-nair-como-patrimonios-culturais-de-cuiaba.ghtml",
       "source": "g1",
-      "published": 1792743838000
+      "published": 1792765393000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "O voto que faltou: Bairros periféricos lideram abstenção em Uberlândia no 1º turno das Eleições 2026; Granja Marileusa tem menor índice",
-      "summary": "Diferença de ausência no primeiro turno entre bairros de Uberlândia passa de 13 pontos percentuais TSE A abstenção no primeiro turno das Eleições 2026 em Uberlândia…",
-      "image": "https://s2-g1.glbimg.com/Dou4oOuEGleQ9dEWygd5qsQIGes=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/D/U7JSE4Ry6mhgCgFJCvBg/design-sem-nome-17-.png",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/eleicoes/2026/noticia/2026/10/23/o-voto-que-faltou-bairros-perifericos-lideram-abstencao-em-uberlandia-no-1o-turno-das-eleicoes-2026-granja-marileusa-tem-menor-indice.ghtml",
+      "title": "Nando Reis leva turnê romântica a Jundiaí e relembra 'relação muito forte' com a cidade",
+      "summary": "Nando Reis leva turnê romântica à Jundiaí com sucessos da carreira O amor vai além das relações românticas e também está na maneira de enxergar o mundo. É assim que…",
+      "image": "https://s2-g1.glbimg.com/oxgXpHuhmRWsjw8ELmO9y-5FZYM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/1/x1uYzLTGSoLdES4mhDUQ/whatsapp-image-2025-05-24-at-09.39.42-1-.jpeg",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/23/nando-reis-leva-turne-romantica-a-jundiai-e-relembra-relacao-muito-forte-com-a-cidade.ghtml",
       "source": "g1",
-      "published": 1792742581000
+      "published": 1792765191000
     }
   ]
 }
