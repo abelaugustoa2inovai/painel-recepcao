@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-10-24T13:44:26.265Z",
+  "updatedAt": "2026-10-24T17:06:36.071Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Cidade conhecida como 'Orlando brasileira' cancela réveillon para adequar despesas públicas",
+      "summary": "Olímpia (SP) Divulgação / Prefeitura de Olímpia Olímpia (SP), também conhecida como “Orlando brasileira” por conta dos parques aquáticos, não terá festa pública de…",
+      "image": "https://s2-g1.glbimg.com/jq0EGyjR8ltqrtR79I9fiQKIRf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/0/XqUjk6RPOnAyVsX028Lw/design-sem-nome-2026-10-24t135911.850.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/24/cidade-conhecida-como-orlando-brasileira-cancela-reveillon-para-adequar-despesas-publicas.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792861303000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Tem Solução: Indústrias reaproveitam materiais e reduzem impactos ambientais no interior de SP",
+      "summary": "Indústrias do interior de SP investem em práticas sustentáveis para impulsionar negócios Investir em sustentabilidade deixou de ser apenas uma preocupação ambiental e…",
+      "image": "https://s2-g1.glbimg.com/RcVWKTW0Zne3li9fStP52mlyg4w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/S/LBr2NCRBmMQZGcqS8BGg/tem-solu-18-1.jpg",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/24/tem-solucao-industrias-reaproveitam-materiais-e-reduzem-impactos-ambientais-no-interior-de-sp.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792859210000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "PF pede afastamento imediato do prefeito de Jaú por suspeita de 'gabinete paralelo' e corrupção",
+      "summary": "PF de Bauru pede afastamento do prefeito de Jaú em inquérito sobre corrupção A Polícia Federal de Bauru (SP) pediu o afastamento cautelar imediato de Ivan Cassaro (PSD)…",
+      "image": "https://s2-g1.glbimg.com/V-sycQgoHmuSNByvSLpu9K0Ztqk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/B/1dA213ROiCkYnXM4w4AA/canva-90-.jpg",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/24/relatorio-pf-operacao-midia-cativa-jau.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792855906000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Batida frontal entre carro e moto deixa 3 mortos na SP-463 em Santo Antônio do Aracanguá",
+      "summary": "Acidente na SP-463 mata três pessoas neste sábado (24) Reprodução/Redes Sociais Três pessoas morreram em um acidente entre um carro e uma moto na Rodovia Doutor Eliéser…",
+      "image": "https://s2-g1.glbimg.com/8A-QiuKb2ZiDit7nVkvctgjFkVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/D/BnxmHYT8SUlJzbwqKJYQ/formato-padrao-imagens-g1-88-.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/24/acidente-carro-e-moto-santo-antonio-de-aracangua.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792854875000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -13,244 +53,204 @@
       "published": 1792839600000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Chuva de granizo atinge cidades no interior de SP",
-      "summary": "Chuva de granizo foi registrada em Novais Uma chuva de granizo ocorreu em Novais e Cajobi, no interior de São Paulo, nesta sexta-feira (23). Severínia e Ouroeste também…",
-      "image": "https://s2-g1.glbimg.com/HH2cbc-L4VBjOfIWJ4UxhBDnZAU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/p/VjFQKPSZKfswLlUNZZJA/design-sem-nome-2026-10-23t165816.892.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/23/chuva-de-granizo-atinge-cidades-no-interior-de-sp.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792786106000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Mãe é perseguida e ameaçada após denunciar troca de mensagens com conteúdo sexual entre criança e homem",
-      "summary": "Polícia Civil apreende celulares de dupla presa por aliciamento de menores na internet Polícia Civil Uma mulher foi perseguida e ameaçada de morte em Macedônia, no…",
-      "image": "https://s2-g1.glbimg.com/Ceap-VUeltXB4oC_S8Fbu1zkTXA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/3/iUC8khTJAtDxmxkpzAeQ/formato-padrao-imagens-g1-87-.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/23/mae-e-perseguida-e-ameacada-apos-denunciar-troca-de-mensagens-com-conteudo-sexual-entre-crianca-e-homem.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792783285000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "A revolução de 40 anos do Grupo Cene e a transformação do home care no Brasil",
-      "summary": "Grupo Cene celebra quatro décadas como referência na consolidação e expansão da atenção domiciliar no Brasil Grupo Cene/Divulgação Há quatro décadas, quando se pensava…",
-      "image": "https://s2-g1.glbimg.com/gszM2zgdMh6zkSooKKeIJXWkNYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/t/5g2RGxSp2FCiy2UCPqOw/fachada-02-00461.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/especial-publicitario/grupo-cene/noticia/2026/10/23/a-revolucao-de-40-anos-do-grupo-cene-e-a-transformacao-do-home-care-no-brasil.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792783023000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Contador perde R$ 15 mil ao tentar emitir carteira de pesca amadora pela internet em Rio Preto",
-      "summary": "Central de Flagrantes de Rio Preto (SP) Madelyne Boer/TV TEM Um contador de 67 anos perdeu R$ 15 mil após tentar emitir uma carteira de pesca amadora pela internet em…",
-      "image": "https://s2-g1.glbimg.com/b2KB7QV_qVo5kOMxQJPe59fbe-I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/W/AcCDF8R3e4JVDOrlF9vg/central-flagrantes1.png",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/23/contador-perde-dinheiro-ao-tentar-emitir-carteira-de-pesca-amadora-pela-internet-em-rio-preto.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792777914000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Por que o desejo de empreender favorece Flávio e desafia Lula, segundo o Ideia",
+      "summary": "Flávio Bolsonaro ao lado do governador eleito no Paraná, Sergio Moro, durante Visita à Comunidade do Sarandi (RS). Foto: Charles Vieira \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/flaviobolsonaro.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/por-que-o-desejo-de-empreender-favorece-flavio-e-desafia-lula-segundo-o-ideia/",
+      "source": "InfoMoney",
+      "published": 1792861200000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "A receita da memória afiada na velhice: netos, esporte e voluntariado",
-      "summary": "Avô cuidando de neto (Foto: Unplash) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/vitaly-gariev-eZGLwvgZ09w-unsplash.jpg?fit=1280%2C720&qual…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/vitaly-gariev-eZGLwvgZ09w-unsplash.jpg?fit=300%2C169&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/saude/a-receita-da-memoria-afiada-na-velhice-netos-esporte-e-voluntariado/",
+      "title": "Filme sobre fraude de Elizabeth Holmes ganha data de estreia no Brasil; entenda",
+      "summary": "(Foto: Divulgação / Theranos) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2019/06/theranos.jpg?fit=900%2C600&quality=70&strip=all\" />Produzido…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/theranos.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/business/filme-sobre-fraude-de-elizabeth-holmes-ganha-data-de-estreia-no-brasil-entenda/",
       "source": "InfoMoney",
-      "published": 1792848590000
+      "published": 1792860420000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Mega-Sena sorteia prêmio acumulado em R$ 230 milhões neste sábado",
-      "summary": "Mega-Sena (Foto: Marcelo Camargo / Agência Brasil) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/mcamg_abr_08052019_8683_1.webp?fit=300%2C179&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/mega-sena-sorteia-premio-acumulado-em-r-230-milhoes-neste-sabado/",
+      "title": "A maior onda de calor já registrada varreu 85% do globo por 367 dias; saiba mais",
+      "summary": "Um cachorro caminha sobre o solo rachado na Lagoa Guarne seca, no Parque Arvi, em Medellín, Colômbia &#8211; 03/09/2026 (Foto: REUTERS/Juan David Duque) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Rio-seco_El-Nino.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/a-maior-onda-de-calor-ja-registrada-varreu-85-do-globo-por-367-dias-saiba-mais/",
       "source": "InfoMoney",
-      "published": 1792847661000
+      "published": 1792859890000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "“Startups brasileiras precisam aprender a vender”, diz Edson, da Astella",
-      "summary": "Edson Rigonatti, cofundador e general partner da Astella (no centro); Clara Braga, analista de investimentos da NXTP (dir.); e Luana Helsinger, fundadora do Made in Rio…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Astella-1.webp?fit=300%2C175&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/business/startups-brasileiras-precisam-aprender-a-vender-diz-edson-da-astella/",
+      "title": "PwC confirma incidente de segurança digital envolvendo dados de funcionários",
+      "summary": "Logotipo da PwC visto no topo do escritório da empresa em Bruxelas, em Diegem, Bélgica, em 21 de setembro de 2023. (Foto: Reuters/Yves Herman) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-20T041624Z_832043842_RC2UC3ABW6CR_RTRMADP_3_PWC-CHINA.jpg?fit=300%2C194&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/business/pwc-confirma-incidente-de-seguranca-digital-envolvendo-dados-de-funcionarios/",
       "source": "InfoMoney",
-      "published": 1792846630000
+      "published": 1792859100000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Casas Bahia negocia empréstimo de R$ 300 milhões para não parar as operações",
-      "summary": "Sede Casas Bahia \" data-image-caption=\" (Reprodução/ Google Street View) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/Sede-Casas-Bahia-1.jpg?fit=300%2C187&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/casas-bahia-negocia-emprestimo-de-r-300-milhoes-para-nao-parar-as-operacoes/",
+      "title": "Guarujá vai cobrar taxa de até R$ 145 para entrada de veículos de turistas",
+      "summary": "(Foto: Divulgação/Prefeitura Municipal de Guarujá) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/01/471114913_1051012740403796_3856466831857637631_n.jpg?fit=300%2C169&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/brasil/guaruja-vai-cobrar-taxa-de-ate-r-145-para-entrada-de-veiculos-de-turistas/",
       "source": "InfoMoney",
-      "published": 1792845945000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "BC mira o crédito no Pix: oferta só com 24h de intervalo e consentimento prévio",
-      "summary": "Imagem conceitual mostra um carrinho de compras ao lado de um recibo, com elementos gráficos associados a juros e pressão financeira. A composição ilustra reportagem…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/varejo-juros-divida.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/minhas-financas/bc-mira-o-credito-no-pix-oferta-so-com-24h-de-intervalo-e-consentimento-previo-2/",
-      "source": "InfoMoney",
-      "published": 1792845700000
+      "published": 1792857900000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Há 50 anos, Eleonora Mendonça se tornava a primeira brasileira a subir ao pódio da São Silvestre",
-      "summary": "A edição de 2026 marca os 50 anos de um feito histórico de Eleonora Mendonça na Corrida Internacional de São Silvestre. Em 1976, a atleta carioca terminou a prova na…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/WhatsApp-Image-2026-10-23-at-13.33.49.webp",
-      "link": "https://www.gazetaesportiva.com/sao-silvestre-conteudo/eleonora-mendonca-primeira-brasileira-podio-sao-silvestre/",
+      "title": "Arteta elogia mentalidade do elenco do Arsenal: “O time está preparado para todos os tipos de situações”",
+      "summary": "Arteta elogia mentalidade do elenco do Arsenal: “O time está preparado para todos os tipos de situações” O post Arteta elogia mentalidade do elenco do Arsenal: “O time…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/532bmuxw-1920Arteta.webp",
+      "link": "https://www.gazetaesportiva.com/times/arsenal/arteta-elogia-mentalidade-do-elenco-do-arsenal-o-time-esta-preparado-para-todos-os-tipos-de-situacoes/",
       "source": "Gazeta Esportiva",
-      "published": 1792839630000
+      "published": 1792860654000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Corinthians x Bragantino: onde assistir ao jogo decisivo pelo Brasileiro sub-17",
-      "summary": "Corinthians e Red Bull Bragantino decidem neste sábado uma vaga na final do Campeonato Brasileiro Sub-17. Após o empate por 1 a 1 no jogo de ida, quem vencer na…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/249670.webp",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-bragantino-onde-assistir-semifinal-sub-17/",
+      "title": "Leipzig reencontra vitória com goleada sobre Elversberg no Alemão",
+      "summary": "O RB Leipzig se recuperou das pesadas derrotas para Bayern de Munique e Real Madrid ao vencer o Elversberg por 4 a 0 pela 7ª rodada do Campeonato Alemão. Todos os gols…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261024__D4BB9LT__v1__HighRes__FblGerBundesligaMainzBremen.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/bundesliga/leipzig-reencontra-vitoria-com-goleada-sobre-elversberg-no-alemao/",
       "source": "Gazeta Esportiva",
-      "published": 1792839600000
+      "published": 1792859958000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Palmeiras aposta em invencibilidade na Arena Barueri para dormir na liderança do Brasileirão",
-      "summary": "O Palmeiras volta à Arena Crefisa Barueri neste sábado, às 18h30 (de Brasília), para enfrentar o Red Bull Bragantino, pela 32ª rodada do Campeonato Brasileiro. O time…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/21102026_cg_palmeiras_7286_113.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-aposta-em-invencibilidade-na-arena-barueri-para-dormir-na-lideranca-do-brasileirao/",
+      "title": "Wayne Rooney completa 41 anos; relembre melhores momentos do lendário atacante inglês no Derby County",
+      "summary": "Wayne Rooney completa 41 anos; relembre melhores momentos do lendário atacante inglês no Derby County O post Wayne Rooney completa 41 anos; relembre melhores momentos do…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Roone.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/wayne-rooney-completa-41-anos-relembre-melhores-momentos-do-lendario-atacante-ingles-no-derby-county/",
       "source": "Gazeta Esportiva",
-      "published": 1792836055000
+      "published": 1792859728000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Dupla da base do São Paulo deve ganhar chance em meio a desfalques contra o Mirassol",
-      "summary": "Djhordney e Gustavo Santana são opções do São Paulo para a partida contra o Mirassol, marcada para este sábado, pela 32ª rodada do Brasileirão. O post Dupla da base do…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55607616326_72af789afb_o.webp",
-      "link": "https://www.gazetaesportiva.com/times/sao-paulo/dupla-base-chance-sao-paulo-mirassol/",
+      "title": "Melhores momentos: Stuttgart 2 x 3 M’gladbach pela Bundesliga",
+      "summary": "Melhores momentos: Stuttgart 2 x 3 M'gladbach pela Bundesliga O post Melhores momentos: Stuttgart 2 x 3 M’gladbach pela Bundesliga apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Stuttga.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-stuttgart-2-x-3-mgladbach-pela-bundesliga/",
       "source": "Gazeta Esportiva",
-      "published": 1792836053000
+      "published": 1792859224000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Jungle Fight 156 terá entrada gratuita e finais do Fight do Milhão em São Paulo",
-      "summary": "Principal evento de MMA da América Latina acontece neste sábado no Ginásio do Ibirapuera, com entrada gratuita, finais do Fight do Milhão e R$ 1 milhão em premiações. O…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/FINAL-FIGHT-DO-MILHAO-POSTER-PRINCIPAL-HORIZONTAL.webp",
-      "link": "https://www.gazetaesportiva.com/mais-esportes/jungle-fight-156-tera-entrada-gratuita-e-finais-do-fight-do-milhao-em-sao-paulo/",
+      "title": "Piquerez comemora 250 jogos pelo Palmeiras",
+      "summary": "Piquerez comemora 250 jogos pelo Palmeiras O post Piquerez comemora 250 jogos pelo Palmeiras apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Piquere.webp",
+      "link": "https://www.gazetaesportiva.com/times/palmeiras/piquerez-comemora-250-jogos-pelo-palmeiras/",
       "source": "Gazeta Esportiva",
-      "published": 1792836033000
+      "published": 1792858040000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Câmera de segurança, fechadura inteligente e outros produtos oficiais da Intelbras em promoção",
-      "summary": "A Intelbras é referência no segmento de segurança eletrônica e conta com um portfólio extenso de produtos desenvolvidos para proporcionar mais praticidade, proteção e…",
-      "image": "https://www.estadao.com.br/resizer/v2/PDJP52LZU5EW7MM4DJGIOHE6MM.png?quality=80&amp;auth=b978b4046733d9686a34483c6aad327e6617b3d6f7f68741b60fa8d3d039c33a&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/camera-de-seguranca-fechadura-inteligente-e-outros-produtos-oficiais-da-intelbras-em-promocao/",
+      "title": "Motorola em destaque: veja uma seleção de smartphones 5G com câmera de 50MP em promoção",
+      "summary": "A Motorola segue firme como uma das marcas mais procuradas no segmento de smartphones no Brasil, e não é à toa: a linha Moto G reúne aparelhos com boas câmeras,…",
+      "image": "https://m.media-amazon.com/images/I/41o7vjpasKL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/24/reviews/motorola-em-destaque-veja-uma-selecao-de-smartphones-5g-com-camera-de-50mp-em-promocao/",
+      "source": "Olhar Digital",
+      "published": 1792859798000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Hora de economizar: uma seleção de iPhones Apple em promoção na Amazon",
+      "summary": "Se você está de olho em um novo iPhone, este é um bom momento para agir. Reunimos três opções de iPhones Apple disponíveis na Amazon com boas condições — entre modelos…",
+      "image": "https://m.media-amazon.com/images/I/318Rhf2amVL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/24/reviews/hora-de-economizar-uma-selecao-de-iphones-apple-em-promocao-na-amazon-5/",
+      "source": "Olhar Digital",
+      "published": 1792858598000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Xbox Game Pass recebe novos jogos esta semana! Veja os lançamentos (24)",
+      "summary": "O Xbox Game Pass é um dos serviços de assinatura de games mais democráticos da atualidade, já que é possível acessá-lo de diferentes plataformas — incluindo os próprios,…",
+      "image": "https://www.estadao.com.br/resizer/v2/D4LL5CD2AVOERP534YDKTVLNNY.jpg?quality=80&amp;auth=35a858451c11584863a10e92263c82cdb2698cf65c1395a9366b45796b81710e&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-novos-jogos-esta-semana-veja-os-lancamentos-24/",
       "source": "Novidades do TecMundo",
-      "published": 1792847700000
+      "published": 1792858500000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Anvisa restringe uso compassivo da polilaminina após óbitos e alta de pedidos",
-      "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) endureceu as regras para o acesso compassivo à polilaminina — modalidade que permite o acesso a produtos ainda em…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/10/24/ciencia-e-espaco/anvisa-restringe-uso-compassivo-da-polilaminina-apos-obitos-e-alta-de-pedidos/",
+      "title": "Galaxy A07, A17 e mais: selecionamos os melhores Smartphones Samsung em promoção agora",
+      "summary": "Se você está de olho em um smartphone Samsung com bom custo-benefício, este é o momento certo. Reunimos uma seleção de ofertas da linha Galaxy disponíveis na Amazon para…",
+      "image": "https://m.media-amazon.com/images/I/41Ymow9O1FL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/24/reviews/galaxy-a07-a17-e-mais-selecionamos-os-melhores-smartphones-samsung-em-promocao-agora-4/",
       "source": "Olhar Digital",
-      "published": 1792847036000
+      "published": 1792857398000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Como a urna eletrônica brasileira protege os votos contra fraudes",
-      "summary": "A urna não se conecta à internet durante a votação. Entenda como auditoria, assinaturas digitais e redes privadas protegem os resultados. O post Como a urna eletrônica…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2022/08/shutterstock_1419903362.jpg",
-      "link": "https://olhardigital.com.br/2026/10/24/pro/como-a-urna-eletronica-brasileira-protege-os-votos-contra-fraudes/",
+      "title": "Transforme sua TV com os melhores dispositivos de streaming em oferta agora",
+      "summary": "Se a sua televisão ainda não tem acesso a plataformas de streaming, ou se você quer melhorar a experiência com um dispositivo mais moderno, chegou a hora certa. Reunimos…",
+      "image": "https://m.media-amazon.com/images/I/41DegJcrP3L._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/24/reviews/transforme-sua-tv-com-os-melhores-dispositivos-de-streaming-em-oferta-agora-11/",
       "source": "Olhar Digital",
-      "published": 1792846800000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Call of Duty, a máquina anual: como a Activision lança um jogo por ano desde 2005",
-      "summary": "Com diferentes estúdios trabalhando em paralelo, a franquia de tiro se tornou um dos maiores exemplos de lançamentos anuais na indústria dos games O post Call of Duty, a…",
-      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/10/Call-of-Duty-Call-of-Duty.jpg",
-      "link": "https://olhardigital.com.br/2026/10/24/games-e-consoles/call-of-duty-como-a-activision-lanca-um-jogo-por-ano-desde-2005/",
-      "source": "Olhar Digital",
-      "published": 1792846800000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Que fim levou a Dynacom, marca brasileira do console Dynavision?",
-      "summary": "O mercado brasileiro de games tem uma história peculiar, marcada por consoles exclusivos, lançamentos atrasados e a pirataria como tema frequente. Para além de tudo…",
-      "image": "https://www.estadao.com.br/resizer/v2/4ZZT2ADUTFNH5AXI5C6UEKLDPU.jpg?quality=80&amp;auth=464f3225937aaed2eed96ba65ae47cb7d7ccf74bfc85fb61e4e98c048f6c8602&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/que-fim-levou-a-dynacom-marca-brasileira-do-console-dynavision/",
-      "source": "Novidades do TecMundo",
-      "published": 1792843200000
+      "published": 1792856198000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Marina Sena explica ausência nas eleições após críticas por turnê na Europa",
-      "summary": "A cantora Marina Sena explicou por que não poderá votar no segundo turno das eleições presidenciais, marcado para este domingo (25), após receber críticas nas redes…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/marina-sena-explica-ausencia-nas-eleicoes-apos-criticas-por-turne-na-europa.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1792849200000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Rebeca Andrade é tricampeã mundial no salto e chega a 10 medalhas em Mundiais",
-      "summary": "A brasileira Rebeca Andrade garantiu a medalha de ouro na final do salto do Mundial de ginástica artística , disputada na manhã deste sábado (24), em Roterdã, na…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/rebeca-andrade-e-tricampea-mundial-no-salto-e-chega-a-10-medalhas-em-mundiais.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1792848900000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "EUA pedem há anos que Musk altere serviço Starlink na Ucrânia e no Oriente Médio",
-      "summary": "Muito antes da redução, neste mês, do acesso das Forças Armadas da Ucrânia ao sistema de comunicações por satélite de Elon Musk , os governos Biden e Trump pediram…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/eua-pedem-ha-anos-que-musk-altere-servico-starlink-na-ucrania-e-no-oriente-medio.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1792848600000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Homem condenado por roubo e agressão a motorista de aplicativo é preso em João Pessoa",
-      "summary": "Homem condenado por roubo e agressão a motorista de aplicativo é preso em João Pessoa Reprodução / Polícia Civil Um homem de 45 anos condenado por roubo e agressão a um…",
-      "image": "https://s2-g1.glbimg.com/6NwqAnlg5PqHVdPpyDj7uluVbBc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/N/6fFNw0RTaVy1ynQf24Yw/captura-de-tela-2026-10-24-102514.jpg",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/24/homem-condenado-por-roubo-e-agressao-a-motorista-de-aplicativo-e-preso-em-joao-pessoa.ghtml",
+      "title": "VÍDEOS mostram sujeira e armazenamento impróprio de órgãos no Hospital de Base, em Brasília",
+      "summary": "VÍDEOS mostram sujeira e armazenamento impróprio de órgãos no Hospital de Base, no DF Funcionários e ex-funcionários do Hospital de Base, em Brasília, denunciam as…",
+      "image": "https://s2-g1.glbimg.com/TzDUheEmRHeK4jyRslM8uhn9TVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/M/IbsEuFSAKhBH9hLkcgeg/g1-2-.jpg",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/24/videos-mostram-sujeira-e-armazenamento-improprio-de-orgaos-no-hospital-de-base-em-brasilia.ghtml",
       "source": "g1",
-      "published": 1792848583000
+      "published": 1792860578000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "MPT-AL firma acordo com padaria de Maceió para garantir que empregados possam votar no 2º turno",
-      "summary": "Ministério Público do Trabalho em Alagoas Divulgação/MPT-AL O Ministério Público do Trabalho (MPT) em Alagoas firmou, na quinta-feira (22), um Termo de Ajustamento de…",
-      "image": "https://s2-g1.glbimg.com/dewb9utoPUopHLg2pzdOiV-fl78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/J/NbRNWBQkiGUpsyYtlkSg/ministerio-publico-do-trabalho-em-alagoas.jpg",
-      "link": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/24/mpt-al-firma-acordo-com-padaria-de-maceio-para-garantir-que-empregados-possam-votar-no-2o-turno.ghtml",
+      "title": "Apoiadores chegam para ato de Lula na avenida Paulista",
+      "summary": "Manifestantes que apoiam a candidatura do presidente Luiz Inácio Lula da Silva ( PT ) à reeleição começaram a chegar, no início da tarde deste sábado (24), na avenida…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiadores-chegam-para-ato-de-lula-na-avenida-paulista.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1792860480000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "PGR pede ao STF para derrubar exigência de autorização prévia para transporte de indígenas no 2º turno",
+      "summary": "A Procuradoria-Geral da República (PGR) pediu ao Supremo Tribunal Federal (STF) para suspender parte de uma decisão do ministro Nunes Marques, presidente do Tribunal…",
+      "image": "",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/pgr-pede-ao-stf-para-derrubar-exigencia-de-autorizacao-previa-para-transporte-de-indigenas-no-2o-turno.ghtml",
       "source": "g1",
-      "published": 1792848533000
+      "published": 1792860426000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Milhares de pessoas protestam em Madri em defesa das aposentadorias",
+      "summary": "Manifestantes exibem faixas e bandeiras durante protesto em defesa das aposentadorias públicas e por melhores salários no centro de Madri, na Espanha, em 24 de outubro…",
+      "image": "https://s2-g1.glbimg.com/IrnIK22vlcEaBj1a8U1zaUmJfRc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/F/yxu4BqSxuAfXNBrgq1cA/afp-20261024-d4av29n-v1-midres-spaindemonstrationpoliticspensions.jpg",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/24/milhares-de-pessoas-protestam-em-madri-em-defesa-das-aposentadorias.ghtml",
+      "source": "g1",
+      "published": 1792860266000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Carlos Bolsonaro diz que pai ressurge das cinzas 'mais forte ainda' com resultado de Flávio na eleição",
+      "summary": "O senador eleito Carlos Bolsonaro ( PL -SC) passou a maior parte do tempo calado no debate da TV Globo de sexta (23) entre seu irmão, o presidenciável Flávio Bolsonaro…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/carlos-bolsonaro-diz-que-pai-ressurge-das-cinzas-mais-forte-ainda-com-resultado-de-flavio-na-eleicao.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1792860240000
     }
   ]
 }
