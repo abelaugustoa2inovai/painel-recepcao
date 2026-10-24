@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-24T19:59:17.184Z",
+  "updatedAt": "2026-10-24T22:17:30.543Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Aos 89 anos, idosa que viveu ditadura e redemocratização no Brasil faz questão de votar: 'Acho importante'",
+      "summary": "Aos 89 anos, uma idosa faz questão de votar em Urupês Aos 89 anos, uma idosa que viveu o período da ditadura militar no Brasil faz questão de votar em Urupês, no…",
+      "image": "https://s2-g1.glbimg.com/k7TBcDe97_Hmh3H_FuWheq8a3fY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/d/mYYjO3TtqPWr7Rpp1IiA/formato-padrao-imagens-g1-2026-10-23t162949.567.png",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/24/aos-89-anos-idosa-faz-questao-de-votar-acho-importante.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792872025000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -43,214 +53,204 @@
       "published": 1792855906000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Batida frontal entre carro e moto deixa 3 mortos em rodovia no interior de SP",
-      "summary": "Acidente na SP-463 mata três pessoas neste sábado (24) Reprodução/Redes Sociais Três pessoas morreram em um acidente entre um carro e uma moto na Rodovia Doutor Eliéser…",
-      "image": "https://s2-g1.glbimg.com/8A-QiuKb2ZiDit7nVkvctgjFkVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/D/BnxmHYT8SUlJzbwqKJYQ/formato-padrao-imagens-g1-88-.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/24/acidente-carro-e-moto-santo-antonio-de-aracangua.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792854875000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Datafolha: Lula lidera entre menos propensos a votar; Flávio, entre os mais propensos",
+      "summary": "Imagens do presidente brasileiro Luiz Inácio Lula da Silva, candidato à reeleição pelo Partido dos Trabalhadores (PT); do vice-presidente Geraldo Alckmin; do senador…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-21T144956Z_55731208_RC2P7OAVI5B1_RTRMADP_3_BRAZIL-ELECTION.jpeg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/datafolha-lula-lidera-entre-menos-propensos-a-votar-flavio-entre-os-mais-propensos/",
+      "source": "InfoMoney",
+      "published": 1792878888000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "O luxo virou pechincha? Ações caem 40% e ninguém quer comprar",
-      "summary": "Fachada de Loja da Hermès (Foto: Bloomberg) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/472115193-1.jpg?fit=300%2C204&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/o-luxo-virou-pechincha-acoes-caem-40-e-ninguem-quer-comprar/",
+      "title": "Santos x Bahia: Veja onde assistir ao jogo do Brasileirão",
+      "summary": "Foto: Montagem IM/ Santos x Bahia \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/thumb-santos-x-bahia.jpg?fit=1100%2C700&quality=70&strip=all\"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/thumb-santos-x-bahia.jpg?fit=300%2C191&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/esportes/santos-bahia-onde-assistir-brasileirao-2026/",
       "source": "InfoMoney",
-      "published": 1792871083000
+      "published": 1792878300000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Startups: Tractian levanta US$ 130M e é novo unicórnio de IA “made in Brazil”",
-      "summary": "Igor Marinelli, CEO da Tractian (Foto: divulgação) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/1320-X-768-55_a124b0.webp?fit=300%2C175&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/business/startups-tractian-levanta-us-130m-e-e-novo-unicornio-de-ia-made-in-brazil/",
+      "title": "Datafolha: Flávio 51%, Lula 49% em votos válidos; empate técnico permanece",
+      "summary": "Montagem IM = Flavio &#8211; Divulgação Vittor Sales/ Lula &#8211; Foto: Ricardo Stuckert / PR) \" data-image-caption=\" Montagem IM = Flavio &#8211; Divulgação Vittor…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/lulaflavioreuters_ba4f86.png?fit=300%2C270&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/datafolha-final-flavio-51-lula-49-em-votos-validos-empate-tecnico-permanece/",
       "source": "InfoMoney",
-      "published": 1792870500000
+      "published": 1792878146000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "O El Niño que pode bagunçar colheitas, inflação e carteiras pelo mundo",
-      "summary": "Moradores retiram suprimentos de água de emergência em meio à seca na Indonésia &#8211; 16/06/2026 (Foto: REUTERS/Willy Kurniawan) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/El-Nno-fome.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/business/o-el-nino-que-pode-baguncar-colheitas-inflacao-e-carteiras-pelo-mundo/",
+      "title": "Na véspera do 2º turno, Gerp mostra 49% para Flávio contra 46% de Lula",
+      "summary": "Luiz Inácio Lula da Silva (Foto: Marcelo Camargo/Agência Brasil) &#8211; Flávio Bolsonaro (Saulo Cruz/Agência Senado) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/lulaflavio2_221538.png?fit=300%2C225&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/na-vespera-do-2o-turno-gerp-mostra-49-para-flavio-contra-46-de-lula/",
       "source": "InfoMoney",
-      "published": 1792869758000
+      "published": 1792876438000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Caso Oncoclínicas: fundo obtém liminar para não realizar OPA",
-      "summary": "Oncoclínicas (Foto:Divulgação) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2021/08/OCframesX_02-8-copy.jpg?fit=850%2C567&quality=70&strip=all\"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/08/OCframesX_02-8-copy.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/caso-oncoclinicas-fundo-obtem-liminar-para-nao-realizar-opa/",
+      "title": "Quem está na frente no 2º turno no Espírito Santo?",
+      "summary": "Deputado Delegado Lorenzo Pazolini (Foto: Tati Beling) &#8211; Ricardo Ferraço (Jefferson Rudy/Agência Senado) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-16-at-12.07.13.jpeg?fit=300%2C169&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/quem-esta-na-frente-no-2o-turno-no-espirito-santo/",
       "source": "InfoMoney",
-      "published": 1792869300000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Trabalhador pode se ausentar do emprego para votar; veja o que diz a lei",
-      "summary": "Eleitores comparecem para votação no segundo turno das eleições para prefeito na UNIP Paraiso. Foto: Paulo Pinto/Agência Brasil \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/eleicao_sp_02.webp?fit=300%2C225&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/trabalhador-pode-se-ausentar-do-emprego-para-votar-veja-o-que-diz-a-lei/",
-      "source": "InfoMoney",
-      "published": 1792868400000
+      "published": 1792875851000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Augsburg 1 x 1 Union Berlin pela Bundesliga",
-      "summary": "Melhores momentos: Augsburg 1 x 1 Union Berlin pela Bundesliga O post Melhores momentos: Augsburg 1 x 1 Union Berlin pela Bundesliga apareceu primeiro em Gazeta…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/mome.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-augsburg-1-x-1-union-berlin-pela-bundesliga/",
+      "title": "Palmeiras leva empate do Santa Fe e cai nos pênaltis na Libertadores Feminina",
+      "summary": "As Palestrinas abriram dois gols de vantagem em Quito, mas sofreram o empate do Santa Fe no segundo tempo e acabaram eliminadas da Libertadores Feminina após derrota por…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261024__D4BZ6F2__v1__MidRes__FblWomenLibertadoresPalmeirasSantaFe.webp",
+      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-leva-empate-do-santa-fe-e-cai-nos-penaltis-na-libertadores-feminina/",
       "source": "Gazeta Esportiva",
-      "published": 1792871423000
+      "published": 1792879976000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Hertha BSC 1 x 0 Bielefeld pela Segunda Divisão da Bundesliga",
-      "summary": "Melhores momentos: Hertha BSC 1 x 0 Bielefeld pela Segunda Divisão da Bundesliga O post Melhores momentos: Hertha BSC 1 x 0 Bielefeld pela Segunda Divisão da Bundesliga…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/ertha.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-hertha-bsc-1-x-0-bielefeld-pela-segunda-divisao-da-bundesliga/",
+      "title": "Melhores momentos: CF Montréal 0 x 2 Nashville SC pela MLS",
+      "summary": "Melhores momentos: CF Montréal 0 x 2 Nashville SC pela MLS O post Melhores momentos: CF Montréal 0 x 2 Nashville SC pela MLS apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/CF-Montre.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-cf-montreal-0-x-2-nashville-sc-pela-mls/",
       "source": "Gazeta Esportiva",
-      "published": 1792870232000
+      "published": 1792879893000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Hamilton lidera último treino livre para o GP dos EUA; Bortoleto termina em 13º",
-      "summary": "Lewis Hamilton foi o mais rápido no terceiro treino livre do GP dos Estados Unidos, liderando uma dobradinha da Ferrari no fim de semana de atividades em Austin. Max…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261024__D4BN9XM__v1__HighRes__776433507.webp",
-      "link": "https://www.gazetaesportiva.com/motor/formula-1/hamilton-lidera-treino-livre-gp-eua-bortoleto-13/",
+      "title": "Melhores momentos: Al Riyadh 2 x 1 Al Taawoun pela Liga Saudita",
+      "summary": "Melhores momentos: Al Riyadh 2 x 1 Al Taawoun pela Liga Saudita O post Melhores momentos: Al Riyadh 2 x 1 Al Taawoun pela Liga Saudita apareceu primeiro em Gazeta…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/l-Riya.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-riyadh-2-x-1-al-taawoun-pela-liga-saudita/",
       "source": "Gazeta Esportiva",
-      "published": 1792869049000
+      "published": 1792879467000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Magdeburg 6 x 1 Karlsruher SC pela Segunda Divisão da Bundesliga",
-      "summary": "Melhores momentos: Magdeburg 6 x 1 Karlsruher SC pela Segunda Divisão da Bundesliga O post Melhores momentos: Magdeburg 6 x 1 Karlsruher SC pela Segunda Divisão da…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Magdeb.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-magdeburg-6-x-1-karlsruher-sc-pela-segunda-divisao-da-bundesliga/",
+      "title": "Julián Álvarez marca, Atlético de Madrid bate La Coruña e vence a sexta seguida no Espanhol",
+      "summary": "Atacante argentino marcou o gol da vitória sobre o Deportivo de La Coruña, garantiu o sexto triunfo seguido do Atlético de Madrid em LaLiga e colocou os colchoneros a…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261024__D4BT7GG__v1__MidRes__FblEspLigaAtleticoDeportivoCoruna.webp",
+      "link": "https://www.gazetaesportiva.com/times/atletico-de-madrid/julian-alvarez-marca-atletico-de-madrid-bate-la-coruna-e-vence-a-sexta-seguida-no-espanhol/",
       "source": "Gazeta Esportiva",
-      "published": 1792869049000
+      "published": 1792879435000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Venda da SAF do Vasco é aprovada pelos associados do clube",
-      "summary": "A venda de 90% da SAF do Vasco para a Almirante Participações, empresa ligada a Marcos Lamacchia, foi aprovada com ampla maioria pelos sócios do clube: 4.675 votos…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55601262922_b3fba4c6d3_o.webp",
-      "link": "https://www.gazetaesportiva.com/times/vasco/venda-da-saf-do-vasco-e-aprovada-pelos-associados-do-clube/",
+      "title": "Vila Nova sai na frente, mas sofre virada do São Bernardo nos acréscimos e perde liderança da Série B",
+      "summary": "O Vila Nova sofreu uma virada dramática para o São Bernardo por 3 a 2, fora de casa, pela 35ª rodada da Série B, e perdeu a liderança do campeonato para o Novorizontino.…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/HVbS3mcWcAAA5n0.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/vila-nova-sai-na-frente-mas-sofre-virada-do-sao-bernardo-nos-acrescimos-e-perde-lideranca-da-serie-b/",
       "source": "Gazeta Esportiva",
-      "published": 1792868889000
+      "published": 1792879139000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Upgrade na memória do PC: selecionamos ótimas opções de RAM DDR5 em oferta",
-      "summary": "Se o seu computador está pedindo mais desempenho, pode ser hora de investir em memória RAM. Reunimos três boas opções de módulos DDR5 disponíveis na Amazon — tecnologia…",
-      "image": "https://m.media-amazon.com/images/I/31gCBkYzPSL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/24/reviews/upgrade-na-memoria-do-pc-selecionamos-otimas-opcoes-de-ram-ddr5-em-oferta/",
-      "source": "Olhar Digital",
-      "published": 1792869398000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "OVNI? Triângulos pretos misteriosos são avistados sobre área confidencial nos EUA",
-      "summary": "Arquivos do Pentágono revelam objeto não identificado cruzando o céu a quase 3.000 km/h antes de desaparecer sem deixar rastros. O post OVNI? Triângulos pretos…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/10/24/ciencia-e-espaco/ovni-triangulos-pretos-misteriosos-sao-avistados-sobre-area-confidencial-nos-eua/",
-      "source": "Olhar Digital",
-      "published": 1792869320000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Fone de gatinho, celular com 3 câmeras de 200 MP e mais: confira os lançamentos da semana",
-      "summary": "Fone com orelhas de gatinhos, celular com três câmeras de 200 MP e outros produtos agitaram o mercado nacional e internacional nos últimos dias. Nesta série de textos, o…",
-      "image": "https://www.estadao.com.br/resizer/v2/XQM7EKABYBGYPDTQPYP7H6AGKA.webp?quality=80&amp;auth=bf92e55b5bde9bff19f09a03c4a450086cfbd4fcd01917420ca1df6c1b607864&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/fone-de-gatinho-celular-com-3-cameras-de-200-mp-e-mais-confira-os-lancamentos-da-semana/",
+      "title": "Big techs: confira lista de vagas de trabalho disponíveis no Brasil",
+      "summary": "Trabalhar em big techs como Google, Apple, Microsoft, Meta e Amazon é o objetivo de muitas pessoas que buscam salários melhores associados a pacotes robustos de…",
+      "image": "https://www.estadao.com.br/resizer/v2/KFOGPV6SJVOWJMGDUPM7DQJMOQ.jpg?quality=80&amp;auth=44044933c7589370de8cef5d42ca61601f6c4fcb11610d95721322e079c886cd&amp;width=1150",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/big-techs-confira-lista-de-vagas-de-trabalho-disponiveis-no-brasil/",
       "source": "Novidades do TecMundo",
-      "published": 1792868400000
+      "published": 1792879200000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Quer mais velocidade no PC? Confira uma seleção de SSDs NVMe em promoção na Amazon",
-      "summary": "Quem trabalha com arquivos pesados, edição de vídeo ou simplesmente quer que o computador responda mais rápido sabe o quanto um bom SSD faz diferença. Separamos três…",
-      "image": "https://m.media-amazon.com/images/I/316eR402YoL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/24/reviews/quer-mais-velocidade-no-pc-confira-uma-selecao-de-ssds-nvme-em-promocao-na-amazon-4/",
+      "title": "Hora de renovar seu tablet: confira uma seleção com ótimas opções em oferta",
+      "summary": "Se você está pensando em comprar um tablet ou trocar o seu por um modelo mais moderno, este é um bom momento para pesquisar. Reunimos três opções que valem a atenção:…",
+      "image": "https://m.media-amazon.com/images/I/41eyV6gAYrL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/24/reviews/hora-de-renovar-seu-tablet-confira-uma-selecao-com-otimas-opcoes-em-oferta/",
       "source": "Olhar Digital",
-      "published": 1792868198000
+      "published": 1792878998000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Precisando de um mouse gamer de respeito? Veja estas opções sem fio em promoção",
-      "summary": "Se você ainda joga com um mouse comum ou quer dar um upgrade no seu setup, este é o momento certo. Reunimos três opções de mouses gamer sem fio que combinam leveza,…",
-      "image": "https://m.media-amazon.com/images/I/31zy93Vq31L._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/24/reviews/precisando-de-um-mouse-gamer-de-respeito-veja-estas-opcoes-sem-fio-em-promocao/",
+      "title": "Som que te coloca dentro do jogo: headsets 7.1 Surround em oferta na Amazon",
+      "summary": "Se você leva os games a sério, sabe que o áudio faz toda a diferença na hora de identificar passos inimigos, explosões e detalhes do ambiente. Os headsets com som…",
+      "image": "https://m.media-amazon.com/images/I/41aU1vsLZWL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/24/reviews/som-que-te-coloca-dentro-do-jogo-headsets-7-1-surround-em-oferta-na-amazon-2/",
       "source": "Olhar Digital",
-      "published": 1792866998000
+      "published": 1792877798000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Hora de reforçar a segurança em casa: câmeras Wi-Fi em promoção na Amazon",
+      "summary": "Manter a casa ou o escritório monitorado ficou muito mais fácil com as câmeras de segurança inteligentes disponíveis hoje. Separamos três boas opções em oferta na Amazon…",
+      "image": "https://m.media-amazon.com/images/I/31Akkcgda3L._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/24/reviews/hora-de-reforcar-a-seguranca-em-casa-cameras-wi-fi-em-promocao-na-amazon-4/",
+      "source": "Olhar Digital",
+      "published": 1792876598000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Echo Dot em oferta: hora de deixar a Alexa cuidar da sua casa",
+      "summary": "Se você ainda não tem um smart speaker em casa — ou quer presentear alguém com um — esta é uma boa oportunidade. Separamos três opções do Echo Dot na Amazon, nas cores…",
+      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/24/reviews/echo-dot-em-oferta-hora-de-deixar-a-alexa-cuidar-da-sua-casa/",
+      "source": "Olhar Digital",
+      "published": 1792875398000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Pai de Lua Blanco relembra luta da filha contra câncer: 'Jamais reclamou'",
-      "summary": "Billy Blanco Jr., pai de Lua Blanco , relembrou os últimos meses de vida da atriz, que morreu aos 39 anos, no último domingo (18), em decorrência de um câncer no…",
+      "title": "Quaest: Flávio Bolsonaro marca 51% dos votos válidos, e Lula tem 49% na véspera da eleição",
+      "summary": "O senador Flávio Bolsonaro ( PL ) aparece com 51% dos votos válidos em pesquisa Quaest divulgada neste sábado (24), enquanto o presidente Luiz Inácio Lula da Silva ( PT…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/pai-de-lua-blanco-relembra-luta-da-filha-contra-cancer-jamais-reclamou.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-flavio-bolsonaro-marca-51-dos-votos-validos-e-lula-tem-49-na-vespera-da-eleicao.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1792871700000
+      "published": 1792879980000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Ministério Público Eleitoral se manifesta contra suspensão do 'Exército do Lula'",
-      "summary": "A Procuradoria-Geral Eleitoral se manifestou no Tribunal Superior Eleitoral contra a suspensa do canal Exército do Lula, administrado pelo deputado André Janones…",
+      "title": "'Flávio me preocupa tanto ou mais que pai dele', diz João Amoêdo sobre voto em Lula",
+      "summary": "Fundador e ex-presidente do partido Novo , o banqueiro João Amoêdo, 64, declarou voto em Lula (PT) no segundo turno da eleição presidencial de 2026, marcado para este…",
       "image": "",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/ministerio-publico-eleitoral-se-manifesta-contra-suspensao-do-exercito-do-lula.ghtml",
-      "source": "g1",
-      "published": 1792871602000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Apoiadores em ato pró-Lula atravessam a Terceira Ponte, de Vitória para Vila Velha; VÍDEO",
-      "summary": "Apoiadores em ato pró-Lula atravessam Terceira Ponte entre Vitória e Vila Velha Manifestantes favoráveis à reeleição do presidente Luiz Inácio Lula da Silva (PT) fazem…",
-      "image": "https://s2-g1.glbimg.com/YT7pgUYqlpu6tdSZkLGrh24sn0M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/Q/s4QSmfSkm6lqbtOvgIsg/thumb-videos-g1-41-.jpg",
-      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/24/apoiadores-em-ato-pro-lula-atravessam-a-terceira-ponte-de-vitoria-para-vila-velha.ghtml",
-      "source": "g1",
-      "published": 1792871551000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Aos 103 anos, defensora dos direitos humanos vai votar e vê risco de retrocesso democrático",
-      "summary": "Aos 103 anos, Margarida Genevois vai votar neste domingo (25). A socióloga, que dedicou parte da vida a proteger perseguidos políticos durante a ditadura militar , chega…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/aos-103-anos-defensora-dos-direitos-humanos-vai-votar-e-ve-risco-de-retrocesso-democratico.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-me-preocupa-tanto-ou-mais-que-pai-dele-diz-joao-amoedo-sobre-voto-em-lula.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1792871520000
+      "published": 1792879920000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Ucrânia diz que Starlink voltou a funcionar; Elon Musk acusa país de usar sistema para ataques",
-      "summary": "O presidente da Ucrânia, Volodymyr Zelensky, durante entrevista coletiva em cúpula de líderes da União Europeia, em Bruxelas, na Bélgica, em 16 de outubro de 2026 Yves…",
-      "image": "https://s2-g1.glbimg.com/NTn9aNpnpXwFoNy_KjF1VIHS1Es=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/oVvtAoSZK3vJZYCgkexw/2026-10-17t130823z-833036998-rc2c4oat4p98-rtrmadp-3-ukraine-crisis-ze-enskiy-trilateral.jpg",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/24/ucrania-diz-que-starlink-voltou-a-funcionar-elon-musk-acusa-pais-de-usar-sistema-para-ataques.ghtml",
+      "title": "Quaest: Pazolini lidera no Espírito Santo com 55%; Ferraço tem 45%",
+      "summary": "Pesquisa Quaest divulgada neste sábado (24), véspera do segundo turno das eleições , mostra a liderança de Lorenzo Pazolini ( Republicanos ) nas intenções de votos…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-pazolini-lidera-no-espirito-santo-com-55-ferraco-tem-45.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1792879680000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Quênia registra segunda morte por ebola",
+      "summary": "O Quênia registrou a segunda morte por ebola , informou o Ministério da Saúde do país na noite desta sexta-feira (23). A pasta acrescentou que a mulher, de 65 anos,…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/quenia-registra-segunda-morte-por-ebola.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1792879560000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Mais de meia tonelada de maconha é apreendida em rodovia após motorista de carro desobedecer policiais",
+      "summary": "Mais de meia tonelada de maconha é apreendida após motorista desobedecer ordem de parada Mais de 527 kg de maconha foram apreendidos na Rodovia Raposo Tavares (SP-270)…",
+      "image": "https://s2-g1.glbimg.com/Xg3DQkzVTAsf2a0H9ChuH1bA390=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/v/Z3w4z7TxmD5G6GUB2lAg/novo-projeto-8-.png",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/24/mais-de-meia-tonelada-de-maconha-e-apreendida-em-rodovia-apos-motorista-de-carro-desobedecer-policiais.ghtml",
       "source": "g1",
-      "published": 1792871468000
+      "published": 1792879422000
     }
   ]
 }
