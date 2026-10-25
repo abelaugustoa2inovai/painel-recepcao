@@ -1,16 +1,36 @@
 {
-  "updatedAt": "2026-10-25T18:38:06.880Z",
+  "updatedAt": "2026-10-25T22:11:04.524Z",
   "count": 25,
   "items": [
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
-      "title": "Cidades do interior de SP registram movimento tranquilo nos locais de votação; acompanhe",
-      "summary": "Cidades do interior de SP registram movimento tranquilo nos locais de votação; acompanhe Moradores voltam às urnas neste 2º turno das Eleições 2026 para escolher o…",
-      "image": "https://s2-g1.glbimg.com/NT1m2Aq4Q8hq0mpNATm-5-ZYBoo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/2/nwRvijQh2hH7Tis04IHg/whatsapp-image-2026-10-25-at-12.26.08.jpeg",
+      "title": "Fim da Votação: TSE começa apuração dos votos",
+      "summary": "Fim da Votação: TSE começa apuração dos votos STF ordenou a prorrogação da votação, que terminaria às 17h, até as 19h depois de pedidos das campanhas dos dois candidatos…",
+      "image": "https://s2-g1.glbimg.com/R0t5Ro1_95qQizJX05QNbJbvybg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/a/qF1AwdTiqv1pKneXi38Q/whatsapp-image-2026-10-25-at-17.29.45.jpeg",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-bauru-itapetininga-presidente-prudente-rio-preto-sorocaba.ghtml",
       "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792951784000
+      "published": 1792965928000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Homem morre após ser esfaqueado em frente a bar e suspeito foge a pé em Potirendaba",
+      "summary": "Homem morre após ser esfaqueado em frente a bar em Potirendaba (SP) Arquivo pessoal Um homem de 35 anos morreu após ser esfaqueado na madrugada de domingo (25), na…",
+      "image": "https://s2-g1.glbimg.com/gdmpsUg4hAvfbzKLrSMhHQJmTIw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/h/KDjuz6Sni0qLAW4DAvNA/foto-g1-2026-10-25t165554.516.png",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/25/homem-morre-apos-ser-esfaqueado-em-frente-a-bar-e-suspeito-foge-a-pe-em-potirendaba.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792961629000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Gata é flagrada 'votando' em urna eletrônica durante o 2º turno no interior de SP",
+      "summary": "Gata é flagrada 'votando' em urna eletrônica em Santa Adélia (SP) Janesli Belardinuci/Arquivo pessoal Uma gata foi flagrada em uma urna eletrônica, como se também…",
+      "image": "https://s2-g1.glbimg.com/9kukhBzc0efNfG1WKoBqyfbryoY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/a/1AjaqgSWe1nFc5GYq5TQ/foto-g1-2026-10-25t142136.931.png",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/25/gata-e-flagrada-votando-em-urna-eletronica-durante-o-2o-turno-no-interior-de-sp.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792954692000
     },
     {
       "category": "local",
@@ -33,224 +53,204 @@
       "published": 1792922400000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Aos 89 anos, idosa que viveu ditadura e redemocratização no Brasil faz questão de votar: 'Acho importante'",
-      "summary": "Aos 89 anos, uma idosa faz questão de votar em Urupês Aos 89 anos, uma idosa que viveu o período da ditadura militar no Brasil faz questão de votar em Urupês, no…",
-      "image": "https://s2-g1.glbimg.com/k7TBcDe97_Hmh3H_FuWheq8a3fY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/d/mYYjO3TtqPWr7Rpp1IiA/formato-padrao-imagens-g1-2026-10-23t162949.567.png",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/24/aos-89-anos-idosa-faz-questao-de-votar-acho-importante.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792872025000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Justiça do Trabalho proíbe construtora de fazer propaganda eleitoral e eventos com políticos e funcionários",
-      "summary": "Ministério Público do Trabalho em São José do Rio Preto (SP) Divulgação A Justiça do Trabalho expediu uma liminar proibindo uma construtora com sede em São José do Rio…",
-      "image": "https://s2-g1.glbimg.com/AFCYenH7mi4n_io79GKwSKkHGa4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/k/XgYdPATou7xo7HAyR5ZQ/design-sem-nome-2026-10-24t143126.883.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/24/justica-do-trabalho-proibe-construtora-de-fazer-propaganda-eleitoral-e-eventos-com-politicos-e-funcionarios.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792865217000
-    },
-    {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Marine Le Pen lança candidatura à presidência da França em meio a onda de protestos",
-      "summary": "French far-right leader Marine Le Pen, member of parliament from the French far-right Rassemblement National (National Rally &#8211; RN) party and candidate for the 2027…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/le-pen-franca-europa-01.jpg?fit=300%2C191&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/marine-le-pen-lanca-candidatura-a-presidencia-da-franca-em-meio-a-onda-de-protestos/",
-      "source": "InfoMoney",
-      "published": 1792953180000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Campanha de Lula pedirá ao TSE ampliação do horário de votação",
-      "summary": "(Foto: Rovena Rosa/Agência Brasil) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/07/urnas-eletronicas.jpg?fit=1170%2C700&quality=70&strip=all\"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/urnas-eletronicas.jpg?fit=300%2C179&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/campanha-de-lula-pedira-ao-tse-ampliacao-do-horario-de-votacao/",
-      "source": "InfoMoney",
-      "published": 1792952800000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "TSE aponta dificuldades pontuais no transporte e diz que ajustes estão em curso",
-      "summary": "O ministro Nunes Marques durante sessão da 2ª turma do STF (Foto: Nelson Jr./SCO/STF) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/05/52487126980_437767b917_c.jpg?fit=300%2C189&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/tse-aponta-dificuldades-pontuais-no-transporte-e-diz-que-ajustes-estao-em-curso/",
-      "source": "InfoMoney",
-      "published": 1792951983000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "AO VIVO: acompanhe a votação e apuração do 2º turno",
-      "summary": "Brasil decide presidente neste domingo The post AO VIVO: acompanhe a votação e apuração do 2º turno appeared first on InfoMoney .",
+      "title": "AO VIVO: TSE retoma apuração do 2º turno das eleições de 2026; acompanhe",
+      "summary": "Acompanhe em tempo real a apuração dos votos do 2º turno The post AO VIVO: TSE retoma apuração do 2º turno das eleições de 2026; acompanhe appeared first on InfoMoney .",
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/1200x800-2.png?fit=300%2C200&quality=70&strip=all",
       "link": "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/",
       "source": "InfoMoney",
-      "published": 1792951441000
+      "published": 1792965649000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Que horas os eleitores devem saber o resultado da eleição no domingo? Veja a previsão",
-      "summary": "Lula (Foto: Jean Carniel / Reuters) &#8211; Flávio Bolsonaro (Jean Carniel / Reuters) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/montagem-infomoney-1-1.jpg?fit=300%2C193&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/que-horas-os-eleitores-devem-saber-o-resultado-da-eleicao-no-domingo-veja-a-previsao/",
+      "title": "Lula lidera votação no exterior e vence em 42 dos 54 países já apurados",
+      "summary": "Luiz Inácio Lula da Silva (Foto: Marcelo Camargo/Agência Brasil) &#8211; Flávio Bolsonaro (Saulo Cruz/Agência Senado) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/lulaflavio2_221538.png?fit=300%2C225&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/lula-lidera-votacao-no-exterior-e-vence-em-42-dos-54-paises-ja-apurados/",
       "source": "InfoMoney",
-      "published": 1792951200000
+      "published": 1792965388000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Por que urnas já encerradas não podem ser reabertas mesmo após decisão do STF",
+      "summary": "Imagem: Paulo Pinto / Agência Brasil \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/Urna-eletronica-em-cabine-de-votacao.png?fit=1170%2C780&qu…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Urna-eletronica-em-cabine-de-votacao.png?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/por-que-urnas-ja-encerradas-nao-podem-ser-reabertas-mesmo-apos-decisao-do-stf/",
+      "source": "InfoMoney",
+      "published": 1792964366000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Zanin diz que votação até 19h vale apenas para urnas ainda abertas",
+      "summary": "Ministro Cristiano Zanin em sessão plenária do STF. Foto: Gustavo Moreno/STF \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/54963699116_77f0f13c08_k.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/zanin-diz-que-votacao-ate-19h-vale-apenas-para-urnas-ainda-abertas/",
+      "source": "InfoMoney",
+      "published": 1792963715000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Eleições 2026: TSE toma medida inédita ao prorrogar horário da votação no Brasil",
+      "summary": "Ministro Cristiano Zanin (Rosinei Coutinho/STF) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-11-at-16.35.15.jpeg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/eleicoes-2026-tse-toma-medida-inedita-ao-prorrogar-horario-da-votacao-no-brasil/",
+      "source": "InfoMoney",
+      "published": 1792963475000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Flávia Saraiva conquista bronze na trave no Mundial de Ginástica Artística",
-      "summary": "A brasileira Flávia Saraiva conquistou neste domingo a medalha de bronze na trave do Mundial de Ginástica Artística, disputado em Roterdã, na Holanda. Com nota 14,300, a…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261025__D4DC2YM__v1__HighRes__GymnasticsWorld2026Women.webp",
-      "link": "https://www.gazetaesportiva.com/mais-esportes/ginastica/flavia-saraiva-conquista-bronze-na-trave-no-mundial-de-ginastica-artistica/",
+      "title": "Mbappé marca duas vezes, Real Madrid vence o Barcelona e acaba com 100% do rival no Espanhol",
+      "summary": "Real Madrid vence o Barcelona por 2 a 1, com dois gols de Mbappé, encerra a invencibilidade do rival no Campeonato Espanhol e vence o primeiro El Clásico da temporada. O…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261025__D4E67QW__v1__HighRes__FblEspLigaBarcelonaRealMadrid.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/mbappe-marca-duas-vezes-real-madrid-vence-o-barcelona-e-acaba-com-100-do-rival-no-espanhol/",
       "source": "Gazeta Esportiva",
-      "published": 1792951814000
+      "published": 1792965676000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Monaco e Lille empatam e mantêm disputa acirrada pela liderança do Francês",
-      "summary": "Monaco e Lille empataram por 1 a 1 neste domingo, no Estádio Luís II, pela oitava rodada do Campeonato Francês. Em duelo direto pelas primeiras posições da tabela, Ethan…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261025__D4D93NQ__v1__HighRes__FblFraLigue1MonacoLille.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/ligue-1/monaco-e-lille-empatam-em-duelo-direto-pela-lideranca-do-campeonato-frances/",
+      "title": "Veja fotos do GP dos Estados Unidos de Fórmula 1",
+      "summary": "Veja fotos do GP dos Estados Unidos de Fórmula 1. O post Veja fotos do GP dos Estados Unidos de Fórmula 1 apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261025__D4E44VZ__v1__HighRes__776433511.webp",
+      "link": "https://www.gazetaesportiva.com/motor/formula-1/veja-fotos-do-gp-dos-estados-unidos-de-formula-1/",
       "source": "Gazeta Esportiva",
-      "published": 1792944995000
+      "published": 1792964347000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Veja as fotos do confronto entre Monaco e Lille",
-      "summary": "Veja as fotos do confronto entre Monaco e Lille pela oitava rodada do Campeonato Francês, no Estádio Luís II. O post Veja as fotos do confronto entre Monaco e Lille…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261025__D4DC3T4__v1__HighRes__FblFraLigue1MonacoLille.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/ligue-1/veja-as-fotos-do-confronto-entre-monaco-e-lille/",
+      "title": "Milan bate a Udinese, volta ao G4 e segue invicto no Campeonato Italiano",
+      "summary": "Milan vence a Udinese por 2 a 0, fora de casa, pela oitava rodada do Campeonato Italiano. Com o resultado, a equipe rossonera chega aos 18 pontos e recupera a quarta…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/milan.webp",
+      "link": "https://www.gazetaesportiva.com/times/milan/milan-bate-a-udinese-volta-ao-g4-e-segue-invicto-no-campeonato-italiano/",
       "source": "Gazeta Esportiva",
-      "published": 1792944565000
+      "published": 1792964171000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Lucas Pinheiro Braathen vence 1ª etapa da Copa do Mundo de Esqui Alpino",
-      "summary": "Lucas Pinheiro Braathen começou a temporada da Copa do Mundo de Esqui Alpino em alta ao vencer o slalom gigante de Sölden, na Áustria. O brasileiro, campeão olímpico da…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261025__D4DD6YX__v1__HighRes__SkiAlpineWorldMenGiantSlalomPodium.webp",
-      "link": "https://www.gazetaesportiva.com/mais-esportes/lucas-pinheiro-braathen-vence-copa-do-mundo-esqui/",
+      "title": "Veja fotos do clássico entre Barcelona e Real Madrid pelo Campeonato Espanhol",
+      "summary": "Barcelona e Real Madrid se enfrentaram no Spotify Camp Nou, pela 10ª rodada do Campeonato Espanhol. Confira as fotos de mais uma edição do El Clásico. O post Veja fotos…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261025__D4E49MW__v1__HighRes__FblEspLigaBarcelonaRealMadrid.webp",
+      "link": "https://www.gazetaesportiva.com/fotos/veja-fotos-do-classico-entre-barcelona-e-real-madrid-pelo-campeonato-espanhol/",
       "source": "Gazeta Esportiva",
-      "published": 1792944516000
+      "published": 1792962010000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Liverpool vence o Brighton e entra no G4 do Campeonato Inglês",
-      "summary": "O Liverpool venceu o Brighton por 2 a 0 neste domingo, em Anfield, pela oitava rodada da Premier League, e encostou no adversário na disputa pelas primeiras posições da…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261025__D4DE7AG__v1__HighRes__FblEngPrLiverpoolBrighton.webp",
-      "link": "https://www.gazetaesportiva.com/times/liverpool/liverpool-vence-brighton-em-anfield-e-encosta-no-g4-da-premier-league/",
+      "title": "Musetti vence Fritz na final e é campeão do ATP 250 de Lyon",
+      "summary": "O italiano Lorenzo Musetti conquistou neste domingo o título do ATP 250 de Lyon ao vencer o norte-americano Taylor Fritz por 2 sets a 0. Com atuação dominante na…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/ZKRQVLAJLFAGXIJNJBFOMKCX64.webp",
+      "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/musetti-vence-fritz-campeao-atp-lyon-2026/",
       "source": "Gazeta Esportiva",
-      "published": 1792943926000
+      "published": 1792958450000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Todos os protagonistas de GTA: Confira lista do pior ao melhor",
-      "summary": "Há quase 30 anos, Grand Theft Auto fazia sua estreia de forma mais tímida, mas já com a base do viria a se tornar uma das franquias de maior sucesso do mundo dos…",
-      "image": "https://www.estadao.com.br/resizer/v2/CGIVO6KO25ATTAK6YAQ5HJQW34.jpg?quality=80&amp;auth=ea8ff9c2d54611794366025c04d2c55704447372dd20f47b6e4855bf1349d96c&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/todos-os-protagonistas-de-gta-confira-lista-do-pior-ao-melhor/",
-      "source": "Novidades do TecMundo",
-      "published": 1792952100000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Anthropic prepara IPO bilionário enquanto empresas de IA adiam estreia na bolsa",
-      "summary": "Instabilidade do mercado, juros elevados e dúvidas sobre os gastos com IA estão levando outras companhias a rever planos de abertura de capital O post Anthropic prepara…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/anthropic-1-1024x682.jpg",
-      "link": "https://olhardigital.com.br/2026/10/25/pro/anthropic-prepara-ipo-bilionario-enquanto-empresas-de-ia-adiam-estreia-na-bolsa/",
+      "title": "Hora de economizar: veja uma seleção de smartphones Xiaomi em promoção na Amazon",
+      "summary": "A Xiaomi consolidou sua reputação no mercado brasileiro oferecendo smartphones com boa relação entre desempenho e custo-benefício. Se você está de olho em um aparelho…",
+      "image": "https://m.media-amazon.com/images/I/415mBguZF6L._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/25/reviews/hora-de-economizar-veja-uma-selecao-de-smartphones-xiaomi-em-promocao-na-amazon-4/",
       "source": "Olhar Digital",
-      "published": 1792951939000
+      "published": 1792963191000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Como consultar o resultado das eleições 2026 por seção eleitoral",
-      "summary": "Site e aplicativo do TSE permitem verificar os votos de cada seção, consultar o boletim de urna e baixar arquivos usados na auditoria da votação O post Como consultar o…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/tse-1024x682.jpg",
-      "link": "https://olhardigital.com.br/2026/10/25/pro/como-consultar-o-resultado-das-eleicoes-2026-por-secao-eleitoral/",
+      "title": "Motorola em destaque: smartphones 5G com câmera de 50MP e recursos premium em oferta",
+      "summary": "A Motorola segue firme como uma das marcas mais populares no Brasil, e não é difícil entender o motivo: a linha Moto G oferece ótimo custo-benefício, conectividade 5G e…",
+      "image": "https://m.media-amazon.com/images/I/41o7vjpasKL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/25/reviews/motorola-em-destaque-smartphones-5g-com-camera-de-50mp-e-recursos-premium-em-oferta/",
       "source": "Olhar Digital",
-      "published": 1792951200000
+      "published": 1792961991000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "O que vai acontecer com The Sims após demissões na EA Games? Entenda o futuro da franquia",
-      "summary": "A Electronic Arts anunciou na última quarta-feira (22) uma série de mudanças em sua estrutura , incluindo o corte de aproximadamente 400 empregos, o fechamento da…",
-      "image": "https://www.estadao.com.br/resizer/v2/ZBDTQOAQQ5IQ7E2E6N4CGVULEQ.jpg?quality=80&amp;auth=35b734018ae6630a350fb886eff693492ec201fbd44a96c9c947774288b57b3c&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/o-que-vai-acontecer-com-the-sims-apos-demissoes-na-ea-games-entenda-o-futuro-da-franquia/",
-      "source": "Novidades do TecMundo",
-      "published": 1792944900000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Militares dos EUA dão à SpaceX, de Elon Musk, acesso a dados sigilosos de rastreamento espacial",
-      "summary": "Pela primeira vez, uma empresa privada vai receber acesso à versão mais detalhada do sistema da Casa Branca que registra objetos em órbita O post Militares dos EUA dão à…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/10/25/ciencia-e-espaco/militares-dos-eua-dao-a-spacex-de-elon-musk-acesso-a-dados-sigilosos-de-rastreamento-espacial/",
+      "title": "Nvidia assume risco bilionário para sustentar boom da IA; mercado acende alerta",
+      "summary": "Fabricante de chips acumula garantias e compromissos financeiros de centenas de bilhões de dólares, enquanto empresas parceiras enfrentam quedas nas ações e custos de…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/jensen_huang-1024x576.jpg",
+      "link": "https://olhardigital.com.br/2026/10/25/pro/nvidia-assume-risco-bilionario-para-sustentar-boom-da-ia-mercado-acende-alerta/",
       "source": "Olhar Digital",
-      "published": 1792942200000
+      "published": 1792960815000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Hora de economizar: uma seleção de iPhones Apple em promoção na Amazon",
+      "summary": "Se você está de olho em um iPhone novo, este é o momento certo para agir. Reunimos três ótimas opções de iPhones Apple disponíveis agora na Amazon, com modelos para…",
+      "image": "https://m.media-amazon.com/images/I/318Rhf2amVL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/25/reviews/hora-de-economizar-uma-selecao-de-iphones-apple-em-promocao-na-amazon-6/",
+      "source": "Olhar Digital",
+      "published": 1792960791000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Galaxy A07 ou A17? Veja uma seleção de Smartphones Samsung em promoção na Amazon",
+      "summary": "Se você está de olho em um novo smartphone Samsung, este é um bom momento para conferir o que está disponível na Amazon. Reunimos três ofertas da linha Galaxy que valem…",
+      "image": "https://m.media-amazon.com/images/I/41Ymow9O1FL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/25/reviews/galaxy-a07-ou-a17-veja-uma-selecao-de-smartphones-samsung-em-promocao-na-amazon-40/",
+      "source": "Olhar Digital",
+      "published": 1792959591000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "TSE reconhece dificuldade em transporte de eleitores e diz que casos estão sendo corrigidos",
-      "summary": "O presidente do TSE (Tribunal Superior Eleitoral), Kassio Nunes Marques , reconheceu neste domingo (25) que algumas ações de transporte de eleitores pelo país enfrentam…",
+      "title": "Xuxa faz sinal de Lula em Libras ao votar neste domingo",
+      "summary": "Xuxa Meneghel chamou a atenção ao fazer o sinal de Lula em Libras (Língua Brasileira de Sinais) ao comparecer à urna no Rio de Janeiro neste domingo (25), dia do segundo…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-reconhece-dificuldade-em-transporte-de-eleitores-e-diz-que-casos-estao-sendo-corrigidos.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/xuxa-faz-sinal-de-lula-em-libras-ao-votar-neste-domingo.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1792953300000
+      "published": 1792966080000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Temores com gastos em IA ameaçam ofuscar fortes resultados das gigantes de tecnologia",
-      "summary": "Três das maiores e mais importantes empresas de tecnologia do mundo devem apresentar um crescimento robusto quando divulgarem seus resultados nesta semana. Leia mais…",
+      "title": "Imprensa internacional destaca extensão da votação no Brasil",
+      "summary": "A imprensa internacional repercutiu na noite deste domingo (25) a decisão do ministro do STF (Supremo Tribunal Federal) Cristiano Zanin de estender até as 19h a votação…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/temores-com-gastos-em-ia-ameacam-ofuscar-fortes-resultados-das-gigantes-de-tecnologia.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/imprensa-internacional-destaca-extensao-da-votacao-no-brasil.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1792953120000
+      "published": 1792966020000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Para além do supino, veja como diferentes culturas testam a força física",
-      "summary": "\"Quanto você levanta no supino ?\" Leia mais (10/25/2026 - 15h30)",
+      "title": "É uma eleição do Vasco no auge do Eurico Miranda, diz professor",
+      "summary": "Professor de direito constitucional e eleitoral, Daniel Falcão comparou a tumultuada eleição neste domingo (25) à atuação do polêmico dirigente de futebol Eurico Miranda…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/10/para-alem-do-supino-veja-como-diferentes-culturas-testam-a-forca-fisica.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/e-uma-eleicao-do-vasco-no-auge-do-eurico-miranda-diz-professor.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1792953000000
+      "published": 1792965480000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Record segue Globo e SBT e terá especial de Black Friday com Felipe Andreoli e Rafa Brites",
-      "summary": "Assim como a Globo e o SBT , a Record terá um especial de Black Friday . O objetivo é atrair marcas para anunciarem ofertas durante os intervalos e em um programa que…",
+      "title": "PF decide abrir investigações sobre denúncias de restrições ao transporte nas eleições",
+      "summary": "A Polícia Federal investiga suspeitas de restrições ao transporte de eleitores durante o segundo turno das eleições , neste domingo (25). Leia mais (10/25/2026 - 18h53)",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/record-segue-globo-e-sbt-e-tera-especial-de-black-friday-com-felipe-andreoli-e-rafa-brites.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pf-decide-abrir-investigacoes-sobre-denuncias-de-restricoes-ao-transporte-nas-eleicoes.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1792953000000
+      "published": 1792965180000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Tom Brady começa a namorar supermodelo Candice Swanepoel, afirma revista",
-      "summary": "O ex-jogador de futebol americano Tom Brady estaria vivendo um romance com a supermodelo sul-africana Candice Swanepoel. Leia mais (10/25/2026 - 15h26)",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/tom-brady-comeca-a-namorar-supermodelo-candice-swanepoel-afirma-revista.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1792952760000
+      "title": "Jovem de Indaiatuba corre para votar após prorrogação anunciada pelo STF, mas encontra portão fechado",
+      "summary": "Jovem tenta votar após prorrogação do STF, mas encontra portão fechado Uma eleitora de Indaiatuba (SP) afirmou que não conseguiu votar neste domingo (25), após chegar ao…",
+      "image": "https://s2-g1.glbimg.com/tWvb6IsLc6ixah-t62UE1qM-Wg8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/W/MzBPvBToCF8004sU8Gzw/lara-indaiatuba.png",
+      "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/10/25/jovem-de-indaiatuba-corre-para-votar-apos-prorrogacao-anunciada-pelo-stf-mas-encontra-portao-fechado.ghtml",
+      "source": "g1",
+      "published": 1792965027000
     }
   ]
 }
