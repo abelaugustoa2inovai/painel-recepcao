@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T02:24:06.302Z",
+  "updatedAt": "2026-10-25T08:49:51.077Z",
   "count": 25,
   "items": [
     {
@@ -55,6 +55,16 @@
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
+      "title": "Para entender como a IA vai transformar o trabalho, olhe para o passado",
+      "summary": "Andrei Cojocaru/The New York Times \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/AI-TOOLS-WORKPLACE.jpg?fit=1280%2C896&quality=70&strip=all\"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/AI-TOOLS-WORKPLACE.jpg?fit=300%2C210&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/business/global/para-entender-como-a-ia-vai-transformar-o-trabalho-olhe-para-o-passado/",
+      "source": "InfoMoney",
+      "published": 1792915200000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
       "title": "Mega Sena acumula e prêmio vai a R$ 300 milhões",
       "summary": "(Foto: Daniel Dan/Unsplash) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/daniel-dan-f2thVOtCH0o-unsplash.jpg?fit=1280%2C853&quality=70&strip…",
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/daniel-dan-f2thVOtCH0o-unsplash.jpg?fit=300%2C200&quality=70&strip=all",
@@ -93,164 +103,154 @@
       "published": 1792888308000
     },
     {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Eleições 2026: veja como estão as disputas pelos governos no 2º turno",
-      "summary": "(Foto: Rovena Rosa/Agência Brasil) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/07/urnas-eletronicas.jpg?fit=1170%2C700&quality=70&strip=all\"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/urnas-eletronicas.jpg?fit=300%2C179&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/eleicoes-2026-veja-como-estao-as-disputas-pelos-governos-no-2o-turno/",
-      "source": "InfoMoney",
-      "published": 1792888200000
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Atuações: Rafael e Pedro Lima salvam São Paulo de derrota para o Mirassol",
+      "summary": "O São Paulo contou com atuações decisivas de Rafael e Pedro Lima para evitar a derrota diante do Mirassol, neste sábado, pelo Campeonato Brasileiro. Enquanto o goleiro…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55609702801_a2f5807dbe_o.webp",
+      "link": "https://www.gazetaesportiva.com/times/sao-paulo/atuacoes-rafael-e-pedro-lima-salvam-sao-paulo-de-derrota-para-o-mirassol/",
+      "source": "Gazeta Esportiva",
+      "published": 1792915239000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Com Neymar expulso, Santos marca no fim e busca empate com o Bahia no Brasileiro",
-      "summary": "Santos e Bahia empataram por 1 a 1 neste sábado, na Vila Belmiro, pela 32ª rodada do Campeonato Brasileiro. O Tricolor saiu na frente com Luciano Juba ainda no primeiro…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55610431705_a3aa410bfb_o-1.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/santos-empata-bahia-neymar-expulso/",
+      "title": "Atuações do Palmeiras: Mauricio e Giay garantem vitória sobre o Bragantino",
+      "summary": "Mauricio e Giay foram os responsáveis pelos gols do Palmeiras neste sábado na vitória por 2 a 0 sobre o Red Bull Bragantino, pela 32ª rodada do Campeonato Brasileiro. Em…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/24102026_cg_palmeiras_8096_82.webp",
+      "link": "https://www.gazetaesportiva.com/times/palmeiras/atuacoes-do-palmeiras-mauricio-e-giay-garantem-vitoria-sobre-o-bragantino/",
       "source": "Gazeta Esportiva",
-      "published": 1792894680000
+      "published": 1792915229000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Abel exalta esforço de jogadores do Palmeiras e vê “equipe mais leve” em vitória no Brasileirão",
-      "summary": "Dias após se classificar à final da Libertadores, o Palmeiras venceu o Red Bull Bragantino e retomou a liderança do Campeonato Brasileiro. Após a vitória por 2 a 0, em…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/24102026_cg_palmeiras_8204_100.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-exalta-esforco-de-jogadores-do-palmeiras-e-ve-equipe-mais-leve-em-vitoria-no-brasileirao/",
+      "title": "Atuações: Corinthians tem lampejos de Yuri e Angileri, mas vê Hugo falhar e Dieguinho mal em derrota",
+      "summary": "O Corinthians viveu de lampejos na derrota por virada para o Vasco neste sábado. Entre os jogadores do Timão que entraram em campo, Angileri e Yuri Alberto…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/250270-1-1.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-corinthians-tem-lampejos-de-yuri-e-angileri-mas-ve-hugo-falhar-e-dieguinho-mal-em-derrota/",
       "source": "Gazeta Esportiva",
-      "published": 1792893886000
+      "published": 1792915221000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Stabile diz que não há culpados por má fase do Corinthians: “A culpada é a bola”",
-      "summary": "O presidente do Corinthians, Osmar Stabile, afirmou que não há culpados pela fase ruim da equipe e defendeu a união entre os profissionais do clube para reverter a…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Stabile-CNRD-Cuiaba.webp",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/osmar-stabile-diz-que-nao-ha-culpados-por-ma-fase-do-corinthians-a-culpada-e-a-bola/",
+      "title": "Cuca comenta expulsão de Neymar e fala sobre jogo prejudicado por chuva",
+      "summary": "Após o empate por 1 a 1 entre Santos e Bahia, pela 32ª rodada do Campeonato Brasileiro, o técnico Cuca evitou emitir um julgamento sobre a expulsão de Neymar no…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/b29a840b-c1c6-4fc3-aeff-1a2977b681b0.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/cuca-comenta-expulsao-neymar-santos-bahia/",
       "source": "Gazeta Esportiva",
-      "published": 1792893053000
+      "published": 1792915217000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Leila detona tentativa do Flamengo de reverter resultado da semifinal da Libertadores: “Ridículo”",
-      "summary": "A presidente do Palmeiras, Leila Pereira, viu falta de humildade do Flamengo na tentativa de tentar reverter sua eliminação na Copa Libertadores. Antes da vitória sobre…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/palmeiras-leila.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/leila-pereira-polemica-flamengo-libertadores/",
+      "title": "Neymar ataca Nestor após expulsão contra o Bahia: “Idiota”",
+      "summary": "Após a expulsão no empate por 1 a 1 entre Santos e Bahia, Neymar usou as redes sociais para criticar o meio-campista Rodrigo Nestor e alegar que o adversário agiu de…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55610249486_02da45a1af_o.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/neymar-critica-rodrigo-nestor-apos-expulsao/",
       "source": "Gazeta Esportiva",
-      "published": 1792892629000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Neymar é expulso por cobrir a boca e desfalca Santos contra o Palmeiras",
-      "summary": "Neymar foi expulso durante a partida entre Santos e Bahia, neste sábado, pela 32ª rodada do Campeonato Brasileiro, e desfalcará o Peixe no clássico contra o Palmeiras. O…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/HVbzgEXXUAAMas8.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/neymar-recebe-terceiro-amarelo-e-desfalca-santos-contra-o-palmeiras/",
-      "source": "Gazeta Esportiva",
-      "published": 1792891328000
+      "published": 1792900693000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Resultado da Quina de hoje: veja números e ganhadores do concurso 7151 (sábado, 24/10)",
-      "summary": "O sorteio de R$ 683 mil do concurso 7151 é realizado em São Paulo. Além dos cinco números premiados, confira como resgatar seu prêmio. O post Resultado da Quina de hoje:…",
+      "title": "Smartphone, óculos inteligentes… O que pode e o que não pode entrar na cabine de votação?",
+      "summary": "Regra valeu para o 1º turno e também para o 2º turno, a ser realizado neste domingo (25) O post Smartphone, óculos inteligentes… O que pode e o que não pode entrar na…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/e-titulo-de-eleitor-app-1024x683.jpg",
+      "link": "https://olhardigital.com.br/2026/10/25/pro/smartphone-oculos-inteligentes-o-que-pode-e-o-que-nao-pode-entrar-na-cabine-de-votacao/",
+      "source": "Olhar Digital",
+      "published": 1792915200000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Barcelona x Real Madrid: onde assistir, horário e escalações do jogo da La Liga",
+      "summary": "Confira onde assistir, horário e prováveis escalações de Barcelona e Real Madrid; duelo é válido pela 10ª rodada da La Liga O post Barcelona x Real Madrid: onde…",
       "image": "",
-      "link": "https://olhardigital.com.br/2026/10/24/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7151-sabado-24-10/",
+      "link": "https://olhardigital.com.br/2026/10/25/internet-e-redes-sociais/barcelona-x-real-madrid-onde-assistir-ao-jogo-da-la-liga-2026-2027/",
       "source": "Olhar Digital",
-      "published": 1792888729000
+      "published": 1792915200000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Resultado da Lotofácil de hoje: veja números e ganhadores do concurso 3813 (sábado, 24/10)",
-      "summary": "O sorteio do concurso 381 da Lotofácil acontece na noite desta sexta-feira (23), às 21h. O prêmio está estimado em R$ 2 milhões. O post Resultado da Lotofácil de hoje:…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/10/24/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3813-sabado-24-10/",
+      "title": "Veja como justificar ausência na votação deste domingo (25)",
+      "summary": "Procedimento pode ser feito no próprio dia da eleição ou posteriormente, dentro dos prazos definidos pela Justiça Eleitoral O post Veja como justificar ausência na…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/shutterstock_1419903638-1024x683.jpg",
+      "link": "https://olhardigital.com.br/2026/10/25/pro/veja-como-justificar-ausencia-na-votacao-deste-domingo-25/",
       "source": "Olhar Digital",
-      "published": 1792888286000
+      "published": 1792913400000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Resultado da Mega-Sena de hoje: veja números e ganhadores do concurso 3074 (sábado, 24/10)",
-      "summary": "O sorteio de R$ 227 milhões do concurso 3074 é realizado em São Paulo. Além dos seis números premiados, confira como resgatar seu prêmio! O post Resultado da Mega-Sena…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/10/24/internet-e-redes-sociais/resultado-da-mega-sena-de-hoje-veja-numeros-e-ganhadores-do-concurso-3074-sabado-24-10/",
+      "title": "Eleições 2026: Brasil tem 158,7 milhões de eleitores aptos para votar; mulheres são maioria",
+      "summary": "Perfil do TSE reúne dados sobre idade, escolaridade, biometria, nome social, acessibilidade e brasileiros aptos a votar no exterior O post Eleições 2026: Brasil tem…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/image-1140-0e769dac91a94da0d34d19e78646d9de-1-1024x496.jpeg",
+      "link": "https://olhardigital.com.br/2026/10/25/pro/eleicoes-2026-brasil-tem-1587-milhoes-de-eleitores-aptos-para-votar-mulheres-sao-maioria/",
       "source": "Olhar Digital",
-      "published": 1792887896000
+      "published": 1792911600000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Casa mais limpa sem esforço: veja uma seleção de aspiradores robô em promoção na Amazon",
-      "summary": "Manter o chão limpo sem precisar passar aspirador todo dia virou realidade com os robôs aspiradores. Se você ainda não tem um — ou quer trocar o seu por um modelo mais…",
-      "image": "https://m.media-amazon.com/images/I/41vCiJqoLXL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/24/reviews/casa-mais-limpa-sem-esforco-veja-uma-selecao-de-aspiradores-robo-em-promocao-na-amazon/",
+      "title": "Eleições 2026: os planos de Lula e Flávio Bolsonaro para IA, data center, soberania, terras raras, clima e energia",
+      "summary": "Confira o raio-X do Olhar Digital nos planos de governo de Lula e Flávio Bolsonaro para essas áreas com a análise de especialistas O post Eleições 2026: os planos de…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/IA-terras-raras-clima-energia-1024x571.jpg",
+      "link": "https://olhardigital.com.br/2026/10/25/pro/eleicoes-2026-os-planos-de-lula-e-flavio-bolsonaro-para-ia-data-center-soberania-terras-raras-clima-e-energia/",
       "source": "Olhar Digital",
-      "published": 1792886198000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Hora de trocar o relógio: selecionamos smartwatches em promoção na Amazon",
-      "summary": "Se você está pensando em investir em um smartwatch, este é um bom momento para dar uma olhada nas ofertas disponíveis na Amazon. Reunimos duas opções interessantes de…",
-      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/24/reviews/hora-de-trocar-o-relogio-selecionamos-smartwatches-em-promocao-na-amazon-5/",
-      "source": "Olhar Digital",
-      "published": 1792884998000
+      "published": 1792911600000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Como é a série de Walter Salles sobre Sócrates e a Democracia Corinthiana",
-      "summary": "Bicampeões brasileiros, eles caminham da praça da Sé ao Vale do Anhangabaú pela campanha das Diretas Já . Quando sobe ao palanque, Magrão, como Sócrates era conhecido,…",
+      "title": "Transporte de urnas para locais de votação começa em MG",
+      "summary": "Transporte de urnas para locais de votação começa em MG O g1 faz a cobertura dos principais acontecimentos da votação neste domingo (25), da participação de eleitores…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/como-e-a-serie-de-walter-salles-sobre-socrates-e-a-democracia-corinthiana.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1792894500000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Eleitores indecisos acompanhados pela Folha definem voto sem superar insatisfação com opções",
-      "summary": "Os eleitores que a Folha acompanha desde março , quando estavam indecisos sobre o voto para presidente, chegam ao segundo turno com uma preferência definida, mas não…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eleitores-indecisos-acompanhados-pela-folha-definem-voto-sem-superar-insatisfacao-com-opcoes.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1792893900000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Frente fria derruba temperatura e leva chuva forte a SP neste domingo; veja previsão nas capitais",
-      "summary": "A chegada de uma frente fria no centro-sul do país promete fechar o tempo e levar chuva à capital paulista, onde a temperatura deve cair neste domingo (25), no segundo…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/frente-fria-derruba-temperatura-e-leva-chuva-forte-a-sp-neste-domingo-veja-previsao-nas-capitais.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1792893840000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "2º turno: Quaest divulga última pesquisa de intenção de voto para governador do ES; veja números",
-      "summary": "Quaest divulga pesquisa para 2° turno do governo do Espírito Santo Veja como está a disputa para governador no Espírito Santo. O levantamento foi contratado pela TV…",
-      "image": "",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/24/2o-turno-quaest-divulga-ultima-pesquisa-de-intencao-de-voto-para-governador-do-es-veja-numeros.ghtml",
+      "link": "https://g1.globo.com/mg/minas-gerais/ao-vivo/cobertura-apuracao-votacao-2-turno-mg.ghtml",
       "source": "g1",
-      "published": 1792893741000
+      "published": 1792916875000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Mercado de voos 'low cost' encolhe ainda mais no Brasil após saída da Flybondi",
-      "summary": "Já diminuto, o mercado de companhias aéreas \"low cost\" (custo baixo, em inglês) sofreu um novo baque após a saída da argentina Flybondi e viu as operações se…",
+      "title": "Quase todos os recifes de coral de águas rasas do mundo podem colapsar em 50 anos",
+      "summary": "Quase todos os recifes de coral de águas rasas do mundo, famosos por seu colorido e biodiversidade exuberante, estão classificados como criticamente ameaçados, mostra um…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/mercado-de-voos-low-cost-encolhe-ainda-mais-no-brasil-apos-saida-da-flybondi.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/quase-todos-os-recifes-de-coral-de-aguas-rasas-do-mundo-podem-colapsar-em-50-anos.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1792893600000
+      "published": 1792915200000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Eleições 2026: Acreanos vão escolher governador e presidente neste domingo (25)",
+      "summary": "Eleições 2026 no Acre: Eleitores que não compareceram no 1º turno podem votar no 2º 📅Neste domingo (25) é dia de apertar a tecla verde e decidir os novos rumos do país.…",
+      "image": "https://s2-g1.glbimg.com/bL1zGIxFhxA4qoNgSknO-z_pd14=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/B/dPGnLZR2Oba9T7zyCZ2w/whatsapp-image-2026-10-04-at-12.49.20.jpeg",
+      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-acreanos-vao-escolher-governador-e-presidente-neste-domingo-25.ghtml",
+      "source": "g1",
+      "published": 1792915200000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Quase 7 milhões de eleitores estão aptos a votar no 2º turno da eleição para presidente no Ceará",
+      "summary": "Urna eletrônica TSE Quase 7 milhões de eleitores no Ceará estão aptos a votar neste domingo (25), segundo turno da eleição para presidente da República em 2026.…",
+      "image": "https://s2-g1.glbimg.com/okpLM-FjH0vtNZYxesFicJmBxfk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/t/xe9h8GSnW3uwnKY8sAHA/edicao-imagens-g1-71-.png",
+      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/25/quase-7-milhoes-de-eleitores-estao-aptos-a-votar-no-2o-turno-da-eleicao-para-presidente-no-ceara.ghtml",
+      "source": "g1",
+      "published": 1792915200000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Eleições 2026: veja como consultar filas antes de sair para votar no PI",
+      "summary": "Eleições 2026: TRE orienta eleitores a consultarem o Kiwi antes da votação Os eleitores do Piauí podem acompanhar, neste domingo (25), a movimentação nas seções…",
+      "image": "https://s2-g1.glbimg.com/9dzUpZrhzzwCNs5nYByhlvwib8s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/n/hdd8O5R4qPugVFZ2MQnw/edicao-imagens-g1-2026-10-21t150408.551.png",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-filas-segundo-turno.ghtml",
+      "source": "g1",
+      "published": 1792915200000
     }
   ]
 }
