@@ -1,16 +1,46 @@
 {
-  "updatedAt": "2026-10-25T22:11:04.524Z",
+  "updatedAt": "2026-10-26T02:23:40.217Z",
   "count": 25,
   "items": [
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
-      "title": "Fim da Votação: TSE começa apuração dos votos",
-      "summary": "Fim da Votação: TSE começa apuração dos votos STF ordenou a prorrogação da votação, que terminaria às 17h, até as 19h depois de pedidos das campanhas dos dois candidatos…",
-      "image": "https://s2-g1.glbimg.com/R0t5Ro1_95qQizJX05QNbJbvybg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/a/qF1AwdTiqv1pKneXi38Q/whatsapp-image-2026-10-25-at-17.29.45.jpeg",
+      "title": "Ao fim da apuração dos votos, Lula é reeleito presidente do Brasil; veja como foi a votação no interior de SP",
+      "summary": "Ao fim da apuração dos votos, Lula é reeleito presidente do Brasil; veja como foi a votação no interior de SP TSE reconheceu vitória do Lula pouco depois de 21h. Segundo…",
+      "image": "https://s2-g1.glbimg.com/1G4ooux3-4PkGLxWR435SQcPogQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/t/LgsKZeSz2RRMAAIV1pDg/apuracao-jundiai.jpeg",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-bauru-itapetininga-presidente-prudente-rio-preto-sorocaba.ghtml",
       "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792965928000
+      "published": 1792978058000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Flávio Bolsonaro é o mais votado em Rio Preto com 65,29% dos votos válidos; Lula teve 34,71%",
+      "summary": "Lula (PT) é reeleito presidente do Brasil Flávio Bolsonaro (PL) foi o candidato mais votado no segundo turno das eleições para a Presidência da República em São José do…",
+      "image": "https://s2-g1.glbimg.com/QLXjIr7cEhWx4tZkCQOSWtXeq54=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/v/m/TAtXCiSviAjk0gY6OXUQ/riopreto-01-2d17b30908.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/eleicoes/2026/noticia/2026/10/25/votacao-segundo-turno-rio-preto.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792977437000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Flávio Bolsonaro é o mais votado em Araçatuba com 66,91% dos votos válidos; Lula teve 33,09%",
+      "summary": "Lula (PT) é reeleito presidente do Brasil Flávio Bolsonaro (PL) foi o candidato mais votado no segundo turno das eleições para a Presidência da República em Araçatuba…",
+      "image": "https://s2-g1.glbimg.com/mmgQThYj2gVife_aPqLUXlYMh8E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/E/DiHBmpTb27mkHglMNIYg/vista-aracatuba.png",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/eleicoes/2026/noticia/2026/10/25/votacao-segundo-turno-aracatuba.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792976547000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Vado é eleito prefeito de Macedônia com mais de 57% dos votos em eleição suplementar",
+      "summary": "Edvaldo Fechio, o Vado (PSD), é eleito prefeito de Macedônia (SP) Câmara Municipal de Macedônia/Divulgação Edvaldo Fechio, conhecido como Vado (PSD), foi eleito prefeito…",
+      "image": "https://s2-g1.glbimg.com/grkoLg7Pmq39lmu7DoVC5jFa-8w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/m/5x50AsSDmT6qYggJcEOw/foto-g1-2026-10-25t210540.070.png",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/eleicoes/2026/noticia/2026/10/25/resultado-eleicao-suplementar-macedonia.ghtml",
+      "source": "g1 > São José do Rio Preto e Araçatuba",
+      "published": 1792973199000
     },
     {
       "category": "local",
@@ -23,234 +53,204 @@
       "published": 1792961629000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Gata é flagrada 'votando' em urna eletrônica durante o 2º turno no interior de SP",
-      "summary": "Gata é flagrada 'votando' em urna eletrônica em Santa Adélia (SP) Janesli Belardinuci/Arquivo pessoal Uma gata foi flagrada em uma urna eletrônica, como se também…",
-      "image": "https://s2-g1.glbimg.com/9kukhBzc0efNfG1WKoBqyfbryoY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/a/1AjaqgSWe1nFc5GYq5TQ/foto-g1-2026-10-25t142136.931.png",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/25/gata-e-flagrada-votando-em-urna-eletronica-durante-o-2o-turno-no-interior-de-sp.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792954692000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Eleitores de Macedônia escolhem novo prefeito neste domingo em eleição suplementar",
-      "summary": "Macedônia (SP) Câmara Municipal de Macedônia Os eleitores de Macedônia (SP) voltam às urnas neste domingo (25) para eleger o prefeito e o vice-prefeito em uma eleição…",
-      "image": "https://s2-g1.glbimg.com/X7RlFhoxig-NC-047MP1bNnvCRI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/e/dACjDwRvKYA0MjTXRgJw/formato-padrao-imagens-g1-82-.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/25/moradores-de-macedonia-escolhem-prefeito-e-vice-no-2o-turno-das-eleicoes-presidenciais.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792922401000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Eleições 2026: veja guia com tudo o que você precisa saber para votar no 2º turno em Rio Preto e Araçatuba",
-      "summary": "Urnas eletrônicas começam a ser levadas para locais de votação em Rio Preto (SP) André Modesto/TV TEM Os eleitores de São José do Rio Preto e Araçatuba (SP) voltam às…",
-      "image": "https://s2-g1.glbimg.com/V2eu5D68Ac8xLNvmVUAxRlLFMYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/9/F/N0OM0nQpCg2k2rCLnLCg/foto-g1-2024-10-05t104821.456.png",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-veja-guia-com-tudo-o-que-voce-precisa-saber-para-votar-no-2o-turno-em-rio-preto-e-aracatuba.ghtml",
-      "source": "g1 > São José do Rio Preto e Araçatuba",
-      "published": 1792922400000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Em discurso de vitória, Lula agradece à juventude e critica big techs e Flávio",
+      "summary": "Luiz Inácio Lula da Silva acena para apoiadores após vencer o segundo turno da eleição presidencial, em São Paulo, neste domingo (25). O petista foi reeleito para um…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-26T011508Z_1042795906_RC2PAOA16TYJ_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/em-discurso-de-vitoria-lula-agradece-a-juventude-e-critica-big-techs-e-flavio/",
+      "source": "InfoMoney",
+      "published": 1792980582000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "AO VIVO: TSE retoma apuração do 2º turno das eleições de 2026; acompanhe",
-      "summary": "Acompanhe em tempo real a apuração dos votos do 2º turno The post AO VIVO: TSE retoma apuração do 2º turno das eleições de 2026; acompanhe appeared first on InfoMoney .",
+      "title": "Eleições 2026: Lula é eleito presidente do Brasil; veja o resultado nos estados",
+      "summary": "Confira o resultado das eleições 2026 no 2º turno, como ficou a votação para presidente e a apuração nos estados e Distrito Federal The post Eleições 2026: Lula é eleito…",
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/1200x800-2.png?fit=300%2C200&quality=70&strip=all",
       "link": "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/",
       "source": "InfoMoney",
-      "published": 1792965649000
+      "published": 1792980511000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Lula lidera votação no exterior e vence em 42 dos 54 países já apurados",
-      "summary": "Luiz Inácio Lula da Silva (Foto: Marcelo Camargo/Agência Brasil) &#8211; Flávio Bolsonaro (Saulo Cruz/Agência Senado) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/lulaflavio2_221538.png?fit=300%2C225&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/lula-lidera-votacao-no-exterior-e-vence-em-42-dos-54-paises-ja-apurados/",
+      "title": "Como a imprensa internacional reagiu à reeleição de Lula",
+      "summary": "NYT com Lula reeleito (Imagem: Reprodução) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Captura-de-tela-2026-10-25-230004.png?fit=300%2C268&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/como-a-imprensa-internacional-reagiu-a-reeleicao-de-lula/",
       "source": "InfoMoney",
-      "published": 1792965388000
+      "published": 1792980304000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Por que urnas já encerradas não podem ser reabertas mesmo após decisão do STF",
-      "summary": "Imagem: Paulo Pinto / Agência Brasil \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/Urna-eletronica-em-cabine-de-votacao.png?fit=1170%2C780&qu…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Urna-eletronica-em-cabine-de-votacao.png?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/por-que-urnas-ja-encerradas-nao-podem-ser-reabertas-mesmo-apos-decisao-do-stf/",
+      "title": "Flávio não reconhece resultado da eleição e diz que pedirá anulação ao TSE",
+      "summary": "Luiz Inácio Lula da Silva acena para apoiadores após vencer o segundo turno da eleição presidencial, em São Paulo, neste domingo (25). O petista foi reeleito para um…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-26T020544Z_1636973838_RC2PAOA1DY47_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/flavio-nao-reconhece-resultado-da-eleicao-e-diz-que-pedira-anulacao-ao-tse/",
       "source": "InfoMoney",
-      "published": 1792964366000
+      "published": 1792979432000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Zanin diz que votação até 19h vale apenas para urnas ainda abertas",
-      "summary": "Ministro Cristiano Zanin em sessão plenária do STF. Foto: Gustavo Moreno/STF \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/54963699116_77f0f13c08_k.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/zanin-diz-que-votacao-ate-19h-vale-apenas-para-urnas-ainda-abertas/",
+      "title": "ETF de ações brasileiras em Tóquio desaba quase 13% após Lula vencer eleição",
+      "summary": "O presidente brasileiro Luiz Inácio Lula da Silva, candidato à reeleição pelo Partido dos Trabalhadores (PT), participa de um comício de campanha antes do segundo turno…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-10T160925Z_150774548_RC2E0OABVF3M_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/etf-de-acoes-brasileiras-em-toquio-desaba-quase-13-apos-lula-vencer-eleicao/",
       "source": "InfoMoney",
-      "published": 1792963715000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Eleições 2026: TSE toma medida inédita ao prorrogar horário da votação no Brasil",
-      "summary": "Ministro Cristiano Zanin (Rosinei Coutinho/STF) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-11-at-16.35.15.jpeg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/eleicoes-2026-tse-toma-medida-inedita-ao-prorrogar-horario-da-votacao-no-brasil/",
-      "source": "InfoMoney",
-      "published": 1792963475000
+      "published": 1792979252000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Mbappé marca duas vezes, Real Madrid vence o Barcelona e acaba com 100% do rival no Espanhol",
-      "summary": "Real Madrid vence o Barcelona por 2 a 1, com dois gols de Mbappé, encerra a invencibilidade do rival no Campeonato Espanhol e vence o primeiro El Clásico da temporada. O…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261025__D4E67QW__v1__HighRes__FblEspLigaBarcelonaRealMadrid.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/mbappe-marca-duas-vezes-real-madrid-vence-o-barcelona-e-acaba-com-100-do-rival-no-espanhol/",
+      "title": "Flamengo x Atlético-MG pelo Brasileirão: onde assistir, estatísticas, histórico e prováveis escalações",
+      "summary": "Flamengo e Atlético-MG se enfrentam nesta segunda-feira, às 20h, no Maracanã, pela 32ª rodada do Campeonato Brasileiro. O Rubro-Negro busca retomar a liderança, enquanto…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55232705073_b09541d64b_k.webp",
+      "link": "https://www.gazetaesportiva.com/times/flamengo/flamengo-x-atletico-mg-pelo-brasileirao-onde-assistir-estatisticas-historico-e-provaveis-escalacoes/",
       "source": "Gazeta Esportiva",
-      "published": 1792965676000
+      "published": 1792969803000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Veja fotos do GP dos Estados Unidos de Fórmula 1",
-      "summary": "Veja fotos do GP dos Estados Unidos de Fórmula 1. O post Veja fotos do GP dos Estados Unidos de Fórmula 1 apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261025__D4E44VZ__v1__HighRes__776433511.webp",
-      "link": "https://www.gazetaesportiva.com/motor/formula-1/veja-fotos-do-gp-dos-estados-unidos-de-formula-1/",
+      "title": "Coritiba x Grêmio pelo Brasileirão: onde assistir, estatísticas, histórico e prováveis escalações",
+      "summary": "Coritiba e Grêmio se enfrentam nesta segunda-feira, às 19h30 (de Brasília), no Couto Pereira, pela 32ª rodada do Campeonato Brasileiro. O confronto reúne duas equipes…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55611219961_bec5419159_o.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/coritiba-x-gremio-onde-assistir-brasileirao-32-rodada/",
       "source": "Gazeta Esportiva",
-      "published": 1792964347000
+      "published": 1792969252000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Milan bate a Udinese, volta ao G4 e segue invicto no Campeonato Italiano",
-      "summary": "Milan vence a Udinese por 2 a 0, fora de casa, pela oitava rodada do Campeonato Italiano. Com o resultado, a equipe rossonera chega aos 18 pontos e recupera a quarta…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/milan.webp",
-      "link": "https://www.gazetaesportiva.com/times/milan/milan-bate-a-udinese-volta-ao-g4-e-segue-invicto-no-campeonato-italiano/",
+      "title": "América-MG x Cuiabá pela Série B: veja prováveis escalações e onde assistir",
+      "summary": "América-MG e Cuiabá se enfrentam pela 35ª rodada da Série B. Confira onde assistir, horário, escalações e situação das equipes. O post América-MG x Cuiabá pela Série B:…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55595855219_989776aa64_k.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/america-mg-x-cuiaba-pela-serie-b-veja-provaveis-escalacoes-e-onde-assistir/",
       "source": "Gazeta Esportiva",
-      "published": 1792964171000
+      "published": 1792969230000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Veja fotos do clássico entre Barcelona e Real Madrid pelo Campeonato Espanhol",
-      "summary": "Barcelona e Real Madrid se enfrentaram no Spotify Camp Nou, pela 10ª rodada do Campeonato Espanhol. Confira as fotos de mais uma edição do El Clásico. O post Veja fotos…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261025__D4E49MW__v1__HighRes__FblEspLigaBarcelonaRealMadrid.webp",
-      "link": "https://www.gazetaesportiva.com/fotos/veja-fotos-do-classico-entre-barcelona-e-real-madrid-pelo-campeonato-espanhol/",
+      "title": "São Paulo x Palmeiras: saiba onde assistir ao jogo de ida das quartas do Paulista sub-20",
+      "summary": "São Paulo e Palmeiras se enfrentam nesta segunda-feira, às 15h (de Brasília), no Estádio Marcelo Portugal, em Cotia, pela partida de ida das quartas do Campeonato…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/fm_5825.webp",
+      "link": "https://www.gazetaesportiva.com/times/palmeiras/sao-paulo-x-palmeiras-onde-assistir-quartas-de-final-ida-paulista-sub-20-26-10-2026/",
       "source": "Gazeta Esportiva",
-      "published": 1792962010000
+      "published": 1792969226000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Musetti vence Fritz na final e é campeão do ATP 250 de Lyon",
-      "summary": "O italiano Lorenzo Musetti conquistou neste domingo o título do ATP 250 de Lyon ao vencer o norte-americano Taylor Fritz por 2 sets a 0. Com atuação dominante na…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/ZKRQVLAJLFAGXIJNJBFOMKCX64.webp",
-      "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/musetti-vence-fritz-campeao-atp-lyon-2026/",
+      "title": "PSG x Lyon: veja onde assistir e prováveis escalações do jogo pelo Campeonato Francês",
+      "summary": "PSG e Lyon se enfrentam nesta segunda-feira, às 16h30 (de Brasília), no Parc des Princes, pela oitava rodada do Campeonato Francês. O confronto, que reúne os dois…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261020__D3WG3D8__v1__HighRes__FblEurC1PsgBarcelona.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/ligue-1/psg-x-lyon-onde-assistir-campeonato-frances-8-rodada-adiado/",
       "source": "Gazeta Esportiva",
-      "published": 1792958450000
+      "published": 1792969221000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Hora de economizar: veja uma seleção de smartphones Xiaomi em promoção na Amazon",
-      "summary": "A Xiaomi consolidou sua reputação no mercado brasileiro oferecendo smartphones com boa relação entre desempenho e custo-benefício. Se você está de olho em um aparelho…",
-      "image": "https://m.media-amazon.com/images/I/415mBguZF6L._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/25/reviews/hora-de-economizar-veja-uma-selecao-de-smartphones-xiaomi-em-promocao-na-amazon-4/",
+      "title": "Hora de proteger sua casa: câmeras de segurança em promoção na Amazon",
+      "summary": "Monitorar sua casa ou escritório ficou muito mais acessível. Separamos uma seleção de câmeras de segurança Wi-Fi em oferta na Amazon com ótimas funcionalidades — visão…",
+      "image": "https://m.media-amazon.com/images/I/31Akkcgda3L._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/25/reviews/hora-de-proteger-sua-casa-cameras-de-seguranca-em-promocao-na-amazon/",
       "source": "Olhar Digital",
-      "published": 1792963191000
+      "published": 1792978791000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Motorola em destaque: smartphones 5G com câmera de 50MP e recursos premium em oferta",
-      "summary": "A Motorola segue firme como uma das marcas mais populares no Brasil, e não é difícil entender o motivo: a linha Moto G oferece ótimo custo-benefício, conectividade 5G e…",
-      "image": "https://m.media-amazon.com/images/I/41o7vjpasKL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/25/reviews/motorola-em-destaque-smartphones-5g-com-camera-de-50mp-e-recursos-premium-em-oferta/",
+      "title": "Echo Dot em várias cores: escolha o seu smart speaker com Alexa",
+      "summary": "Se você ainda não tem um smart speaker em casa — ou quer presentear alguém —, a Amazon reúne opções do Echo Dot em diferentes cores, todas com acesso à Alexa+ e…",
+      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/25/reviews/echo-dot-em-varias-cores-escolha-o-seu-smart-speaker-com-alexa-6/",
       "source": "Olhar Digital",
-      "published": 1792961991000
+      "published": 1792977591000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Nvidia assume risco bilionário para sustentar boom da IA; mercado acende alerta",
-      "summary": "Fabricante de chips acumula garantias e compromissos financeiros de centenas de bilhões de dólares, enquanto empresas parceiras enfrentam quedas nas ações e custos de…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/jensen_huang-1024x576.jpg",
-      "link": "https://olhardigital.com.br/2026/10/25/pro/nvidia-assume-risco-bilionario-para-sustentar-boom-da-ia-mercado-acende-alerta/",
+      "title": "Quer melhorar o som da sua TV? Veja uma seleção de soundbars em promoção na Amazon",
+      "summary": "Se o áudio da sua TV já não satisfaz mais, este é o momento certo para dar um upgrade. Reunimos três opções de soundbars disponíveis na Amazon com características que…",
+      "image": "https://m.media-amazon.com/images/I/21m7lsv4xYL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/25/reviews/quer-melhorar-o-som-da-sua-tv-veja-uma-selecao-de-soundbars-em-promocao-na-amazon-13/",
       "source": "Olhar Digital",
-      "published": 1792960815000
+      "published": 1792976391000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Hora de economizar: uma seleção de iPhones Apple em promoção na Amazon",
-      "summary": "Se você está de olho em um iPhone novo, este é o momento certo para agir. Reunimos três ótimas opções de iPhones Apple disponíveis agora na Amazon, com modelos para…",
-      "image": "https://m.media-amazon.com/images/I/318Rhf2amVL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/25/reviews/hora-de-economizar-uma-selecao-de-iphones-apple-em-promocao-na-amazon-6/",
+      "title": "Som sem fio de qualidade: caixas Bluetooth portáteis que valem a pena conferir",
+      "summary": "Se você está em busca de uma boa caixa de som Bluetooth para levar a qualquer lugar, chegou a hora de dar uma olhada nas opções que separamos. São três modelos com…",
+      "image": "https://m.media-amazon.com/images/I/51ZzeFl5p3L._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/25/reviews/som-sem-fio-de-qualidade-caixas-bluetooth-portateis-que-valem-a-pena-conferir/",
       "source": "Olhar Digital",
-      "published": 1792960791000
+      "published": 1792975191000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Galaxy A07 ou A17? Veja uma seleção de Smartphones Samsung em promoção na Amazon",
-      "summary": "Se você está de olho em um novo smartphone Samsung, este é um bom momento para conferir o que está disponível na Amazon. Reunimos três ofertas da linha Galaxy que valem…",
-      "image": "https://m.media-amazon.com/images/I/41Ymow9O1FL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/25/reviews/galaxy-a07-ou-a17-veja-uma-selecao-de-smartphones-samsung-em-promocao-na-amazon-40/",
+      "title": "Quer melhorar sua experiência nos games? Confira uma seleção de headsets gamer em promoção na Amazon",
+      "summary": "Se você busca mais imersão, comunicação clara com o time e conforto nas longas sessões de jogo, um bom headset gamer faz toda a diferença. Reunimos três opções em oferta…",
+      "image": "https://m.media-amazon.com/images/I/41j1S82Wg8L._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/25/reviews/quer-melhorar-sua-experiencia-nos-games-confira-uma-selecao-de-headsets-gamer-em-promocao-na-amazon-3/",
       "source": "Olhar Digital",
-      "published": 1792959591000
+      "published": 1792973991000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Xuxa faz sinal de Lula em Libras ao votar neste domingo",
-      "summary": "Xuxa Meneghel chamou a atenção ao fazer o sinal de Lula em Libras (Língua Brasileira de Sinais) ao comparecer à urna no Rio de Janeiro neste domingo (25), dia do segundo…",
+      "title": "Eleições têm viradas em dois estados, além da disputa presidencial",
+      "summary": "A disputa pelos governos estaduais teve viradas do primeiro para o segundo turno em duas das seis unidades da federação que tiveram eleição para governador neste domingo…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/xuxa-faz-sinal-de-lula-em-libras-ao-votar-neste-domingo.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eleicoes-tem-viradas-em-dois-estados-alem-da-disputa-presidencial.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1792966080000
+      "published": 1792980900000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Imprensa internacional destaca extensão da votação no Brasil",
-      "summary": "A imprensa internacional repercutiu na noite deste domingo (25) a decisão do ministro do STF (Supremo Tribunal Federal) Cristiano Zanin de estender até as 19h a votação…",
+      "title": "Brasil volta a eleger três mulheres governadoras após 20 anos",
+      "summary": "O Brasil voltou a eleger três mulheres governadoras em uma mesma eleição após um hiato de 20 anos, igualando o recorde registrado em 2006. Leia mais (10/25/2026 - 23h15)",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/imprensa-internacional-destaca-extensao-da-votacao-no-brasil.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/brasil-volta-a-eleger-tres-mulheres-governadoras-apos-20-anos.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1792966020000
+      "published": 1792980900000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "É uma eleição do Vasco no auge do Eurico Miranda, diz professor",
-      "summary": "Professor de direito constitucional e eleitoral, Daniel Falcão comparou a tumultuada eleição neste domingo (25) à atuação do polêmico dirigente de futebol Eurico Miranda…",
+      "title": "Lula amplia recorde e será presidente mais velho da história, terminando 4º mandato aos 85",
+      "summary": "Reeleito neste domingo (25), Luiz Inácio Lula da Silva (PT) ampliará o próprio recorde de presidente mais velho a tomar posse no Brasil. Nascido em 27 de outubro de…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/e-uma-eleicao-do-vasco-no-auge-do-eurico-miranda-diz-professor.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-amplia-recorde-e-sera-presidente-mais-velho-da-historia-terminando-4o-mandato-aos-85.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1792965480000
+      "published": 1792980840000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "PF decide abrir investigações sobre denúncias de restrições ao transporte nas eleições",
-      "summary": "A Polícia Federal investiga suspeitas de restrições ao transporte de eleitores durante o segundo turno das eleições , neste domingo (25). Leia mais (10/25/2026 - 18h53)",
+      "title": "Veja mapa das cidades onde Lula e onde Flávio ganharam mais votos",
+      "summary": "Reeleito neste domingo (25) para seu quarto mandato , Luiz Inácio Lula da Silva ( PT ) venceu em três das dez cidades mais populosas do Sudeste. Leia mais (10/25/2026 -…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pf-decide-abrir-investigacoes-sobre-denuncias-de-restricoes-ao-transporte-nas-eleicoes.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/veja-mapa-das-cidades-onde-lula-e-onde-flavio-ganharam-mais-votos.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1792965180000
+      "published": 1792980480000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Jovem de Indaiatuba corre para votar após prorrogação anunciada pelo STF, mas encontra portão fechado",
-      "summary": "Jovem tenta votar após prorrogação do STF, mas encontra portão fechado Uma eleitora de Indaiatuba (SP) afirmou que não conseguiu votar neste domingo (25), após chegar ao…",
-      "image": "https://s2-g1.glbimg.com/tWvb6IsLc6ixah-t62UE1qM-Wg8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/W/MzBPvBToCF8004sU8Gzw/lara-indaiatuba.png",
-      "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/10/25/jovem-de-indaiatuba-corre-para-votar-apos-prorrogacao-anunciada-pelo-stf-mas-encontra-portao-fechado.ghtml",
-      "source": "g1",
-      "published": 1792965027000
+      "title": "No 'zap', esquerda mobiliza para prorrogar votação, e direita fala em 'tapetão'",
+      "summary": "Onipresentes na campanha, principalmente no segundo turno, os canais do WhatsApp registraram a intensidade do domingo eleitoral. Na guerra entre direita e esquerda no…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/no-zap-esquerda-mobiliza-para-prorrogar-votacao-e-direita-fala-em-tapetao.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1792980420000
     }
   ]
 }
