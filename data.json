@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-10-28T07:44:48.831Z",
+  "updatedAt": "2026-10-28T11:53:42.971Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Paciente é preso após destruir recepção de hospital, ameaçar pacientes e quebrar vidros",
+      "summary": "Homem é preso em flagrante após quebrar computadores e portas na Santa Casa Um homem de 38 anos foi preso em flagrante após ameaçar de morte pacientes e funcionários e…",
+      "image": "https://s2-g1.glbimg.com/VkIwB7I72YMuMc9A7vqqe1zp9Ow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/R/TOERqzSUyp3XTxwocqDg/g1-2026-10-28t080521.153.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/28/paciente-e-preso-apos-destruir-recepcao-de-hospital-ameacar-pacientes-e-quebrar-vidros.ghtml",
+      "source": "g1 > g1 Rio Preto",
+      "published": 1793187593000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Pedreiro que trabalha desde os 11 anos se inspira em histórias contadas pela mãe e vira escritor",
+      "summary": "Pedreiro de Cedral transforma memórias de infância em livros e publica três obras Durante o dia, tijolos, massa e concreto fazem parte da rotina de Gildo Francisco de…",
+      "image": "https://s2-g1.glbimg.com/NGL3Gh8i7c28CkPxZi2S3FJK8fU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/L/SEhtn4QZ2GtJB28AyhwA/sjp-pedreiro-livro-161026.transfer-frame-10604.jpeg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/28/pedreiro-que-trabalha-desde-os-11-anos-se-inspira-em-historias-contadas-pela-mae-e-vira-escritor.ghtml",
+      "source": "g1 > g1 Rio Preto",
+      "published": 1793183136000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -33,224 +53,204 @@
       "published": 1793134142000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Homens assassinados após cobrarem dívida em Icaraíma, no PR: polícia conclui investigação sobre pai e filhos presos pelo crime",
-      "summary": "Polícia Civil conclui inquérito sobre quádruplo homicídio em Icaraíma e indicia 4 pessoas O inquérito que investiga o assassinato de quatro homens que cobraram uma…",
-      "image": "https://s2-g1.glbimg.com/zWv3pqbqAtZQMN5C5MF7s0uzPp4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/z/A48cv5ThmPR11Ti19mRA/icaraima4.png",
-      "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/10/27/homens-assassinados-apos-cobrarem-divida-no-pr-policia-conclui-investigacao-sobre-pai-e-filhos-presos-pelo-crime.ghtml",
-      "source": "g1 > g1 Rio Preto",
-      "published": 1793124918000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Cuidadora é encontrada morta ao lado de bebê em casa onde trabalha em Fernandópolis",
-      "summary": "Delegacia de Polícia Civil de Fernandópolis (SP) Reprodução/Google Street View Uma cuidadora de 54 anos foi encontrada morta na cozinha da residência onde trabalhava, na…",
-      "image": "https://s2-g1.glbimg.com/_PqKsr6O-SkeW5cOyaOmbLCFqtQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/m/bf5PpBTKSeWHRP9UGlcQ/g1-35-.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/27/cuidadora-de-54-anos-e-encontrada-morta-ao-lado-de-bebe-em-casa-onde-trabalha-em-fernandopolis.ghtml",
-      "source": "g1 > g1 Rio Preto",
-      "published": 1793124113000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "BNP Paribas aumenta lucro no 3º trimestre com força em ações e prime brokerage",
+      "summary": "O número superou a expectativa de analistas de 3,23 bilhões de euros, segundo consenso de estimativas fornecido pelo banco The post BNP Paribas aumenta lucro no 3º…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/454418333.jpg?quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/bnp-paribas-aumenta-lucro-no-3o-trimestre-com-forca-em-acoes-e-prime-brokerage/",
+      "source": "InfoMoney",
+      "published": 1793188415000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Dia de Sorte: confira o resultado do concurso 1333 sorteado nesta terça-feira (27)",
-      "summary": "Loteria Dia de Sorte, da Caixa Econômica (Foto: Divulgação) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1333-sorteado-nesta-terca-feira-27/",
+      "title": "Netanyahu sobrevive com apoio inesperadamente expressivo dos judeus israelenses",
+      "summary": "Primeiro-ministro israelense, Benjamin Netanyahu 27/07/2025 REUTERS/Ronen Zvulun \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-07T173256Z_1_LYNXMPEL7610L_RTROPTP_4_ISRAEL-POLITICS.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/netanyahu-sobrevive-com-apoio-inesperadamente-expressivo-dos-judeus-israelenses/",
       "source": "InfoMoney",
-      "published": 1793147032000
+      "published": 1793188410000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Quina hoje, concurso 7153: confira o resultado sorteado nesta terça (26)",
-      "summary": "(Foto: Divulgação) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=1280%2C745&quality=70&strip=all\" />O prêmio…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7153-confira-o-resultado-sorteado-nesta-segunda-26/",
+      "title": "Quem é Rafael Fonteles, reeleito no Piauí e um dos cotados para ser ministro de Lula",
+      "summary": "Rafael Fonteles \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2022/10/rafaelfonteles.jpg?fit=602%2C532&quality=70&strip=all\" />Fonteles estreou…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/10/rafaelfonteles.jpg?fit=300%2C265&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/quem-e-rafael-fonteles-reeleito-no-piaui-e-um-dos-cotados-para-ser-ministro-de-lula/",
       "source": "InfoMoney",
-      "published": 1793146361000
+      "published": 1793188388000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Lotofácil hoje, concurso 3815: confira o resultado sorteado nesta terça (27)",
-      "summary": "Foto: Marcelo Camargo/Agência Brasil \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-5.webp?fit=1024%2C768&quality=70&strip=…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-5.webp?fit=300%2C225&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3815-confira-o-resultado-sorteado-nesta-terca-27/",
+      "title": "Reforma Tributária: TCU divulga cálculo da alíquota da CBS, que substitui PIS/Cofins",
+      "summary": "Sede do Tribunal de Contas da União (TCU) (Foto: Divulgação) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/11/Tribunal-de-Contas-da-Uniao-TCU.jpg?fit=300%2C215&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/economia/reforma-tributaria-tcu-divulga-calculo-da-aliquota-da-cbs-que-substitui-pis-cofins/",
       "source": "InfoMoney",
-      "published": 1793146271000
+      "published": 1793188174000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Mega-Sena hoje, concurso 3076: confira o resultado sorteado nesta terça (27)",
-      "summary": "Foto: Marcello Casal JrAgência Brasil \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/09/mega_sena_mcajr_abr_2904223679.jpeg?fit=1024%2C768&qualit…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/mega_sena_mcajr_abr_2904223679.jpeg?fit=300%2C225&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3076-confira-o-resultado-sorteado-nesta-terca-27/",
+      "title": "Investimento em IA puxa alta do comércio global, mas mascara problemas, diz OMC",
+      "summary": "A diretora-geral da Organização Mundial do Comércio (OMC), Ngozi Okonjo-Iweala (Foto: Reprodução do Youtube/@WTO) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Diretora-geral-da-OMC-1.jpg?fit=300%2C194&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/economia/investimento-em-ia-puxa-alta-do-comercio-global-mas-mascara-problemas-diz-omc/",
       "source": "InfoMoney",
-      "published": 1793145860000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Movida (MOVI3) tem lucro líquido de R$ 152 mi no 3º trimestre, alta de 117% ao ano",
-      "summary": "Divulgação/Movida \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/03/Movida_Loja-Brasilia-1.jpg-1.jpeg?fit=1280%2C853&quality=70&strip=all\"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Movida_Loja-Brasilia-1.jpg-1.jpeg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/resultados-movida-movi3-terceiro-trimestre/",
-      "source": "InfoMoney",
-      "published": 1793144610000
+      "published": 1793188067000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Zverev avança em Viena e fica a uma vitória do número 1 do mundo",
-      "summary": "O alemão Alexander Zverev salvou quatro match points contra o espanhol Martín Landaluce no ATP 500 de Viena e ficou a apenas uma vitória de alcançar pela primeira vez o…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261027__D4LX9WG__v1__MidRes__TennisAutAtpErsteOpen.webp",
-      "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/zverev-avanca-em-viena-e-fica-a-uma-vitoria-do-numero-1-do-mundo/",
+      "title": "Vasco treina no Nilton Santos antes de clássico contra o Flamengo",
+      "summary": "Vasco treina no Nilton Santos antes de clássico contra o Flamengo O post Vasco treina no Nilton Santos antes de clássico contra o Flamengo apareceu primeiro em Gazeta…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/Vasc.webp",
+      "link": "https://www.gazetaesportiva.com/times/vasco/vasco-treina-no-nilton-santos-antes-de-classico-contra-o-flamengo/",
       "source": "Gazeta Esportiva",
-      "published": 1793155697000
+      "published": 1793187497000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Suzano supera Goiás e estreia com vitória na Superliga masculina",
-      "summary": "O Suzano levou a melhor sobre o Goiás nesta segunda-feira, pela estreia das equipes na Superliga masculina de vôlei. Os paulistas venceram o jogo na Arena Suzano por 3…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/IMG_6511.webp",
-      "link": "https://www.gazetaesportiva.com/mais-esportes/volei/suzano-supera-goias-e-estreia-com-vitoria-na-superliga-masculina/",
+      "title": "Há 53 anos, Johan Cruyff fazia sua estreia pelo Barcelona: relembre melhores momentos do craque holandês",
+      "summary": "Há 53 anos: Johan Cruyff estreou oficialmente pelo Barcelona: relembre melhores momentos O post Há 53 anos, Johan Cruyff fazia sua estreia pelo Barcelona: relembre…",
+      "image": "https://static.gazetaesportiva.com/uploads/imagem/2022/10/10/Johan-Cruyff.jpg",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/ha-53-anos-johan-cruyff-fazia-sua-estreia-pelo-barcelona-relembre-melhores-momentos-do-craque-holandes/",
       "source": "Gazeta Esportiva",
-      "published": 1793154089000
+      "published": 1793186449000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "“Não corremos risco”, diz presidente do Estudiantes sobre pleito do Flamengo na Libertadores",
-      "summary": "O presidente do Estudiantes, Juan Sebastián Verón, demonstrou confiança de que o clube argentino disputará a final da Libertadores contra o Palmeiras, apesar da…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261023__D46U89L__v1__MidRes__FblLibertadoresFlamengoEstudiantes.webp",
-      "link": "https://www.gazetaesportiva.com/times/flamengo/nao-corremos-risco-diz-presidente-do-estudiantes-sobre-pleito-do-flamengo-na-libertadores/",
+      "title": "China afirma que leva a sério pedido de desculpas de Mbappé",
+      "summary": "O governo da China afirmou levar a sério as desculpas de Kylian Mbappé por comentários sobre o ex-líder Mao Tsé-tung. A polêmica provocou críticas nas redes sociais,…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261027__D4JM7KF__v1__HighRes__FilesFblChinaAdvertisingPoliticsMbappe.webp",
+      "link": "https://www.gazetaesportiva.com/times/real-madrid/china-afirma-que-leva-a-serio-pedido-de-desculpas-de-mbappe/",
       "source": "Gazeta Esportiva",
-      "published": 1793153553000
+      "published": 1793186245000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Minas vence Pato Basquete, mantém invencibilidade e lidera o NBB",
-      "summary": "O Minas Tênis Clube dominou o Pato Basquete do início ao fim, venceu por 86 a 65 em Belo Horizonte e assumiu a liderança isolada do NBB 2026/27 após a terceira rodada. O…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55616718764_41801da203_o-scaled-1.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/nbb-novo-basquete-brasil/minas-vence-pato-basquete-mantem-invencibilidade-e-lidera-o-nbb/",
+      "title": "Com lesão no joelho, Kawhi Leonard vai desfalcar Toronto Raptors contra Clippers",
+      "summary": "Kawhi Leonard ficará afastado por pelo menos uma semana devido a uma inflamação no joelho esquerdo. O astro do Toronto Raptors já desfalcou a equipe contra o Minnesota…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261022__2300813538__v1__HighRes__ChicagoBullsVTorontoRaptors.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/nba/com-lesao-no-joelho-kawhi-leonard-vai-desfalcar-toronto-raptors-contra-clippers/",
       "source": "Gazeta Esportiva",
-      "published": 1793150424000
+      "published": 1793185855000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Goiás vence Ceará com gols nos acréscimos e encosta no G6 da Série B",
-      "summary": "Em duelo que encerrou a 35ª rodada da Série B do Campeonato Brasileiro, o Goiás venceu o Ceará por 2 a 0 na noite desta segunda-feira, com dois gols de Kadu nos…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/IMG_6510.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/goias-vence-ceara-com-gols-nos-acrescimos-e-encosta-no-g6-da-serie-b/",
+      "title": "Há 93 anos, nascia Garrincha, um dos maiores gênios da história do futebol: relembre fotos históricas",
+      "summary": "Há 93 anos, nascia Garrincha, um dos maiores gênios da história do futebol: relembre fotos históricas O post Há 93 anos, nascia Garrincha, um dos maiores gênios da…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/gazeta-press-foto-120019-276x360-1.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/ha-93-anos-nascia-garrincha-um-dos-maiores-genios-da-historia-do-futebol-relembre-fotos-historicas/",
       "source": "Gazeta Esportiva",
-      "published": 1793150142000
+      "published": 1793185793000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "OpenAI busca alternativa à Nvidia e mira chips de IA do Google",
-      "summary": "De acordo com reportagem do The Information, a OpenAI já aluga chips de IA do Google desde 202 O post OpenAI busca alternativa à Nvidia e mira chips de IA do Google…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/nvidia_chip-1024x683.jpg",
-      "link": "https://olhardigital.com.br/2026/10/27/inteligencia-artificial/openai-busca-alternativa-a-nvidia-e-mira-chips-de-ia-do-google/",
-      "source": "Olhar Digital",
-      "published": 1793151725000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Confira o Olhar Digital News na íntegra (27/10/2026)",
-      "summary": "Confira as principais notícias do mundo da tecnologia e da ciência no programa Olhar Digital News de hoje! O post Confira o Olhar Digital News na íntegra (27/10/2026)…",
+      "title": "Jogos de hoje (28/10/26): onde assistir futebol ao vivo e horários das partidas",
+      "summary": "Jogos de hoje (28/10/26): onde assistir futebol ao vivo e horários das partidas O post Jogos de hoje (28/10/26): onde assistir futebol ao vivo e horários das partidas…",
       "image": "",
-      "link": "https://olhardigital.com.br/2026/10/27/videos/confira-o-olhar-digital-news-na-integra-27-10-2026/",
+      "link": "https://olhardigital.com.br/2026/10/28/internet-e-redes-sociais/jogos-de-hoje-28-10-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/",
       "source": "Olhar Digital",
-      "published": 1793151375000
+      "published": 1793185200000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Dono do TikTok acumula R$ 540 bilhões e vira o mais rico da China",
-      "summary": "Valor representa crescimento de 43% em relação ao ano anterior e um recorde para a pessoa mais rica do país O post Dono do TikTok acumula R$ 540 bilhões e vira o mais…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2024/10/Zhang-Yiming.png",
-      "link": "https://olhardigital.com.br/2026/10/27/pro/dono-do-tiktok-acumula-r-540-bilhoes-e-vira-o-mais-rico-da-china/",
+      "title": "Lua hoje: confira a fase da Lua desta quarta-feira 28/10/2026",
+      "summary": "Em qual fase a Lua está hoje, 28 de outubro de 2026? Confira e veja o calendário completo do mês O post Lua hoje: confira a fase da Lua desta quarta-feira 28/10/2026…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2022/07/fases-da-Lua-1024x186.png",
+      "link": "https://olhardigital.com.br/2026/10/28/ciencia-e-espaco/lua-hoje-confira-a-fase-da-lua-desta-quarta-feira-28-10-2026/",
       "source": "Olhar Digital",
-      "published": 1793150807000
+      "published": 1793182380000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Computer use: você sabia que IAs já usam mouse e teclado?",
-      "summary": "Até pouco tempo, pedir a uma IA que realizasse alguma tarefa em um site quase sempre exigia uma ponte técnica, como uma API, para que o sistema pudesse interagir com…",
-      "image": "https://www.estadao.com.br/resizer/v2/5JB5JJMZ6VGTFFHESSB6I7F3BY.jpeg?quality=80&amp;auth=d89be8ba7ec9362246b38c8c7ce49ab5a48aac24abdc9ad64cf7f682ee057e99&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/computer-use-como-a-ia-usa-mouse-e-teclado-e-quais-os-riscos/",
+      "title": "Motorola Edge 70 Neo: vazamento sugere bateria de 7.000 mAh e chip de 2024",
+      "summary": "O Motorola Edge 70 Neo deve ser o novo lançamento da Motorola para as próximas semanas ou meses. Um novo vazamento revela algumas especificações desse aparelho, como sua…",
+      "image": "https://www.estadao.com.br/resizer/v2/GWRER7UUPJBLHJZK4XZ62HJYLI.jpg?quality=80&amp;auth=0e93ac85831be572bbb113573ed8dd1a822f04336996d9185d6e03e6c1ce3453&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/motorola-edge-70-neo-vazamento-sugere-bateria-de-7000-mah-e-chip-de-2024/",
       "source": "Novidades do TecMundo",
-      "published": 1793150100000
+      "published": 1793181600000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Fala AI: OpenAI anuncia três descobertas científicas feitas com IA",
-      "summary": "Roberto Pena Spinelli, colunista do Olhar Digital News, analisa a importância de novas descobertas realizadas a partir do uso da IA O post Fala AI: OpenAI anuncia três…",
+      "title": "Bahia x São Paulo: onde assistir, horário e escalação do jogo do Brasileirão",
+      "summary": "Confira onde assistir, horário e escalações prováveis de Bahia x São Paulo; confronto vale pela 33ª rodada do Brasileirão O post Bahia x São Paulo: onde assistir,…",
       "image": "",
-      "link": "https://olhardigital.com.br/2026/10/27/colunistas/fala-ai-openai-anuncia-tres-descobertas-cientificas-feitas-com-ia/",
+      "link": "https://olhardigital.com.br/2026/10/28/internet-e-redes-sociais/bahia-x-sao-paulo-onde-assistir-horario-e-escalacao-do-jogo-do-brasileirao/",
       "source": "Olhar Digital",
-      "published": 1793148763000
+      "published": 1793179800000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Remo x Botafogo: onde assistir, horário e escalações do jogo do Brasileirão",
+      "summary": "Confira onde assistir, horário e prováveis escalações de Remo e Botafogo; duelo é válido pela 33ª rodada do Brasileirão O post Remo x Botafogo: onde assistir, horário e…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/10/28/internet-e-redes-sociais/remo-x-botafogo-onde-assistir-ao-jogo-do-brasileirao-2026/",
+      "source": "Olhar Digital",
+      "published": 1793178000000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Mulher que foi barriga solidária do irmão deve receber salário-maternidade, decide Justiça no RS",
-      "summary": "Uma mulher que gestou o filho do próprio irmão e da cunhada por meio de gestação de substituição, conhecida como \"barriga solidária\", deverá receber salário-maternidade…",
-      "image": "https://s2-g1.glbimg.com/VdibJkC9wEA_KjrMsnS9uNr11F4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/D/H/u0EXlGT9yB5WiUBHieJA/gravida.jpg",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/28/mulher-barriga-solidaria-irmao-receber-salario-maternidade-decide-justica-rs.ghtml",
+      "title": "TV Integração de Uberaba ao vivo: assista aos telejornais",
+      "summary": "TV Integração de Uberaba ao vivo: assista aos telejornais",
+      "image": "",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
       "source": "g1",
-      "published": 1793172600000
+      "published": 1793187797000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Trem Vitória-Minas tem passagens à venda para viagens noturnas em dezembro; veja preços e horários",
-      "summary": "Trem de passageiros na Estrada de Ferro Vitória a Minas (EFVM) Gabriel Lordêllo Que tal viajar de trem à noite? A Estrada de Ferro Vitória a Minas (EFVM) vai voltar a…",
-      "image": "https://s2-g1.glbimg.com/fPepv77ntrH1YUsCaBPWnrJ0Erg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/q/47lAmpTReSkzhCTwZhZw/thumb-fotos-2026-10-27t140930.599.jpg",
-      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/28/trem-vitoria-minas-tem-passagens-a-venda-para-viagens-noturnas-em-dezembro-veja-precos-e-horarios.ghtml",
+      "title": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
+      "summary": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
+      "image": "",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
       "source": "g1",
-      "published": 1793170801000
+      "published": 1793187781000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Alcolumbre planeja articular indulto ou anistia a Bolsonaro em busca de votos da direita para se reeleger",
-      "summary": "O presidente do Senado , Davi Alcolumbre ( União Brasil -AP), vai propor um indulto ou anistia ao ex-presidente Jair Bolsonaro ( PL ) em troca do apoio da direita à sua…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alcolumbre-planeja-articular-indulto-ou-anistia-a-bolsonaro-em-busca-de-votos-da-direita-para-se-reeleger.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1793170800000
+      "title": "Homem é preso após furtar 20 litros de gasolina de veículo e vender o combustível em MG",
+      "summary": "Recipiente usado para armazenar o combustível foi apreendido PMMG/Divulgação Um homem de 42 anos foi preso nesta terça-feira (27), suspeito de furtar 20 litros de…",
+      "image": "https://s2-g1.glbimg.com/whK8W2CGmGfv9cmefGEZXXaVS6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/R/5gTaL2RNqLX4H1LW87gA/whatsapp-image-2026-10-28-at-08.14.17.jpg",
+      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/28/homem-e-preso-apos-furtar-20-litros-de-gasolina-de-veiculo-e-vender-o-combustivel-em-mg.ghtml",
+      "source": "g1",
+      "published": 1793187765000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Novo almanaque vai explicar o que é violência menstrual e como ela afeta a vida de meninas e mulheres",
-      "summary": "Levou dez anos para que Marina Soares, 23, tivesse as queixas sobre dores menstruais reconhecidas e recebesse o diagnóstico de Somp (Síndrome Ovariana Metabólica…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/novo-almanaque-vai-explicar-o-que-e-violencia-menstrual-e-como-ela-afeta-a-vida-de-meninas-e-mulheres.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1793170800000
+      "title": "Mega-Sena 3076: 17 apostas do interior de PE acertam quadra, confira resultado",
+      "summary": "G1 | Loterias - Mega-Sena 3076 17 apostas do interior de Pernambuco acertaram números no concurso 3076 da Mega-Sena. O sorteio foi realizado na noite da terça-feira…",
+      "image": "https://s2-g1.glbimg.com/4v-m54VcCXVXV3mjVrT_qtrs61w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/Jai96CQLWmnGAOnmxjFQ/captura-de-tela-2026-10-27-210351.png",
+      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/10/28/mega-sena-3076-17-apostas-do-interior-de-pe-acertam-quadra-confira-resultado.ghtml",
+      "source": "g1",
+      "published": 1793187708000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Setor de energia renovável cobra implementação de políticas em Lula 4",
-      "summary": "Representantes da indústria de energia renovável afirmam que o presidente Luiz Inácio Lula da Silva (PT), reeleito neste domingo (25) para um quarto mandato , precisará…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/10/setor-de-energia-renovavel-cobra-implementacao-de-politicas-em-lula-4.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1793170800000
+      "title": "Mulher morre após passar mal ao tentar separar briga entre adolescentes no Rio",
+      "summary": "Mulher passa mal e morre ao separar briga entre duas adolescentes Uma mulher morreu após passar mal ao tentar separar uma briga entre duas adolescentes em Campo Grande,…",
+      "image": "https://s2-g1.glbimg.com/VZYopW2eloNGKdvUJp0Fn3Rvuow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/Z/vCxd8fQEKQqmshn65Yig/bdrj-limpo-20261028-0545-frame-270366.jpeg",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/28/mulher-morre-durante-briga.ghtml",
+      "source": "g1",
+      "published": 1793187394000
     }
   ]
 }
