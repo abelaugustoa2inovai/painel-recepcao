@@ -162,6 +162,29 @@
 var SUPA_URL = "https://shqgmueypdvqkcyfzhmn.supabase.co";
 var SUPA_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNocWdtdWV5cGR2cWtjeWZ6aG1uIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODk3MzE5NTMsImV4cCI6MjEwNTMwNzk1M30.fd49eROKPNrtbBwuOCpUe_vwCX-88paMNasz66NatAw";
 function pad2(n){ n = "" + n; return n.length < 2 ? "0" + n : n; }
+/* ---------------- hora oficial de Brasília ----------------
+   Não depende do fuso nem do relógio configurado na TV:
+   - usa UTC-3 fixo (America/Sao_Paulo, sem horário de verão);
+   - se o relógio da TV estiver errado, corrige pelo cabeçalho "Date" do servidor. */
+var BR_OFFSET_MS = -3*60*60*1000;
+var _srvOff = 0;                       // diferença servidor − TV (ms)
+function nowMs(){ return Date.now() + _srvOff; }
+function brNow(){
+  var d = new Date(nowMs() + BR_OFFSET_MS);
+  return { y:d.getUTCFullYear(), mo:d.getUTCMonth(), d:d.getUTCDate(),
+           h:d.getUTCHours(), mi:d.getUTCMinutes(), s:d.getUTCSeconds(), wd:d.getUTCDay() };
+}
+function syncClock(){
+  var t0 = Date.now();
+  fetch("data.json?_=" + t0, { method:"HEAD", cache:"no-store" }).then(function(r){
+    var t1 = Date.now();
+    var h = r.headers && r.headers.get("Date");
+    if(h){
+      var srv = new Date(h).getTime();
+      if(!isNaN(srv)) _srvOff = srv - (t0 + (t1 - t0)/2);
+    }
+  }).catch(function(){ /* mantém a última correção */ });
+}
 function supaGet(path){
   return fetch(SUPA_URL + "/rest/v1/" + path, { headers: { apikey: SUPA_KEY, Authorization: "Bearer " + SUPA_KEY } })
     .then(function(r){ return r.ok ? r.json() : []; })
@@ -170,12 +193,13 @@ function supaGet(path){
 var CFG = window.PAINEL_CONFIG || {};
 const MESES = ["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"];
 const MESES_ABREV = ["JAN","FEV","MAR","ABR","MAI","JUN","JUL","AGO","SET","OUT","NOV","DEZ"];
+const DIAS = ["Domingo","Segunda-feira","Terça-feira","Quarta-feira","Quinta-feira","Sexta-feira","Sábado"];
 
 let state = { news: [], birthdays: [], avisos: [], infos: [], weather: null };
 
 /* ---------------- janela de exibição (data/hora) ---------------- */
-function todayISO(){ var d=new Date(); return d.getFullYear()+"-"+pad2(d.getMonth()+1)+"-"+pad2(d.getDate()); }
-function nowHM(){ var d=new Date(); return pad2(d.getHours())+":"+pad2(d.getMinutes()); }
+function todayISO(){ var d=brNow(); return d.y+"-"+pad2(d.mo+1)+"-"+pad2(d.d); }
+function nowHM(){ var d=brNow(); return pad2(d.h)+":"+pad2(d.mi); }
 function visivel(o){
   const hoje = todayISO(), hm = nowHM();
   if(o.data_inicio && hoje < o.data_inicio) return false;
@@ -192,14 +216,14 @@ function esc(s){ return String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;",
 function norm(s){ return String(s||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").trim(); }
 function ago(ts){
   if(!ts) return "";
-  const d = Math.max(0, Date.now()-ts), min = Math.round(d/60000);
+  const d = Math.max(0, nowMs()-ts), min = Math.round(d/60000);
   if(min < 60) return min<=1?"agora":`há ${min} min`;
   const h = Math.round(min/60); if(h < 24) return `há ${h} h`;
   const dias = Math.round(h/24); return dias===1?"ontem":`há ${dias} dias`;
 }
 
 /* ---------------- sinal sonoro (hora em hora) ---------------- */
-var _audioCtx = null, _audioUnlocked = false, _ultimaHoraSino = new Date().getHours();
+var _audioCtx = null, _audioUnlocked = false, _ultimaHoraSino = brNow().h;
 function initAudio(){
   if(_audioCtx) return;
   var AC = window.AudioContext || window.webkitAudioContext;
@@ -237,17 +261,16 @@ function unlockAudio(){
 
 /* ---------------- relógio ---------------- */
 function tick(){
-  const d = new Date();
-  document.getElementById("hm").textContent = pad2(d.getHours())+":"+pad2(d.getMinutes());
-  document.getElementById("ss").textContent = pad2(d.getSeconds());
-  const wd = d.toLocaleDateString("pt-BR",{weekday:"long"});
-  document.getElementById("date").textContent = wd.charAt(0).toUpperCase()+wd.slice(1)+", "+d.getDate()+" de "+MESES[d.getMonth()];
+  const d = brNow();
+  document.getElementById("hm").textContent = pad2(d.h)+":"+pad2(d.mi);
+  document.getElementById("ss").textContent = pad2(d.s);
+  document.getElementById("date").textContent = DIAS[d.wd]+", "+d.d+" de "+MESES[d.mo];
   // Sinal sonoro no minuto zero de cada hora, só no horário de expediente (08:00–17:00 por padrão).
   // Ajuste em config.js: somInicio / somFim (horas) ou somHora:false para desligar.
-  var _hh = d.getHours();
+  var _hh = d.h;
   var _ini = (CFG.somInicio != null ? CFG.somInicio : 8);
   var _fim = (CFG.somFim != null ? CFG.somFim : 17);
-  if(CFG.somHora !== false && d.getMinutes()===0 && _hh >= _ini && _hh <= _fim && _hh !== _ultimaHoraSino){
+  if(CFG.somHora !== false && d.mi===0 && _hh >= _ini && _hh <= _fim && _hh !== _ultimaHoraSino){
     _ultimaHoraSino = _hh;
     tocarSino();
   }
@@ -373,7 +396,7 @@ function infoSlide(o){
 function buildSlides(){
   const out = [];
   const news = interleave(state.news||[]);
-  const m = new Date().getMonth()+1;
+  const m = brNow().mo+1;
   const bdays = (state.birthdays||[]).filter(b=>Number(b.month)===m).sort((a,b)=>a.day-b.day);
 
   // avisos + informações válidos agora (respeita a janela de data/hora)
@@ -506,6 +529,7 @@ function loadNews(){
 document.getElementById("brandName").textContent = CFG.brandName || "Bem-vindo(a)";
 
 /* ---------------- start + atualizações periódicas ---------------- */
+syncClock();           setInterval(syncClock, 30*60*1000);       // hora: 30 min
 renderSlides();
 loadNews();            setInterval(loadNews, 15*60*1000);        // notícias: 15 min
 loadAniversariantes(); setInterval(loadAniversariantes, 5*60*1000);  // aniversariantes: 5 min
