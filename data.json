@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-29T01:25:16.643Z",
-  "count": 25,
+  "updatedAt": "2026-10-29T07:50:01.966Z",
+  "count": 20,
   "items": [
     {
       "category": "local",
@@ -55,6 +55,16 @@
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
+      "title": "Aposta do Mato Grosso leva prêmio de mais de R$ 324 milhões da Mega",
+      "summary": "Uma aposta de Rondonópolis (MT) acertou as seis dezenas do Concurso 3.077 da Mega-Sena, sorteado nesta quarta-feira (28), e faturou prêmio de mias de R$ 324 milhões. Os…",
+      "image": "https://agenciabrasil.ebc.com.br/ebc.png?id=1707144&o=rss",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/aposta-do-mato-grosso-leva-premio-de-mais-de-r-324-milhoes-da-mega",
+      "source": "Feed Editoria",
+      "published": 1793238840000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
       "title": "Suzano eleva preços de celulose em US$ 50 para Europa e América do Norte",
       "summary": "Preço de lista da celulose da companhia na Europa ‌passará a ​ser de US$ 1.410 por tonelada The post Suzano eleva preços de celulose em US$ 50 para Europa e América do…",
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/suzano_klabin_1200x675_menos_2000kb.jpg?fit=300%2C169&quality=70&strip=all",
@@ -93,164 +103,104 @@
       "published": 1793233442000
     },
     {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Quina hoje, concurso 7154: confira o resultado sorteado nesta quarta (28)",
-      "summary": "(Foto: Divulgação) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=1280%2C745&quality=70&strip=all\" />O prêmio…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7154-confira-o-resultado-sorteado-nesta-quarta-28/",
-      "source": "InfoMoney",
-      "published": 1793232735000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Botafogo vira sobre o Caxias do Sul e vence a primeira no NBB",
-      "summary": "Nesta quarta-feira, de virada, o Botafogo bateu o Caxias do Sul por 84 a 82, no Ginásio Oscar Zelaya, no Rio de Janeiro, pela terceira rodada do Novo Basquete Brasil…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/6213734_8a4e0a50bac9b11.jpg.webp",
-      "link": "https://www.gazetaesportiva.com/mais-esportes/basquete/botafogo-vira-sobre-o-caxias-do-sul-e-vence-a-primeira-no-nbb/",
-      "source": "Gazeta Esportiva",
-      "published": 1793236573000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Bahia x São Paulo: veja fotos da partida pela 33ª rodada do Brasileirão",
-      "summary": "O post Bahia x São Paulo: veja fotos da partida pela 33ª rodada do Brasileirão apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55618696119_c489160e56_k.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/bahia-x-sao-paulo-veja-fotos-da-partida-pela-33a-rodada-do-brasileirao/",
-      "source": "Gazeta Esportiva",
-      "published": 1793236252000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "João Schmidt recebe terceiro amarelo e desfalca Santos contra o Bragantino",
-      "summary": "O volante João Schmidt será desfalque do Santos no confronto contra o Red Bull Bragantino, marcado para a próxima segunda-feira, às 20h (de Brasília), no Estádio Cícero…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55610615744_36852f673c_3k.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/joao-schmidt-recebe-terceiro-amarelo-e-desfalca-santos-contra-o-bragantino/",
-      "source": "Gazeta Esportiva",
-      "published": 1793235736000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Fluminense 2 x 1 Internacional pelo Brasileirão",
-      "summary": "Melhores momentos: Fluminense 2 x 1 Internacional pelo Brasileirão O post Melhores momentos: Fluminense 2 x 1 Internacional pelo Brasileirão apareceu primeiro em Gazeta…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55618576549_6cb55bfa21_o.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-fluminense-2-x-1-internacional-pelo-brasileirao/",
-      "source": "Gazeta Esportiva",
-      "published": 1793235049000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Bragantino 3 x 0 Chapecoense pelo Brasileirão",
-      "summary": "Melhores momentos: Bragantino 3 x 0 Chapecoense pelo Brasileirão O post Melhores momentos: Bragantino 3 x 0 Chapecoense pelo Brasileirão apareceu primeiro em Gazeta…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/zoygmet2-1920red.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-bragantino-3-x-0-chapecoense-pelo-brasileirao/",
-      "source": "Gazeta Esportiva",
-      "published": 1793234933000
-    },
-    {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Nem apps para adultos escapam: ANPD explica quem deve cumprir o ECA Digital",
-      "summary": "Orientações abrangem redes sociais, aplicativos de mensagens, jogos eletrônicos, plataformas de vídeo, lojas de aplicativos, sistemas operacionais e serviços de comércio…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/Proteo-infantil-no-mundo-digital-1024x936.jpg",
-      "link": "https://olhardigital.com.br/2026/10/28/internet-e-redes-sociais/nem-apps-para-adultos-escapam-anpd-explica-quem-deve-cumprir-o-eca-digital/",
+      "title": "IA faz lucro da Samsung disparar quase 800% em um trimestre",
+      "summary": "Entre julho e setembro, o resultado operacional da companhia sul-coreana chegou a 107,4 trilhões de won, cerca de US$ 80 bilhões (R$ 432 bilhões) O post IA faz lucro da…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/samsung-1-1024x624.jpg",
+      "link": "https://olhardigital.com.br/2026/10/28/pro/ia-faz-lucro-da-samsung-disparar-quase-800-em-um-trimestre/",
       "source": "Olhar Digital",
-      "published": 1793235239000
+      "published": 1793240880000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "O que é nudify? Entenda os apps que preocupam autoridades",
-      "summary": "Apesar de tantos benefícios já evidentes na sociedade, o uso da inteligência artificial (IA) generativa também traz riscos e novos problemas para muitas pessoas. O…",
-      "image": "https://www.estadao.com.br/resizer/v2/S2KXNFVDQVIQJJFO7SDFZN7RRM.jpg?quality=80&amp;auth=88c8a3944383e0820bb1d28492fab26ed60fbabd79b28b2aca6adcd8b77e4e05&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/nudify-como-esses-aplicativos-usam-inteligencia-artificial/",
-      "source": "Novidades do TecMundo",
-      "published": 1793232900000
+      "title": "Com IPO, Anthropic terá de provar que consegue lucrar, dizem especialistas",
+      "summary": "Para executivos de startups e especialistas ouvidos sobre o tema, a estreia na bolsa pode ajudar investidores a avaliar se o avanço tecnológico dessas empresas é…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/anthropic-3-1024x681.jpg",
+      "link": "https://olhardigital.com.br/2026/10/28/pro/com-ipo-anthropic-tera-de-provar-que-consegue-lucrar-dizem-especialistas/",
+      "source": "Olhar Digital",
+      "published": 1793239237000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "gamescom latam 2027 terá a edição de 10 anos do Prêmio eSports Brasil",
-      "summary": "Maior premiação de games e esports da América Latina passa a integrar o evento, que acontece de 22 a 25 de abril de 2027, no Distrito Anhembi, em São Paulo O post…",
+      "title": "Confira o Olhar Digital News na íntegra (28/10/2026)",
+      "summary": "Confira as principais notícias do mundo da tecnologia e da ciência no programa Olhar Digital News de hoje! O post Confira o Olhar Digital News na íntegra (28/10/2026)…",
       "image": "",
-      "link": "https://olhardigital.com.br/2026/10/28/games-e-consoles/gamescom-latam-2027-premio-esports-brasil-10-anos/",
+      "link": "https://olhardigital.com.br/2026/10/28/videos/confira-o-olhar-digital-news-na-integra-28-10-2026/",
       "source": "Olhar Digital",
-      "published": 1793232000000
+      "published": 1793239205000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Resultado da Mega-Sena de hoje: veja números e ganhadores do concurso 3077 (quarta, 28/10)",
-      "summary": "O sorteio de R$ 324,8 milhões do concurso 3077 é realizado em São Paulo. Além dos seis números premiados, confira como resgatar seu prêmio! O post Resultado da Mega-Sena…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/10/28/internet-e-redes-sociais/resultado-da-mega-sena-de-hoje-veja-numeros-e-ganhadores-do-concurso-3077-quarta-28-10/",
+      "title": "ChatGPT teria orientado mulher a abandonar remédio antes de morte, diz processo",
+      "summary": "Bowen Wan, ex-engenheira de software da Amazon, morreu em fevereiro de 2026, após começar a reduzir o uso de um anticonvulsivante O post ChatGPT teria orientado mulher a…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/openai-2-1024x512.jpg",
+      "link": "https://olhardigital.com.br/2026/10/28/inteligencia-artificial/chatgpt-teria-orientado-mulher-a-abandonar-remedio-antes-de-morte-diz-processo/",
       "source": "Olhar Digital",
-      "published": 1793230800000
+      "published": 1793237981000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Resultado da Lotofácil de hoje: veja números e ganhadores do concurso 3816 (quarta, 28/10)",
-      "summary": "O sorteio do concurso 3816 da Lotofácil acontece na noite desta quarta-feira (28), às 21h. O prêmio está estimado em R$ 2 milhões O post Resultado da Lotofácil de hoje:…",
+      "title": "MacBook Pro: Apple redefine rota e agora aposta em notebook com tela touch",
+      "summary": "Após passar mais de uma década dizendo que tela touch em notebooks não fazia sentido, Apple agora aposta na tecnologia. O post MacBook Pro: Apple redefine rota e agora…",
       "image": "",
-      "link": "https://olhardigital.com.br/2026/10/28/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3816-quarta-28-10/",
+      "link": "https://olhardigital.com.br/2026/10/28/colunistas/macbook-pro-apple-redefine-rota-e-agora-aposta-em-notebook-com-tela-touch/",
       "source": "Olhar Digital",
-      "published": 1793230800000
+      "published": 1793237148000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Acidente entre caminhões provoca congestionamento na BR-324, em Feira de Santana",
-      "summary": "Acidente com dois caminhões na BR-324 hoje à tarde Dois caminhões se envolveram em um acidente nesta quarta–feira (28), na BR-324, em Feira de Santana. A batida…",
-      "image": "https://s2-g1.glbimg.com/NjMhj0enYQ2zZjWW_dPohgnnogk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/l/3jgxwSQCy5QtKic6KI0A/foto-adesivaco-2-6-.png",
-      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/28/acidente-entre-caminhoes-provoca-congestionamento-em-feira-de-santana.ghtml",
-      "source": "g1",
-      "published": 1793237004000
+      "title": "Polícia de SP mata uma pessoa a cada 12 horas sob a gestão Tarcísio",
+      "summary": "Um celular confundido com uma arma . Uma faca na mão de uma mulher cercada por três agentes. Um homem que, já caído, continua sob disparos . As três cenas ocorreram em…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/policia-de-sp-mata-uma-pessoa-a-cada-12-horas-sob-a-gestao-tarcisio.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1793258100000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Bolsa brasileira fecha em queda pelo 3º dia seguido",
-      "summary": "Bolsa brasileira fecha em queda pelo 3º dia seguido A bolsa de valores caiu nesta quarta-feira (28) pelo terceiro dia seguido. O Ibovespa fechou em queda de 2,68%, aos…",
-      "image": "https://s2-g1.glbimg.com/zv-f02x4GqmKRFgtu9NSCngqvqU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/A/iM6QxRQzy0FTAAuemwEA/globo-canal-4-20261028-2000-frame-60804.jpeg",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/28/bolsa-brasileira-fecha-em-queda-pelo-3o-dia-seguido.ghtml",
+      "title": "Homem que tentou matar ex-companheira e foi denunciado pela filha de 5 anos acabou detido pelo próprio filho",
+      "summary": "e Menina de 5 anos liga para familiares e impede pai de tentar mãe dentro de casa, no Ceará O homem que tentou matar a ex-companheira e foi impedido após a filha de 5…",
+      "image": "https://s2-g1.glbimg.com/bnjzp1_qCto5a775gaNXiNYkxlo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/e/mqfuluSAGnJvUdNpLuLA/menina-cinco-anos.jpg",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/10/29/homem-que-tentou-matar-ex-companheira-e-foi-denunciado-pela-filha-de-5-anos-acabou-detido-pelo-proprio-filho.ghtml",
       "source": "g1",
-      "published": 1793236883000
+      "published": 1793257202000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Incêndio atinge restaurante na Orla Bardot, em Armação dos Búzios",
-      "summary": "Incêndio atinge restaurante na Orla Bardot, em Armação dos Búzios Um incêndio atingiu um restaurante na tarde de terça-feira (27), na Avenida José Bento Ribeiro Dantas,…",
-      "image": "https://s2-g1.glbimg.com/SmBWtG24ArXVu5N8DsmnrB1220U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/g/BMnXAGQ8WPfG0QPsxACg/incendio-buzios.png",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/28/incendio-atinge-restaurante-na-orla-bardot-em-armacao-dos-buzios.ghtml",
+      "title": "TV desligada, micro-ondas piscando: quais aparelhos continuam gastando energia?",
+      "summary": "TV desligada, micro-ondas piscando: quais aparelhos continuam gastando energia? Zinkevych/Magnific Você desliga a televisão, mas uma luz vermelha continua acesa. O…",
+      "image": "https://s2-g1.glbimg.com/tbOz4WVhYZ0iTa-jVCrZ2zhf1Qw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/F/eAhRPyQYe7uhV9W3g3Fw/57483.jpg",
+      "link": "https://g1.globo.com/guia/guia-de-compras/casa/tv-desligada-micro-ondas-piscando-quais-aparelhos-continuam-gastando-energia.ghtml",
       "source": "g1",
-      "published": 1793236800000
+      "published": 1793257201000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Aposta de MT ganha quase R$ 8 mil ao acertar quatro números da Quina 7153",
-      "summary": "Canhoto da Quina sem preenchimento Augusto Castro Uma aposta registrada em Araputanga, a 339 km de Cuiabá, acertou quatro dos cinco números sorteados no concurso 7154 da…",
-      "image": "https://s2-g1.glbimg.com/cGlFVPuldhRSRXa09ZWwtWDXZHE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/P/P1a5CFQt6cPjEZoGbntQ/formato-g1-3-.jpg",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/28/aposta-de-mt-ganha-quase-r-8-mil-ao-acertar-quatro-numeros-da-quina-7153.ghtml",
+      "title": "Canoa fantasma e mortes encomendadas: como bandido do século 19 virou lenda urbana no interior de SP",
+      "summary": "Como bandido do século 19 se transformou em lenda urbana no interior de SP O Rio Mogi-Guaçu, em São Simão (SP), é cenário de uma lenda que atravessa gerações e envolve…",
+      "image": "https://s2-g1.glbimg.com/AiGs_NnLupORtAQwzr95hv-xW-o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/t/rsZGuqSbqaA12oWPjJCA/molduras-g1-93-.png",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/29/canoa-fantasma-e-mortes-encomendadas-como-bandido-do-seculo-19-virou-lenda-urbana-no-interior-de-sp.ghtml",
       "source": "g1",
-      "published": 1793236701000
+      "published": 1793257201000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "TCU propõe que um dos futuros impostos sobre o consumo tenha alíquota de 11%",
-      "summary": "TCU propôs alíquota de 11,3% pra imposto sobre o consumo. O Tribunal de Contas da União propôs, nesta quarta-feira (28), que um dos futuros impostos sobre o consumo…",
-      "image": "https://s2-g1.glbimg.com/l8Po1pUsjZnyjlnxoa6jf5rEuRA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/o/ZtBk1ITf2vBByBskp9cA/globo-canal-4-20261028-2000-frame-54858.jpeg",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/28/tcu-propoe-que-um-dos-futuros-impostos-sobre-o-consumo-tenha-aliquota-de-11percent.ghtml",
+      "title": "Emprego: confira as 343 vagas disponíveis em Petrolina, Salgueiro e Araripina",
+      "summary": "Vagas de emprego no Sertão de Pernambuco A Agência de Trabalho de Pernambuco divulgou as vagas de emprego disponibilizadas para o município de Petrolina, Salgueiro e…",
+      "image": "https://s2-g1.glbimg.com/eFaJCU5KQd7WTcdMsgyaO3H_auw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/p/u61IVuSqS9BxUdu59ADQ/mg-7630.jpg",
+      "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/10/29/emprego-confira-as-343-vagas-disponiveis-em-petrolina-salgueiro-e-araripina.ghtml",
       "source": "g1",
-      "published": 1793236251000
+      "published": 1793257201000
     }
   ]
 }
