@@ -1,11 +1,51 @@
 {
-  "updatedAt": "2026-10-28T20:41:51.995Z",
+  "updatedAt": "2026-10-29T01:25:16.643Z",
   "count": 25,
   "items": [
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
-      "title": "Colombianos são presos suspeitos de furtos a farmácias no Brasil",
+      "title": "Caminhão tomba sobre van em rodovia no interior de SP",
+      "summary": "Acidente ocorreu em uma rodovia na região de Olímpia (SP) TV TEM / João Selari Um caminhão tombou sobre uma van na Rodovia Assis Chateaubriand (SP-425) em Olímpia (SP),…",
+      "image": "https://s2-g1.glbimg.com/i8jKpHNIeWTDp7PU1TKivNdM9RE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/h/NPq8s7RFep05BTdRuzgw/whatsapp-image-2026-10-28-at-21.02.50-1-.jpeg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/28/acidente-em-rodovia-da-regiao-de-olimpia.ghtml",
+      "source": "g1 > g1 Rio Preto",
+      "published": 1793232991000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Câmara estuda repassar R$ 500 mil à Prefeitura de Rio Preto para custear auxílios-atleta",
+      "summary": "Alunos e professores protestam contra suspensão de atividades e cortes de auxílios-atleta Os vereadores de São José do Rio Preto (SP) estudam repassar para a prefeitura…",
+      "image": "https://s2-g1.glbimg.com/yPb2X5AT_JJFpjyu9-_37m3ir9Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/T/djTHSTTHOSb4rdaQZWGg/adilson-francisco-feltrin-8-.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/28/camera-estuda-repassar-verba-a-prefeitura-de-rio-preto-para-auxilios-atleta.ghtml",
+      "source": "g1 > g1 Rio Preto",
+      "published": 1793229160000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Comerciário é agredido por grupo vestido de verde e amarelo ao comemorar vitória de Lula em praça; vídeo",
+      "summary": "Jovem é espancado por grupo em praça após vitória de Lula Um jovem foi ferido na cabeça e agredido com socos, pontapés e chutes por um grupo de pessoas, vestidas de…",
+      "image": "https://s2-g1.glbimg.com/bjRtgN-Lpnl3Q4bYQFZrKVTLiZI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/2/cLUv7xQlW805xJko9uAg/formato-padrao-imagens-g1-99-.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/28/jovem-e-agredido-por-grupo-ao-comemorar-vitoria-de-lula-em-praca-video.ghtml",
+      "source": "g1 > g1 Rio Preto",
+      "published": 1793224993000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Jovem publica foto mencionando vitória de Lula nas eleições e recebe ofensas de seguidora: 'Você é do Nordeste'",
+      "summary": "Jovem de Cosmorama denuncia injúria após publicar foto mencionando vitória de Lula Uma jovem de 20 anos denunciou ter sido vítima de discriminação após publicar uma…",
+      "image": "https://s2-g1.glbimg.com/cKunkq3re-3XK-Jrkz3h1n6rAuc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/v/R1noQBR3qnDY5btOBBEw/g1.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/28/jovem-denuncia-injuria-apos-publicar-foto-mencionando-vitoria-de-lula-nas-eleicoes-e-receber-ofensas-de-seguidora.ghtml",
+      "source": "g1 > g1 Rio Preto",
+      "published": 1793221994000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Colombianos são presos no Brasil suspeitos de furtos a farmácias",
       "summary": "Colombianos são presos suspeitos de furtos a farmácias no Brasil Três colombianos, sendo duas mulheres e um homem, foram presos suspeitos de praticar furtos a farmácias…",
       "image": "https://s2-g1.glbimg.com/qT1o9P2_7THcM9vaXifXwtp5mDk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/X/9nF6uNR62ebtZiSmnXig/whatsapp-image-2026-10-28-at-13.38.13.jpeg",
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/28/colombianos-sao-presos-suspeitos-de-furtos-a-farmacias-no-brasil.ghtml",
@@ -13,244 +53,204 @@
       "published": 1793217898000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Polícia investiga suspeitos após idoso perder mais de R$ 870 mil no golpe do falso investimento",
-      "summary": "Delegacia de Polícia Civil em Pindorama (SP) Google Street View/Reprodução Um idoso, de 73 anos, teve prejuízo superior a R$ 870 mil em um suposto golpe de investimentos…",
-      "image": "https://s2-g1.glbimg.com/YEgc2LzRtKMvHFji9XMUqMzrcVw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/o/E/yLaDDRRUSrSHja8R0EDA/captura-de-tela-2025-06-16-121422.png",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/28/policia-investiga-suspeitos-apos-idoso-perder-mais-de-r-870-mil-no-golpe-do-falso-investimento.ghtml",
-      "source": "g1 > g1 Rio Preto",
-      "published": 1793215400000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Idosa sofre queda de escada em escola onde foi votar no 2º turno e morre no interior de SP",
-      "summary": "Elisette Ribeiro Vanzella morreu ao cair da escada em Urupês (SP) Reprodução/Facebook Uma mulher de 88 anos morreu nesta quarta-feira (28) após sofrer uma queda na…",
-      "image": "https://s2-g1.glbimg.com/3vcLXB1XxLQ0wE9tIMSUsq4uElY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/Z/cwZB6MRmm7qXXr8OiSFw/foto-g1-2026-10-28t153511.766.png",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/28/idosa-sofre-queda-de-escada.ghtml",
-      "source": "g1 > g1 Rio Preto",
-      "published": 1793213299000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Ministério Público do Trabalho registra 80 denúncias de assédio eleitoral no interior de SP",
-      "summary": "MPT soma 80 denúncias de assédio eleitoral nas regiões de Prudente e Bauru O Ministério Público do Trabalho (MPT) recebeu 80 denúncias de assédio eleitoral em todo o…",
-      "image": "https://s2-g1.glbimg.com/S_BB6BFboWsxtfpcXtMd9XK8Zbs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/p/5BX3wqTXe0o9FxOBf5gg/remedios.jpg",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/28/ministerio-publico-do-trabalho-registra-80-denuncias-de-assedio-eleitoral-no-interior-de-sp.ghtml",
-      "source": "g1 > g1 Rio Preto",
-      "published": 1793207532000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Família de homem que morreu ao ser atingido na cabeça por peça em rodovia autoriza doação de órgãos",
-      "summary": "Homem atingido na cabeça por peça arremessada em rodovia morre após dias internado na UTI em Catanduva Arquivo pessoal A família de Pedro Machado Creste, de 38 anos, que…",
-      "image": "https://s2-g1.glbimg.com/jtp-l-vU8uANxyWx5QOAA5CfSxA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/F/2SQzylRAAixMuaoU3pRg/g1-2026-10-27t080530.804.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/28/familia-de-homem-que-morreu-ao-ser-atingido-na-cabeca-por-peca-em-rodovia-autoriza-doacao-de-orgaos.ghtml",
-      "source": "g1 > g1 Rio Preto",
-      "published": 1793207096000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Suzano eleva preços de celulose em US$ 50 para Europa e América do Norte",
+      "summary": "Preço de lista da celulose da companhia na Europa ‌passará a ​ser de US$ 1.410 por tonelada The post Suzano eleva preços de celulose em US$ 50 para Europa e América do…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/suzano_klabin_1200x675_menos_2000kb.jpg?fit=300%2C169&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/business/suzano-eleva-precos-de-celulose-em-us-50-para-europa-e-america-do-norte/",
+      "source": "InfoMoney",
+      "published": 1793235870000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Hypera (HYPE3) sobe na contramão do Ibovespa após balanço positivo no 3º tri",
-      "summary": "(Divulgação: Hypera) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2024/10/HYPERA-HYPE3.png?fit=706%2C525&quality=70&strip=all\" />Hypera tem lucro…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/HYPERA-HYPE3.png?fit=300%2C223&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/hypera-hype3-sobe-forte-na-contramao-do-ibovespa-apos-balanco-positivo-no-3o-tri/",
+      "title": "Trump diz que robôs importados representam riscos à segurança nacional",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, durante aparição conjunta com o vice-presidente JD Vance (não aparece na imagem) no Salão Oval da Casa Branca, em…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-20T190519Z_2097943112_RC277OAE9K4Y_RTRMADP_3_USA-TRUMP.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/trump-diz-que-robos-importados-representam-riscos-a-seguranca-nacional/",
       "source": "InfoMoney",
-      "published": 1793220100000
+      "published": 1793235613000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Em carta, Flávio Bolsonaro se autoproclama “verdadeiro presidente eleito” do Brasil",
-      "summary": "Flávio Bolsonaro, candidato à Presidência pelo Partido Liberal (PL), fala após perder o segundo turno da eleição presidencial, em Brasília (DF), em 25 de outubro de…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-26T022051Z_2012614679_RC2PAOA2L9JK_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C214&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/em-carta-flavio-bolsonaro-se-autoproclama-verdadeiro-presidente-eleito-do-brasil/",
+      "title": "Dia de Sorte: confira o resultado do concurso 1334 sorteado nesta quarta-feira (28)",
+      "summary": "Loteria Dia de Sorte, da Caixa Econômica (Foto: Divulgação) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1334-sorteado-nesta-quarta-feira-28/",
       "source": "InfoMoney",
-      "published": 1793219944000
+      "published": 1793233749000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Cosan, Vamos, Magalu e mais ações caem forte com disparada dos juros futuros",
-      "summary": "Cogna e Azzas também caíram cerca de 10% The post Cosan, Vamos, Magalu e mais ações caem forte com disparada dos juros futuros appeared first on InfoMoney .",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Bolsa-Queda-Ibovespa-.webp?fit=300%2C169&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/magalu-mglu3-vamos-vamo3-azzas-azza3-desabam-mais-de-10-com-disparada-dos-juros-futuros/",
+      "title": "Lotomania: confira o resultado do concurso 2993 sorteado nesta quarta-feira (28)",
+      "summary": "Foto: Divulgação \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=735%2C417&quality=70&strip=all\" />Veja as 20 dezenas sorteadas…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=300%2C170&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/lotomania-confira-o-resultado-do-concurso-2993-sorteado-nesta-quarta-feira-28/",
       "source": "InfoMoney",
-      "published": 1793219930000
+      "published": 1793233442000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Taxas dos DIs de longo prazo sobem sob influência do noticiário político e Treasuries",
-      "summary": "juros-selic-copom-calendario \" data-image-caption=\" Foto: Freepik \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2148783033.jpg?fit=300%2C169&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-de-longo-prazo-sobem-sob-influencia-do-noticiario-politico-e-treasuries/",
+      "title": "Quina hoje, concurso 7154: confira o resultado sorteado nesta quarta (28)",
+      "summary": "(Foto: Divulgação) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=1280%2C745&quality=70&strip=all\" />O prêmio…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7154-confira-o-resultado-sorteado-nesta-quarta-28/",
       "source": "InfoMoney",
-      "published": 1793219595000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Movida: expectativa de juro alto por mais tempo ofusca balanço e ação MOVI3 cai 16%",
-      "summary": "Divulgação/Movida \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/03/Movida_Loja-Brasilia-1.jpg-1.jpeg?fit=1280%2C853&quality=70&strip=all\"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Movida_Loja-Brasilia-1.jpg-1.jpeg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/movida-expectativa-de-juro-alto-por-mais-tempo-ofusca-balanco-e-movi3-cai-quase-20/",
-      "source": "InfoMoney",
-      "published": 1793219524000
+      "published": 1793232735000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Milan sofre virada do Bologna e deixa G4 do Italiano",
-      "summary": "O Milan sofreu uma virada e perdeu para o Bologna por 4 a 2, em casa, pela nona rodada do Campeonato Italiano. O destaque da partida foi Samuel Mbangula, autor de três…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261028__D4QH64K__v1__HighRes__FootballSerieADay9AcMilanVBologna.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/serie-a/milan-sofre-virada-do-bologna-e-deixa-g4-do-italiano/",
+      "title": "Botafogo vira sobre o Caxias do Sul e vence a primeira no NBB",
+      "summary": "Nesta quarta-feira, de virada, o Botafogo bateu o Caxias do Sul por 84 a 82, no Ginásio Oscar Zelaya, no Rio de Janeiro, pela terceira rodada do Novo Basquete Brasil…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/6213734_8a4e0a50bac9b11.jpg.webp",
+      "link": "https://www.gazetaesportiva.com/mais-esportes/basquete/botafogo-vira-sobre-o-caxias-do-sul-e-vence-a-primeira-no-nbb/",
       "source": "Gazeta Esportiva",
-      "published": 1793219996000
+      "published": 1793236573000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Brasil vence Polônia nos pênaltis e avança às quartas da Copa do Mundo Feminina Sub-17",
-      "summary": "A Seleção Brasileira Feminina Sub-17 está nas quartas de final da Copa do Mundo. Após um empate por 3 a 3 com a Polônia no tempo regulamentar, nesta quarta-feira, no…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/28OUT-SELECAO-FEMININA-SUB17-BRAXPOL-472.webp",
-      "link": "https://www.gazetaesportiva.com/times/brasil/brasil-vence-polonia-penaltis-quartas-mundial-feminino-sub-17/",
+      "title": "Bahia x São Paulo: veja fotos da partida pela 33ª rodada do Brasileirão",
+      "summary": "O post Bahia x São Paulo: veja fotos da partida pela 33ª rodada do Brasileirão apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55618696119_c489160e56_k.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/bahia-x-sao-paulo-veja-fotos-da-partida-pela-33a-rodada-do-brasileirao/",
       "source": "Gazeta Esportiva",
-      "published": 1793219942000
+      "published": 1793236252000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Veja fotos de Venezia e Inter de Milão pelo Italiano",
-      "summary": "O post Veja fotos de Venezia e Inter de Milão pelo Italiano apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261028__D4QF6RR__v1__MidRes__FblItaSerieaVeneziaInterMilan.webp",
-      "link": "https://www.gazetaesportiva.com/times/internazionale/veja-fotos-de-venezia-e-inter-de-milao-pelo-italiano/",
+      "title": "João Schmidt recebe terceiro amarelo e desfalca Santos contra o Bragantino",
+      "summary": "O volante João Schmidt será desfalque do Santos no confronto contra o Red Bull Bragantino, marcado para a próxima segunda-feira, às 20h (de Brasília), no Estádio Cícero…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55610615744_36852f673c_3k.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/joao-schmidt-recebe-terceiro-amarelo-e-desfalca-santos-contra-o-bragantino/",
       "source": "Gazeta Esportiva",
-      "published": 1793216421000
+      "published": 1793235736000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Inter de Milão vence Venezia com dois gols contra e segue na liderança do Italiano",
-      "summary": "A Inter de Milão contou com gols contra de Matías Moreno e Redouane Halhal para vencer o Venezia por 2 a 0 fora de casa e assumir a ponta da tabela do Campeonato…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261028__D4QH638__v1__MidRes__FblItaSerieaVeneziaInterMilan.webp",
-      "link": "https://www.gazetaesportiva.com/times/internazionale/inter-vence-venezia-com-dois-gols-contra-e-segue-na-lideranca-do-italiano/",
+      "title": "Melhores momentos: Fluminense 2 x 1 Internacional pelo Brasileirão",
+      "summary": "Melhores momentos: Fluminense 2 x 1 Internacional pelo Brasileirão O post Melhores momentos: Fluminense 2 x 1 Internacional pelo Brasileirão apareceu primeiro em Gazeta…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55618576549_6cb55bfa21_o.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-fluminense-2-x-1-internacional-pelo-brasileirao/",
       "source": "Gazeta Esportiva",
-      "published": 1793215616000
+      "published": 1793235049000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Conmebol rejeita ação do Flamengo e Estudiantes enfrentará o Palmeiras na final da Libertadores",
-      "summary": "A Conmebol rejeitou o protesto apresentado pelo Flamengo contra a escalação de Marcos Rojo, do Estudiantes, na semifinal da Copa Libertadores. Com a decisão, o clube…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261023__D46U8B7__v1__MidRes__FblLibertadoresFlamengoEstudiantes.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/conmebol-rejeita-protesto-flamengo-estudiantes-final-libertadores/",
+      "title": "Melhores momentos: Bragantino 3 x 0 Chapecoense pelo Brasileirão",
+      "summary": "Melhores momentos: Bragantino 3 x 0 Chapecoense pelo Brasileirão O post Melhores momentos: Bragantino 3 x 0 Chapecoense pelo Brasileirão apareceu primeiro em Gazeta…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/zoygmet2-1920red.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-bragantino-3-x-0-chapecoense-pelo-brasileirao/",
       "source": "Gazeta Esportiva",
-      "published": 1793214428000
+      "published": 1793234933000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Steve Jobs e Tim Cook eram contra lançar MacBook com tela sensível ao toque",
-      "summary": "A Apple atualizou seu portfólio de MacBooks com o anúncio, nesta quarta-feira (28), de um modelo com tela sensível ao toque . O lançamento representa o primeiro…",
-      "image": "https://www.estadao.com.br/resizer/v2/MS5RSMRHLVDNLOFAJ6WDYYP6PY.png?quality=80&amp;auth=193f50f0e2072ce2711c321652db10105567002820c72667882609c849560ebc&amp;width=1150",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/steve-jobs-e-tim-cook-eram-contra-lancar-macbook-com-tela-sensivel-ao-toque/",
+      "title": "Nem apps para adultos escapam: ANPD explica quem deve cumprir o ECA Digital",
+      "summary": "Orientações abrangem redes sociais, aplicativos de mensagens, jogos eletrônicos, plataformas de vídeo, lojas de aplicativos, sistemas operacionais e serviços de comércio…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/Proteo-infantil-no-mundo-digital-1024x936.jpg",
+      "link": "https://olhardigital.com.br/2026/10/28/internet-e-redes-sociais/nem-apps-para-adultos-escapam-anpd-explica-quem-deve-cumprir-o-eca-digital/",
+      "source": "Olhar Digital",
+      "published": 1793235239000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "O que é nudify? Entenda os apps que preocupam autoridades",
+      "summary": "Apesar de tantos benefícios já evidentes na sociedade, o uso da inteligência artificial (IA) generativa também traz riscos e novos problemas para muitas pessoas. O…",
+      "image": "https://www.estadao.com.br/resizer/v2/S2KXNFVDQVIQJJFO7SDFZN7RRM.jpg?quality=80&amp;auth=88c8a3944383e0820bb1d28492fab26ed60fbabd79b28b2aca6adcd8b77e4e05&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/nudify-como-esses-aplicativos-usam-inteligencia-artificial/",
       "source": "Novidades do TecMundo",
-      "published": 1793218500000
+      "published": 1793232900000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Por que carros elétricos podem causar enjoo em alguns passageiros?",
-      "summary": "Entenda a relação entre veículos elétricos e a cinetose, conheça as causas do enjoo de movimento e veja como amenizar esse mal-estar O post Por que carros elétricos…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/rowena-846x1024.jpg",
-      "link": "https://olhardigital.com.br/2026/10/28/carros-e-tecnologia/por-que-carros-eletricos-podem-causar-enjoo-em-alguns-passageiros/",
-      "source": "Olhar Digital",
-      "published": 1793218386000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Brasil chega a dez milhões de desenvolvedores e ameaça ultrapassar a China no GitHub",
-      "summary": "Avanço aproxima o país da China, que soma 12,4 milhões de usuários, e pode levar os brasileiros a ultrapassar os chineses até 2030, segundo projeção do GitHub O post…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/criacao-de-codigos-programacao-1024x682.jpg",
-      "link": "https://olhardigital.com.br/2026/10/28/pro/brasil-chega-a-dez-milhoes-de-desenvolvedores-e-ameaca-ultrapassar-a-china-no-github/",
-      "source": "Olhar Digital",
-      "published": 1793217851000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "GTA VI, Spider-Man e God of War: os melhores jogos de PS5 em oferta agora",
-      "summary": "O biblioteca do PlayStation 5 está recheada de títulos incríveis, e algumas das melhores opções estão disponíveis com boas condições na Amazon. Separamos três jogos que…",
-      "image": "https://m.media-amazon.com/images/I/51FNN5tVh5L._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/28/reviews/gta-vi-spider-man-e-god-of-war-os-melhores-jogos-de-ps5-em-oferta-agora/",
-      "source": "Olhar Digital",
-      "published": 1793217811000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "iPhone Duo: dobradiça pode ser a causa de quebra na tela",
-      "summary": "A Apple já reconheceu que há um “pequeno número” de unidades do iPhone Duo com um problema na tela – possivelmente se referindo ao que ficou famoso como “Crackgate”. Em…",
-      "image": "https://www.estadao.com.br/resizer/v2/T2ACHFVPDFAM5IETFX3PLI2QK4.png?quality=80&amp;auth=923b0cc853c83cd25b4c6f9ee37c7c8c966d809fd0f4bb58fcb592de9d141171&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/iphone-duo-dobradica-pode-ser-a-causa-de-quebra-na-tela/",
-      "source": "Novidades do TecMundo",
-      "published": 1793217600000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Vivo busca parceiros em IA para atrair e fidelizar clientes",
-      "summary": "A Vivo vê na inteligência artificial uma oportunidade de atrair clientes para seus planos e fidelizá-los, e por isso pretende expandir as soluções da tecnologia…",
+      "title": "gamescom latam 2027 terá a edição de 10 anos do Prêmio eSports Brasil",
+      "summary": "Maior premiação de games e esports da América Latina passa a integrar o evento, que acontece de 22 a 25 de abril de 2027, no Distrito Anhembi, em São Paulo O post…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/vivo-busca-parceiros-em-ia-para-atrair-e-fidelizar-clientes.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1793219820000
+      "link": "https://olhardigital.com.br/2026/10/28/games-e-consoles/gamescom-latam-2027-premio-esports-brasil-10-anos/",
+      "source": "Olhar Digital",
+      "published": 1793232000000
     },
     {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Pior que a derrota, os arranhões fora de campo",
-      "summary": "O Estudiantes anunciou nesta quarta-feira (28) que a Conmebol recusou o recurso do Flamengo por uma possível escalação irregular de Marcos Rojo na semifinal da…",
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Resultado da Mega-Sena de hoje: veja números e ganhadores do concurso 3077 (quarta, 28/10)",
+      "summary": "O sorteio de R$ 324,8 milhões do concurso 3077 é realizado em São Paulo. Além dos seis números premiados, confira como resgatar seu prêmio! O post Resultado da Mega-Sena…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcelo-bechler/2026/10/pior-que-a-derrota-os-arranhoes-fora-de-campo.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1793219760000
+      "link": "https://olhardigital.com.br/2026/10/28/internet-e-redes-sociais/resultado-da-mega-sena-de-hoje-veja-numeros-e-ganhadores-do-concurso-3077-quarta-28-10/",
+      "source": "Olhar Digital",
+      "published": 1793230800000
     },
     {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Aglomeração de fãs para show do BTS complica trânsito na região do Morumbis, em SP",
-      "summary": "O show do BTS no Morumbis, no bairro do Morumbi, na zona sul de São Paulo , provocou transtornos no trânsito do entorno do estádio nesta quarta-feira (28), com fãs…",
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Resultado da Lotofácil de hoje: veja números e ganhadores do concurso 3816 (quarta, 28/10)",
+      "summary": "O sorteio do concurso 3816 da Lotofácil acontece na noite desta quarta-feira (28), às 21h. O prêmio está estimado em R$ 2 milhões O post Resultado da Lotofácil de hoje:…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/aglomeracao-de-fas-para-show-do-bts-complica-transito-na-regiao-do-morumbis-em-sp.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1793219700000
+      "link": "https://olhardigital.com.br/2026/10/28/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3816-quarta-28-10/",
+      "source": "Olhar Digital",
+      "published": 1793230800000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Incêndio destrói cinco veículos em oficina mecânica no Sul do PI",
-      "summary": "Incêndio em Floriano: cinco veículos pegaram fogo em oficina no Centro da cidade Cinco veículos ficaram destruídos após um incêndio em uma oficina mecânica na manhã…",
-      "image": "https://s2-g1.glbimg.com/H5I-RGAKeMU7XHvvqNsj1CElF8w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/u/NjlYcSTeSiLUOsXYSWwQ/edicao-imagens-g1-2026-10-28t171117.603.png",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/28/incendio-destroi-veiculos-oficina.ghtml",
+      "title": "Acidente entre caminhões provoca congestionamento na BR-324, em Feira de Santana",
+      "summary": "Acidente com dois caminhões na BR-324 hoje à tarde Dois caminhões se envolveram em um acidente nesta quarta–feira (28), na BR-324, em Feira de Santana. A batida…",
+      "image": "https://s2-g1.glbimg.com/NjMhj0enYQ2zZjWW_dPohgnnogk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/l/3jgxwSQCy5QtKic6KI0A/foto-adesivaco-2-6-.png",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/28/acidente-entre-caminhoes-provoca-congestionamento-em-feira-de-santana.ghtml",
       "source": "g1",
-      "published": 1793219449000
+      "published": 1793237004000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Deputadas cobram providências dos ministérios e do TSE após ameaças de envenenamento de indígenas em MS",
-      "summary": "Lideranças indígenas denunciam ameaça de envenenamento de água em aldeia de MS As deputadas federais Sônia Guajajara e Célia Xakriabá cobraram providências dos…",
-      "image": "https://s2-g1.glbimg.com/hMQYfKd4VDF5SA7FOPLdZ85YW54=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/E/0Dw2EHTeGarmvPlCNmBw/design-sem-nome-1-.jpg",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/28/deputadas-cobram-providencias-dos-ministerios-e-do-tse-apos-ameacas-de-envenenamento-da-indigenas-em-ms.ghtml",
+      "title": "Bolsa brasileira fecha em queda pelo 3º dia seguido",
+      "summary": "Bolsa brasileira fecha em queda pelo 3º dia seguido A bolsa de valores caiu nesta quarta-feira (28) pelo terceiro dia seguido. O Ibovespa fechou em queda de 2,68%, aos…",
+      "image": "https://s2-g1.glbimg.com/zv-f02x4GqmKRFgtu9NSCngqvqU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/A/iM6QxRQzy0FTAAuemwEA/globo-canal-4-20261028-2000-frame-60804.jpeg",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/28/bolsa-brasileira-fecha-em-queda-pelo-3o-dia-seguido.ghtml",
       "source": "g1",
-      "published": 1793219416000
+      "published": 1793236883000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Incêndio atinge restaurante na Orla Bardot, em Armação dos Búzios",
+      "summary": "Incêndio atinge restaurante na Orla Bardot, em Armação dos Búzios Um incêndio atingiu um restaurante na tarde de terça-feira (27), na Avenida José Bento Ribeiro Dantas,…",
+      "image": "https://s2-g1.glbimg.com/SmBWtG24ArXVu5N8DsmnrB1220U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/g/BMnXAGQ8WPfG0QPsxACg/incendio-buzios.png",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/28/incendio-atinge-restaurante-na-orla-bardot-em-armacao-dos-buzios.ghtml",
+      "source": "g1",
+      "published": 1793236800000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Aposta de MT ganha quase R$ 8 mil ao acertar quatro números da Quina 7153",
+      "summary": "Canhoto da Quina sem preenchimento Augusto Castro Uma aposta registrada em Araputanga, a 339 km de Cuiabá, acertou quatro dos cinco números sorteados no concurso 7154 da…",
+      "image": "https://s2-g1.glbimg.com/cGlFVPuldhRSRXa09ZWwtWDXZHE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/P/P1a5CFQt6cPjEZoGbntQ/formato-g1-3-.jpg",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/28/aposta-de-mt-ganha-quase-r-8-mil-ao-acertar-quatro-numeros-da-quina-7153.ghtml",
+      "source": "g1",
+      "published": 1793236701000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "TCU propõe que um dos futuros impostos sobre o consumo tenha alíquota de 11%",
+      "summary": "TCU propôs alíquota de 11,3% pra imposto sobre o consumo. O Tribunal de Contas da União propôs, nesta quarta-feira (28), que um dos futuros impostos sobre o consumo…",
+      "image": "https://s2-g1.glbimg.com/l8Po1pUsjZnyjlnxoa6jf5rEuRA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/o/ZtBk1ITf2vBByBskp9cA/globo-canal-4-20261028-2000-frame-54858.jpeg",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/28/tcu-propoe-que-um-dos-futuros-impostos-sobre-o-consumo-tenha-aliquota-de-11percent.ghtml",
+      "source": "g1",
+      "published": 1793236251000
     }
   ]
 }
