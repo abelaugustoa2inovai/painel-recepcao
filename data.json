@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T01:15:46.386Z",
+  "updatedAt": "2026-10-31T07:46:17.157Z",
   "count": 25,
   "items": [
     {
@@ -55,6 +55,16 @@
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
+      "title": "Covid, subprime e 11 de Setembro: pós-eleição de Lula se junta a quedas históricas",
+      "summary": "Ilustração horizontal conceitual sobre as maiores quedas semanais do Ibovespa no século, combinando referências aos choques globais de 2001, 2008 e 2020 e à…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Colapso-Global-nos-Mercados.jpg?fit=300%2C169&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/maiores-quedas-semanais-ibovespa-2008-covid-11-setembro-eleicao/",
+      "source": "InfoMoney",
+      "published": 1793422980000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
       "title": "Bradespar (BRAP4) aprova distribuição de dividendos e juros sobre capital próprio",
       "summary": "Bradespar (Imagem: Divulgação) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2019/06/bradespar.jpg?fit=900%2C506&quality=70&strip=all\" />Segundo a…",
       "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/bradespar.jpg?fit=300%2C169&quality=70&strip=all",
@@ -93,14 +103,34 @@
       "published": 1793405510000
     },
     {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Quina hoje, concurso 7156: confira o resultado sorteado nesta sexta-feira (30)",
-      "summary": "(Foto: Divulgação) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=1280%2C745&quality=70&strip=all\" />O prêmio…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7156-confira-o-resultado-sorteado-nesta-sexta-feira-30/",
-      "source": "InfoMoney",
-      "published": 1793405320000
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Veja galeria de fotos do jogo entre Corinthians e Mirassol pela 33ª rodada do Brasileirão",
+      "summary": "O post Veja galeria de fotos do jogo entre Corinthians e Mirassol pela 33ª rodada do Brasileirão apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/250474.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-galeria-de-fotos-do-jogo-entre-corinthians-e-mirassol-pela-33a-rodada-do-brasileirao/",
+      "source": "Gazeta Esportiva",
+      "published": 1793413650000
+    },
+    {
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Seedorf destaca evolução do Corinthians, mas avisa: “É só o primeiro passo”",
+      "summary": "Clarence Seedorf comemorou a vitória do Corinthians sobre o Mirassol por 2 a 0 e destacou a evolução mental e tática da equipe na luta contra o rebaixamento. O treinador…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/250479.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/seedorf-celebra-reacao-do-corinthians-apos-vitoria/",
+      "source": "Gazeta Esportiva",
+      "published": 1793413474000
+    },
+    {
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Bidu celebra fim de jejum do Corinthians e exalta torcida: “Eles merecem”",
+      "summary": "Autor de um dos gols da vitória do Corinthians sobre o Mirassol, Matheus Bidu celebrou o fim da sequência de dez jogos sem vencer no Campeonato Brasileiro. O lateral…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261031__marina_uezima_brazil_photo_press_20614__v1__HighRes__CorinthiansAndMi.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/matheus-bidu-celebra-vitoria-corinthians-exalta-fiel/",
+      "source": "Gazeta Esportiva",
+      "published": 1793410277000
     },
     {
       "category": "esportes",
@@ -123,34 +153,44 @@
       "published": 1793408439000
     },
     {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Criciúma vence a Ponte Preta e segue na briga pelo acesso direto na Série B",
-      "summary": "Com vitória sobre a Ponte Preta, o Criciúma chegou aos 62 pontos e segue na disputa por uma vaga no acesso direto à Série A do Campeonato Brasileiro. O post Criciúma…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/HUeI6T_WAAA4NPW.webp",
-      "link": "https://www.gazetaesportiva.com/times/criciuma/criciuma-vence-a-ponte-preta-e-segue-na-briga-pelo-acesso-direto-na-serie-b/",
-      "source": "Gazeta Esportiva",
-      "published": 1793407136000
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Gastos com IA acendem alerta financeiro para Meta e Anthropic",
+      "summary": "Dois casos têm ponto em comum: a preocupação com a capacidade das empresas de transformar os investimentos bilionários em IA em receitas suficientes para compensar os…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/ia_financas-1024x682.jpg",
+      "link": "https://olhardigital.com.br/2026/10/30/pro/gastos-com-ia-acendem-alerta-financeiro-para-meta-e-anthropic/",
+      "source": "Olhar Digital",
+      "published": 1793411659000
     },
     {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Leclerc lidera segundo treino livre do GP do México; Bortoleto é último",
-      "summary": "O piloto da Ferrari, Charles Leclerc, dominou os treinos livres desta sexta-feira para o GP da Cidade do México e terminou o dia com a melhor volta. Lando Norris ficou…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261030__D4YN3WR__v1__MidRes__AutoPrixF1MexPractice.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/leclerc-lidera-dobradinha-da-ferrari-nos-treinos-livres-do-mexico-bortoleto-e-ultimo-apos-problemas/",
-      "source": "Gazeta Esportiva",
-      "published": 1793404500000
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Google testa IA em satélite e avança em projeto de data centers espaciais",
+      "summary": "Teste representa avanço experimental do Project Suncatcher, iniciativa da empresa que investiga a possibilidade de levar data centers de IA para a órbita terrestre O…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/busca-do-google-1024x768.jpg",
+      "link": "https://olhardigital.com.br/2026/10/30/pro/google-testa-ia-em-satelite-e-avanca-em-projeto-de-data-centers-espaciais/",
+      "source": "Olhar Digital",
+      "published": 1793410279000
     },
     {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Veja fotos do treino do Palmeiras desta sexta-feira",
-      "summary": "O Palmeiras treinou na tarde desta sexta-feira e deu sequência à preparação para o jogo contra o Vasco, pela Copa do Brasil. Veja fotos. O post Veja fotos do treino do…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/30102026_cg_palmeiras_8324_77.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-treino-do-palmeiras-desta-sexta-feira-30-10-2026/",
-      "source": "Gazeta Esportiva",
-      "published": 1793402147000
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Olhar Espacial: as naves espaciais que podem garantir nossa sobrevivência fora da Terra",
+      "summary": "Na coluna Olhar Espacial desta sexta-feira (30), Marcelo Zurita nos conta sobre as chamadas naves geracionais O post Olhar Espacial: as naves espaciais que podem…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/10/30/colunistas/olhar-espacial-as-naves-espaciais-que-podem-garantir-nossa-sobrevivencia-fora-da-terra/",
+      "source": "Olhar Digital",
+      "published": 1793407971000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Confira o Olhar Digital News na íntegra (30/10/2026)",
+      "summary": "Confira as principais notícias do mundo da tecnologia e da ciência no programa Olhar Digital News de hoje! O post Confira o Olhar Digital News na íntegra (30/10/2026)…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/10/30/videos/confira-o-olhar-digital-news-na-integra-30-10-2026/",
+      "source": "Olhar Digital",
+      "published": 1793406904000
     },
     {
       "category": "tecnologia",
@@ -163,94 +203,54 @@
       "published": 1793406416000
     },
     {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Resultado da Mega-Sena de hoje: veja números e ganhadores do concurso 3079 (sexta, 30/10)",
-      "summary": "O sorteio de R$ 5 milhões do concurso 3079 é realizado em São Paulo. Além dos seis números premiados, confira como resgatar seu prêmio! O post Resultado da Mega-Sena de…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/10/30/internet-e-redes-sociais/resultado-da-mega-sena-de-hoje-veja-numeros-e-ganhadores-do-concurso-3079-sexta-30-10/",
-      "source": "Olhar Digital",
-      "published": 1793403600000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Resultado da Lotofácil de hoje: veja números e ganhadores do concurso 3818 (sexta, 30/10)",
-      "summary": "O sorteio do concurso 3818 da Lotofácil acontece na noite desta sexta-feira (30), às 21h. O prêmio está estimado em R$ 2 milhões O post Resultado da Lotofácil de hoje:…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/10/30/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3818-sexta-30-10/",
-      "source": "Olhar Digital",
-      "published": 1793403600000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Resultado da Quina de hoje: veja números e ganhadores do concurso 7156 (sexta, 30/10)",
-      "summary": "O sorteio de R$ 8,3 milhões do concurso 7156 é realizado em São Paulo. Além dos cinco números premiados, confira como resgatar seu prêmio O post Resultado da Quina de…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/10/30/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7156-sexta-30-10/",
-      "source": "Olhar Digital",
-      "published": 1793403600000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Ataque à Binance: Trump comenta suspeita de envolvimento de hackers norte-coreanos",
-      "summary": "Questionado por jornalistas no Salão Oval da Casa Branca sobre a possível participação da Coreia do Norte, Trump respondeu que o governo estava investigando o caso O…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/donald-trump-3-1024x753.jpg",
-      "link": "https://olhardigital.com.br/2026/10/30/seguranca/ataque-a-binance-trump-comenta-suspeita-de-envolvimento-de-hackers-norte-coreanos/",
-      "source": "Olhar Digital",
-      "published": 1793403448000
-    },
-    {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Quase 11 anos depois do rompimento da barragem de Mariana, pescadores retomam atividades na foz do Rio Doce",
-      "summary": "Pescadores retomam atividades na foz do Rio Doce, no ES, após liberação Quase 11 anos depois do rompimento da barragem de Mariana, pescadores retomaram as atividades na…",
-      "image": "https://s2-g1.glbimg.com/vSJFRtr_At73kxNqBfRQD9dzr0w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/0/GsOeY9RGA9jgp0bwPk4Q/globo-canal-4-20261030-2000-frame-121769.jpeg",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/30/quase-11-anos-depois-do-rompimento-da-barragem-de-mariana-pescadores-retomam-atividades-na-foz-do-rio-doce.ghtml",
-      "source": "g1",
-      "published": 1793408584000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Corinthians, após 82 dias e dez rodadas sem vitória no Brasileiro, vence o Mirassol",
-      "summary": "O Corinthians venceu. Há 82 dias, a torcida alvinegra não sabia o que era essa sensação no Campeonato Brasileiro . Nesta sexta-feira (30), o time do Parque São Jorge…",
+      "title": "Fuvest aplica 1ª fase do vestibular neste domingo (1º); veja mudanças e o que levar",
+      "summary": "A Fuvest aplica neste domingo (1º) a primeira fase do vestibular 2027 da USP . A prova começa às 13h, e os candidatos terão cinco horas para responder às 80 questões de…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/corinthians-apos-82-dias-e-dez-rodadas-sem-vitoria-vence-o-mirassol.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/10/fuvest-aplica-1a-fase-do-vestibular-neste-domingo-1o-veja-mudancas-e-o-que-levar.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1793408580000
+      "published": 1793430000000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Aposta de Cuiabá acerta 15 dezenas e fatura R$ 881 mil na Lotofácil 3818; interior bate na trave",
-      "summary": "Lotofácil Millena Sartori/g1 Uma aposta feita em Cuiabá acertou as 15 dezenas e levou o prêmio principal de R$ 881,6 mil do concurso 3818 da Lotofácil, sorteado nesta…",
-      "image": "https://s2-g1.glbimg.com/bx77Bvf7OUj0LB_0AVRAt8Nhcvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/k/XjWWbsSw2eKWY4E5RBsA/edicao-imagens-g1-11-.png",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/30/aposta-de-cuiaba-acerta-15-dezenas-e-fatura-r-881-mil-na-lotofacil-3818-interior-bate-na-trave.ghtml",
-      "source": "g1",
-      "published": 1793408407000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "A direta precisa abandonar o bolsonarismo para voltar ao poder? SIM",
-      "summary": "Para responder \"sim\" ou \"não\" à pergunta proposta, é preciso, em primeiro lugar, definir o que é o bolsonarismo para além de uma grande dose de falta de bom senso:…",
+      "title": "Rota de fuga de Flávio abriga foragido do 8/1 e foi usada por bolsonaristas que deixaram país",
+      "summary": "Se Flávio Bolsonaro (PL-RJ) de fato entrou na Argentina a partir de Foz do Iguaçu (PR), antes de fugir para Miami , como informou o governo de Javier Milei , o senador e…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/a-direta-precisa-abandonar-o-bolsonarismo-para-voltar-ao-poder-sim.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/rota-de-fuga-de-flavio-abriga-foragido-do-81-e-foi-usada-por-bolsonaristas-que-deixaram-pais.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1793408400000
+      "published": 1793430000000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "A direita precisa abandonar o bolsonarismo para voltar ao poder? NÃO",
-      "summary": "Jair e Flávio Bolsonaro obtiveram, somente no segundo turno das eleições que disputaram (2018, 2022 e 2026), a soma de inacreditáveis 175.829.882 votos. Em 2018, para…",
+      "title": "Precarização dos artistas vem de muito antes da IA, diz escritor Odorico Leal",
+      "summary": "No conto que funciona como espinha dorsal da coletânea \"Sonhos da Pessoa Física\" , um grupo de artistas -escritores, ilustradores, tradutores, gente que trabalha fazendo…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/a-direita-precisa-abandonar-o-bolsonarismo-para-voltar-ao-poder-nao.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/precarizacao-dos-artistas-vem-de-muito-antes-da-ia-diz-escritor-odorico-leal.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1793408400000
+      "published": 1793430000000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Bilionário venezuelano consegue indulto nos EUA após contratar ex-advogada de Trump",
+      "summary": "Julio Herrera Velutini queria muito um indulto. Leia mais (10/31/2026 - 04h00)",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/bilionario-venezuelano-consegue-indulto-nos-eua-apos-contratar-ex-advogada-de-trump.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1793430000000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Programa da OMS propõe acompanhar saúde, autonomia e cognição de idosos no SUS anualmente",
+      "summary": "Assim como a criança tem peso e altura conferidos a cada consulta no posto de saúde, o idoso poderia ter, uma vez por ano, a capacidade de andar, lembrar, enxergar,…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/programa-da-oms-propoe-acompanhar-saude-autonomia-e-cognicao-de-idosos-no-sus-anualmente.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1793430000000
     }
   ]
 }
