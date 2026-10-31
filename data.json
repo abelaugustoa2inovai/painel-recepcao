@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-31T19:38:47.172Z",
+  "updatedAt": "2026-10-31T22:56:28.426Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Carro roubado e com placa clonada usado por motorista de aplicativo é recuperado pela PRF em Rio Preto",
+      "summary": "PRF recupera carro roubado que circulava com placas clonadas pela região central de São José do Rio Preto (SP) Polícia Rodoviária Federal A Polícia Rodoviária Federal…",
+      "image": "https://s2-g1.glbimg.com/a5RBlqBF-C5uf3iuzavHb3fVUzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/m/am26vnRAWYeTDAk4UOcQ/novo-projeto-2026-10-31t182335.157.png",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/31/carro-roubado-e-com-placa-clonada-usado-por-motorista-de-aplicativo-e-recuperado-pela-prf-em-rio-preto.ghtml",
+      "source": "g1 > g1 Rio Preto",
+      "published": 1793484387000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -43,214 +53,204 @@
       "published": 1793444401000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Idosa que havia desaparecido é encontrada caída perto de represa",
-      "summary": "Polícia encontra idosa que estava desaparecida em Jales Uma mulher de 70 anos que havia desaparecido foi localizada na manhã desta sexta-feira (30) caída perto de uma…",
-      "image": "https://s2-g1.glbimg.com/zTa2AyeFfvPMfNPTqsMa6nKV2Cs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/6/EcoA4dQ6yXZthJk1AFeA/design-sem-nome-2026-10-30t195956.561.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/30/idosa-que-havia-desaparecido-e-encontrada-caida-perto-de-represa.ghtml",
-      "source": "g1 > g1 Rio Preto",
-      "published": 1793401734000
-    },
-    {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Rubio nega ajuda dos EUA na fuga de Flávio, mas confirma aval de Trump à entrada",
-      "summary": "Marco Rubio (Will Oliver/EPA/Bloomberg) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/04/453225097.jpg?fit=1000%2C667&quality=70&strip=all\"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/453225097.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/rubio-eua-flavio-bolsonaro-trump-ira/",
+      "title": "G20 encerra reunião de chanceleres sem consenso sobre segurança internacional",
+      "summary": "(Foto: Megan Varner / Reuters) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-30T151143Z_1_LYNXNPEM9T1JC_RTROPTP_4_G20-MINISTERS-1.jpg…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-30T151143Z_1_LYNXNPEM9T1JC_RTROPTP_4_G20-MINISTERS-1.jpg?fit=300%2C191&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/g20-encerra-reuniao-de-chanceleres-sem-consenso-sobre-seguranca-internacional/",
       "source": "InfoMoney",
-      "published": 1793474812000
+      "published": 1793486820000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Midterms nos EUA entram na reta final com disputas no Alasca e Califórnia",
-      "summary": "Eleitores chegam para votar nas eleições intermediárias para o Congresso dos EUA em uma seção eleitoral no Midtown Mall, em Anchorage, no Alasca, em 30 de outubro de…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-31T183007Z_1_LYNXNPEM9U0JD_RTROPTP_4_USA-ELECTION-ALASKA_ed5abf.jpg?fit=300%2C220&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/midterms-eua-alasca-california-reta-final/",
+      "title": "França tem confrontos isolados à medida que tensões aumentam após marchas",
+      "summary": "(Foto: Manon Cruz / Reuters) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-31T190027Z_1735387473_RC2IEOA51A65_RTRMADP_3_FRANCE-PROTES…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-31T190027Z_1735387473_RC2IEOA51A65_RTRMADP_3_FRANCE-PROTEST-1.jpg?fit=300%2C191&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/franca-tem-confrontos-isolados-a-medida-que-tensoes-aumentam-apos-marchas/",
       "source": "InfoMoney",
-      "published": 1793473076000
+      "published": 1793484840000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Estudo mostra necessidade de proteger soja para evitar perdas",
-      "summary": "Estudo da Universidade Federal de Viçosa (UFV), em parceria com a Croplife Brasil, associação que reúne empresas de biotecnologia, melhoramento genético e defensivos…",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/estudo-mostra-necessidade-de-proteger-soja-para-evitar-perdas",
-      "source": "Feed Editoria",
-      "published": 1793472420000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "OPEP+ sinaliza produção estável em dezembro e volta foco para cotas de 2027",
-      "summary": "Bomba de petróleo impressa em 3D é vista em frente ao logotipo da OPEP exibido nesta imagem ilustrativa, 14 de abril de 2020. REUTERS/Dado Ruvic/Ilustração/Foto de…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/2024-09-30T104648Z_1662819936_RC2XAAASHPRH_RTRMADP_3_OIL-PRICES.jpg?fit=300%2C189&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/opep-producao-petroleo-dezembro-cotas-2027/",
+      "title": "Agência russa diz que EUA fizeram alerta sobre possível ataque terrorista em Moscou",
+      "summary": "(Foto: Maxim Shipenkov / Via Reuters) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-30T215009Z_1744819891_RC2QDOATJLY3_RTRMADP_3_RUSS…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-30T215009Z_1744819891_RC2QDOATJLY3_RTRMADP_3_RUSSIA-AFRICA-SUMMIT-1.jpg?fit=300%2C191&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/agencia-russa-diz-que-eua-fizeram-alerta-sobre-possivel-ataque-terrorista-em-moscou/",
       "source": "InfoMoney",
-      "published": 1793472373000
+      "published": 1793484120000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Boulos cita R$ 600 bi em desonerações e fala em ‘chantagem’ do mercado",
-      "summary": "Guilherme Boulos, deputado federal e candidato do PSOL à prefeitura de São Paulo (Foto: Reprodução/YouTube) \" data-image-caption=\" Guilherme Boulos, deputado federal e…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/guilherme-boulos.jpg?fit=300%2C218&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/boulos-cita-r-600-bi-em-desoneracoes-e-fala-em-chantagem-do-mercado/",
+      "title": "Irã discute rever doutrina nuclear se guerra for retomada, diz autoridade",
+      "summary": "(Foto: Raghed Waked / Reuters) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-29T170933Z_590055599_RC2L7OAO7L6Q_RTRMADP_3_IRAN-CRISIS-…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-29T170933Z_590055599_RC2L7OAO7L6Q_RTRMADP_3_IRAN-CRISIS-LEBANON-OLIVES-1.jpg?fit=300%2C191&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/ira-discute-rever-doutrina-nuclear-se-guerra-for-retomada-diz-autoridade/",
       "source": "InfoMoney",
-      "published": 1793471134000
+      "published": 1793483280000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Ministro argentino defende livre comércio e critica barreiras ambientais no G20",
+      "summary": "Pablo Quirno, ministro da Argentina (Foto: Megan Varner / Reuters) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-30T150148Z_953205821_RC2PDOAU6XL2_RTRMADP_3_G20-MINISTERS-1.jpg?fit=300%2C191&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/ministro-argentino-defende-livre-comercio-e-critica-barreiras-ambientais-no-g20/",
+      "source": "InfoMoney",
+      "published": 1793482140000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Kane perde pênalti, e Bayern cede empate ao Borussia pelo Alemão",
-      "summary": "Neste sábado, o Bayern de Munique cedeu empate ao Borussia Dortmund por 2 a 2, na Allianz Arena, em Munique, pela oitava rodada do Campeonato Alemão e perdeu a chance de…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261031__D6294LT__v1__HighRes__FblGerBundesligaBayernMunichDortmund.webp",
-      "link": "https://www.gazetaesportiva.com/times/bayern/kane-perde-penalti-e-bayern-cede-empate-ao-borussia-pelo-alemao/",
+      "title": "Vitória sobre o Mirassol reduz risco de queda do Corinthians; veja números",
+      "summary": "O Corinthians viu suas chances de rebaixamento à Série B diminuírem de 66% para 42,7% após vencer o Mirassol por 2 a 0, pela 33ª rodada do Campeonato Brasileiro. Segundo…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261031__marina_uezima_brazil_photo_press_20614__v1__HighRes__CorinthiansAndMi.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-reduz-risco-rebaixamento-42-7-ufmg-brasileirao-2026/",
       "source": "Gazeta Esportiva",
-      "published": 1793474950000
+      "published": 1793487315000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Santos faz treino tático com titulares e avança em preparação para enfrentar o Bragantino",
-      "summary": "O Santos realizou um treino tático com os titulares neste sábado (31), no CT Rei Pelé, dando sequência à preparação para enfrentar o Red Bull Bragantino. Após atividades…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55622265177_3d7d25f432_3k-1.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/santos-treino-tatico-titulares-bragantino/",
+      "title": "Sem Andrés Gómez, Vasco chega a São Paulo para enfrentar o Palmeiras",
+      "summary": "Vasco desembarca em São Paulo sem Andrés Gómez, que está fora do jogo contra o Palmeiras por causa de dores no pé esquerdo. Lucas Piton e Marino Hinestroza aparecem como…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/vasco.webp",
+      "link": "https://www.gazetaesportiva.com/times/vasco/sem-andres-gomez-vasco-chega-a-sao-paulo-para-enfrentar-o-palmeiras/",
       "source": "Gazeta Esportiva",
-      "published": 1793474124000
+      "published": 1793487292000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Treino do Santos: confira fotos da atividade deste sábado no CT Rei Pelé",
-      "summary": "O Santos realizou mais uma atividade neste sábado (31), no CT Rei Pelé, dando sequência à preparação para enfrentar o Red Bull Bragantino. O confronto está marcado para…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55623474244_0262e50767_3k.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/treino-santos-fotos-sabado-31-outubro-2026/",
+      "title": "Lewis Hamilton conquista pole position do GP do México de Fórmula 1",
+      "summary": "Lewis Hamilton garantiu a pole position do GP do México. Líder do Mundial, Kimi Antonelli pode conquistar o título e entrar para a história da Fórmula 1. O post Lewis…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261031__D62J2B2__v2__MidRes__AutoPrixF1MexQualifying.webp",
+      "link": "https://www.gazetaesportiva.com/motor/formula-1/lewis-hamilton-conquista-pole-position-do-gp-do-mexico-de-formula-1/",
       "source": "Gazeta Esportiva",
-      "published": 1793473213000
+      "published": 1793486811000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Palmeiras faz último treino antes de enfrentar o Vasco pela semifinal da Copa do Brasil",
-      "summary": "O Palmeiras encerrou neste sábado a preparação para enfrentar o Vasco, pela ida da semifinal da Copa do Brasil. Paulinho e Ramón Sosa seguem em recuperação de lesões e…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/t12.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-faz-ultimo-treino-antes-de-enfrentar-o-vasco-pela-semifinal-da-copa-do-brasil/",
+      "title": "Confira as fotos do treino classificatório da Fórmula 1 no México",
+      "summary": "O post Confira as fotos do treino classificatório da Fórmula 1 no México apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261031__D62K8YU__v1__MidRes__AutoPrixF1MexQualifying.webp",
+      "link": "https://www.gazetaesportiva.com/motor/formula-1/confira-as-fotos-do-treino-classificatorio-da-formula-1-no-mexico/",
       "source": "Gazeta Esportiva",
-      "published": 1793472995000
+      "published": 1793486617000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Vinicius de Medeiros anuncia candidatura à presidência do São Paulo",
-      "summary": "Vinicius de Medeiros anunciou, neste sábado, sua candidatura à presidência do São Paulo pela chapa da situação \"São Paulo à Frente\". Veja detalhes. O post Vinicius de…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/SnapInsta.to_653120472_18035946431606100_1028283890171449468_n.webp",
-      "link": "https://www.gazetaesportiva.com/times/sao-paulo/vinicius-de-medeiros-candidatura-presidencia-sao-paulo/",
+      "title": "Porto goleia Estoril e mantém 100% de aproveitamento no Campeonato Português",
+      "summary": "Porto goleia o Estoril por 4 a 0, chega aos 30 pontos e mantém os 100% de aproveitamento no Campeonato Português. Com o resultado, a equipe amplia a vantagem na…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261031__D62M8H7__v1__HighRes__FblPorLigaPortoEstoril.webp",
+      "link": "https://www.gazetaesportiva.com/times/porto/porto-goleia-estoril-e-mantem-100-de-aproveitamento-no-campeonato-portugues/",
       "source": "Gazeta Esportiva",
-      "published": 1793472629000
+      "published": 1793485601000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Montadoras apostam na impressão 3D para reduzir custos e aumentar produção",
-      "summary": "Ford, Rivian e General Motors (GM) estão expandindo o uso de impressoras 3D em suas fábricas O post Montadoras apostam na impressão 3D para reduzir custos e aumentar…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/10/31/carros-e-tecnologia/montadoras-apostam-na-impressao-3d-para-reduzir-custos-e-aumentar-producao/",
-      "source": "Olhar Digital",
-      "published": 1793473200000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Som de qualidade e conforto para jogar: headsets gamer em promoção na Amazon",
-      "summary": "Quem leva os games a sério sabe que um bom headset faz toda a diferença — seja para ouvir os passos do inimigo ou se comunicar com o time sem chiados. Reunimos três…",
-      "image": "https://m.media-amazon.com/images/I/41j1S82Wg8L._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/31/reviews/som-de-qualidade-e-conforto-para-jogar-headsets-gamer-em-promocao-na-amazon/",
-      "source": "Olhar Digital",
-      "published": 1793472865000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Fones Bluetooth com boa bateria e qualidade de som em promoção na Amazon",
-      "summary": "Se você está em busca de um fone Bluetooth para usar no dia a dia, na academia ou no trabalho, a Amazon reúne agora uma seleção com ótimas opções. Reunimos três modelos…",
-      "image": "https://m.media-amazon.com/images/I/31eeSqQHCvL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/31/reviews/fones-bluetooth-com-boa-bateria-e-qualidade-de-som-em-promocao-na-amazon-4/",
-      "source": "Olhar Digital",
-      "published": 1793471665000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Xbox Game Pass recebe Final Fantasy VII Remake e mais jogos esta semana! Veja os lançamentos (31)",
-      "summary": "O Xbox Game Pass é um dos serviços de assinatura de games mais democráticos da atualidade, já que é possível acessá-lo de diferentes plataformas — incluindo os próprios,…",
-      "image": "https://www.estadao.com.br/resizer/v2/AZNCN74E5NAZVEWIYACHFMOGAY.jpg?quality=80&amp;auth=bbae1ecf88ec4709adf51f6f35821aef9c866aaf1bb1f8c94acf91fd67320941&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-final-fantasy-vii-remake-e-mais-jogos-esta-semana-veja-os-lancamentos-31/",
+      "title": "Emprego em big techs: confira vagas de trabalho disponíveis no Brasil",
+      "summary": "Procurando vagas de emprego? O seu próximo trabalho pode ser em uma big tech como o Google, a Apple ou a Microsoft, que oferecem oportunidades em diferentes setores e…",
+      "image": "https://www.estadao.com.br/resizer/v2/LVVHSZVNVROCBBBOVBRVJSAFAU.jpg?quality=80&amp;auth=066541c090be01ec1ae852916ec1309c88f555dd72623f638ed83b9b226c70d9&amp;width=1150",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/emprego-em-big-techs-confira-vagas-de-trabalho-disponiveis-no-brasil/",
       "source": "Novidades do TecMundo",
-      "published": 1793470500000
+      "published": 1793484000000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Turbine seu PC ou notebook com estas memórias RAM DDR5 em promoção na Amazon",
-      "summary": "Se você está pensando em dar um gás no desempenho do seu computador ou notebook, o momento é agora. Selecionamos três opções de memórias RAM DDR5 que estão em oferta na…",
-      "image": "https://m.media-amazon.com/images/I/31gCBkYzPSL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/31/reviews/turbine-seu-pc-ou-notebook-com-estas-memorias-ram-ddr5-em-promocao-na-amazon-2/",
+      "title": "Spider-Man, GTA VI e God of War: jogos imperdíveis para PS5 em promoção",
+      "summary": "O PlayStation 5 tem um catálogo recheado de títulos incríveis, e agora é uma boa hora para expandir a sua coleção. Reunimos três jogos em destaque para você aproveitar…",
+      "image": "https://m.media-amazon.com/images/I/417PQEmRMvL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/31/reviews/spider-man-gta-vi-e-god-of-war-jogos-imperdiveis-para-ps5-em-promocao/",
       "source": "Olhar Digital",
-      "published": 1793470465000
+      "published": 1793483665000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Hora de renovar o home office: selecionamos impressoras em promoção na Amazon",
+      "summary": "Se você está pensando em comprar uma impressora nova ou trocar aquela que já deu o que tinha para dar, este é o momento certo. Reunimos três opções em oferta na Amazon —…",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/31/reviews/hora-de-renovar-o-home-office-selecionamos-impressoras-em-promocao-na-amazon-7/",
+      "source": "Olhar Digital",
+      "published": 1793482465000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Wi-Fi lento ficou no passado: confira uma seleção de roteadores Mesh em oferta na Amazon",
+      "summary": "Se a conexão Wi-Fi da sua casa já não dá mais conta dos dispositivos espalhados pelos cômodos, pode ser a hora certa de investir em um sistema Mesh. Reunimos três opções…",
+      "image": "https://m.media-amazon.com/images/I/21BgpbdIOqL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/31/reviews/wi-fi-lento-ficou-no-passado-confira-uma-selecao-de-roteadores-mesh-em-oferta-na-amazon/",
+      "source": "Olhar Digital",
+      "published": 1793481265000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Hora de renovar seu tablet: veja uma seleção de ofertas que vale a pena conferir",
+      "summary": "Se você está pensando em adquirir um tablet ou complementar o seu com acessórios de qualidade, chegou a hora certa. Reunimos três opções em promoção na Amazon — de…",
+      "image": "https://m.media-amazon.com/images/I/41eyV6gAYrL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/31/reviews/hora-de-renovar-seu-tablet-veja-uma-selecao-de-ofertas-que-vale-a-pena-conferir/",
+      "source": "Olhar Digital",
+      "published": 1793480065000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "RJ registra 211 casos de Mpox em 2026, supera total de 2025 e investiga outros 119 suspeitos",
-      "summary": "Casos de Mpox aumentam 7 vezes no Rio em dois meses O estado do Rio de Janeiro já registrou 211 casos confirmados de Mpox em 2026, número superior aos 119 contabilizados…",
-      "image": "https://s2-g1.glbimg.com/d3-CXBUEakvEC6TWqqedZUHW5G0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/1/uG8quAT4SYIbSWM5W7cQ/mpox5.jpeg",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/31/rj-registra-211-casos-de-mpox-em-2026-supera-total-de-2025-e-investiga-outros-119-suspeitos.ghtml",
+      "title": "Duas pessoas morrem após carro bater em árvore na MGC-188, em Unaí",
+      "summary": "Carro bateu em uma árvore na MGC-188 Polícia Militar/Divulgação Duas pessoas morreram em um grave acidente de carro na MGC-188, em Unaí, no Noroeste de Minas, neste…",
+      "image": "https://s2-g1.glbimg.com/XOcQHk2OmFKA6vTeFUwnyB0qxpk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/K/BuZapAQWqcnImH6AL5Ag/carrounai.jpeg",
+      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/31/duas-pessoas-morrem-apos-carro-bater-em-arvore-na-mgc-188-em-unai.ghtml",
       "source": "g1",
-      "published": 1793475325000
+      "published": 1793486771000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Protesto em apoio a grupo pró-Palestina termina com mais de 40 presos em Londres",
-      "summary": "Policiais prendem um manifestante durante um protesto em apoio à Ação Palestina, em frente à embaixada dos EUA, em Londres Alberto Pezzali/AP Dezenas de pessoas foram…",
-      "image": "https://s2-g1.glbimg.com/3_6AXpVIFYKQ1W8dj6_sbwj10qc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/e/BQ3NAzRMm41N5PZrHbLA/fotos-g1-1920-x-1080-px-2026-10-31t162538.516.png",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/31/protesto-em-apoio-a-grupo-pro-palestina-termina-com-mais-de-40-presos-em-londres.ghtml",
-      "source": "g1",
-      "published": 1793475197000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Deep Purple cancela shows após emergência médica de Ian Gillan",
-      "summary": "O cantor Ian Gillan , do Deep Purple, foi hospitalizado neste sábado (31) após uma emergência médica. Por isso, a banda cancelou os dois próximos shows da sua turnê na…",
+      "title": "Candice Swanepoel usa anel de compromisso após rumor de namoro com Tom Brady",
+      "summary": "A supermodelo sul-africana Candice Swanepoel foi fotografada usando um anel dourado largo no dedo anelar esquerdo. O caso ocorre logo após notícias sobre um…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/deep-purple-cancela-shows-apos-emergencia-medica-de-ian-gillan.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/candice-swanepoel-usa-anel-de-compromisso-apos-rumor-de-namoro-com-tom-brady.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1793475180000
+      "published": 1793486700000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Polícia recupera 18 cabeças de gado furtadas em fazenda no interior do Tocantins",
-      "summary": "Parte do gado foi recuperado em município há 139 km de Araguacema Divulgação/Polícia Civil Tocantins A Polícia Civil recuperou 18 cabeças de gado furtadas de uma fazenda…",
-      "image": "https://s2-g1.glbimg.com/A06u7X8MvHe0U7AvStj4VmC9Co4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/B/6OwmvhQPAI0nMmT5Mkuw/foto-e-montagem-vertical-10-.jpg",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/10/31/policia-recupera-18-cabecas-de-gado-furtadas-em-fazenda-no-interior-do-to.ghtml",
+      "title": "Emergência e CTI de hospital municipal de Nilópolis são fechados",
+      "summary": "Emergência e CTI de hospital municipal de Nilópolis são fechados A Prefeitura de Nilópolis fechou o Centro de Tratamento Intensivo (CTI) e a emergência do Hospital e…",
+      "image": "https://s2-g1.glbimg.com/0WU_i1YV0JXdjNcmFLv2bIGRC9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/g/Bffm2tSwKdl4ipigCIwg/hospital2.jpeg",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/31/emergencia-e-cti-de-hospital-municipal-de-nilopolis-sao-fechados.ghtml",
       "source": "g1",
-      "published": 1793474765000
+      "published": 1793486687000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "VÍDEOS: Jornal do Amazonas - 1ª edição - 31 de outubro de 2026",
-      "summary": "",
-      "image": "https://s2-g1.glbimg.com/5LznD29LloLIHamogCcPWTt9gMg=/s01.video.glbimg.com/deo/vi/90/91/15149190",
-      "link": "https://g1.globo.com/am/amazonas/playlist/videos-jornal-do-amazonas-1-edicao-31-de-outubro-de-2026.ghtml",
+      "title": "Polícia diz que vai investigar agente suspeito de fornecer informações a Renato Cariani sobre investigação",
+      "summary": "MP-SP aponta amizade de Cariani com policial para acompanhar investigação A Polícia Civil informou neste sábado (31) que vai investigar o policial citado pelo Ministério…",
+      "image": "https://s2-g1.glbimg.com/moTa9H14lVE03Y0hoSEaQeefmes=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/5/xVJtr9SOm1HwhsOPIsvw/fotojet-2026-10-31t172117.602.jpg",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/31/policia-diz-que-vai-investigar-agente-suspeito-de-fornecer-informacoes-a-renato-cariani-sobre-investigacao.ghtml",
       "source": "g1",
-      "published": 1793474680000
+      "published": 1793486671000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "APAC emite alerta de baixa umidade para o Sertão de Pernambuco; temperaturas podem passar dos 37°C",
+      "summary": "APAC alerta para calor intenso e baixa umidade no Sertão de Pernambuco A Agência Pernambucana de Águas e Clima (APAC) emitiu um aviso de baixa umidade do ar para três…",
+      "image": "https://s2-g1.glbimg.com/GCnKf773vUR1VmmYweAy8WpMb6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/q/n/k4O1H6QcKDwX5d1xeuiA/whatsapp-image-2022-10-02-at-10.22.43.jpeg",
+      "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/10/31/apac-emite-alerta-de-baixa-umidade-para-o-sertao-de-pernambuco-temperaturas-podem-passar-dos-37c.ghtml",
+      "source": "g1",
+      "published": 1793486641000
     }
   ]
 }
