@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-31T22:56:28.426Z",
+  "updatedAt": "2026-11-01T03:22:39.019Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "ONG de Araçatuba promove Halloween solidário com mansão mal-assombrada e distribuição de doces",
+      "summary": "Atamor realiza 'Noite dos Mistérios' com mansão assombrada para arrecadar hidratantes A Praça João Pessoa, em Araçatuba (SP), recebe neste sábado (31) a \"Noite dos…",
+      "image": "https://s2-g1.glbimg.com/IChFnKZ9KcCS7s59_x57Wx39KqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Q/074CBES0Wvvh83ZlAXfg/novo-projeto-2026-10-31t183555.369.png",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/31/ong-de-aracatuba-promove-halloween-solidario-com-mansao-mal-assombrada-e-distribuicao-de-doces.ghtml",
+      "source": "g1 > g1 Rio Preto",
+      "published": 1793488043000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -16,7 +26,7 @@
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
       "title": "Enfermeira morre após carro bater de frente com caminhão em rodovia do interior de SP",
-      "summary": "Motorista morre após carro bater de frente com caminhão em rodovia de Magda (SP) Reprodução Uma enfermeira de 44 anos morreu após o carro que dirigia bater de frente com…",
+      "summary": "Enfermeira morre após colisão de frente entre carro e caminhão na SP-310 em Magda Uma enfermeira de 44 anos morreu após o carro que dirigia bater de frente com um…",
       "image": "https://s2-g1.glbimg.com/ntchgB6kUzwdRPV6r4M4EYhxZ5E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/4/jA4KD1Qe6ysC27rO6jFQ/g1-2026-10-31t110519.975.png",
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/31/enfermeira-morre-apos-carro-bater-de-frente-com-caminhao-em-rodovia-do-interior-de-sp.ghtml",
       "source": "g1 > g1 Rio Preto",
@@ -36,21 +46,21 @@
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
       "title": "Comandante da PM em Ilha Solteira morre em acidente de carro em estrada do interior de SP",
-      "summary": "Capitão PM André Luiz Caldeira comandava a 2ª Companhia PM do 28º BPM/I, em Ilha Solteira Reprodução O capitão André Luiz Caldeira, comandante da 2ª Companhia da Polícia…",
+      "summary": "Capitão da PM e comandante em Ilha Solteira morre após colisão de frente na SP-310 O capitão André Luiz Caldeira, comandante da 2ª Companhia da Polícia Militar de Ilha…",
       "image": "https://s2-g1.glbimg.com/QW02nUO1-RGTxVqBcWntLVoyjsE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/C/AaPwlXRJGkdzLRQJuEAg/14589804-2026-10-31t114459.917.png",
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/31/comandante-da-pm-em-ilha-solteira-morre-em-acidente-de-carro-em-estrada-do-interior-de-sp.ghtml",
       "source": "g1 > g1 Rio Preto",
       "published": 1793457620000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Após 5 anos tratando tendinite aguda, homem vira palhaço voluntário em hospital: 'Não penso em parar'",
-      "summary": "Morador de Votuporanga faz trabalho voluntário de palhaçaria hospitalar O tratamento de cinco anos contra tendinite aguda despertou em um morador de Votuporanga, no…",
-      "image": "https://s2-g1.glbimg.com/30LIoO_l-wGQ7IZDaP_zvJB3LDs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/g/uW41V0QPa9szA2Z7VIFg/formato-padrao-imagens-g1-2026-10-30t142443.060.png",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/31/apos-5-anos-tratando-tendinite-aguda-homem-vira-palhaco-voluntario-em-hospital-nao-penso-em-parar.ghtml",
-      "source": "g1 > g1 Rio Preto",
-      "published": 1793444401000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "França registra mais de 560 prisões em protestos e confrontos isolados com a polícia",
+      "summary": "(Foto: Abdul Saboor / Reuters) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-31T225020Z_2011100679_RC2MEOAOSFB5_RTRMADP_3_FRANCE-PROT…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-31T225020Z_2011100679_RC2MEOAOSFB5_RTRMADP_3_FRANCE-PROTEST-1.jpg?fit=300%2C191&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/franca-registra-mais-de-560-prisoes-em-protestos-e-confrontos-isolados-com-a-policia/",
+      "source": "InfoMoney",
+      "published": 1793487360000
     },
     {
       "category": "mercado",
@@ -93,64 +103,94 @@
       "published": 1793483280000
     },
     {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Ministro argentino defende livre comércio e critica barreiras ambientais no G20",
-      "summary": "Pablo Quirno, ministro da Argentina (Foto: Megan Varner / Reuters) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-30T150148Z_953205821_RC2PDOAU6XL2_RTRMADP_3_G20-MINISTERS-1.jpg?fit=300%2C191&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/ministro-argentino-defende-livre-comercio-e-critica-barreiras-ambientais-no-g20/",
-      "source": "InfoMoney",
-      "published": 1793482140000
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Byanca Brasil celebra título inédito na Libertadores e exalta superação do Cruzeiro",
+      "summary": "Byanca Brasil comemorou a conquista inédita do Cruzeiro na Libertadores feminina e destacou a força do grupo diante das lesões, críticas e dificuldades da temporada. O…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261101__D62U7EC__v1__MidRes__FblWomenLibertadoresCruzeiroCorinthians.webp",
+      "link": "https://www.gazetaesportiva.com/times/cruzeiro/byanca-brasil-celebra-titulo-inedito-na-libertadores-e-exalta-superacao-do-cruzeiro/",
+      "source": "Gazeta Esportiva",
+      "published": 1793502431000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Vitória sobre o Mirassol reduz risco de queda do Corinthians; veja números",
-      "summary": "O Corinthians viu suas chances de rebaixamento à Série B diminuírem de 66% para 42,7% após vencer o Mirassol por 2 a 0, pela 33ª rodada do Campeonato Brasileiro. Segundo…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261031__marina_uezima_brazil_photo_press_20614__v1__HighRes__CorinthiansAndMi.webp",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-reduz-risco-rebaixamento-42-7-ufmg-brasileirao-2026/",
+      "title": "Zanotti lamenta vice do Corinthians na Libertadores feminina: “Noite para ser esquecida”",
+      "summary": "Gabi Zanotti lamentou a derrota do Corinthians para o Cruzeiro na final da Libertadores feminina e admitiu frustração após abrir 3 a 0 no placar. O post Zanotti lamenta…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261101__D62Q7XA__v1__HighRes__FblWomenLibertadoresCruzeiroCorinthians.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/zanotti-lamenta-vice-do-corinthians-na-libertadores-feminina-noite-para-ser-esquecida/",
       "source": "Gazeta Esportiva",
-      "published": 1793487315000
+      "published": 1793501094000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Sem Andrés Gómez, Vasco chega a São Paulo para enfrentar o Palmeiras",
-      "summary": "Vasco desembarca em São Paulo sem Andrés Gómez, que está fora do jogo contra o Palmeiras por causa de dores no pé esquerdo. Lucas Piton e Marino Hinestroza aparecem como…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/vasco.webp",
-      "link": "https://www.gazetaesportiva.com/times/vasco/sem-andres-gomez-vasco-chega-a-sao-paulo-para-enfrentar-o-palmeiras/",
+      "title": "Corinthians perde do Cruzeiro nos pênaltis e fica com vice da Libertadores feminina",
+      "summary": "Cruzeiro reagiu após sair perdendo por 3 a 0, empatou com o Corinthians por 4 a 4 e conquistou de forma inédita a Libertadores feminina nos pênaltis. O post Corinthians…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261101__D62T9XN__v1__MidRes__FblWomenLibertadoresCruzeiroCorinthians.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-cruzeiro-final-libertadores-feminina-2026/",
       "source": "Gazeta Esportiva",
-      "published": 1793487292000
+      "published": 1793499141000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Lewis Hamilton conquista pole position do GP do México de Fórmula 1",
-      "summary": "Lewis Hamilton garantiu a pole position do GP do México. Líder do Mundial, Kimi Antonelli pode conquistar o título e entrar para a história da Fórmula 1. O post Lewis…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261031__D62J2B2__v2__MidRes__AutoPrixF1MexQualifying.webp",
-      "link": "https://www.gazetaesportiva.com/motor/formula-1/lewis-hamilton-conquista-pole-position-do-gp-do-mexico-de-formula-1/",
+      "title": "Palmeiras vence Ajax de virada e avança à final da Messi Cup",
+      "summary": "Invicto na competição, o Palmeiras derrotou o Ajax por 3 a 2 de virada e garantiu vaga na final da Messi Cup, nos Estados Unidos. O post Palmeiras vence Ajax de virada e…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/imagem_2026-10-31_211737440.webp",
+      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-vence-ajax-de-virada-e-avanca-a-final-da-messi-cup/",
       "source": "Gazeta Esportiva",
-      "published": 1793486811000
+      "published": 1793494978000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Confira as fotos do treino classificatório da Fórmula 1 no México",
-      "summary": "O post Confira as fotos do treino classificatório da Fórmula 1 no México apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261031__D62K8YU__v1__MidRes__AutoPrixF1MexQualifying.webp",
-      "link": "https://www.gazetaesportiva.com/motor/formula-1/confira-as-fotos-do-treino-classificatorio-da-formula-1-no-mexico/",
+      "title": "Veja as fotos de Corinthians x Cruzeiro pela final da Libertadores feminina",
+      "summary": "O post Veja as fotos de Corinthians x Cruzeiro pela final da Libertadores feminina apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261101__D62Q7X4__v1__MidRes__FblWomenLibertadoresCruzeiroCorinthians.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/veja-as-fotos-de-corinthians-x-cruzeiro-pela-final-da-libertadores-feminina/",
       "source": "Gazeta Esportiva",
-      "published": 1793486617000
+      "published": 1793494067000
     },
     {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Porto goleia Estoril e mantém 100% de aproveitamento no Campeonato Português",
-      "summary": "Porto goleia o Estoril por 4 a 0, chega aos 30 pontos e mantém os 100% de aproveitamento no Campeonato Português. Com o resultado, a equipe amplia a vantagem na…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261031__D62M8H7__v1__HighRes__FblPorLigaPortoEstoril.webp",
-      "link": "https://www.gazetaesportiva.com/times/porto/porto-goleia-estoril-e-mantem-100-de-aproveitamento-no-campeonato-portugues/",
-      "source": "Gazeta Esportiva",
-      "published": 1793485601000
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "7 melhores jogos de Pokémon fora dos consoles portáteis",
+      "summary": "Quando se fala em Pokémon , a imagem que vem à cabeça costuma ser a de um Game Boy ou de um Nintendo DS nas mãos de um treinador. Mas a franquia sempre foi muito mais…",
+      "image": "https://www.estadao.com.br/resizer/v2/7PTJVOTMO5INDO45CZPEOZGIQQ.jpg?quality=80&amp;auth=db8ae37c9de405a042960d6363675d8276cbce68e139ee60bdb419ebd136fae6&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/7-jogos-de-pokemon-fora-dos-portateis-que-vale-conhecer/",
+      "source": "Novidades do TecMundo",
+      "published": 1793488500000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Casa mais limpa sem esforço: aspiradores robô em promoção na Amazon",
+      "summary": "Manter a casa limpa ficou muito mais fácil com os aspiradores robô — e a Amazon está com uma seleção de modelos em oferta que vale a pena conferir. São três opções para…",
+      "image": "https://m.media-amazon.com/images/I/41o--k-u-9L._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/31/reviews/casa-mais-limpa-sem-esforco-aspiradores-robo-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "published": 1793487265000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Hora de colocar um smartwatch no pulso: veja as melhores pedidas em oferta agora",
+      "summary": "Se você está pensando em monitorar melhor sua saúde, praticar esportes com mais controle ou simplesmente modernizar o visual, os smartwatches são uma ótima escolha — e…",
+      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/31/reviews/hora-de-colocar-um-smartwatch-no-pulso-veja-as-melhores-pedidas-em-oferta-agora/",
+      "source": "Olhar Digital",
+      "published": 1793486065000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Terraria, The Witcher 3 e mais: uma seleção de jogos Xbox para adicionar à sua coleção",
+      "summary": "Se você é fã de Xbox e está em busca de títulos para enriquecer sua biblioteca, separamos três opções que valem muito a pena conferir. São jogos consagrados, com horas e…",
+      "image": "https://m.media-amazon.com/images/I/51HYx8xqNCL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/10/31/reviews/terraria-the-witcher-3-e-mais-uma-selecao-de-jogos-xbox-para-adicionar-a-sua-colecao/",
+      "source": "Olhar Digital",
+      "published": 1793484865000
     },
     {
       "category": "tecnologia",
@@ -163,94 +203,54 @@
       "published": 1793484000000
     },
     {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Spider-Man, GTA VI e God of War: jogos imperdíveis para PS5 em promoção",
-      "summary": "O PlayStation 5 tem um catálogo recheado de títulos incríveis, e agora é uma boa hora para expandir a sua coleção. Reunimos três jogos em destaque para você aproveitar…",
-      "image": "https://m.media-amazon.com/images/I/417PQEmRMvL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/31/reviews/spider-man-gta-vi-e-god-of-war-jogos-imperdiveis-para-ps5-em-promocao/",
-      "source": "Olhar Digital",
-      "published": 1793483665000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Hora de renovar o home office: selecionamos impressoras em promoção na Amazon",
-      "summary": "Se você está pensando em comprar uma impressora nova ou trocar aquela que já deu o que tinha para dar, este é o momento certo. Reunimos três opções em oferta na Amazon —…",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/31/reviews/hora-de-renovar-o-home-office-selecionamos-impressoras-em-promocao-na-amazon-7/",
-      "source": "Olhar Digital",
-      "published": 1793482465000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Wi-Fi lento ficou no passado: confira uma seleção de roteadores Mesh em oferta na Amazon",
-      "summary": "Se a conexão Wi-Fi da sua casa já não dá mais conta dos dispositivos espalhados pelos cômodos, pode ser a hora certa de investir em um sistema Mesh. Reunimos três opções…",
-      "image": "https://m.media-amazon.com/images/I/21BgpbdIOqL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/31/reviews/wi-fi-lento-ficou-no-passado-confira-uma-selecao-de-roteadores-mesh-em-oferta-na-amazon/",
-      "source": "Olhar Digital",
-      "published": 1793481265000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Hora de renovar seu tablet: veja uma seleção de ofertas que vale a pena conferir",
-      "summary": "Se você está pensando em adquirir um tablet ou complementar o seu com acessórios de qualidade, chegou a hora certa. Reunimos três opções em promoção na Amazon — de…",
-      "image": "https://m.media-amazon.com/images/I/41eyV6gAYrL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/10/31/reviews/hora-de-renovar-seu-tablet-veja-uma-selecao-de-ofertas-que-vale-a-pena-conferir/",
-      "source": "Olhar Digital",
-      "published": 1793480065000
-    },
-    {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Duas pessoas morrem após carro bater em árvore na MGC-188, em Unaí",
-      "summary": "Carro bateu em uma árvore na MGC-188 Polícia Militar/Divulgação Duas pessoas morreram em um grave acidente de carro na MGC-188, em Unaí, no Noroeste de Minas, neste…",
-      "image": "https://s2-g1.glbimg.com/XOcQHk2OmFKA6vTeFUwnyB0qxpk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/K/BuZapAQWqcnImH6AL5Ag/carrounai.jpeg",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/31/duas-pessoas-morrem-apos-carro-bater-em-arvore-na-mgc-188-em-unai.ghtml",
+      "title": "Nova Friburgo dá novo passo na medicina e entra no mapa da cirurgia robótica",
+      "summary": "Hospital Unimed Nova Friburgo recebe o robô cirúrgico Versius, tecnologia que marca um novo momento para a medicina de alta complexidade na Região Serrana Divulgação Na…",
+      "image": "https://s2-g1.glbimg.com/pr1ReQgLw4PaAhdMXWKQqvblolU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/Z/ezMQVWQmq7XuLsOY565w/materia-6-cirurgia-robotica-1-.jpg",
+      "link": "https://g1.globo.com/rj/regiao-serrana/especial-publicitario/unimed-serrana-rj/noticia/2026/11/01/nova-friburgo-da-novo-passo-na-medicina-e-entra-no-mapa-da-cirurgia-robotica.ghtml",
       "source": "g1",
-      "published": 1793486771000
+      "published": 1793502720000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Candice Swanepoel usa anel de compromisso após rumor de namoro com Tom Brady",
-      "summary": "A supermodelo sul-africana Candice Swanepoel foi fotografada usando um anel dourado largo no dedo anelar esquerdo. O caso ocorre logo após notícias sobre um…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/candice-swanepoel-usa-anel-de-compromisso-apos-rumor-de-namoro-com-tom-brady.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1793486700000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Emergência e CTI de hospital municipal de Nilópolis são fechados",
-      "summary": "Emergência e CTI de hospital municipal de Nilópolis são fechados A Prefeitura de Nilópolis fechou o Centro de Tratamento Intensivo (CTI) e a emergência do Hospital e…",
-      "image": "https://s2-g1.glbimg.com/0WU_i1YV0JXdjNcmFLv2bIGRC9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/g/Bffm2tSwKdl4ipigCIwg/hospital2.jpeg",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/31/emergencia-e-cti-de-hospital-municipal-de-nilopolis-sao-fechados.ghtml",
+      "title": "Unimed Serrana RJ amplia sua presença por meio de esporte, cultura e cidadania",
+      "summary": "Unimed Serrana RJ participa de iniciativas esportivas, culturais e comunitárias que promovem saúde e qualidade de vida na Região Serrana Divulgação Cuidar da saúde vai…",
+      "image": "https://s2-g1.glbimg.com/xy4cSStHYVNfhpNu-gVa49Vxplk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/b/EVrzJ4RxOOBl5PS6mfUw/br4-forteapache-6gbm-maiode2026-thalleskadett-135-1-.jpg",
+      "link": "https://g1.globo.com/rj/regiao-serrana/especial-publicitario/unimed-serrana-rj/noticia/2026/11/01/unimed-serrana-rj-amplia-sua-presenca-por-meio-de-esporte-cultura-e-cidadania.ghtml",
       "source": "g1",
-      "published": 1793486687000
+      "published": 1793502660000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Polícia diz que vai investigar agente suspeito de fornecer informações a Renato Cariani sobre investigação",
-      "summary": "MP-SP aponta amizade de Cariani com policial para acompanhar investigação A Polícia Civil informou neste sábado (31) que vai investigar o policial citado pelo Ministério…",
-      "image": "https://s2-g1.glbimg.com/moTa9H14lVE03Y0hoSEaQeefmes=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/5/xVJtr9SOm1HwhsOPIsvw/fotojet-2026-10-31t172117.602.jpg",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/31/policia-diz-que-vai-investigar-agente-suspeito-de-fornecer-informacoes-a-renato-cariani-sobre-investigacao.ghtml",
+      "title": "Hospital Unimed Nova Friburgo recebe uma das principais certificações da saúde",
+      "summary": "Hospital Unimed Nova Friburgo conquistou a Acreditação ONA Nível 1, reconhecimento dos padrões de qualidade e segurança assistencial Divulgação O Hospital Unimed Nova…",
+      "image": "https://s2-g1.glbimg.com/GMmlpUQdDe0cB39RsDgrO4BB0T8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/V/bmbWFQSDyllgMHXKoHEw/ona.jpg",
+      "link": "https://g1.globo.com/rj/regiao-serrana/especial-publicitario/unimed-serrana-rj/noticia/2026/11/01/hospital-unimed-nova-friburgo-recebe-uma-das-principais-certificacoes-da-saude.ghtml",
       "source": "g1",
-      "published": 1793486671000
+      "published": 1793502541000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "APAC emite alerta de baixa umidade para o Sertão de Pernambuco; temperaturas podem passar dos 37°C",
-      "summary": "APAC alerta para calor intenso e baixa umidade no Sertão de Pernambuco A Agência Pernambucana de Águas e Clima (APAC) emitiu um aviso de baixa umidade do ar para três…",
-      "image": "https://s2-g1.glbimg.com/GCnKf773vUR1VmmYweAy8WpMb6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/q/n/k4O1H6QcKDwX5d1xeuiA/whatsapp-image-2022-10-02-at-10.22.43.jpeg",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/10/31/apac-emite-alerta-de-baixa-umidade-para-o-sertao-de-pernambuco-temperaturas-podem-passar-dos-37c.ghtml",
+      "title": "Hospital Unimed Nova Friburgo amplia cuidado intensivo com nova UTI",
+      "summary": "Nova estrutura da UTI do Hospital Unimed Nova Friburgo amplia a capacidade de atendimento intensivo com 10 novos leitos Divulgação O Hospital Unimed Nova Friburgo deu…",
+      "image": "https://s2-g1.glbimg.com/C6_-e2skdsfe_3UrHpV5gABkWmA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/g/gzYBGhQPmDn0BYLZxW6A/capa-da-materia-3-uti.jpg",
+      "link": "https://g1.globo.com/rj/regiao-serrana/especial-publicitario/unimed-serrana-rj/noticia/2026/11/01/hospital-unimed-nova-friburgo-amplia-cuidado-intensivo-com-nova-uti.ghtml",
       "source": "g1",
-      "published": 1793486641000
+      "published": 1793502421000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Unimed Serrana RJ investe em expansão do Hospital Unimed Nova Friburgo",
+      "summary": "Expansão do Hospital Unimed Nova Friburgo amplia a estrutura e a capacidade de atendimento da unidade Divulgação A Unimed Serrana RJ vive um dos momentos mais…",
+      "image": "https://s2-g1.glbimg.com/NwErcCWLUJmCwxCSo4LNgws15Oo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/B/hkIuCHTZC6NAfk1vchVQ/expansao-hunf-hemodinamica-1-.jpg",
+      "link": "https://g1.globo.com/rj/regiao-serrana/especial-publicitario/unimed-serrana-rj/noticia/2026/11/01/unimed-serrana-rj-investe-em-expansao-do-hospital-unimed-nova-friburgo.ghtml",
+      "source": "g1",
+      "published": 1793502301000
     }
   ]
 }
