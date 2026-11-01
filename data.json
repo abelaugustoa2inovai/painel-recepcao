@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-11-01T10:54:40.700Z",
+  "updatedAt": "2026-11-01T17:25:29.943Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Religiosos viajam 9 mil km para levar óculos para crianças com baixa visão e mantimentos a orfanato na África",
+      "summary": "Religiosos viajam 9 mil km para levar óculos para crianças com baixa visão a orfanato Religiosos de São José do Rio Preto (SP) embarcam na segunda-feira (2) rumo à…",
+      "image": "https://s2-g1.glbimg.com/dG6Zy_H7sOXjuyzW8y_0aQERfIs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/O/b9aMqMScmLBAis2BVBfg/formato-padrao-imagens-g1-2026-10-30t173513.608.png",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/01/religiosos-viajam-para-levar-oculos-para-criancas-com-baixa-visao-e-mantimentos-a-orfanato-na-africa.ghtml",
+      "source": "g1 > g1 Rio Preto",
+      "published": 1793540791000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Piracema: fiscalização em mananciais no interior de SP começa neste domingo, 1º de novembro",
+      "summary": "Piracema começa neste domingo, 1º de novembro, em São Paulo Com o início da piracema neste domingo (1º), a Polícia Ambiental tem intensificado a fiscalização nos rios e…",
+      "image": "https://s2-g1.glbimg.com/i7U3jqgOKwMGgucNE9k52Oi2ajc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/Y/x7IFCYRFOR3xj43ZCvQw/adilson-francisco-feltrin-15-.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/01/piracema-fiscalizacao-em-mananciais-no-interior-de-sp-comeca-neste-domingo-1o-de-novembro.ghtml",
+      "source": "g1 > g1 Rio Preto",
+      "published": 1793530800000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -33,224 +53,204 @@
       "published": 1793529000000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "ONG de Araçatuba promove Halloween solidário com mansão mal-assombrada e distribuição de doces",
-      "summary": "Atamor realiza 'Noite dos Mistérios' com mansão assombrada para arrecadar hidratantes A Praça João Pessoa, em Araçatuba (SP), recebe neste sábado (31) a \"Noite dos…",
-      "image": "https://s2-g1.glbimg.com/IChFnKZ9KcCS7s59_x57Wx39KqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Q/074CBES0Wvvh83ZlAXfg/novo-projeto-2026-10-31t183555.369.png",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/31/ong-de-aracatuba-promove-halloween-solidario-com-mansao-mal-assombrada-e-distribuicao-de-doces.ghtml",
-      "source": "g1 > g1 Rio Preto",
-      "published": 1793488043000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Carro roubado e com placa clonada usado por motorista de aplicativo é recuperado pela PRF em Rio Preto",
-      "summary": "PRF recupera carro roubado que circulava com placas clonadas pela região central de São José do Rio Preto (SP) Polícia Rodoviária Federal A Polícia Rodoviária Federal…",
-      "image": "https://s2-g1.glbimg.com/a5RBlqBF-C5uf3iuzavHb3fVUzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/m/am26vnRAWYeTDAk4UOcQ/novo-projeto-2026-10-31t182335.157.png",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/31/carro-roubado-e-com-placa-clonada-usado-por-motorista-de-aplicativo-e-recuperado-pela-prf-em-rio-preto.ghtml",
-      "source": "g1 > g1 Rio Preto",
-      "published": 1793484387000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "S&P 500 pode cair 9% com eleições nos EUA; Morgan Stanley vê potencial de compra",
+      "summary": "Mike Wilson of Morgan Stanley during a Bloomberg Television interview in 2024. \" data-image-caption=\" (Foto: Victor J. Blue / Photographer: Victor J. Blue / Blo) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Mike-Wilson-Morgan-Stanley-01.jpg?fit=300%2C191&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/sp-500-pode-cair-9-com-eleicoes-nos-eua-morgan-stanley-ve-potencial-de-compra/",
+      "source": "InfoMoney",
+      "published": 1793553582000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Esquecido no organograma, jovem de 27 anos vira aposta da Cisco para a era da IA",
-      "summary": "Conheça Paddy, o jovem de 27 anos que o presidente da Cisco chama de “coelho Energizer”. O ex-fundador da geração Z recebeu acesso ilimitado a ferramentas de IA e ouviu…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/CISCO-CHIEF-FOUND-A-27-YEAR-OLD-EX-FOUNDER-BURIED-AWAY-IN-THE-ORGANIZATION-DOING-SOMETHING-UNSTRATEGICNOW-HES-UPGRADING-98-OF-ITS-CODE.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/business/global/esquecido-no-organograma-jovem-de-27-anos-vira-aposta-da-cisco-para-a-era-da-ia/",
+      "title": "Justiça libera documentos sobre morte de Tancredo Neves após 41 anos; entenda",
+      "summary": "Família poderá consultar registros médicos e processos mantidos sob sigilo para esclarecer suspeitas de falhas no tratamento do presidente eleito, morto antes de tomar…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/tancredo-neves.jpg?fit=300%2C209&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/brasil/justica-libera-documentos-sobre-morte-de-tancredo-neves-apos-41-anos-entenda/",
       "source": "InfoMoney",
-      "published": 1793520000000
+      "published": 1793553092000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Na China, a guerra contra os mosquitos entrou na era da inteligência artificial",
-      "summary": "Técnicos da Photon Matrix soltam mosquitos de uma caixa de tela enquanto um dispositivo equipado com inteligência artificial dispara lasers azuis contra os insetos, em…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/CHINA-MOSQUITO-LASER-1.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/business/global/na-china-a-guerra-contra-os-mosquitos-entrou-na-era-da-inteligencia-artificial/",
+      "title": "CEO da bolsa de valores de Istanbul é detido em investigação sobre fundos",
+      "summary": "FILE PHOTO: Traders work at their desks on the floor of the Borsa Istanbul in Istanbul, Turkey October 13, 2017. REUTERS/Murad Sezer/File Photo \" data-image-caption=\"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/mercados-borsa-istanbul-turquia-01.jpg?fit=300%2C191&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/ceo-da-bolsa-de-valores-de-istanbul-e-detido-em-investigacao-sobre-fundos/",
       "source": "InfoMoney",
-      "published": 1793520000000
+      "published": 1793552374000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Ucranianos combatem russos dentro de gasodutos subterrâneos. Eu entrei em um deles",
-      "summary": "Oleksandr, um sargento veterano do Exército ucraniano, segue para uma posição na linha de frente por meio de um gasoduto abandonado utilizado pelas forças ucranianas…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/UKRAINE-UNDERGROUND-WARFARE-4.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/business/global/ucranianos-combatem-russos-dentro-de-gasodutos-subterraneos-eu-entrei-em-um-deles/",
+      "title": "Funcionários da Disney e Universal são presos em operação contra tráfico humano",
+      "summary": "A entrada dos estúdios Walt Disney é vista em Burbank, Califórnia, EUA &#8211; 06/08/2025 (Foto: REUTERS/Lucy Nicholson) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/2025-02-11T172205Z_2117018763_RC2GSCA4AA9T_RTRMADP_3_WALT-DISNEY-DEI.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/funcionarios-da-disney-e-universal-sao-presos-em-operacao-contra-trafico-humano/",
       "source": "InfoMoney",
-      "published": 1793520000000
+      "published": 1793551500000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "JPMorgan encontra 225 ações ligadas à IA que ainda estão fora do radar do mercado",
-      "summary": "As letras “AI” (inteligência artificial, na sigla em inglês) são posicionadas sobre uma placa-mãe de computador nesta ilustração feita em 23 de junho de 2023.…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-15T090023Z_1883131139_RC21P1AGJOA3_RTRMADP_3_USA-AI-LAWYERS.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/jpmorgan-encontra-225-acoes-ligadas-a-ia-que-ainda-estao-fora-do-radar-do-mercado/",
+      "title": "Grêmio x Atlético-MG: veja onde assistir à Copa do Brasil",
+      "summary": "Foto: Montagem IM/ Grêmio x Atlético-MG \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/thumb-gremio-x-atletico-mg.jpg?fit=300%2C191&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/esportes/gremio-x-atletico-mg-veja-onde-assistir-a-copa-do-brasil/",
       "source": "InfoMoney",
-      "published": 1793520000000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "De lenhador a sindicalista: quem são democratas que tentam retomar Senado nos EUA",
-      "summary": "Presidente dos EUA, Donald Trump, faz discurso em sessão conjunta do Congresso no Capitólio em Washington 04/03/2025. MANDEL NGAN/Pool via REUTERS/File Photo \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/Captura-de-tela-2026-02-25-074237.png?fit=300%2C201&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/de-lenhador-a-sindicalista-quem-sao-democratas-que-tentam-retomar-senado-nos-eua/",
-      "source": "InfoMoney",
-      "published": 1793520000000
+      "published": 1793551500000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Motivação a mais? Como o São Paulo encara o clássico com o Corinthians no Z4",
-      "summary": "A cinco rodadas do fim do Campeonato Brasileiro, o São Paulo tem a possibilidade de piorar a situação do rival Corinthians na briga contra o rebaixamento. O Tricolor…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55621955259_dd71bbf8c0_4k.webp",
-      "link": "https://www.gazetaesportiva.com/times/sao-paulo/chance-de-afundar-rival-pesa-como-o-sao-paulo-encara-classico-contra-o-corinthians/",
+      "title": "Mbappé marca, Real Madrid vence o Real Racing e segue na caça ao Barça no Espanhol",
+      "summary": "O Real Madrid venceu o Real Racing por 3 a 0, fora de casa, pela 11ª rodada do Campeonato Espanhol. Os gols foram marcados por Mbappé, de pênalti, Bellingham e Diamonde,…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261101__D63L4YT__v1__HighRes__FblEspLigaRacingSantanderRealMadrid.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/laliga/mbappe-marca-real-madrid-vence-o-real-racing-e-segue-na-caca-ao-barca-no-espanhol/",
       "source": "Gazeta Esportiva",
-      "published": 1793527253000
+      "published": 1793553508000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Corinthians terá novembro com clássico e decisões pelo Brasileirão",
-      "summary": "O Corinthians terá um mês movimentado em novembro, com quatro compromissos pelo Campeonato Brasileiro. Na reta final da competição, o Timão enfrentará São Paulo,…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261031__marina_uezima_brazil_photo_press_20611__v1__HighRes__CorinthiansAndMi.webp",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/veja-o-que-o-corinthians-precisa-para-sair-do-z4-na-proxima-rodada-do-brasileirao/",
+      "title": "Veja fotos de Real Racing x Real Madrid pelo Campeonato Espanhol",
+      "summary": "O post Veja fotos de Real Racing x Real Madrid pelo Campeonato Espanhol apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261101__D63L4XK__v1__HighRes__FblEspLigaRacingSantanderRealMadrid.webp",
+      "link": "https://www.gazetaesportiva.com/fotos/veja-fotos-de-real-racing-x-real-madrid-pelo-campeonato-espanhol/",
       "source": "Gazeta Esportiva",
-      "published": 1793527247000
+      "published": 1793551400000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Palmeiras defende tabu de 11 anos contra o Vasco na semifinal da Copa do Brasil",
-      "summary": "Palmeiras defende invencibilidade de quase 11 anos contra o Vasco em casa na semifinal da Copa do Brasil. Verdão soma seis vitórias e dois empates no período. O post…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/23082026_cg_palmeiras_5109_102.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-defende-tabu-de-11-anos-contra-o-vasco-na-semifinal-da-copa-do-brasil/",
+      "title": "Melhores momentos: Lazio 2 x 1 Cagliari pelo Italiano",
+      "summary": "Melhores momentos: Lazio 2 x 1 Cagliari pelo Italiano O post Melhores momentos: Lazio 2 x 1 Cagliari pelo Italiano apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/xz1bh6y7-1920Lazio.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-lazio-2-x-1-cagliari-pelo-italiano/",
       "source": "Gazeta Esportiva",
-      "published": 1793527213000
+      "published": 1793551051000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Santos terá novembro decisivo por vaga na Libertadores, retornos e definições para 2027",
-      "summary": "O Santos inicia novembro com quatro partidas decisivas na luta por uma vaga na Libertadores de 2027. O Peixe, oitavo colocado do Brasileirão, também torce pela ampliação…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55623474244_0262e50767_3k.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/santos-novembro-2026-libertadores-retornos-contratos/",
+      "title": "Alcaraz vence De Miñaur e conquista ATP 500 de Viena",
+      "summary": "Carlos Alcaraz conquistou o ATP 500 de Viena ao derrotar Alex de Minaur por 6-1 e 6-4 na final, em 1h27min. O espanhol, atual número 3 do mundo, confirmou a excelente…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261101__D63H49J__v1__HighRes__TennisAutAtpErsteOpen.webp",
+      "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/alcaraz-vence-de-minaur-e-conquista-atp-500-de-viena/",
       "source": "Gazeta Esportiva",
-      "published": 1793527210000
+      "published": 1793549970000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Red Bull Bragantino x Santos: veja onde assistir ao jogo pela 34ª rodada do Brasileirão",
-      "summary": "Red Bull Bragantino e Santos se enfrentam nesta segunda-feira (2), às 20h (de Brasília), no estádio Cícero de Souza Marques, pela 34ª rodada do Campeonato Brasileiro. O…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55062018163_836e871dcd_3k.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/red-bull-bragantino-x-santos-onde-assistir-brasileirao-2026/",
+      "title": "Palmeiras volta a vencer o São Paulo e vai enfrentar o Santos na semifinal do Paulista sub-20",
+      "summary": "O Palmeiras derrotou o São Paulo por 2 a 0 na Arena Barueri e confirmou a classificação para a semifinal do Campeonato Paulista Sub-20. Após vencer a ida por 3 a 2 em…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/WhatsApp-Image-2026-11-01-at-13.25.37.webp",
+      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-elimina-sao-paulo-e-vai-enfrentar-o-santos-na-semifinal-do-paulista-sub-20/",
       "source": "Gazeta Esportiva",
-      "published": 1793523644000
+      "published": 1793548496000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Lua hoje: confira a fase da Lua deste domingo 1/11/2026",
-      "summary": "Em qual fase a Lua está hoje, 1º de novembro de 2026? Confira e veja o calendário completo do mês O post Lua hoje: confira a fase da Lua deste domingo 1/11/2026 apareceu…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2022/07/fases-da-Lua-1024x186.png",
-      "link": "https://olhardigital.com.br/2026/11/01/ciencia-e-espaco/lua-hoje-confira-a-fase-da-lua-deste-domingo-1-11-2026/",
-      "source": "Olhar Digital",
-      "published": 1793529300000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Epic Games libera novo jogo grátis no celular! Resgate agora no Android (01)",
-      "summary": "Além da possibilidade de obter jogos na plataforma de PC sem precisar gastar nada, os jogadores também podem resgatar títulos totalmente de graça através do app da Epic…",
-      "image": "https://www.estadao.com.br/resizer/v2/IKCAAVVMRZLJ7CZLMBD254M42Y.jpg?quality=80&amp;auth=04d3affc0a45a22d171650f8afc011b1baac98a104cf2476b8921902b7db41f0&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-libera-novo-jogo-gratis-no-celular-resgate-agora-no-android-01/",
+      "title": "Play Store libera 4 apps pagos de graça para organizar e personalizar o celular",
+      "summary": "A Play Store continua oferecendo aplicativos pagos gratuitamente em promoções por tempo limitado. Nesta semana, a seleção inclui ferramentas para organizar links,…",
+      "image": "https://www.estadao.com.br/resizer/v2/TISYBFUUVFOLZISYI6LZAG4QWY.png?quality=80&amp;auth=d5e703cd1f4aa05e076ea52389407eccd787a5cb6edf2d82b1ae25d131e133b8&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/play-store-libera-4-apps-pagos-de-graca-para-organizar-e-personalizar-o-celular/",
       "source": "Novidades do TecMundo",
-      "published": 1793528100000
+      "published": 1793552400000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Fases da Lua em novembro de 2026: veja datas e horários",
-      "summary": "As fases da Lua no mês de novembro de 2026 começam no dia 1, com a Lua Minguante, às 17h30 (pelo horário de Brasília) O post Fases da Lua em novembro de 2026: veja datas…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/fases-da-lua-3-1024x576.jpg",
-      "link": "https://olhardigital.com.br/2026/11/01/ciencia-e-espaco/fases-da-lua-em-novembro-de-2026-veja-datas-e-horarios/",
+      "title": "Wall Street aposta trilhões em IA, mas começa a comprar seguro contra colapso",
+      "summary": "Investidores estão recorrendo a opções de venda de ações e contratos de proteção contra calotes para se resguardar de eventual queda O post Wall Street aposta trilhões…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/ia_financas-1024x682.jpg",
+      "link": "https://olhardigital.com.br/2026/11/01/pro/wall-street-aposta-trilhoes-em-ia-mas-comeca-a-comprar-seguro-contra-colapso/",
       "source": "Olhar Digital",
-      "published": 1793524320000
+      "published": 1793551162000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Grêmio x Atlético-MG: onde assistir, horário e escalações da semifinal da Copa do Brasil",
-      "summary": "Confira onde assistir, horário e escalações prováveis de Grêmio e Atlético-MG; jogo vale pela semifinal da Copa do Brasil 2026 O post Grêmio x Atlético-MG: onde…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/11/01/internet-e-redes-sociais/gremio-x-atletico-mg-onde-assistir-a-semifinal-da-copa-do-brasil-2026/",
-      "source": "Olhar Digital",
-      "published": 1793523600000
+      "title": "Fortnite mistura One Piece com rappers famosos na temporada Caçadores de Tesouro",
+      "summary": "O jogo online Fortnite começou novembro com uma nova aventura que mistura piratas, anime e música. Batizada de Caçadores de Tesouro: A Maior Aventura de Todos os Tempos…",
+      "image": "https://www.estadao.com.br/resizer/v2/3TIRUH3QT5GRXM4OW7ACCEFPKY.jpeg?quality=80&amp;auth=7459d24d2670b7182dfbf8f5fb72a7673bd3accda38c5886353bde0b50338e45&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/fortnite-mistura-one-piece-com-rappers-famosos-na-temporada-cacadores-de-tesouro/",
+      "source": "Novidades do TecMundo",
+      "published": 1793549700000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Palmeiras x Vasco: onde assistir, horário e escalação da semifinal da Copa do Brasil",
-      "summary": "Confira onde assistir, horário e prováveis escalações de Palmeiras x Vasco; duelo é válido pela ida das semifinais da Copa do Brasil O post Palmeiras x Vasco: onde…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/11/01/internet-e-redes-sociais/palmeiras-x-vasco-onde-assistir-a-semifinal-da-copa-do-brasil-2026/",
+      "title": "Lua começa a semana próxima de dois planetas – causando o “eclipse” de um deles",
+      "summary": "Lua, Marte e Júpiter protagonizam um espetáculo celeste nesta segunda-feira (2). Saiba detalhes desses encontros e quais serão os próximos O post Lua começa a semana…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/06/lua-conjuno-marte-1024x647.jpeg",
+      "link": "https://olhardigital.com.br/2026/11/01/ciencia-e-espaco/lua-comeca-a-semana-proxima-de-dois-planetas-causando-o-eclipse-de-um-deles/",
       "source": "Olhar Digital",
-      "published": 1793520600000
+      "published": 1793549205000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "NASA aprimora satélites e revela registro mais preciso de CO₂ na atmosfera",
+      "summary": "Todos os dias, os equipamentos registram mais de um milhão de observações da luz solar refletida pela superfície da Terra O post NASA aprimora satélites e revela…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/11/CO2-1024x576.jpg",
+      "link": "https://olhardigital.com.br/2026/11/01/ciencia-e-espaco/nasa-aprimora-satelites-e-revela-registro-mais-preciso-de-co-na-atmosfera/",
+      "source": "Olhar Digital",
+      "published": 1793548463000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Acompanhe a Supermaratona para o Enem com aulas gratuitas ao vivo",
-      "summary": "Acompanhe a Supermaratona para o Enem com aulas gratuitas ao vivo O evento é uma realização da PUC-GO, com a Rede Anhanguera e Rede Matogrossense de Comunicação. Aulas…",
-      "image": "https://s2-g1.glbimg.com/8V1_4ju-xqMiSpDfFTvkg_hcDT0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/r/KVZZJZRFy8gYAPecgmWA/g1-foto-5-.png",
-      "link": "https://g1.globo.com/to/tocantins/ao-vivo/supermaratona-enem-tocantins.ghtml",
+      "title": "Celulares são apreendidos em presídio no interior do Acre; objetos foram arremessados",
+      "summary": "No segundo embrulho, arremessado por cima da muralha neste domingo (1º), foram encontrados oito celulares e três carregadores Arquivo/Iapen-AC Cerca de 11 aparelhos…",
+      "image": "https://s2-g1.glbimg.com/H1IaPBCD5nAz4M_pZPhEDrzDN08=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/g/kPHgyUQ1SQ2PfkbvdFtA/midia-de-distribuicao-g1-2026-11-01t114308.714.png",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/01/celulares-sao-apreendidos-em-presidio-no-interior-do-acre-objetos-foram-arremessados.ghtml",
       "source": "g1",
-      "published": 1793530051000
+      "published": 1793553140000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Éder Militão tem casa invadida enquanto joga e perde R$ 2,2 milhões em joias e relógios",
-      "summary": "O jogador Éder Militão , do Real Madrid e da seleção brasileira, teve sua casa invadida enquanto disputava o clássico contra o Barcelona e, de acordo com o jornal…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/11/eder-militao-tem-casa-invadida-enquanto-joga-e-perde-r-22-milhoes-em-joias-e-relogios.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1793530020000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "VÍDEOS: Jornal do Campo deste domingo, 1º de novembro de 2026",
-      "summary": "Assista a todas as reportagens do telejornal.",
-      "image": "https://s2-g1.glbimg.com/pDRT_FZeKASVEs7e9-ScC8IhbKw=/s01.video.glbimg.com/deo/vi/51/71/15147151",
-      "link": "https://g1.globo.com/go/goias/edicao/2026/11/01/videos-jornal-do-campo-deste-domingo-1-de-novembro-de-2026.ghtml",
+      "title": "Operação Caça ao Sicário prende mais dois suspeitos de homicídio em frente a um cartório de Itaperuna",
+      "summary": "A Polícia Civil informou que a força-tarefa continua atuando e que novas prisões devem ocorrer nas próximas fases da Operação Caça ao Sicário. Reprodução/Inter TV Dois…",
+      "image": "https://s2-g1.glbimg.com/zsDhJvum9lE9wEtUvAut6m9aHGI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/j/O2yiAPTDqNVSuOzRVb9w/whatsapp-image-2026-11-01-at-13.52.23.jpeg",
+      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/01/operacao-caca-ao-sicario-prende-mais-dois-suspeitos-de-homicidio-em-frente-a-um-cartorio-de-itaperuna.ghtml",
       "source": "g1",
-      "published": 1793530003000
+      "published": 1793553048000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Binance retoma saques após ataque hacker roubar US$ 6,3 bilhões",
-      "summary": "A Binance começou a liberar saques para clientes neste domingo (1º), ao retomar gradualmente os serviços após um ataque que resultou no roubo recorde de US$ 6,3 bilhões…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/binance-retoma-saques-apos-ataque-hacker-roubar-us-63-bilhoes.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1793529900000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Concurso de Receitas 2026: aprenda a preparar pavê gourmet de maracujá",
-      "summary": "Pavê gourmet de maracujá Caminhos do Campo A receita de pavê gourmet de maracujá é uma das oito finalistas do Concurso de Receitas 2026 do Caminhos do Campo. A sobremesa…",
-      "image": "https://s2-g1.glbimg.com/6wMu-rON5sOAMEuuRxqkBNcF2rQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/I/Ya95XQS6uwSwzQ2PJjLg/mousse1.jpg",
-      "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/01/concurso-de-receitas-2026-aprenda-a-preparar-pave-gourmet-de-maracuja.ghtml",
+      "title": "Médico Júlio César Barreto morre em Goiânia",
+      "summary": "Médico Júlio César Soares Barreto morre em Goiânia Reprodução/Instagram de TRS Nefrologia e hemodiálise A morte do médico nefrologista Júlio César Soares Barreto, de 57…",
+      "image": "https://s2-g1.glbimg.com/tAdsGV-kGOX963FBTtWGmGESA_E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/2/sW8uw9SdmtQAp2BX2jmA/padrao-foto-texto-g1-2026-11-01t140515.955.jpg",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/11/01/medico-julio-cesar-barreto-morre-em-goiania.ghtml",
       "source": "g1",
-      "published": 1793529814000
+      "published": 1793552912000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "VÍDEO: motorista é flagrado dirigindo com criança no colo na Ponte Rio-Niterói",
+      "summary": "Homem dirige na Ponte Rio-Niterói com bebê no colo Um motorista foi flagrado dirigindo com uma criança de menos de 3 anos no colo na Ponte Rio-Niterói neste domingo…",
+      "image": "https://s2-g1.glbimg.com/WEWJCgn5GC_cnT5vRqqC2yD-IQM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/0/pmvYrMTvOofq98rHXhdw/01ponte1a.jpg",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/01/motorista-e-flagrado-dirigindo-com-crianca-no-colo-na-ponte-rio-niteroi.ghtml",
+      "source": "g1",
+      "published": 1793552818000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Uberlândia terá linhas especiais de ônibus para atender passageiros no Dia de Finados; veja quais são",
+      "summary": "Linhas vão atender os passageiros que pretendem visitar os cemitérios municipais de Uberlândia Prefeitura de Uberlândia/Divulgação A Secretaria Municipal de Trânsito e…",
+      "image": "https://s2-g1.glbimg.com/qTYw3a6go3eBrc7rjHM9Bp-RscQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/F/UtQBJzSLWnB6idXbYdhA/onibus-1.jpg",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/01/uberlandia-tera-linhas-especiais-de-onibus-para-atender-passageiros-no-dia-de-finados-veja-quais-sao.ghtml",
+      "source": "g1",
+      "published": 1793552750000
     }
   ]
 }
