@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-11-03T08:52:04.485Z",
+  "updatedAt": "2026-11-03T17:26:48.057Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Segurança morre após cair de barracão no trabalho em Rio Preto",
+      "summary": "Hospital de Base de Rio Preto (SP) Divulgação Um segurança de 58 anos morreu, na manhã de segunda-feira (2), em São José do Rio Preto (SP) após cair de um barracão…",
+      "image": "https://s2-g1.glbimg.com/bPTCgPrUyG4ls4Kd4x2MRdlkTdc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/Z/niA89iSDuohLz4TJmbGg/hospital.png",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/03/seguranca-morre-apos-cair-de-barracao-no-trabalho-em-rio-preto.ghtml",
+      "source": "g1 > g1 Rio Preto",
+      "published": 1793709027000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -16,7 +26,7 @@
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
       "title": "Jacaré de 2 metros de comprimento é resgatado em rua do interior de SP",
-      "summary": "Jacaré de 2 metros de comprimento é resgatado em rua de Araçatuba Arquivo pessoal Um jacaré-do-papo-amarelo adulto de aproximadamente dois metros de comprimento foi…",
+      "summary": "Jacaré de 2 metros de comprimento é resgatado em rua do interior de SP Um jacaré-do-papo-amarelo adulto de aproximadamente dois metros de comprimento foi resgatado em…",
       "image": "https://s2-g1.glbimg.com/-xaEoxXaFvfNR-QQVZXYzuKIFQ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/M/3Z9K4bTMAMkLBERCeDHQ/g1-4-.jpg",
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/02/jacare-de-2-metros-de-comprimento-e-resgatado-em-rua-do-interior-de-sp.ghtml",
       "source": "g1 > g1 Rio Preto",
@@ -43,214 +53,204 @@
       "published": 1793640880000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "VÍDEO: Policial militar de folga é morto a tiros durante briga em bar no interior de MG",
-      "summary": "Policial militar de folga é morto a tiros durante briga em bar no interior de MG Um policial militar, identificado como Danylo dos Santos Batista, morreu após ser…",
-      "image": "https://s2-g1.glbimg.com/yjJm4NuyfI3eNiX47zKGM-I4x64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/u/K0toXuRNG6Lw4kOSAllg/pm-morto-em-fronteira.jpg",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/02/video-policial-militar-de-folga-e-morto-a-tiros-durante-briga-em-bar-no-interior-de-mg.ghtml",
-      "source": "g1 > g1 Rio Preto",
-      "published": 1793635144000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "OceanPact vende embarcações por US$ 86 mi e eleva espaço para dividendos; ação salta",
+      "summary": "(Divulgação/Imprensa OceanPact) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2021/05/oceanpact4.jpg?fit=1200%2C801&quality=70&strip=all\" />Venda de…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/05/oceanpact4.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/oceanpact-vende-embarcacoes-por-us-86-mi-e-eleva-espaco-para-dividendos-acao-salta/",
+      "source": "InfoMoney",
+      "published": 1793726235000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Dow Jones Futuro cai com pressão sobre tecnologia e cautela antes das midterms",
-      "summary": "Placa da Wall Street é vista do lado de fora da Bolsa de Valores de Nova York (NYSE), no distrito de Manhattan, em Nova York, Estados Unidos, em 2 de outubro de 2020.…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-com-pressao-sobre-tecnologia-e-cautela-antes-das-midterms/",
+      "title": "Mesmo com desafio climático, StoneX eleva projeção para soja, algodão e milho",
+      "summary": "Lavoura de soja &#8211; 02/02/2026 (Foto: REUTERS/César Olmedo) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Soja2.jpg?fit=300%2C190&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/mesmo-com-desafio-climatico-stonex-eleva-projecao-para-soja-algodao-e-milho/",
       "source": "InfoMoney",
-      "published": 1793695303000
+      "published": 1793726215000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "BBAS3, ITUB4, PETR4 e VALE3: o que esperar após semana de perdas históricas?",
-      "summary": "Após fortes movimentos na semana pós-eleição, gráficos mostram novos suportes e resistências de Banco do Brasil, Itaú, Petrobras e Vale The post BBAS3, ITUB4, PETR4 e…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/capa_acoes_semanal_realista_1200x675.jpg?fit=300%2C169&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/bbas3-itub4-petr4-e-vale3-o-que-esperar-apos-semana-de-perdas-historicas/",
+      "title": "XP vê pausa no corte de juros até o fim de 2027, com cenário negativo para a inflação",
+      "summary": "(Foto: Ilustração de taxas de juros/Shutterstock) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_1010302231-1.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/economia/projecao-selic-xp-13-75-copom-03112026/",
       "source": "InfoMoney",
-      "published": 1793694600000
+      "published": 1793725400000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Ibovespa e dólar voltam à prova: quais níveis podem definir a reabertura do mercado?",
-      "summary": "Após queda de 18% da Bolsa e forte alta do dólar, análise técnica aponta suportes e resistências que podem orientar os primeiros movimentos na volta do mercado nesta…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/capa_ibovespa_dolar_sem_texto_1200x675.jpg?fit=300%2C169&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-e-dolar-voltam-a-prova-quais-niveis-podem-definir-a-reabertura-do-mercado/",
+      "title": "Ável compra Westlink Capital e amplia atuação no segmento PJ",
+      "summary": "Fernando Pisa e Marcelo Cincão, co-CEOs da Ável (Crédito: divulgação) \" data-image-caption=\" Fernando Pisa e Marcelo Cincão, co-CEOs da Ável (Crédito: divulgação) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-03-133642.png?fit=300%2C172&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/advisor/avel-compra-westlink-capital-e-amplia-atuacao-no-segmento-pj/",
       "source": "InfoMoney",
-      "published": 1793693700000
+      "published": 1793724802000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Itaú (ITUB4) divulga balanço do 3º trimestre nesta terça: o que esperar?",
-      "summary": "Agência do Itaú em São Paulo 30 de julho de 2025 REUTERS/Amanda Perobelli \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-17T222338Z_1_LYNXMPEM7G1IB_RTROPTP_4_BRAZIL-ECONOMY-BANKS.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/itau-itub4-divulga-balanco-do-3o-trimestre-nesta-terca-o-que-esperar/",
+      "title": "Durigan: ‘Não tivemos nem espaço de falar com Lula sobre novas indicações para o BC’",
+      "summary": "Ministro da Fazenda, Dario Durigan, fala durante entrevista em seu gabinete em Brasília, Brasil, em 24 de abril de 2026. REUTERS/Jorge Silva \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-18T142742Z_1_LYNXMPEM5H12V_RTROPTP_4_BRAZIL-ECONOMY-DURIGAN.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/durigan-nao-tivemos-nem-espaco-de-falar-com-lula-sobre-novas-indicacoes-para-o-bc/",
       "source": "InfoMoney",
-      "published": 1793692800000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Trump perder o Congresso pode aliviar a pressão dos EUA sobre o Brasil?",
-      "summary": "Presidente dos EUA, Donald Trump, faz discurso em sessão conjunta do Congresso no Capitólio em Washington 04/03/2025. MANDEL NGAN/Pool via REUTERS/File Photo \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/Captura-de-tela-2026-02-25-074237.png?fit=300%2C201&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/trump-perder-o-congresso-pode-aliviar-a-pressao-dos-eua-sobre-o-brasil/",
-      "source": "InfoMoney",
-      "published": 1793692800000
+      "published": 1793724351000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Rodinei cita refletores, mas assume culpa por gol contra pelo Santos",
-      "summary": "Rodinei assumiu a responsabilidade pelo gol contra na derrota do Santos por 2 a 1 para o Red Bull Bragantino. O lateral explicou que a iluminação do estádio prejudicou…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55628642056_3d13d87be4_3k.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/rodinei-gol-contra-santos-refletores-bragantino/",
+      "title": "Lateral do Santos, Kauã Miranda é convocado para a Seleção Portuguesa sub-17",
+      "summary": "Lateral das categorias de base do Santos, Kauã Miranda foi convocado pela Seleção Portuguesa Sub-17 para a fase classificatória da Eurocopa de 2027. O post Lateral do…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/WhatsApp-Image-2026-09-30-at-16.59.35-1.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/lateral-do-santos-kaua-miranda-e-convocado-para-a-selecao-portuguesa-sub-17/",
       "source": "Gazeta Esportiva",
-      "published": 1793692827000
+      "published": 1793726595000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Mattos detona arbitragem após derrota do Santos e anuncia reclamação à CBF",
-      "summary": "Alexandre Mattos, executivo de futebol do Santos, criticou duramente a arbitragem após a derrota para o Red Bull Bragantino. O dirigente classificou como \"grotescos\" os…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55628932404_50bf3fab29_3k.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/mattos-detona-arbitragem-apos-derrota-do-santos-e-anuncia-reclamacao-a-cbf/",
+      "title": "Enquanto F1 corre em SP, TCR South vê reta final da temporada na Argentina",
+      "summary": "A Hankook terá um fim de semana de dupla atuação no automobilismo sul-americano, com presença na penúltima etapa do TCR South America, em Rosário, e na sexta rodada da…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/472474_1227046_hcc_4620_web_.webp",
+      "link": "https://www.gazetaesportiva.com/tcr/enquanto-f1-corre-em-sp-tcr-south-ve-reta-final-da-temporada-na-argentina/",
       "source": "Gazeta Esportiva",
-      "published": 1793689235000
+      "published": 1793726152000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Neymar reage a vídeo de lance de pênalti pedido pelo Santos: “Mais uma vez”",
-      "summary": "Neymar reagiu nas redes sociais ao lance de pênalti pedido pelo Santos na derrota por 2 a 1 para o Red Bull Bragantino. O camisa 10 compartilhou um vídeo da disputa…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/WhatsApp-Image-2026-11-03-at-00.18.59.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/neymar-reage-lance-penalti-santos-bragantino/",
+      "title": "Conselho da Fifa terá acesso ao projeto fracassado de sociedade comercial",
+      "summary": "A Fifa autorizou os integrantes de seu Conselho a consultarem documentos relacionados ao projeto fracassado da FFE, iniciativa que gerou forte crise interna na entidade.…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260801__C3QU8NR__v1__MidRes__FilesFblFifaUefaEconomy.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/conselho-da-fifa-tera-acesso-ao-projeto-fracassado-de-sociedade-comercial/",
       "source": "Gazeta Esportiva",
-      "published": 1793676282000
+      "published": 1793725956000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Veja fotos do treino do São Paulo nesta segunda-feira",
-      "summary": "Veja uma galeria de fotos do treino do São Paulo nesta segunda-feira. Equipe se prepara para clássico contra o Corinthians no Brasileirão. O post Veja fotos do treino do…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/image8-1.webp",
-      "link": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-treino-do-sao-paulo-nesta-segunda-feira-10/",
+      "title": "Arsenal homenageia atacante do Tenerife Jesús de Miguel",
+      "summary": "Arsenal homenageia atacante do Tenerife Jesús de Miguel O post Arsenal homenageia atacante do Tenerife Jesús de Miguel apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/ome.webp",
+      "link": "https://www.gazetaesportiva.com/times/arsenal/arsenal-homenageia-atacante-do-tenerife-jesus-de-miguel/",
       "source": "Gazeta Esportiva",
-      "published": 1793674137000
+      "published": 1793725682000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Cruzeiro vence Guarulhos e mantém invencibilidade na Superliga masculina",
-      "summary": "O Sada Cruzeiro conquistou mais uma vitória na Superliga Masculina ao derrotar o Guarulhos por 3 sets a 1, no Ginásio da Ponte Grande, em Guarulhos. Após perder o…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/59d8176c-cd79-4c11-b495-03931234a7e9.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/superliga-masculina-de-volei/cruzeiro-vence-guarulhos-lidera-superliga-masculina/",
+      "title": "Palmeiras tem Flaco López e Giay convocados pela Argentina para última data Fifa de 2026",
+      "summary": "O Palmeiras terá dois representantes na próxima data Fifa com a seleção da Argentina, a última de 2026. O atacante Flaco López e o lateral direito Agustín Giay foram…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/14102026_cg_palmeiras_9814_58.webp",
+      "link": "https://www.gazetaesportiva.com/times/argentina/palmeiras-tem-flaco-lopez-e-giay-convocados-pela-argentina-para-ultima-data-fifa-de-2026/",
       "source": "Gazeta Esportiva",
-      "published": 1793673556000
+      "published": 1793724760000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Chapecoense x Mirassol: onde assistir, horário e escalações do jogo do Brasileirão",
-      "summary": "Confira onde assistir, horário e escalações prováveis de Chapecoense e Mirassol; jogo vale pela 34ª rodada do Brasileirão 2026 O post Chapecoense x Mirassol: onde…",
+      "title": "Smart Monitor TV Samsung 43? com preço de Black Friday na Shopee",
+      "summary": "A Black Friday é uma das melhores épocas do ano para trocar de televisão e investir em um modelo mais moderno, com melhor qualidade de imagem, recursos inteligentes e…",
+      "image": "https://www.estadao.com.br/resizer/v2/GKPJUPRGWVFLROC7Q3NADS2GFE.jpg?quality=80&amp;auth=18ed71eaa3b9a5ec2a25de3d0b74afb72f1ebc24d616e9c8df0a836c8e0a56c7&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/smart-monitor-tv-samsung-43-com-preco-de-black-friday-na-shopee/",
+      "source": "Novidades do TecMundo",
+      "published": 1793724120000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Ouça mais e gaste menos: seleção de fones Bluetooth em promoção na Amazon",
+      "summary": "Se você está em busca de um bom fone Bluetooth sem abrir mão da qualidade, a Amazon reúne agora uma seleção interessante de modelos com ótimo custo-benefício. São opções…",
+      "image": "https://m.media-amazon.com/images/I/31eeSqQHCvL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/11/03/reviews/ouca-mais-e-gaste-menos-selecao-de-fones-bluetooth-em-promocao-na-amazon-2/",
+      "source": "Olhar Digital",
+      "published": 1793724065000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Sua memória RAM está travando tudo? Confira estas opções DDR5 em oferta",
+      "summary": "Se o seu computador ou notebook está pedindo mais velocidade, este é o momento certo para dar um upgrade na memória RAM. Reunimos três opções DDR5 em promoção na Amazon…",
+      "image": "https://m.media-amazon.com/images/I/510ZsEU6sRL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/11/03/reviews/sua-memoria-ram-esta-travando-tudo-confira-estas-opcoes-ddr5-em-oferta/",
+      "source": "Olhar Digital",
+      "published": 1793722865000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "O que significa mogging, palavra do ano eleita pelo dicionário Collins",
+      "summary": "Conheça o significado de mogging e descubra os outros termos finalistas que marcaram as tendências globais de comportamento e cultura em 2026 O post O que significa…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/cafe-lifestyle-16x9-copy-1024x576.jpg",
+      "link": "https://olhardigital.com.br/2026/11/03/internet-e-redes-sociais/o-que-significa-mogging-palavra-do-ano-eleita-pelo-dicionario-collins/",
+      "source": "Olhar Digital",
+      "published": 1793722096000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Bethesda lança novo teaser de Elder Scrolls VI Sentinel e confirma nome do jogo",
+      "summary": "A Bethesda finalmente revelou uma das informações mais aguardadas pelos fãs de RPG: o nome oficial de The Elder Scrolls 6. O próximo capítulo da franquia será chamado…",
+      "image": "https://www.estadao.com.br/resizer/v2/U7TVNZD6CFARFPOH4QPU6P37TY.jpg?quality=80&amp;auth=71cbc5c3de01811bbb822b6ffa814f7f04c6309f4854db02b03e20619be34126&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/bethesda-lanca-novo-teaser-de-elder-scrolls-vi-sentinel-e-confirma-nome-do-jogo/",
+      "source": "Novidades do TecMundo",
+      "published": 1793721960000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Gabarito provisório do concurso da Saúde do TO é divulgado; confira",
+      "summary": "Secretaria de Estado da Saúde do Tocantins Ananda Santos/Governo do Tocantins A Fundação Getúlio Vargas (FGV) divulgou nesta terça-feira (3) os gabaritos preliminares do…",
+      "image": "https://s2-g1.glbimg.com/8G898tmCmzCBH3WCQ2PDrHnIpoI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/n/5sJ9CBTbSjI924zerK3A/420485.jfif",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/03/gabarito-provisorio-do-concurso-da-saude-do-to-e-divulgado-confira.ghtml",
+      "source": "g1",
+      "published": 1793726158000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Nova fase da Artideias aposta em inovação e atendimento personalizado",
+      "summary": "Nova fase da Artideias aposta em inovação e atendimento personalizado Divulgação/ Artideias Transformar ambientes é também transformar histórias. Com essa filosofia, a…",
+      "image": "https://s2-g1.glbimg.com/Q8vZgTu4IkAZcti_VmgsSkGj_Ow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/E/3W3L8LSw2ovLmdxbITeA/capa-da-materia.jpg",
+      "link": "https://g1.globo.com/sp/santos-regiao/especial-publicitario/artideias/noticia/2026/11/03/nova-fase-da-artideias-aposta-em-inovacao-e-atendimento-personalizado.ghtml",
+      "source": "g1",
+      "published": 1793726156000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Prefeitura de Ilhabela alerta para golpes com links falsos de pagamento da taxa ambiental",
+      "summary": "Prefeitura de Ilhabela faz alerta sobre golpe de links falsos de pagamento da TPA A Prefeitura de Ilhabela alerta moradores e turistas sobre golpes envolvendo a cobrança…",
+      "image": "https://s2-g1.glbimg.com/_yhZX813lt3IQgOGQUJ5HUPH42o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/i/6qXNKYSPCyXHIfXN0nPg/foto-g1.png",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/03/prefeitura-de-ilhabela-alerta-para-golpes-com-links-falsos-de-pagamento-da-taxa-ambiental.ghtml",
+      "source": "g1",
+      "published": 1793726051000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Samu Natal retoma serviço de atendimento por motolâncias após 12 anos",
+      "summary": "Conheça motolâncias do Samu O Serviço de Atendimento Móvel de Urgência (Samu) de Natal retomou nesta terça-feira (3) o serviço de motolâncias, após 12 anos de…",
+      "image": "https://s2-g1.glbimg.com/bJOyk6ku7oOsdX1MyH1vL_lyBwo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/o/V8UQNcRCCsFtJLOBsujA/whatsapp-image-2026-11-03-at-13.51.07.jpeg",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/03/samu-natal-retoma-servico-de-atendimento-por-motolancias-apos-12-anos.ghtml",
+      "source": "g1",
+      "published": 1793726016000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "'Naruto', que ganha filme live-action, tem produção confirmada pela Lionsgate",
+      "summary": "A adaptação cinematográfica em live-action do mangá \"Naruto\" teve sua produção confirmada pela Lionsgate . O estúdio fechou uma parceria com a Sony Pictures, que…",
       "image": "",
-      "link": "https://olhardigital.com.br/2026/11/03/internet-e-redes-sociais/chapecoense-x-mirassol-onde-assistir-horario-e-escalacoes-do-jogo-do-brasileirao/",
-      "source": "Olhar Digital",
-      "published": 1793694600000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Atlético de Madrid x Bayern de Munique: onde assistir, horário e escalações do jogo da Champions League",
-      "summary": "Confira onde assistir, horário e prováveis escalações de Atlético de Madrid e Bayern de Munique; duelo é válido pela 4ª rodada da Champions League O post Atlético de…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/11/03/internet-e-redes-sociais/atletico-de-madrid-x-bayern-de-munique-onde-assistir-horario-e-escalacoes-do-jogo-da-champions-league/",
-      "source": "Olhar Digital",
-      "published": 1793693400000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Midterms: como funcionam e o que esperar das eleições estadunidenses",
-      "summary": "Conhecidas como midterms, as eleições renovam toda a Câmara dos Representantes e cerca de um terço do Senado O post Midterms: como funcionam e o que esperar das eleições…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/Destaque-Midterms-Eleicoes-de-meio-de-mandato-nos-EUA-1024x576.jpg",
-      "link": "https://olhardigital.com.br/2026/11/03/pro/midterms-como-funciona-e-o-que-esperar-das-eleicoes-estadunidenses/",
-      "source": "Olhar Digital",
-      "published": 1793692800000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "iPhone Duo esgota na pré-venda e Apple não sabe quando situação vai melhorar",
-      "summary": "CEO da companhia, John Ternus, afirmou que a empresa trabalha para ampliar a oferta, mas não sabe quando a produção e a demanda estarão equilibradas O post iPhone Duo…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Apple-Event-September-9-58-39-screenshot-1024x576.png",
-      "link": "https://olhardigital.com.br/2026/11/02/reviews/iphone-duo-esgota-na-pre-venda-e-apple-nao-sabe-quando-situacao-vai-melhorar/",
-      "source": "Olhar Digital",
-      "published": 1793674077000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "WhatsApp ganha função que transforma números, endereços e datas em atalhos",
-      "summary": "O WhatsApp está liberando recurso que promete facilitar tarefas comuns do dia a dia. A novidade identifica automaticamente números de telefone, datas, horários,…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/WA_NEW_MESSAGE_TEXT_ACTIONS_FEATURE_IOS-1024x576.jpg",
-      "link": "https://olhardigital.com.br/2026/11/02/internet-e-redes-sociais/whatsapp-ganha-funcao-que-transforma-numeros-enderecos-e-datas-em-atalhos/",
-      "source": "Olhar Digital",
-      "published": 1793672857000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Mecânico de locomotivas aposentado ganha festa de 102 anos com tema ferroviário em Sorocaba",
-      "summary": "VÍDEO ID 15146588 “O Trenzinho do Caipira”, uma das obras mais conhecidas de Heitor Villa-Lobos, é inspirada nas viagens do maestro brasileiro pelo interior do país e…",
-      "image": "https://s2-g1.glbimg.com/HeiGp2V0MZUewzowOTax3vXZ1B4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/c/v9D0xcTdeEuRJ0MYbI0g/edicao-g1-agenda-2026-10-30t140730.318.png",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/03/mecanico-de-locomotivas-aposentado-ganha-festa-de-102-anos-com-tema-ferroviario-em-sorocaba.ghtml",
-      "source": "g1",
-      "published": 1793695839000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Ir ao shopping, conhecer Thiaguinho e ver jogo no estádio: idosos revelam sonhos e ação viraliza na web",
-      "summary": "Idosos de asilo no interior de SP compartilham sonhos que ainda pretendem realizar Idosos atendidos pelo Asilo Vicentino de Pirapozinho (SP) emocionaram as redes sociais…",
-      "image": "https://s2-g1.glbimg.com/lIGdpFawZ-_kFkjHfYZ9botlAWE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/M/BjWBf3Q4uUtc7hN5zSYQ/1200x800-3-2026-10-30t185102.543.jpg",
-      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/03/ir-ao-shopping-conhecer-thiaguinho-e-ver-jogo-no-estadio-idosos-revelam-sonhos-e-acao-viraliza-na-web.ghtml",
-      "source": "g1",
-      "published": 1793694621000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "VÍDEO: paciente toca violão e canta Legião Urbana durante cirurgia no cérebro em Marília",
-      "summary": "Paciente toca violão e canta Legião Urbana durante cirurgia no cérebro em Marília O supervisor de engenharia Fábio Aparecido Pereira dos Reis, de 51 anos, tocou violão e…",
-      "image": "https://s2-g1.glbimg.com/5ySipexFqfHswVEdFn_TnyAmd7A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/a/2B5nTpS32VXSLY78356w/19.png",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/03/video-paciente-toca-violao-e-canta-legiao-urbana-durante-cirurgia-no-cerebro-em-marilia.ghtml",
-      "source": "g1",
-      "published": 1793694608000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Nadador atropelado por barco no litoral de SP sofre fratura exposta na perna: 'Parecia um míssil'",
-      "summary": "Duas pessoas morrem afogadas em praias da Baixada Santista O nadador Vinícius Gomes de Castro, de 48 anos, sofreu uma fratura exposta na perna após ser atropelado por um…",
-      "image": "https://s2-g1.glbimg.com/2mQl-I4DyXfVW4VUdLHr_UtYPlI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/1/hzXa6mTuG0qCCRwQNDaA/nadador-atropela.jpg",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/03/nadador-atropelado-por-barco-no-litoral-de-sp-sofre-fratura-exposta-na-perna-parecia-um-missil.ghtml",
-      "source": "g1",
-      "published": 1793694443000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Humorista imita Neymar e viraliza ao fazer 'reservas' em restaurantes de Santos; VÍDEO",
-      "summary": "Humorista imita Neymar e viraliza ao fazer 'reservas' em restaurantes de Santos Voz de Neymar, trejeitos e risadas. O humorista Filipe Pontes viralizou ao publicar…",
-      "image": "https://s2-g1.glbimg.com/I02gaLggCXhyy3aROU-nrZG8RSo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/9/BIjtSKQBiYQCJgoXOyJA/humorista-neymar.jpg",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/03/humorista-imita-neymar-e-viraliza-ao-fazer-reservas-em-restaurantes-de-santos-video.ghtml",
-      "source": "g1",
-      "published": 1793694306000
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/naruto-que-ganha-filme-live-action-tem-producao-confirmada-pela-lionsgate.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1793725920000
     }
   ]
 }
