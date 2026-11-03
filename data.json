@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-11-03T01:55:36.359Z",
+  "updatedAt": "2026-11-03T08:52:04.485Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Após 1 ano internado, adolescente que teve 90% do corpo queimado em explosão volta para casa: 'Olho brilha de alegria', diz mãe",
+      "summary": "Adolescente internado em Catanduva após explosão de churrasqueira volta para casa Depois de um ano e cinco meses internado em um hospital em Catanduva (SP), entre…",
+      "image": "https://s2-g1.glbimg.com/q-WdlMQAYZ9tGoLI1__7rug70BM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/A/4HBBpiSP2PO7L2YByREg/foto-g1-5-.png",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/03/apos-1-ano-internado-adolescente-que-teve-90percent-do-corpo-queimado-em-explosao-volta-para-casa-olho-brilha-de-alegria-diz-mae.ghtml",
+      "source": "g1 > g1 Rio Preto",
+      "published": 1793694634000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -43,214 +53,204 @@
       "published": 1793635144000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Toboágua de 33m de altura no 3º parque aquático mais visitado do mundo na 'Orlando brasileira' abre em dezembro",
-      "summary": "Parque aquático em Olímpia recebe megatoboágua com 33 m de altura O terceiro parque aquático mais visitado do mundo prepara uma nova atração para tentar ampliar ainda…",
-      "image": "https://s2-g1.glbimg.com/5_KrDoNWhxguwR2Utiw4Cd00FO4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/S/c3CanNSJA4g7lBVA2bjg/g1-3-.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/02/toboagua-data-de-estreia.ghtml",
-      "source": "g1 > g1 Rio Preto",
-      "published": 1793628922000
-    },
-    {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Vendas da Apple superam estimativas, mas China segue como ponto fraco",
-      "summary": "Uma loja da Apple em Austin, no Texas. Foto: Brandon Bell/Getty Images \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/466794466.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/vendas-da-apple-superam-estimativas-mas-china-segue-como-ponto-fraco/",
-      "source": "InfoMoney",
-      "published": 1793659298000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Palantir vê lucro mais que dobrar no 3º trimestre e eleva projeções para 2026",
-      "summary": "Ilusração com logotipo da Palantir 3 de agosto de 2025 REUTERS/Dado Ruvic \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-21T001622Z_1_LYNXMPEM2K006_RTROPTP_4_USA-DEFENCE-PALANTIR-TECH.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/palantir-ve-lucro-mais-que-dobrar-no-3o-trimestre-e-eleva-projecoes-para-2026/",
-      "source": "InfoMoney",
-      "published": 1793659075000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Parlamentares governistas aumentam críticas a juros altos antes de reunião do Copom",
-      "summary": "O deputado federal Lindbergh Farias (PT-RJ) discursa da tribuna do plenário da Câmara (Foto: Zeca Ribeiro/Câmara dos Deputados) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/11/Lindbergh1.jpg?fit=300%2C185&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/parlamentares-governistas-aumentam-criticas-a-juros-altos-antes-de-reuniao-do-copom/",
-      "source": "InfoMoney",
-      "published": 1793657722000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Trump admite indultos a aliados e promete vetos se democratas vencerem eleição",
-      "summary": "Presidente dos EUA, Donald Trump 20 de outubro de 2026 REUTERS/Kevin Lamarque \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-20T210407Z_1_LYNXMPEM9J1U5_RTROPTP_4_USA-TRUMP.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/trump-admite-indultos-a-aliados-e-promete-vetos-se-democratas-vencerem-eleicao/",
-      "source": "InfoMoney",
-      "published": 1793657611000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Bolsas de NY fecham mistas com queda do petróleo, em semana de payroll e midterms",
+      "title": "Dow Jones Futuro cai com pressão sobre tecnologia e cautela antes das midterms",
       "summary": "Placa da Wall Street é vista do lado de fora da Bolsa de Valores de Nova York (NYSE), no distrito de Manhattan, em Nova York, Estados Unidos, em 2 de outubro de 2020.…",
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/bolsas-de-ny-abrem-em-alta-com-queda-do-petroleo-em-semana-de-agenda-cheia/",
+      "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-com-pressao-sobre-tecnologia-e-cautela-antes-das-midterms/",
       "source": "InfoMoney",
-      "published": 1793654553000
+      "published": 1793695303000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "BBAS3, ITUB4, PETR4 e VALE3: o que esperar após semana de perdas históricas?",
+      "summary": "Após fortes movimentos na semana pós-eleição, gráficos mostram novos suportes e resistências de Banco do Brasil, Itaú, Petrobras e Vale The post BBAS3, ITUB4, PETR4 e…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/capa_acoes_semanal_realista_1200x675.jpg?fit=300%2C169&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/bbas3-itub4-petr4-e-vale3-o-que-esperar-apos-semana-de-perdas-historicas/",
+      "source": "InfoMoney",
+      "published": 1793694600000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Ibovespa e dólar voltam à prova: quais níveis podem definir a reabertura do mercado?",
+      "summary": "Após queda de 18% da Bolsa e forte alta do dólar, análise técnica aponta suportes e resistências que podem orientar os primeiros movimentos na volta do mercado nesta…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/capa_ibovespa_dolar_sem_texto_1200x675.jpg?fit=300%2C169&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-e-dolar-voltam-a-prova-quais-niveis-podem-definir-a-reabertura-do-mercado/",
+      "source": "InfoMoney",
+      "published": 1793693700000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Itaú (ITUB4) divulga balanço do 3º trimestre nesta terça: o que esperar?",
+      "summary": "Agência do Itaú em São Paulo 30 de julho de 2025 REUTERS/Amanda Perobelli \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-17T222338Z_1_LYNXMPEM7G1IB_RTROPTP_4_BRAZIL-ECONOMY-BANKS.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/itau-itub4-divulga-balanco-do-3o-trimestre-nesta-terca-o-que-esperar/",
+      "source": "InfoMoney",
+      "published": 1793692800000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Trump perder o Congresso pode aliviar a pressão dos EUA sobre o Brasil?",
+      "summary": "Presidente dos EUA, Donald Trump, faz discurso em sessão conjunta do Congresso no Capitólio em Washington 04/03/2025. MANDEL NGAN/Pool via REUTERS/File Photo \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/Captura-de-tela-2026-02-25-074237.png?fit=300%2C201&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/trump-perder-o-congresso-pode-aliviar-a-pressao-dos-eua-sobre-o-brasil/",
+      "source": "InfoMoney",
+      "published": 1793692800000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Barreal toma terceiro amarelo e é substituído com dores em derrota do Santos",
-      "summary": "O lateral esquerdo Álvaro Barreal deixou a derrota do Santos por 2 a 1 para o Red Bull Bragantino, nesta segunda-feira (2), com dores na coxa direita. Substituído aos 23…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55628787744_04d20f0b68_o.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/barreal-dores-coxa-direita-santos-bragantino/",
+      "title": "Rodinei cita refletores, mas assume culpa por gol contra pelo Santos",
+      "summary": "Rodinei assumiu a responsabilidade pelo gol contra na derrota do Santos por 2 a 1 para o Red Bull Bragantino. O lateral explicou que a iluminação do estádio prejudicou…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55628642056_3d13d87be4_3k.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/rodinei-gol-contra-santos-refletores-bragantino/",
       "source": "Gazeta Esportiva",
-      "published": 1793669825000
+      "published": 1793692827000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Veja os melhores momentos de Bragantino 2 x 1 Santos pelo Brasileirão",
-      "summary": "O Santos foi derrotado pelo Red Bull Bragantino por 2 a 1 nesta segunda-feira, no Estádio Cícero de Souza Marques, em Bragança Paulista, pela 34ª rodada do Campeonato…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55628691934_5aa89db26f_o-1.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/veja-os-melhores-momentos-de-bragantino-2-x-1-santos-pelo-brasileirao/",
+      "title": "Mattos detona arbitragem após derrota do Santos e anuncia reclamação à CBF",
+      "summary": "Alexandre Mattos, executivo de futebol do Santos, criticou duramente a arbitragem após a derrota para o Red Bull Bragantino. O dirigente classificou como \"grotescos\" os…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55628932404_50bf3fab29_3k.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/mattos-detona-arbitragem-apos-derrota-do-santos-e-anuncia-reclamacao-a-cbf/",
       "source": "Gazeta Esportiva",
-      "published": 1793669472000
+      "published": 1793689235000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Goiás vence CRB em casa e cola no G6 da Série B do Brasileiro",
-      "summary": "O Goiás venceu o CRB por 2 a 1 nesta segunda-feira, pela 36ª rodada da Série B do Campeonato Brasileiro, no Estádio da Serrinha. Com gols de Djalma e Cadu, o time goiano…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/cfd7d26b-a41d-4640-aa41-c03b8f10fc71.webp",
-      "link": "https://www.gazetaesportiva.com/times/goias/goias-vence-crb-e-cola-no-g6-da-serie-b/",
+      "title": "Neymar reage a vídeo de lance de pênalti pedido pelo Santos: “Mais uma vez”",
+      "summary": "Neymar reagiu nas redes sociais ao lance de pênalti pedido pelo Santos na derrota por 2 a 1 para o Red Bull Bragantino. O camisa 10 compartilhou um vídeo da disputa…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/WhatsApp-Image-2026-11-03-at-00.18.59.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/neymar-reage-lance-penalti-santos-bragantino/",
       "source": "Gazeta Esportiva",
-      "published": 1793669293000
+      "published": 1793676282000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Lucas Barbosa celebra vitória do Bragantino sobre o Santos e mira Libertadores",
-      "summary": "O atacante Lucas Barbosa valorizou a vitória do Red Bull Bragantino por 2 a 1 sobre o Santos e destacou a boa fase da equipe no Campeonato Brasileiro. O jogador afirmou…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55628787724_922c3e931b_k.webp",
-      "link": "https://www.gazetaesportiva.com/red-bull-bragantino/lucas-barbosa-celebra-vitoria-do-bragantino-sobre-o-santos-e-mira-libertadores/",
+      "title": "Veja fotos do treino do São Paulo nesta segunda-feira",
+      "summary": "Veja uma galeria de fotos do treino do São Paulo nesta segunda-feira. Equipe se prepara para clássico contra o Corinthians no Brasileirão. O post Veja fotos do treino do…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/image8-1.webp",
+      "link": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-treino-do-sao-paulo-nesta-segunda-feira-10/",
       "source": "Gazeta Esportiva",
-      "published": 1793668805000
+      "published": 1793674137000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Gabigol contesta arbitragem após derrota do Santos e defende desempenho da equipe",
-      "summary": "Gabigol criticou a arbitragem após a derrota do Santos por 2 a 1 para o Red Bull Bragantino, nesta segunda-feira (2), pelo Campeonato Brasileiro. O atacante reclamou de…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/HWKKgPdWYAAHoXI.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/gabigol-critica-arbitragem-derrota-santos-bragantino/",
+      "title": "Cruzeiro vence Guarulhos e mantém invencibilidade na Superliga masculina",
+      "summary": "O Sada Cruzeiro conquistou mais uma vitória na Superliga Masculina ao derrotar o Guarulhos por 3 sets a 1, no Ginásio da Ponte Grande, em Guarulhos. Após perder o…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/59d8176c-cd79-4c11-b495-03931234a7e9.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/superliga-masculina-de-volei/cruzeiro-vence-guarulhos-lidera-superliga-masculina/",
       "source": "Gazeta Esportiva",
-      "published": 1793668508000
+      "published": 1793673556000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Binance: Coreia do Norte rebate EUA após FBI atribuir roubo ao país",
-      "summary": "Declaração foi divulgada nesta terça-feira (3) pela agência estatal KCNA e atribuída a Kim Yo Jong, irmã influente do líder norte-coreano Kim Jong Un O post Binance:…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/Destaque-Binance-hacker-1024x576.jpg",
-      "link": "https://olhardigital.com.br/2026/11/02/seguranca/binance-coreia-do-norte-rebate-eua-apos-fbi-atribuir-roubo-ao-pais/",
-      "source": "Olhar Digital",
-      "published": 1793668370000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "NASA procura ajuda para salvar o Hubble",
-      "summary": "NASA consulta a indústria privada em busca de soluções para prolongar a vida útil ou conduzir o retorno controlado do Hubble à Terra O post NASA procura ajuda para…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2024/05/hubble-1024x561.jpg",
-      "link": "https://olhardigital.com.br/2026/11/02/ciencia-e-espaco/nasa-procura-ajuda-para-salvar-o-hubble/",
-      "source": "Olhar Digital",
-      "published": 1793661600000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Apple supera expectativas e registra melhor resultado financeiro da história",
-      "summary": "Resultados foram divulgados nesta segunda-feira (2) e superaram as expectativas de Wall Street O post Apple supera expectativas e registra melhor resultado financeiro da…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Apple-John-Ternus-e-Tim-Cook-1024x576.jpg",
-      "link": "https://olhardigital.com.br/2026/11/02/pro/apple-supera-expectativas-e-registra-melhor-resultado-financeiro-da-historia/",
-      "source": "Olhar Digital",
-      "published": 1793657461000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Anthropic fatura R$ 91,8 bilhões em trimestre, mas prejuízo chega a R$ 124,2 bilhões",
-      "summary": "Números foram divulgados nesta segunda-feira (2), enquanto a companhia se prepara para possível abertura de capital ainda neste mês O post Anthropic fatura R$ 91,8…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/anthropic_ipo-1024x567.jpg",
-      "link": "https://olhardigital.com.br/2026/11/02/pro/anthropic-fatura-r-918-bilhoes-em-trimestre-mas-prejuizo-chega-a-r-1242-bilhoes/",
-      "source": "Olhar Digital",
-      "published": 1793656364000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "James Webb revela novas pistas sobre a origem do visitante interestelar 3I/ATLAS",
-      "summary": "O Telescópio Espacial James Webb, da NASA, descobriu características do 3I/ATLAS bem diferentes das observadas nos cometas do Sistema Solar O post James Webb revela…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/12/Filipp-Romanov-3I-Dec.jpg",
-      "link": "https://olhardigital.com.br/2026/11/02/ciencia-e-espaco/james-webb-revela-novas-pistas-sobre-a-origem-do-visitante-interestelar-3i-atlas/",
-      "source": "Olhar Digital",
-      "published": 1793654664000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Empresa de Mogi das Cruzes, na Grande São Paulo, constrói duas unidades do papamóvel que serão usadas por Leão XIV",
-      "summary": "Empresa da grande São Paulo construiu papamóveis para Leão XIV Uma empresa de Mogi das Cruzes, na Grande São Paulo, foi escolhida para uma missão especial: construir…",
-      "image": "https://s2-g1.glbimg.com/eYzVySya-Hvm7zNQMeaCBQER5Uk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/0/GFmztsQXqgx1EStrDWzg/globo-canal-4-20261102-2000-frame-133271.jpeg",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/02/empresa-de-mogi-das-cruzes-na-grande-sao-paulo-constroi-duas-unidades-do-papamovel-que-serao-usadas-por-leao-xiv.ghtml",
-      "source": "g1",
-      "published": 1793669813000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Morador descreve medo diante de violência de ladrões contra pais idosos mantidos reféns dentro de casa em SP",
-      "summary": "Idosa publica fotos de joias na internet e família é feita refém em assalto em SP O filho de um casal de idosos de 89 e 85 anos relatou o medo vivido pela família…",
-      "image": "https://s2-g1.glbimg.com/vXq4cwYn21gNMTX_g9sp-ywPMZo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/p/RBgQtwRBWZkaiR13SpfQ/vlcsnap-2026-11-02-22h28m42s496.png",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/02/morador-relata-violencia-de-ladroes-contra-pais-idosos-mantidos-refens-dentro-de-casa-por-causa-de-joias.ghtml",
-      "source": "g1",
-      "published": 1793669509000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Fifa assume que pagou cerca de R$ 22 milhões de impostos de Infantino nos EUA",
-      "summary": "Uma reunião habitual do comitê de três integrantes que determina a remuneração dos dirigentes mais antigos e experientes da Fifa estava chegando ao fim em Bancoc, na…",
+      "title": "Chapecoense x Mirassol: onde assistir, horário e escalações do jogo do Brasileirão",
+      "summary": "Confira onde assistir, horário e escalações prováveis de Chapecoense e Mirassol; jogo vale pela 34ª rodada do Brasileirão 2026 O post Chapecoense x Mirassol: onde…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/fifa-assume-que-pagou-cerca-de-r-22-milhoes-de-impostos-de-infantino-nos-eua.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1793669400000
+      "link": "https://olhardigital.com.br/2026/11/03/internet-e-redes-sociais/chapecoense-x-mirassol-onde-assistir-horario-e-escalacoes-do-jogo-do-brasileirao/",
+      "source": "Olhar Digital",
+      "published": 1793694600000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Atlético de Madrid x Bayern de Munique: onde assistir, horário e escalações do jogo da Champions League",
+      "summary": "Confira onde assistir, horário e prováveis escalações de Atlético de Madrid e Bayern de Munique; duelo é válido pela 4ª rodada da Champions League O post Atlético de…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/11/03/internet-e-redes-sociais/atletico-de-madrid-x-bayern-de-munique-onde-assistir-horario-e-escalacoes-do-jogo-da-champions-league/",
+      "source": "Olhar Digital",
+      "published": 1793693400000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Midterms: como funcionam e o que esperar das eleições estadunidenses",
+      "summary": "Conhecidas como midterms, as eleições renovam toda a Câmara dos Representantes e cerca de um terço do Senado O post Midterms: como funcionam e o que esperar das eleições…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/Destaque-Midterms-Eleicoes-de-meio-de-mandato-nos-EUA-1024x576.jpg",
+      "link": "https://olhardigital.com.br/2026/11/03/pro/midterms-como-funciona-e-o-que-esperar-das-eleicoes-estadunidenses/",
+      "source": "Olhar Digital",
+      "published": 1793692800000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "iPhone Duo esgota na pré-venda e Apple não sabe quando situação vai melhorar",
+      "summary": "CEO da companhia, John Ternus, afirmou que a empresa trabalha para ampliar a oferta, mas não sabe quando a produção e a demanda estarão equilibradas O post iPhone Duo…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Apple-Event-September-9-58-39-screenshot-1024x576.png",
+      "link": "https://olhardigital.com.br/2026/11/02/reviews/iphone-duo-esgota-na-pre-venda-e-apple-nao-sabe-quando-situacao-vai-melhorar/",
+      "source": "Olhar Digital",
+      "published": 1793674077000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "WhatsApp ganha função que transforma números, endereços e datas em atalhos",
+      "summary": "O WhatsApp está liberando recurso que promete facilitar tarefas comuns do dia a dia. A novidade identifica automaticamente números de telefone, datas, horários,…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/WA_NEW_MESSAGE_TEXT_ACTIONS_FEATURE_IOS-1024x576.jpg",
+      "link": "https://olhardigital.com.br/2026/11/02/internet-e-redes-sociais/whatsapp-ganha-funcao-que-transforma-numeros-enderecos-e-datas-em-atalhos/",
+      "source": "Olhar Digital",
+      "published": 1793672857000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Motociclista morre após colisão com carro no bairro Aldeia, em Santarém",
-      "summary": "Vítima trabalhava com entrega de comida Reprodução: redes sociais Um motociclista morreu na noite de segunda-feira (2) após colidir com um carro no cruzamento da Avenida…",
-      "image": "https://s2-g1.glbimg.com/rf5Y_9rdhPL7cFk_GFkrFLy-uQs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/B/pgRKvaSjWHbHqltgsyXg/whatsapp-image-2026-11-02-at-22.08.01.jpeg",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/02/motociclista-morre-apos-colisao-com-carro-no-bairro-aldeia-em-santarem.ghtml",
+      "title": "Mecânico de locomotivas aposentado ganha festa de 102 anos com tema ferroviário em Sorocaba",
+      "summary": "VÍDEO ID 15146588 “O Trenzinho do Caipira”, uma das obras mais conhecidas de Heitor Villa-Lobos, é inspirada nas viagens do maestro brasileiro pelo interior do país e…",
+      "image": "https://s2-g1.glbimg.com/HeiGp2V0MZUewzowOTax3vXZ1B4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/c/v9D0xcTdeEuRJ0MYbI0g/edicao-g1-agenda-2026-10-30t140730.318.png",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/03/mecanico-de-locomotivas-aposentado-ganha-festa-de-102-anos-com-tema-ferroviario-em-sorocaba.ghtml",
       "source": "g1",
-      "published": 1793669271000
+      "published": 1793695839000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Tampas de plástico transformam a vida de crianças que fazem tratamento contra o câncer",
-      "summary": "Tampinhas que iriam para o lixo transformam a vida de crianças com câncer Tampinha de plástico, que muitas vezes vai parar no lixo, tem transformado a vida de crianças…",
-      "image": "https://s2-g1.glbimg.com/WO1QBQRQvGok6XwCn6GHbZ5VzjU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/C/nPZBW8RRqpM8CAdcBllw/globo-canal-4-20261102-2000-frame-128426.jpeg",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/02/tampas-de-plastico-transformam-a-vida-de-criancas-que-fazem-tratamento-contra-o-cancer.ghtml",
+      "title": "Ir ao shopping, conhecer Thiaguinho e ver jogo no estádio: idosos revelam sonhos e ação viraliza na web",
+      "summary": "Idosos de asilo no interior de SP compartilham sonhos que ainda pretendem realizar Idosos atendidos pelo Asilo Vicentino de Pirapozinho (SP) emocionaram as redes sociais…",
+      "image": "https://s2-g1.glbimg.com/lIGdpFawZ-_kFkjHfYZ9botlAWE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/M/BjWBf3Q4uUtc7hN5zSYQ/1200x800-3-2026-10-30t185102.543.jpg",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/03/ir-ao-shopping-conhecer-thiaguinho-e-ver-jogo-no-estadio-idosos-revelam-sonhos-e-acao-viraliza-na-web.ghtml",
       "source": "g1",
-      "published": 1793669218000
+      "published": 1793694621000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "VÍDEO: paciente toca violão e canta Legião Urbana durante cirurgia no cérebro em Marília",
+      "summary": "Paciente toca violão e canta Legião Urbana durante cirurgia no cérebro em Marília O supervisor de engenharia Fábio Aparecido Pereira dos Reis, de 51 anos, tocou violão e…",
+      "image": "https://s2-g1.glbimg.com/5ySipexFqfHswVEdFn_TnyAmd7A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/a/2B5nTpS32VXSLY78356w/19.png",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/03/video-paciente-toca-violao-e-canta-legiao-urbana-durante-cirurgia-no-cerebro-em-marilia.ghtml",
+      "source": "g1",
+      "published": 1793694608000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Nadador atropelado por barco no litoral de SP sofre fratura exposta na perna: 'Parecia um míssil'",
+      "summary": "Duas pessoas morrem afogadas em praias da Baixada Santista O nadador Vinícius Gomes de Castro, de 48 anos, sofreu uma fratura exposta na perna após ser atropelado por um…",
+      "image": "https://s2-g1.glbimg.com/2mQl-I4DyXfVW4VUdLHr_UtYPlI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/1/hzXa6mTuG0qCCRwQNDaA/nadador-atropela.jpg",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/03/nadador-atropelado-por-barco-no-litoral-de-sp-sofre-fratura-exposta-na-perna-parecia-um-missil.ghtml",
+      "source": "g1",
+      "published": 1793694443000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Humorista imita Neymar e viraliza ao fazer 'reservas' em restaurantes de Santos; VÍDEO",
+      "summary": "Humorista imita Neymar e viraliza ao fazer 'reservas' em restaurantes de Santos Voz de Neymar, trejeitos e risadas. O humorista Filipe Pontes viralizou ao publicar…",
+      "image": "https://s2-g1.glbimg.com/I02gaLggCXhyy3aROU-nrZG8RSo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/9/BIjtSKQBiYQCJgoXOyJA/humorista-neymar.jpg",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/03/humorista-imita-neymar-e-viraliza-ao-fazer-reservas-em-restaurantes-de-santos-video.ghtml",
+      "source": "g1",
+      "published": 1793694306000
     }
   ]
 }
