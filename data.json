@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-11-08T17:24:49.804Z",
+  "updatedAt": "2026-11-08T21:29:18.969Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Carro invade a contramão e bate de frente com ônibus escolar de Rio Preto na BR-153",
+      "summary": "Carro que invadiu a contramão bateu contra um ônibus que transportava alunos e professores de uma escola de São José do Rio Preto (SP), em José Bonifácio (SP) Reprodução…",
+      "image": "https://s2-g1.glbimg.com/CllSlxVRvWSIiE2cuP_gmzr7jeA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/S/y3PqlASDOUBk1j9Sc87g/onibus-2-.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/08/carro-invade-a-contramao-e-bate-de-frente-com-onibus-escolar-de-rio-preto-na-br-153.ghtml",
+      "source": "g1 > g1 Rio Preto",
+      "published": 1794169878000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Dupla é presa com apoio de drone suspeita de furtar combustível de trem em distrito de Votuporanga",
+      "summary": "Dupla foi presa suspeita de furtar combustível de trens em distrito de Votuporanga (SP) Polícia Militar Ambiental/Divulgação Dois homens foram presos em flagrante…",
+      "image": "https://s2-g1.glbimg.com/NOhy2KJLrsIbpV7qkNouJxaD1Nk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/C/ivsztlS0uGyOzeHucnow/itens.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/08/dupla-e-presa-com-apoio-de-drone-suspeita-de-furtar-combustivel-de-trem-em-distrito-de-votuporanga.ghtml",
+      "source": "g1 > g1 Rio Preto",
+      "published": 1794161741000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -33,224 +53,204 @@
       "published": 1794146733000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Jovens inovam no agro para liderar sucessão familiar no interior de SP: 'Continuar o legado', diz neto",
-      "summary": "Jovens do noroeste paulista unem tecnologia e tradição familiar no agronegócio É a partir das tradições e conhecimentos passados de geração em geração que o agronegócio…",
-      "image": "https://s2-g1.glbimg.com/i70Ld6pBXOhOyW8eoNCeMQBSMV4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/x/5iFPjcSsuHCQY1fAocuA/sjp-jovens-agro-red-b-311026.transfer-frame-5503.jpeg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/08/jovens-inovam-no-agro-para-liderar-sucessao-familiar-no-interior-de-sp-continuar-o-legado-diz-neto.ghtml",
-      "source": "g1 > g1 Rio Preto",
-      "published": 1794135600000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Turismo rural e foco em qualidade: noroeste de SP se consolida como polo da produção de cacau",
-      "summary": "Turismo rural e foco em qualidade: noroeste de SP se consolida como polo da produção de cacau TV TEM Aos 24 anos, o cientista social formado pela Universidade de São…",
-      "image": "https://s2-g1.glbimg.com/FrOFagWu_LdUYxc5c5ouAca7Xt8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/M/SqKS50T5m0DyS5Jd0zJw/sjp-cacau-noroeste-mix-video-mixdown-3-frame-4277.jpeg",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/11/08/turismo-rural-e-foco-em-qualidade-noroeste-de-sp-se-consolida-como-polo-da-producao-de-cacau.ghtml",
-      "source": "g1 > g1 Rio Preto",
-      "published": 1794133800000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Câmara lamenta resultado no GP de SP de F-1: ‘Não estou satisfeito’",
+      "summary": "Formula One F1 &#8211; Sao Paulo Grand Prix &#8211; Autodromo Jose Carlos Pace, Sao Paulo, Brazil &#8211; November 6, 2026 Haas&#8217; Rafael Camara arrives ahead of…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-11-06T121844Z_419816441_UP1EMB60Y773N_RTRMADP_3_MOTOR-F1-BRAZIL.jpg?fit=300%2C213&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/esportes/camara-lamenta-resultado-no-gp-de-sp-de-f-1-nao-estou-satisfeito/",
+      "source": "InfoMoney",
+      "published": 1794173027000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Enem estreia acompanhante e cão de apoio emocional para candidatos",
-      "summary": "Pessoas aguardam em local de prova do Enem (Foto: Paulo Pinto/Agência Brasil) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/retrospectiva81.webp?fit=300%2C179&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/brasil/enem-estreia-acompanhante-e-cao-de-apoio-emocional-para-candidatos/",
+      "title": "Kassab espera corte nas contas públicas para balizar apoio do PSD a Lula 4",
+      "summary": "GIlberto Kassab. Foto: PSD/Divulgação \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/03/6168801321_dfe93c7fdb_b.jpg?fit=1024%2C683&quality=70&str…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/6168801321_dfe93c7fdb_b.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/kassab-espera-corte-nas-contas-publicas-para-balizar-apoio-do-psd-a-lula-4/",
       "source": "InfoMoney",
-      "published": 1794157723000
+      "published": 1794170970000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Reforma do Judiciário é tão importante quanto a pauta econômica, diz Solange Srour",
-      "summary": "Isabela Rosa/Divulgação MBA Brasil \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/11/solange-srour.jpeg?fit=1280%2C854&quality=70&strip=all\"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/solange-srour.jpeg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/reforma-do-judiciario-e-tao-importante-quanto-a-pauta-economica-diz-solange-srour/",
+      "title": "Com ataques acelerados por IA, seguro cibernético ganha importância para PMEs",
+      "summary": "Pixabay \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2019/06/hackers.jpg?fit=900%2C578&quality=70&strip=all\" />Seguro cibernético deve se tornar…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/hackers.jpg?fit=300%2C193&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/business/com-ataques-acelerados-por-ia-seguro-cibernetico-ganha-importancia-para-pmes/",
       "source": "InfoMoney",
-      "published": 1794157200000
+      "published": 1794169771000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Enem 2026: “A valorização do SUS como direito universal” é tema da redação",
-      "summary": "(Foto: Freepik) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2024/11/hand-writing-paper-with-pen.jpg?fit=1280%2C853&quality=70&strip=all\" />O…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/11/hand-writing-paper-with-pen.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/brasil/enem-2026-a-valorizacao-do-sus-como-direito-universal-e-tema-da-redacao/",
+      "title": "Parlamentares denunciam saques privilegiados no Ueno Bank antes de intervenção",
+      "summary": "A sede do Ueno Bank é vista após o presidente do Banco Central do Paraguai, Carlos Carvallo, apresentar sua renúncia em meio a um processo de resolução contra a…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-11-03T212637Z_305952984_RC2GGOAFMQC0_RTRMADP_3_PARAGUAY-FINANCE.jpeg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/parlamentares-denunciam-saques-privilegiados-no-ueno-bank-antes-de-intervencao/",
       "source": "InfoMoney",
-      "published": 1794157162000
+      "published": 1794168804000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Ataque de houthis causa danos a prédio da Aramco no distrito financeiro de Riad",
-      "summary": "Logotipo da Saudi Aramco é mostrado nas instalações de petróleo em Abqaiq, Arábia Saudita, em 12 de outubro de 2019. REUTERS/Maxim Shemetov/Foto de arquivo \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-07-10T081521Z_647062544_RC27S8AKFHFV_RTRMADP_3_SAUDI-ARAMCO-STOCKS.jpg?fit=300%2C202&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/ataque-de-houthis-causa-danos-a-predio-da-aramco-no-distrito-financeiro-de-riad/",
+      "title": "Terras raras, Lei Rouanet, Guerra no Irã: professores comentam o que caiu no Enem",
+      "summary": "Enem. Imagem: Paulo Pinto/Agência Brasil \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2025/04/sp_enem23.webp?fit=1024%2C768&quality=70&strip=all\"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/sp_enem23.webp?fit=300%2C225&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/brasil/terras-raras-lei-rouanet-guerra-no-ira-professores-comentam-o-que-caiu-no-enem/",
       "source": "InfoMoney",
-      "published": 1794156138000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "CSN fecha acordo de R$12,7 bi para vender unidade de cimento à chinesa Huaxin",
-      "summary": "CSN (Foto: Divulgação) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2019/06/csn-07-fabrica.jpg?fit=457%2C265&quality=70&strip=all\" />Em comunicado…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/csn-07-fabrica.jpg?fit=300%2C174&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/csn-fecha-acordo-de-r127-bi-para-vender-unidade-de-cimento-a-chinesa-huaxin/",
-      "source": "InfoMoney",
-      "published": 1794155812000
+      "published": 1794168475000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "De Paul acerta um chutaço de longa distância e faz golaço na MLS; veja o lance",
-      "summary": "De Paul acerta um chutaço de longa distância e faz golaço na MLS; veja o lance O post De Paul acerta um chutaço de longa distância e faz golaço na MLS; veja o lance…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/De.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/3885299/",
+      "title": "Marlon exalta jogadores do Grêmio que estão jogando no sacrifício após vaga na final",
+      "summary": "Marlon exalta jogadores do Grêmio que estão jogando no sacrifício após vaga na final O post Marlon exalta jogadores do Grêmio que estão jogando no sacrifício após…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/Marlo.webp",
+      "link": "https://www.gazetaesportiva.com/times/gremio/marlon-exalta-jogadores-do-gremio-que-estao-jogando-no-sacrificio-apos-vaga-na-final/",
       "source": "Gazeta Esportiva",
-      "published": 1794158044000
+      "published": 1794173124000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Inter Miami CF 3 x 3 Charlotte FC pela MLS",
-      "summary": "Melhores momentos: Inter Miami CF 3 x 3 Charlotte FC pela MLS O post Melhores momentos: Inter Miami CF 3 x 3 Charlotte FC pela MLS apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/Inter.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-inter-miami-cf-3-x-3-charlotte-fc-pela-mls/",
+      "title": "Fred diz que elenco do Atlético precisa se blindar para a final da Sul-Americana",
+      "summary": "Fred diz que elenco do Atlético precisa se blindar para a final da Sul-Americana O post Fred diz que elenco do Atlético precisa se blindar para a final da Sul-Americana…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/Fre.webp",
+      "link": "https://www.gazetaesportiva.com/times/atletico-mg/fred-diz-que-elenco-do-atletico-precisa-se-blindar-para-a-final-da-sul-americana/",
       "source": "Gazeta Esportiva",
-      "published": 1794157791000
+      "published": 1794172855000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Neymar parabeniza Novorizontino por acesso à Série A: “Que história vocês fizeram”",
-      "summary": "Neymar usou as redes sociais para parabenizar o Novorizontino pelo acesso inédito à Série A do Campeonato Brasileiro. O atacante do Santos destacou a trajetória do clube…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55110014887_1844f67e35_o.webp",
-      "link": "https://www.gazetaesportiva.com/times/gremio-novorizontino/neymar-parabeniza-novorizontino-acesso-serie-a/",
+      "title": "Melhores momentos: FC Koln 1 x 2 Bayer Leverkusen pela Bundesliga",
+      "summary": "Melhores momentos: FC Koln 1 x 2 Bayer Leverkusen pela Bundesliga O post Melhores momentos: FC Koln 1 x 2 Bayer Leverkusen pela Bundesliga apareceu primeiro em Gazeta…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/FC-K.webp",
+      "link": "https://www.gazetaesportiva.com/times/bayer-leverkusen/melhores-momentos-fc-koln-1-x-2-bayer-leverkusen-pela-bundesliga/",
       "source": "Gazeta Esportiva",
-      "published": 1794157598000
+      "published": 1794172531000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Palmeiras chega ao Rio para decidir vaga na final da Copa do Brasil",
-      "summary": "Palmeiras chega ao Rio para decidir vaga na final da Copa do Brasil O post Palmeiras chega ao Rio para decidir vaga na final da Copa do Brasil apareceu primeiro em…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/Palmeir.webp",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-chega-ao-rio-para-decidir-vaga-na-final-da-copa-do-brasil/",
+      "title": "Bayer Leverkusen vence clássico contra o Colônia e sobe na tabela do Alemão",
+      "summary": "Com gols de Aleix García e Patrick Schick, o Bayer Leverkusen derrotou o Colônia por 2 a 1 fora de casa e ganhou posições na Bundesliga. O post Bayer Leverkusen vence…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261108__dpa-pa_261108-99-212831_dpai__v1__HighRes__1FcCologneVsBayerLeverkuse.webp",
+      "link": "https://www.gazetaesportiva.com/times/bayer-leverkusen/bayer-leverkusen-vence-classico-contra-o-colonia-e-sobe-na-tabela-do-alemao/",
       "source": "Gazeta Esportiva",
-      "published": 1794157533000
+      "published": 1794172280000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Philadelphia Union 4 x 1 Toronto FC pela MLS",
-      "summary": "Melhores momentos: Philadelphia Union 4 x 1 Toronto FC pela MLS O post Melhores momentos: Philadelphia Union 4 x 1 Toronto FC pela MLS apareceu primeiro em Gazeta…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/Phila.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-philadelphia-union-4-x-1-toronto-fc-pela-mls/",
+      "title": "Veja as fotos do confronto entre Lens e Marseille",
+      "summary": "Veja as fotos do confronto entre Lens e Marseille deste domingo, pela 10ª rodada do Campeonato Francês, no Estádio Félix-Bollaert. O post Veja as fotos do confronto…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261108__D6UY3WG__v1__HighRes__FblFraLigue1LensMarseille.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/ligue-1/veja-as-fotos-do-confronto-entre-lens-e-marseille/",
       "source": "Gazeta Esportiva",
-      "published": 1794156805000
+      "published": 1794172024000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Anthropic investe bilhões em geradores a gás para data centers",
-      "summary": "Empresa assumiu contratos de fornecimento de geradores com capacidade de 1,7 gigawatt para garantir energia aos seus data centers O post Anthropic investe bilhões em…",
+      "title": "Nvidia investiga possível ação de inteligência estrangeira contra Jensen Huang",
+      "summary": "Conselho de administração da empresa abriu uma investigação para apurar se o CEO foi alvo de uma operação de inteligência estrangeira O post Nvidia investiga possível…",
       "image": "",
-      "link": "https://olhardigital.com.br/2026/11/08/pro/anthropic-investe-bilhoes-em-geradores-a-gas-para-data-centers/",
+      "link": "https://olhardigital.com.br/2026/11/08/pro/nvidia-investiga-possivel-acao-de-inteligencia-estrangeira-contra-jensen-huang/",
       "source": "Olhar Digital",
-      "published": 1794154766000
+      "published": 1794170657000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Rockstar removerá vídeos com spoilers de GTA 6 mesmo após o lançamento do jogo",
-      "summary": "A Rockstar poderá remover vídeos de GTA 6 que contenham grandes spoilers da história mesmo depois do lançamento do jogo, marcado para 19 de novembro de 2026. A regra faz…",
-      "image": "https://www.estadao.com.br/resizer/v2/SOWJ3WMJ5NGNRLUQAN6LLN36NA.jpg?quality=80&amp;auth=57f83665c924e53723c0c2c8dbf35ffbce9c2a5a73c9c7cf8846a67d6a6d50e2&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/rockstar-removera-videos-com-spoilers-de-gta-6-mesmo-apos-o-lancamento-do-jogo/",
-      "source": "Novidades do TecMundo",
-      "published": 1794154500000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Maias podem ter sido envenenados sem saber por substância usada em rituais",
-      "summary": "Mineral usado pelos maias em pinturas e rituais contaminou ambientes aquáticos por séculos e pode ter exposto a população ao metal tóxico O post Maias podem ter sido…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/cinabrio-1024x682.jpg",
-      "link": "https://olhardigital.com.br/2026/11/08/ciencia-e-espaco/maias-podem-ter-sido-envenenados-sem-saber-por-substancia-usada-em-rituais/",
+      "title": "Fire TV Stick ou Roku? Veja uma seleção com os melhores dispositivos de streaming em promoção",
+      "summary": "Se você ainda assiste conteúdo direto na TV sem um dispositivo de streaming, está perdendo praticidade e qualidade. Reunimos três ótimas opções em oferta agora na Amazon…",
+      "image": "https://m.media-amazon.com/images/I/41DegJcrP3L._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/11/08/reviews/fire-tv-stick-ou-roku-veja-uma-selecao-com-os-melhores-dispositivos-de-streaming-em-promocao/",
       "source": "Olhar Digital",
-      "published": 1794153055000
+      "published": 1794170306000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Resultado da Quina de hoje: veja números e ganhadores do concurso 7162 (domingo, 08/11)",
-      "summary": "O sorteio de R$ 2,1 milhões do concurso 7162 é realizado em São Paulo. Além dos cinco números premiados, confira como resgatar seu prêmio O post Resultado da Quina de…",
+      "title": "Asteroide misterioso acelera no espaço e desafia explicações científicas",
+      "summary": "Asteroide 1998 KY26 apresenta aceleração incomum, mas temperaturas elevadas enfraquecem hipótese de que seja um cometa escuro O post Asteroide misterioso acelera no…",
       "image": "",
-      "link": "https://olhardigital.com.br/2026/11/08/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7162-domingo-08-11/",
+      "link": "https://olhardigital.com.br/2026/11/08/ciencia-e-espaco/asteroide-misterioso-acelera-no-espaco-e-desafia-explicacoes-cientificas/",
       "source": "Olhar Digital",
-      "published": 1794150826000
+      "published": 1794169933000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Resultado da Lotofácil de hoje: veja números e ganhadores do concurso 3824 (domingo, 08/11)",
-      "summary": "O sorteio do concurso 3824 da Lotofácil acontece na manhã deste domingo (8), às 11h. O prêmio está estimado em R$ 2 milhões O post Resultado da Lotofácil de hoje: veja…",
-      "image": "",
-      "link": "https://olhardigital.com.br/2026/11/08/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3824-domingo-08-11/",
+      "title": "Hora de renovar a sala: veja uma seleção de TVs QLED em promoção na Amazon",
+      "summary": "Se você está pensando em trocar a televisão ou presentear alguém com uma tela de qualidade, este é um bom momento para dar uma olhada nas ofertas de TVs QLED disponíveis…",
+      "image": "https://m.media-amazon.com/images/I/41uAdOY7ihL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/11/08/reviews/hora-de-renovar-a-sala-veja-uma-selecao-de-tvs-qled-em-promocao-na-amazon-5/",
       "source": "Olhar Digital",
-      "published": 1794150261000
+      "published": 1794169106000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Honda apresenta bicicleta elétrica de montanha com motor de 750 W",
+      "summary": "A Honda apresentou sua primeira bicicleta elétrica de montanha de alto desempenho durante a EICMA 2026, feira de motocicletas realizada em Milão, na Itália. Desenvolvida…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/2261103e_002H-1-1024x623.jpg",
+      "link": "https://olhardigital.com.br/2026/11/08/carros-e-tecnologia/honda-apresenta-bicicleta-eletrica-de-montanha-com-motor-de-750-w/",
+      "source": "Olhar Digital",
+      "published": 1794168388000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Amigos fogem após jovem desaparecer em acidente com moto aquática no Lago do Manso em MT",
-      "summary": "Jovem postou moto aquática a caminho do Lago do Manso antes de desaparecer em MT Os amigos que acompanhavam Matheus Gustavo França Prates, de 22 anos, deixaram o local…",
-      "image": "https://s2-g1.glbimg.com/y4ZfFXYNQkirp87IRVBcY8VsGcA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/J/FvWsAUSPeLvxkjqsFtBQ/videos-g1-15-.png",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/08/amigos-fogem-apos-jovem-desaparecer-em-acidente-com-moto-aquatica-no-lago-do-manso-em-mt.ghtml",
+      "title": "Dengue: mais de 3,5 mil adultos precisam tomar 2ª dose para fechar esquema vacinal em Prudente",
+      "summary": "Presidente Prudente convoca quatro mil moradores para segunda dose da vacina da dengue Mais de 3,5 mil moradores de Presidente Prudente (SP) que receberam a primeira…",
+      "image": "https://s2-g1.glbimg.com/PGmkbHyHH9oCAl7xUOmwTdZeGNY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/J/uNCM3BQXKhNeqHN2piGA/g1-2026-11-06t152256.920.png",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/08/dengue-mais-de-35-mil-adultos-precisam-tomar-2a-dose-para-fechar-esquema-vacinal-em-prudente.ghtml",
       "source": "g1",
-      "published": 1794158538000
+      "published": 1794173178000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "VÍDEO: Fábio Porchat se encanta com Alagoas e diz: ‘Vou casar aqui um dia’",
-      "summary": "Fábio Porchat se encanta com Alagoas e diz: ‘Vou casar aqui um dia’ O humorista e apresentador Fábio Porchat disse que pensa em realizar o casamento em Alagoas após se…",
-      "image": "https://s2-g1.glbimg.com/GzwSwuzNAdflGuFeLG8zYAvyPpg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/t/vhZnDhTYC9tRbYwGht9A/whatsapp-image-2026-11-08-at-14.13.04.jpeg",
-      "link": "https://g1.globo.com/al/alagoas/noticia/2026/11/08/fabio-porchat-se-encanta-com-alagoas-e-diz-vou-casar-aqui-um-dia.ghtml",
+      "title": "Corpo com sinais de violência é encontrado em área de mata em Bauru",
+      "summary": "Corpo com sinais de violência é encontrado em área de mata em Bauru Marcus Vinícius Anjos/TV TEM A Polícia Civil investiga a morte de um homem encontrado sem vida no…",
+      "image": "https://s2-g1.glbimg.com/dp8kd31AGI3FvFJWhbHPk-1dhTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/R/HXZCOhTBeY2Ey7v9CSpw/novo-projeto-1-.png",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/08/corpo-e-encontrado-em-area-de-mata-em-bauru.ghtml",
       "source": "g1",
-      "published": 1794158248000
+      "published": 1794172896000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Juiz de Fora registra alagamentos e quedas de árvores durante forte chuva com ventos de até 101 km/h",
-      "summary": "Forte chuva deixa rua Salvador de Moura Fontes alagada neste sábado (7) Prefeitura de Juiz de Fora/Divulgação Uma forte chuva com rajadas de vento de até 101,9 km/h foi…",
-      "image": "https://s2-g1.glbimg.com/YITPFj2Gq-7NaRfotvtRXm7Oel4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/L/Oi5ErUSWGmRfZdxuYwmQ/chuva-jf-07-11.jpg",
-      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/08/juiz-de-fora-registra-alagamentos-e-quedas-de-arvores-durante-forte-chuva-com-ventos-de-ate-101-kmh.ghtml",
+      "title": "Quem foi Tia Eva? A história da fundadora de quilombo em Campo Grande citada no Enem 2026",
+      "summary": "Eva Maria de Jesus, conhecida como Tia Eva, fundadora de uma comunidade quilombola em Campo Grande MPMS A história de Eva Maria de Jesus, conhecida como Tia Eva,…",
+      "image": "https://s2-g1.glbimg.com/HT1DDEWlBmCAtRNtxWFl6y5tcOE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/z/DtABDoQuKdJ1SmZ5SlvQ/rgfhgygujkkhjki.png",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/08/quem-foi-tia-eva-a-historia-da-fundadora-de-quilombo-em-campo-grande-citada-no-enem-2026.ghtml",
       "source": "g1",
-      "published": 1794158118000
+      "published": 1794172722000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Empresário que sobreviveu a ataque há 2 meses é morto a tiros em oficina em Nilópolis",
-      "summary": "Raphael Andrade de Souza, de 37 anos, foi morto a tiros em Nilópolis Reprodução Um empresário de 37 anos foi assassinado a tiros neste sábado (7) dentro da oficina em…",
-      "image": "https://s2-g1.glbimg.com/qghvIG3db0tSfEXxWJrbOLfQR3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/T/3y0aEZTJOUVBmU1hbjBg/imagem-cortada-36-.jpg",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/08/homem-e-morto-em-nilopolis.ghtml",
+      "title": "'Interessante', 'inesperado', 'cansativa': candidatos do Recife se dividem sobre 1º dia do Enem e elogiam tema da redação",
+      "summary": "No Recife, candidatos comentam sobre redação e 1º dia de provas do Enem Neste domingo (8), primeiro dia de provas do Exame Nacional do Ensino Médio (Enem), os candidatos…",
+      "image": "https://s2-g1.glbimg.com/f6vxeGx2zCTt0JVIF5j4TDQojFE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/b/5pZ9wgTeOhtHnbrysiRw/estudantes-enem.jpg",
+      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/08/candidatos-sobre-1o-dia-de-provas-do-enem-redacao-recife.ghtml",
       "source": "g1",
-      "published": 1794157894000
+      "published": 1794172415000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Homem morre após reagir a ataque a tiros contra casa dele em Montes Claros; suspeito foi baleado e preso",
-      "summary": "Homem morre após reagir a ataque a tiros contra casa dele em Montes Claros Reprodução Google Um homem de 56 anos morreu após reagir a um ataque a tiros contra a casa…",
-      "image": "https://s2-g1.glbimg.com/Qqdd-Y3KZskNzLXNstSonZHtKUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/q/sBNteyQbKLMJFe4SzUpA/sirene-policia-1-.jpeg",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/08/homem-morre-apos-reagir-a-ataque-a-tiros-contra-casa-dele-em-montes-claros-suspeito-foi-baleado-e-preso.ghtml",
-      "source": "g1",
-      "published": 1794157767000
+      "title": "CEO da Nvidia admite relacionamento íntimo após alegações de caso com espiã chinesa",
+      "summary": "O CEO da Nvidia , Jensen Huang, admitiu ter mantido um caso extraconjugal dois dias depois de o jornal Financial Times noticiar seu suposto relacionamento amoroso com…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ceo-da-nvidia-admite-relacionamento-intimo-apos-alegacoes-de-caso-com-espia-chinesa.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1794172140000
     }
   ]
 }
