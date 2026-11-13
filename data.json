@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-11-13T02:25:52.335Z",
+  "updatedAt": "2026-11-13T11:44:01.407Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Motociclista morre e passageiro fica ferido após batida contra carro que fazia ultrapassagem em rodovia",
+      "summary": "Motociclista morre e passageiro fica em estado grave após batida de frente em rodovia de Olímpia Polícia Rodoviária Estadual/Divulgaçã Um motociclista morreu e um…",
+      "image": "https://s2-g1.glbimg.com/uxCNMsAY_xdGrNw1613gD5j3nVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/A/6Bz8LURUW2cWSPGVsD5g/g1-49-.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/13/acidente-contra-carro-e-moto-em-olimpia.ghtml",
+      "source": "g1 > g1 Rio Preto",
+      "published": 1794569644000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Homem morre atropelado ao parar no acostamento da BR-153 para tentar consertar pane em carro",
+      "summary": "Homem morre atropelado na BR-153 enquanto tentava consertar pane elétrica em carro parado no acostamento Polícia Rodoviária Federal/Reprodução Um homem de 47 anos morreu…",
+      "image": "https://s2-g1.glbimg.com/P2hlnQmMc5_DFc1oZytk7Yovt9Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/v/L06wAsQQGNiqaOCZtW0Q/g1-47-.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/13/homem-morre-atropelado-ao-parar-no-acostamento-da-br-153-para-tentar-consertar-pane-em-carro.ghtml",
+      "source": "g1 > g1 Rio Preto",
+      "published": 1794567946000
+    },
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Coruja que prevê morte? Museu abre à noite na sexta-feira 13 para desvendar mitos sobre animais",
+      "summary": "Na 'sexta-feira 13', museu abre para visitação noturna em Rio Preto Coruja anuncia morte? O canto de uma ave pode ser sinal de azar? E quem nunca imaginou um certo frio…",
+      "image": "https://s2-g1.glbimg.com/FihxPyivs5T-Buci6uL80kEDxcg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/4/d0Rl1LRWCESGGMVCZtgQ/foto-g1-29-.png",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/13/coruja-que-preve-morte-museu-abre-a-noite-na-sexta-feira-13-para-desvendar-mitos-sobre-animais.ghtml",
+      "source": "g1 > g1 Rio Preto",
+      "published": 1794564497000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -23,234 +53,204 @@
       "published": 1794523852000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Promotoria questiona Prefeitura de Rio Preto por encaminhar idosos para instituição de longa permanência em Guarulhos",
-      "summary": "Promotor questiona Prefeitura de Rio Preto por encaminhar idosos para Guarulhos O Ministério Público cobrará explicações da Prefeitura de São José do Rio Preto (SP)…",
-      "image": "https://s2-g1.glbimg.com/dQ2fkAcZY0Lv3I3rbG7g0Dfg6J8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/n/or2fpUSRqCFYKtTuuqiw/design-sem-nome-2026-07-15t191547.660.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/12/ministerio-publico-questiona-prefeitura-de-rio-preto-por-encaminhar-idosos-para-instituicao-de-longa-permanencia-em-guarulhos.ghtml",
-      "source": "g1 > g1 Rio Preto",
-      "published": 1794519812000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Ministério Público pede explicações à concessionária por falhas no fornecimento de energia em Rio Preto",
-      "summary": "Ministério Público investiga falhas da CPFL após apagões em Rio Preto O Ministério Público (MP) pediu explicações à Companhia Paulista de Força e Luz (CPFL) por falhas…",
-      "image": "https://s2-g1.glbimg.com/MMDy2Zhbay3Q91OARMl6r0STEjM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/6/TGyVVCRvADOBnmSYteJQ/design-sem-nome-2026-11-12t160247.368.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/12/ministerio-publico-pede-explicacoes-a-concessionaria-por-falhas-no-fornecimento-de-energia-em-rio-preto.ghtml",
-      "source": "g1 > g1 Rio Preto",
-      "published": 1794517483000
-    },
-    {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Polícia apreende 1.400 airbags provenientes de campanhas de recall em loja de peças usadas de veículos",
-      "summary": "Polícia apreende 1.400 airbags em loja de peças usadas em Araçatuba A Polícia Civil apreendeu 1.400 airbags provenientes de campanhas de recall em uma loja de peças…",
-      "image": "https://s2-g1.glbimg.com/bITJazqKg01MUXbO88U9OWnW1uA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/E/7prdQPSfCIMUdJKBOAUA/design-sem-nome-2026-11-12t165414.104.jpg",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/12/apreensao-airbags-aracatuba.ghtml",
-      "source": "g1 > g1 Rio Preto",
-      "published": 1794513772000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta",
+      "summary": "Índices futuros dos EUA caem com incertezas sobre a Nvidia e inflação ao produtor no radar The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-4-1.jpg?fit=300%2C185&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-13112026/",
+      "source": "InfoMoney",
+      "published": 1794570068000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "BB diz que não culpou todo o agro por resultado e que 90% dos clientes estão em dia",
-      "summary": "Fachada Banco do Brasil (Divulgação/BB) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-16.53.58.jpeg?fit=300%2C225&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/bb-diz-que-nao-culpou-todo-o-agro-por-resultado-e-que-90-dos-clientes-estao-em-dia/",
+      "title": "Sabre de luz de Darth Vader é leiloado pelo valor recorde de R$ 27,5 milhões",
+      "summary": "O vilão Darth Vader, em cena de &#8220;O Império Contra-Ataca&#8221; (Foto: Reprodução) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Darth-Vader.jpg?fit=300%2C147&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/sabre-de-luz-de-darth-vader-e-leiloado-pelo-valor-recorde-de-r-275-milhoes/",
       "source": "InfoMoney",
-      "published": 1794536186000
+      "published": 1794569686000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Microsoft tem dificuldade para restabelecer Outlook e Copilot após horas de pane",
-      "summary": "Bloomberg \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/11/474866884-1.jpg?fit=1280%2C853&quality=70&strip=all\" />Empresa diz que medidas não…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/474866884-1.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/microsoft-tem-dificuldade-para-restabelecer-outlook-e-copilot-apos-horas-de-pane/",
+      "title": "Irã relata explosão de navio de GNL em Ormuz e de sistema de radar dos EUA no Bahrein",
+      "summary": "Embarcações nas proximidades do Estreito de Ormuz, vistas de Musandam, Omã 28 de agosto de 2026 REUTERS/Stringer \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-28T212645Z_1_LYNXMPEM7R1S0_RTROPTP_4_IRAN-CRISIS-OMAN-HORMUZ.jpg?fit=300%2C169&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/ira-relata-explosao-de-navio-de-gnl-em-ormuz-e-de-sistema-de-radar-dos-eua-no-bahrein/",
       "source": "InfoMoney",
-      "published": 1794535848000
+      "published": 1794569650000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "“Sou um m…”: as últimas horas de Jensen Huang como CEO da Nvidia",
-      "summary": "Jensen Huang Erik Flyg/Bloomberg \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/11/474873477.jpg?fit=1280%2C853&quality=70&strip=all\" />Abatido,…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/474873477.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/business/sou-um-m-as-ultimas-horas-de-jensen-huang-como-ceo-da-nvidia/",
+      "title": "Fim da escala 6×1: STF começa a votar hoje decisão de Flávio Dino",
+      "summary": "Rosinei Coutinho/STF \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/09/aae405b4-4063-4aa2-84ed-33de7b5b30de.jpg-1.webp?fit=800%2C534&quality=70&s…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/aae405b4-4063-4aa2-84ed-33de7b5b30de.jpg-1.webp?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/fim-da-escala-6x1-stf-comeca-a-votar-hoje-decisao-de-flavio-dino/",
       "source": "InfoMoney",
-      "published": 1794535435000
+      "published": 1794569352000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Senado aprova texto-base de ajuste fiscal do governo Lula por 45 votos a 31",
-      "summary": "Sessão no Senado Federal. Foto: Edilson Rodrigues/Agência Senado \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/senado-federal.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/politica/senado-aprova-texto-base-do-ajuste-fiscal-do-governo-lula-por-45-votos-a-31/",
+      "title": "PF faz operação para investigar suspeita de desvio de emendas no filme Dark Horse",
+      "summary": "Polícia Federal. Foto: Divulgação \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/07/49341abd-19bf-44d1-95c4-1228ece3c679.jpeg?fit=768%2C512&quali…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/49341abd-19bf-44d1-95c4-1228ece3c679.jpeg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/brasil/pf-faz-operacao-para-investigar-suspeita-de-desvio-de-emendas-no-filme-dark-horse/",
       "source": "InfoMoney",
-      "published": 1794529727000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Dia de Sorte: confira o resultado do concurso 1346 sorteado nesta quinta-feira (12)",
-      "summary": "Loteria Dia de Sorte, da Caixa Econômica (Foto: Divulgação) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1346-sorteado-nesta-quinta-feira-12/",
-      "source": "InfoMoney",
-      "published": 1794529059000
+      "published": 1794568968000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Seedorf valoriza treinos, mas alerta: ‘O resultado final nunca está nas nossas mãos’",
-      "summary": "O Corinthians vem aproveitando a pausa do Campeonato Brasileiro durante a Data Fifa para aprimorar questões físicas, técnicas e táticas sob o comando de Clarence…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/seedorf-treino-corinthians.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/seedorf-valoriza-treinos-mas-alerta-o-resultado-final-nunca-esta-nas-nossas-maos/",
+      "title": "Ancelotti elogia torcida brasileira e indica fim da fase de testes na Seleção",
+      "summary": "Carlo Ancelotti comentou sobre o apoio da torcida brasileira antes do amistoso contra o Japão, falou sobre a renovação da Seleção Brasileira e afirmou que pretende…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/coletiva_carlo_ancelotti_13112026_high_versao_mais_recente_f17a7ae821.webp",
+      "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-renovacao-selecao-brasileira-japa/",
       "source": "Gazeta Esportiva",
-      "published": 1794536427000
+      "published": 1794569867000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Corinthians leva virada no terceiro quarto e perde para o Pinheiros em casa pelo NBB",
-      "summary": "O Corinthians foi derrotado de virada pelo Pinheiros por 91 a 79 nesta quinta-feira, no Ginásio Wlamir Marques, pela fase de classificação do NBB 2026/2027. Após dominar…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/HW95_M3WoAEExia.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/nbb-novo-basquete-brasil/corinthians-leva-virada-no-terceiro-quarto-e-perde-para-o-pinheiros-em-casa-pelo-nbb/",
+      "title": "Palmeiras treina forte durante a pausa na Academia de Futebol",
+      "summary": "Palmeiras treina forte durante a pausa na Academia de Futebol O post Palmeiras treina forte durante a pausa na Academia de Futebol apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/12112026_cg_palmeiras_3918_64.webp",
+      "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-treina-forte-durante-a-pausa-na-academia-de-futebol/",
       "source": "Gazeta Esportiva",
-      "published": 1794535886000
+      "published": 1794568573000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Flamengo vence Fluminense e mantém 100% de aproveitamento na Superliga feminina",
-      "summary": "Em duelo carioca nesta quinta-feira pela quinta rodada da Superliga Feminina de vôlei, o Sesc Flamengo confirmou o favoritismo e venceu o Fluminense por 3 sets a 0, com…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/HW9pbsPXwAAbYs-.webp",
-      "link": "https://www.gazetaesportiva.com/mais-esportes/volei/superliga-rodada-5-flamengo-fluminense/",
+      "title": "Há 45 anos: relembre a conquista do Flamengo na Libertadores de 1981",
+      "summary": "Há 45 anos: relembre a conquista do Flamengo na Libertadores de 1981 O post Há 45 anos: relembre a conquista do Flamengo na Libertadores de 1981 apareceu primeiro em…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/Flam.webp",
+      "link": "https://www.gazetaesportiva.com/times/flamengo/ha-45-anos-relembre-a-conquista-do-flamengo-na-libertadores-de-1981/",
       "source": "Gazeta Esportiva",
-      "published": 1794534459000
+      "published": 1794568284000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Rival do Palmeiras na Libertadores, Estudiantes vence na prorrogação e conquista Supercopa Argentina",
-      "summary": "Adversário do Palmeiras na final da Copa Libertadores, o Estudiantes conquistou o título da Supercopa Argentina nesta quinta-feira (12) ao vencer o Independiente…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/HW9ws9IWIAAWOns.webp",
-      "link": "https://www.gazetaesportiva.com/estudiantes-de-la-plata/rival-palmeiras-libertadores-estudiantes-supercopa-argentina/",
+      "title": "Há 56 anos, nascia Mirandinha; relembre em fotos a carreira do ex-atacante do Corinthians",
+      "summary": "Há 56 anos, nascia Mirandinha; relembre em fotos a carreira do ex-atacante do Corinthians O post Há 56 anos, nascia Mirandinha; relembre em fotos a carreira do…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/20261113T095149282Z-000000000735.webp",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/ha-56-anos-nascia-mirandinha-relembre-em-fotos-a-carreira-do-ex-atacante-do-corinthians/",
       "source": "Gazeta Esportiva",
-      "published": 1794534226000
+      "published": 1794567697000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "São Bernardo e Athletic ficam no empate pela última rodada da Série B",
-      "summary": "Na despedida do Campeonato Brasileiro Série B, São Bernardo e Athletic empataram em 2 a 2 nesta quinta-feira (12), no Estádio Primeiro de Maio. Depois de um primeiro…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/WhatsApp-Image-2026-11-12-at-22.31.44.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/sao-bernardo-e-athletic-ficam-no-empate-pela-ultima-rodada-da-serie-b/",
+      "title": "Ex-Santos completa quarta temporada na MLS e cita “evolução”; veja balanço",
+      "summary": "Revelado pelo Santos, Gabriel Pirani encerrou sua quarta temporada na MLS. Em 2026, o meia defendeu D.C. United e San Diego FC, somando 24 jogos e quatro gols. Ao longo…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/WhatsApp-Image-2026-11-12-at-13.31.04.webp",
+      "link": "https://www.gazetaesportiva.com/times/santos/gabriel-pirani-ex-santos-quatro-temporadas-mls-balanco/",
       "source": "Gazeta Esportiva",
-      "published": 1794533557000
+      "published": 1794567604000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Jensen Huang aceita depor ao Congresso dos EUA sobre caso de suposta espionagem",
-      "summary": "Ex-CEO da Nvidia deve participar de reunião a portas fechadas com três comissões O post Jensen Huang aceita depor ao Congresso dos EUA sobre caso de suposta espionagem…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/jensen-huang-1-1024x575.jpg",
-      "link": "https://olhardigital.com.br/2026/11/12/pro/jensen-huang-aceita-depor-ao-congresso-dos-eua-sobre-caso-de-suposta-espionagem/",
-      "source": "Olhar Digital",
-      "published": 1794534634000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Voyager 1 vai ficar tão longe da Terra que sinal levará um dia para chegar",
-      "summary": "Sonda da NASA deve ultrapassar marca histórica em 18 de novembro; solução de baixo consumo de energia ajudou a prolongar a missão O post Voyager 1 vai ficar tão longe da…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/sonda-voyager-distancia-1024x597.jpg",
-      "link": "https://olhardigital.com.br/2026/11/12/ciencia-e-espaco/voyager-1-vai-ficar-tao-longe-da-terra-que-sinal-levara-um-dia-para-chegar/",
-      "source": "Olhar Digital",
-      "published": 1794532833000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Tesouro Nacional tem dados de 30 mil pessoas e quatro mil chaves Pix acessados",
-      "summary": "Incidente atingiu duas bases de dados do órgão; informações podem ser usadas para tornar golpes mais convincentes O post Tesouro Nacional tem dados de 30 mil pessoas e…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/Pix-do-Brasil-scaled-1-1-1024x576.jpg",
-      "link": "https://olhardigital.com.br/2026/11/12/seguranca/tesouro-nacional-tem-dados-de-30-mil-pessoas-e-quatro-mil-chaves-pix-acessados/",
-      "source": "Olhar Digital",
-      "published": 1794530116000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Caso Nvidia: Singapura proíbe suposta espiã chinesa de entrar no país",
-      "summary": "O governo de Singapura informou nesta quinta-feira (12) a proibição da entrada no país de Alice Huang , executiva da Megaspeed e acusada por autoridades dos Estados…",
-      "image": "https://www.estadao.com.br/resizer/v2/3N3IH6UZMZDJNGYJLRH4Z7DWJM.jpg?quality=80&amp;auth=12c16c8a3b64100b9613542284a4bedb1eb0290c9c5617b1bf46964cb122e6f0&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/caso-nvidia-singapura-proibe-suposta-espia-chinesa-de-entrar-no-pais/",
+      "title": "Como comprar GTA 6 mais barato no Mercado Livre",
+      "summary": "GTA 6 será lançado no dia 19 de novembro para PlayStation 5 e Xbox Series X/S, mas o jogo já está em pré-venda e com o download antecipado liberado. Dessa forma, você já…",
+      "image": "https://www.estadao.com.br/resizer/v2/R2K7ITEEZRG4FKDCOCSZ2Y4KMI.jpg?quality=80&amp;auth=6d2556f9ad76939626dabdd4d3eb9cd09cab92aa9012973c9998de4c7593be70&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/como-comprar-gta-6-mais-barato-no-mercado-livre/",
       "source": "Novidades do TecMundo",
-      "published": 1794528000000
+      "published": 1794568500000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "China reage a caso Nvidia e pede que EUA não restrinjam exportações",
-      "summary": "Pequim acusa Washington de usar alegações de espionagem como pretexto para bloqueios tecnológicos e defende continuidade das negociações comerciais O post China reage a…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-Xi-Jinping-e-Trump-scaled-2-1024x576.jpg",
-      "link": "https://olhardigital.com.br/2026/11/12/pro/china-reage-a-caso-nvidia-e-pede-que-eua-nao-restrinjam-exportacoes/",
+      "title": "Projetos de IA na China ainda dependem de processadores Nvidia",
+      "summary": "Saída do CEO da Nvidia e maior fiscalização dos EUA ameaçam data centers na China baseados nos processadores H100, H200 e H800 O post Projetos de IA na China ainda…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/jensen-huang-2-1024x683.jpg",
+      "link": "https://olhardigital.com.br/2026/11/13/inteligencia-artificial/projetos-de-ia-na-china-ainda-dependem-de-processadores-nvidia/",
       "source": "Olhar Digital",
-      "published": 1794527470000
+      "published": 1794568266000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Google AI Plus perderá acesso aos modelos Gemini Pro nesta sexta-feira (13)",
+      "summary": "A partir desta sexta-feira (13), os assinantes do Google AI Plus perderão a opção de selecionar modelos da categoria Gemini Pro no aplicativo Gemini e no Modo IA da…",
+      "image": "https://www.estadao.com.br/resizer/v2/BL5RSGIMKBD4TM46CCUZDAAWIY.jpg?quality=80&amp;auth=3402f4305007889694bb0f40bb6a85cca2743644fcd038b4a82c32c0014c8fa0&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/google-ai-plus-perdera-acesso-aos-modelos-gemini-pro-nesta-sexta-feira-13/",
+      "source": "Novidades do TecMundo",
+      "published": 1794567600000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Jogos de hoje (13/11/26): onde assistir futebol ao vivo e horários das partidas",
+      "summary": "Quer saber quem joga hoje? Confira horários e onde assistir ao vivo aos jogos de hoje (13/11/26) do futebol do Brasil e do mundo na TV e no streaming O post Jogos de…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/11/13/internet-e-redes-sociais/jogos-de-hoje-13-11-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/",
+      "source": "Olhar Digital",
+      "published": 1794567600000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Falha global da Microsoft ainda afeta serviços em diversos países",
+      "summary": "Microsoft aponta sobrecarga em servidores e descarta ataque cibernético, mas ainda não prevê quando os serviços serão normalizados O post Falha global da Microsoft ainda…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/outlook-1024x743.jpg",
+      "link": "https://olhardigital.com.br/2026/11/13/internet-e-redes-sociais/falha-global-da-microsoft-ainda-afeta-servicos-em-diversos-paises/",
+      "source": "Olhar Digital",
+      "published": 1794565945000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Drauzio Varella é eleito para a Academia Brasileira de Letras; ele ocupará a cadeira que era do jornalista Zuenir Ventura",
-      "summary": "Drauzio Varella é eleito para a Academia Brasileira de Letras O médico e escritor Drauzio Varella foi eleito para a Academia Brasileira de Letras. Ele vai ocupar a…",
-      "image": "https://s2-g1.glbimg.com/-aA7WX89YpfNmkz85I4DQQ7AYFw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/d/VOGvVAT8AVd3xZyJmKOA/globo-canal-4-20261112-2000-frame-158133.jpeg",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/12/drauzio-varella-e-eleito-para-a-academia-brasileira-de-letras-ele-ocupara-a-cadeira-que-era-do-jornalista-zuenir-ventura.ghtml",
+      "title": "Acidente contra carro e moto em Olímpia",
+      "summary": "Motociclista morre e passageiro fica em estado grave após batida de frente em rodovia de Olímpia Polícia Rodoviária Estadual/Divulgaçã Um motociclista morreu e um…",
+      "image": "https://s2-g1.glbimg.com/uxCNMsAY_xdGrNw1613gD5j3nVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/A/6Bz8LURUW2cWSPGVsD5g/g1-49-.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/13/acidente-contra-carro-e-moto-em-olimpia.ghtml",
       "source": "g1",
-      "published": 1794535476000
+      "published": 1794569644000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "'Tip Toe', na HBO, segue 'Adolescência' e 'Bebê Rena' como drama social brutal",
-      "summary": "\"Tip Toe\" é um drama social fruto da mesma aflição existencial contemporânea que em 2024 nos trouxe \"Bebê Rena\" e, em 2025, \"Adolescência\" . Trata de polarização,…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2026/11/tip-toe-na-hbo-segue-adolescencia-e-bebe-rena-como-drama-social-brutal.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1794535380000
+      "title": "Bombeira, cantora e influenciadora: quem é a mulher presa por matar homem no Centro das Tapioqueiras, em Fortaleza",
+      "summary": "Bombeira civil é presa suspeita de matar homem no Centro das Tapioqueiras, em Fortaleza. A mulher presa momentos após matar um homem a tiros no Centro das Tapioqueiras,…",
+      "image": "https://s2-g1.glbimg.com/JA94TjVB93cAp-BWiMyPzV8cZAY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/Z/KBSYAcRXGH7vdrJdKulA/bombeira-5-1-.jpg",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/13/bombeira-cantora-e-influenciadora-quem-e-a-mulher-presa-por-matar-homem-no-centro-das-tapioqueiras-em-fortaleza.ghtml",
+      "source": "g1",
+      "published": 1794569549000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Mississippi, que elegeu 1º senador negro em 150 anos, foi estado que mais resistiu a fim da segregação nos EUA",
-      "summary": "O democrata Scott Colom tornou-se nesta quarta-feira (11) o primeiro político negro a vencer uma eleição para o Senado pelo Mississippi em 150 anos , rompendo um século…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/mississippi-que-elegeu-1o-senador-negro-em-150-anos-foi-estado-que-mais-resistiu-a-fim-da-segregacao-nos-eua.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1794535200000
+      "title": "Assista ao Bom Dia ES",
+      "summary": "Assista ao Bom Dia ES Comece o dia bem informado com as notícias do Espírito Santo a partir das 6h.",
+      "image": "https://s2-g1.glbimg.com/p52HGVD-xkjwB7z6xe4cOXJNloY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/v/P7i6mXTvCF4AixgYlRIg/gap5fe6wkaaqgfp.jfif",
+      "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/assista-bdes.ghtml",
+      "source": "g1",
+      "published": 1794569547000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Em evento, chefs defendem entendimento ampliado da cozinha que abarca pesquisa, equipe e produtores",
-      "summary": "Um prato servido em um restaurante contém muitos mundos. O do chef e de sua equipe, que vêm de diferentes origens. O do produtor, que se dedica a ingredientes de seu…",
+      "title": "Assista aos telejornais da TV Bahia",
+      "summary": "Assista aos telejornais da TV Bahia",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/comida/2026/11/em-evento-chefs-defendem-entendimento-ampliado-da-cozinha-que-abarca-pesquisa-equipe-e-produtores.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1794535200000
+      "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+      "source": "g1",
+      "published": 1794569540000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Perto da Proclamação da República, veja filmes sobre as entrelinhas da história do Brasil",
-      "summary": "Esta é a edição da Maratonar, a newsletter da Folha que ajuda você a se achar no meio de tantas opções de séries e filmes no streaming . Quer recebê-la todas as sextas…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/perto-da-proclamacao-da-republica-veja-filmes-sobre-as-entrelinhas-da-historia-do-brasil.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1794535200000
+      "title": "Atendentes de guichê trocam agressões com passageiros na rodoviária de Palmas",
+      "summary": "Polícia investiga agressão na rodoviária de Palmas envolvendo funcionários e passageiros Uma discussão entre atendentes de uma empresa de transporte rodoviário e…",
+      "image": "https://s2-g1.glbimg.com/wxnFTB3a0z98L5IYqnyj9l6708k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/b/6bnNqBSKOKWkFDWIZAkQ/foto-e-montagem-vertical-49-.jpg",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/13/atendentes-de-guiche-trocam-agressoes-com-passageiros-na-rodoviaria-de-palmas.ghtml",
+      "source": "g1",
+      "published": 1794569525000
     }
   ]
 }
