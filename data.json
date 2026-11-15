@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T21:50:13.019Z",
+  "updatedAt": "2026-11-15T01:26:32.592Z",
   "count": 25,
   "items": [
     {
@@ -45,12 +45,32 @@
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
-      "title": "Mãe e filho de 11 anos morrem após carro ser arrastado por caminhão em rodovia",
-      "summary": "Mulher não resistiu aos ferimentos e teve o óbito confirmado ainda no local após acidente em Onda Verde (SP) Arquivo pessoal Uma mulher e o filho dela, de 11 anos,…",
+      "title": "Mãe morre e filho de 11 anos fica em estado grave após carro ser arrastado por caminhão em rodovia",
+      "summary": "Mulher não resistiu aos ferimentos e teve o óbito confirmado ainda no local após acidente em Onda Verde (SP) Arquivo pessoal Uma mulher morreu e o filho dela, de 11…",
       "image": "https://s2-g1.glbimg.com/315ZkJocW2OhvwE56wj2Eq0gcCs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/4/ka4NQsROWVa5wu8QByAA/novo-projeto-2026-11-14t125142.418.png",
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/14/mulher-morre-e-filho-fica-em-estado-grave-apos-carro-ser-arrastado-por-caminhao-em-onda-verde.ghtml",
       "source": "g1 > g1 Rio Preto",
       "published": 1794672366000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Goldie: copo raro da Starbucks vira destaque de nova coleção de Natal; entenda",
+      "summary": "montagem-infomoney-reproducao-starbucks \" data-image-caption=\" (Reprodução/Starbucks &#8211; Montagem IM) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/montagem-infomoney-reproducao-starbucks-1.jpg?fit=300%2C193&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/goldie-copo-raro-da-starbucks-vira-destaque-de-nova-colecao-de-natal-entenda/",
+      "source": "InfoMoney",
+      "published": 1794697200000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "SpaceX avança em “foguete reutilizável” com primeira captura da Starship; entenda",
+      "summary": "(Foto: Steve Nesius / Reuters) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/11/spacex-starbase-texas-EUA-USA-Starship-01.jpg?fit=1100%2C700&qua…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/spacex-starbase-texas-EUA-USA-Starship-01.jpg?fit=300%2C191&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mundo/spacex-avanca-em-foguete-reutilizavel-com-primeira-captura-da-starship-entenda/",
+      "source": "InfoMoney",
+      "published": 1794695100000
     },
     {
       "category": "mercado",
@@ -83,174 +103,154 @@
       "published": 1794690000000
     },
     {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Passageiros têm ‘show particular’ de Simple Plan e Hoobastank com caos aéreo nos EUA",
-      "summary": "(Reprodução/Site Oficial Simple Plan) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/11/Simple-Plan-Reproducao-Site-Oficial.jpg?fit=969%2C746&qua…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Simple-Plan-Reproducao-Site-Oficial.jpg?fit=300%2C231&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/passageiros-tem-show-particular-de-simple-plan-e-hoobastank-com-caos-aereo-nos-eua/",
-      "source": "InfoMoney",
-      "published": 1794689400000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Fim da 6×1: Fux interrompe julgamento e análise de decisão de Dino vai para o plenário físico",
-      "summary": "Nova data será definida pelo presidente do STF, ministro Edson Fachin The post Fim da 6×1: Fux interrompe julgamento e análise de decisão de Dino vai para o plenário…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/fux-home.jpg?fit=300%2C193&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/fim-da-6x1-fux-interrompe-julgamento-e-analise-de-dino-vai-para-o-plenario-fisico/",
-      "source": "InfoMoney",
-      "published": 1794689100000
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Com dois de Bruno Duarte, Vasco vence a Chape e se afasta do Z4 do Brasileirão",
+      "summary": "Com gol de Bruno Duarte, o Vasco bateu a Chapecoense por 2 a 0 na Arena Condá, chegou aos 44 pontos e ganhou tranquilidade na reta final do Brasileirão. O post Com dois…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/HXIAMmpXEAAE4OA-1.webp",
+      "link": "https://www.gazetaesportiva.com/times/vasco/com-dois-de-bruno-duarte-vasco-vence-a-chape-e-se-afasta-do-z4-do-brasileirao/",
+      "source": "Gazeta Esportiva",
+      "published": 1794705907000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Portugal x Dinamarca: veja fotos do jogo pela Liga das Nações",
-      "summary": "O post Portugal x Dinamarca: veja fotos do jogo pela Liga das Nações apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261114__D7H42LP__v2__HighRes__FblEurNationsPorDen.webp",
-      "link": "https://www.gazetaesportiva.com/times/portugal/portugal-x-dinamarca-veja-fotos-do-jogo-pela-liga-das-nacoes/",
+      "title": "EUA goleiam Haiti com show de Pulisic e encaminham vaga na Liga das Nações da Concacaf",
+      "summary": "Com dois gols de Christian Pulisic, os Estados Unidos venceram o Haiti por 6 a 0 e encaminharam a classificação às semifinais da Liga das Nações da Concacaf. O post EUA…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261114__2305143454__v1__HighRes__HaitiVUnitedStatesConcacafNationsLeagueQuart.webp",
+      "link": "https://www.gazetaesportiva.com/times/estados-unidos/eua-goleiam-haiti-com-show-de-pulisic-e-encaminham-vaga-na-liga-das-nacoes-da-concacaf/",
       "source": "Gazeta Esportiva",
-      "published": 1794692964000
+      "published": 1794702163000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Ceará empata com CRB e escapa do rebaixamento na última rodada da Série B",
-      "summary": "Ceará empata com o CRB por 1 a 1, fora de casa, e garante a permanência na Série B do Campeonato Brasileiro. O post Ceará empata com CRB e escapa do rebaixamento na…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55653302415_2de3292a6d_o.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/ceara-empata-crb-garante-permanencia-serie-b/",
+      "title": "Svitolina atropela Noskova e vai lutar, contra Andreeva, por seu 2º título do WTA Finals",
+      "summary": "Svitolina, sexta colocada no ranking mundial, precisou de apenas 65 minutos para derrotar Noskova (8ª) por 6-2 e 6-1 na quadra central de Indian Wells, na Califórnia. O…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261114__2305142149__v1__HighRes__FageWtaFinalsIndianWells2026Day7.webp",
+      "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/svitolina-atropela-noskova-e-vai-lutar-contra-andreeva-por-seu-2o-titulo-do-wta-finals/",
       "source": "Gazeta Esportiva",
-      "published": 1794692789000
+      "published": 1794701993000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Avaí vence América-MG, mas é rebaixado à Série C do Brasileiro",
-      "summary": "Avaí vence o América-MG por 2 a 0 na última rodada da Série B, mas termina em 17º lugar e é rebaixado à terceira divisão. O post Avaí vence América-MG, mas é rebaixado à…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55653041759_a1a192f37b_o.jpg-1-1-1.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/avai-vence-america-mg-mas-e-rebaixado-serie-c/",
+      "title": "Jorge Jesus responde se sentiu falta de Cristiano Ronaldo após derrota de Portugal: “Ele já decidiu”",
+      "summary": "Jorge Jesus foi questionado se Portugal sentiu falta de Cristiano Ronaldo na goleada por 4 a 1 sofrida para a Dinamarca, neste sábado, em Braga, e minimizou a ausência…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261114__D7H44KQ__v1__HighRes__FblEurNationsPorDen.webp",
+      "link": "https://www.gazetaesportiva.com/times/portugal/jorge-jesus-ausencia-cristiano-ronaldo-derrota-portugal/",
       "source": "Gazeta Esportiva",
-      "published": 1794692474000
+      "published": 1794701556000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Portugal decepciona e leva quatro da Dinamarca em dia de homenagem a CR7",
-      "summary": "Neste sábado, Portugal perdeu para a Dinamarca por 4 a 1, no Estádio Municipal de Braga, pela quinta rodada da fase de grupos da Liga das Nações. Esta foi a primeira…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261114__D7H72TE__v1__HighRes__FblEurNationsPorDen.webp",
-      "link": "https://www.gazetaesportiva.com/times/portugal/portugal-decepciona-e-leva-quatro-da-dinamarca-em-dia-de-homenagem-a-cr7/",
+      "title": "Após empate com Mirassol, Natanael vira a chave e foca em final da Sul-Americana contra o Boca Juniors",
+      "summary": "Após o empate sem gols com o Mirassol, Natanael criticou a arbitragem de Sávio Pereira Sampaio e projetou a final da Copa Sul-Americana entre Atlético-MG e Boca Juniors.…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55653153264_b1c5fdc185_k.webp",
+      "link": "https://www.gazetaesportiva.com/times/atletico-mg/apos-empate-com-mirassol-natanael-vira-a-chave-e-foca-em-final-da-sul-americana-contra-o-boca-juniors/",
       "source": "Gazeta Esportiva",
-      "published": 1794692445000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Atlético-GO vence Cuiabá e conquista última vaga nos playoffs da Série B",
-      "summary": "Atlético-GO vence o Cuiabá por 1 a 0, com gol de Terans, garante a última vaga nos playoffs da Série B e terá o Vila Nova pela frente na fase eliminatória. O post…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/SnapDownloader.App_902503168_18650804641034115_1255063336778189545_n.webp",
-      "link": "https://www.gazetaesportiva.com/times/atletico-go/atletico-go-vence-cuiaba-e-conquista-ultima-vaga-nos-playoffs-da-serie-b/",
-      "source": "Gazeta Esportiva",
-      "published": 1794692424000
+      "published": 1794701183000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Big techs: confira lista de vagas de emprego abertas no Brasil",
-      "summary": "A lista de vagas de empregos nas big techs desta semana está com várias opções para quem deseja trabalhar em algumas das maiores empresas do mundo. Na Amazon, por…",
-      "image": "https://www.estadao.com.br/resizer/v2/NTYMTES73JO67NUQW5EOKESWMA.jpg?quality=80&amp;auth=12ef960f912ed1612716910b224fc4c57f25eda0e803b380d815539a68e0316b&amp;width=1150",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/big-techs-confira-lista-de-vagas-de-emprego-abertas-no-brasil/",
+      "title": "Casa mais limpa sem esforço: selecionamos os melhores aspiradores robô em promoção",
+      "summary": "Manter o chão limpo sem precisar pegar o aspirador toda hora é possível — e está mais acessível do que parece. Reunimos três ótimas opções de aspiradores robô…",
+      "image": "https://m.media-amazon.com/images/I/41vCiJqoLXL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/11/14/reviews/casa-mais-limpa-sem-esforco-selecionamos-os-melhores-aspiradores-robo-em-promocao-7/",
+      "source": "Olhar Digital",
+      "published": 1794695078000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Entenda como Dungeons & Dragons influenciou os jogos eletrônicos",
+      "summary": "Atualmente, há inúmeros jogos de mesa e de tabuleiro que conquistam milhões de jogadores mundo afora, mas é quase impossível ver um com uma marca tão profunda na cultura…",
+      "image": "https://www.estadao.com.br/resizer/v2/3FQMPSRQX5PY3LFRBVS22FMYXE.jpg?quality=80&amp;auth=8a1a99121dbb190afea8c468f8bd7c9bbafce569c59178fb1b302397f60b8fd2&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/dungeons-dragons-como-dd-influenciou-os-videogames/",
       "source": "Novidades do TecMundo",
-      "published": 1794690000000
+      "published": 1794694740000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Quer melhorar o Wi-Fi de casa? Confira uma seleção de roteadores em promoção na Amazon",
-      "summary": "Se a conexão sem fio da sua casa deixa a desejar — seja por sinal fraco em certos cômodos ou pela queda de velocidade com muitos dispositivos conectados — chegou a hora…",
-      "image": "https://m.media-amazon.com/images/I/21+YOml5bQL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/11/14/reviews/quer-melhorar-o-wi-fi-de-casa-confira-uma-selecao-de-roteadores-em-promocao-na-amazon-6/",
+      "title": "Smartwatch em promoção: selecionamos os melhores modelos para você comprar agora",
+      "summary": "Se você está de olho em um smartwatch novo, este é o momento certo para agir. Reunimos uma seleção com três opções em destaque na Amazon, que combinam estilo, tecnologia…",
+      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
+      "link": "https://olhardigital.com.br/2026/11/14/reviews/smartwatch-em-promocao-selecionamos-os-melhores-modelos-para-voce-comprar-agora/",
       "source": "Olhar Digital",
-      "published": 1794689078000
+      "published": 1794693878000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Hora de renovar seu setup: selecionamos os melhores tablets em promoção na Amazon",
-      "summary": "Se você está pensando em adquirir um tablet — seja para trabalho, estudo ou entretenimento —, este é um bom momento para pesquisar. Reunimos três opções em destaque na…",
-      "image": "https://m.media-amazon.com/images/I/41eyV6gAYrL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/11/14/reviews/hora-de-renovar-seu-setup-selecionamos-os-melhores-tablets-em-promocao-na-amazon/",
-      "source": "Olhar Digital",
-      "published": 1794687878000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "GTA 6 é tão grande que até indústria do cinema e TV sentirão o impacto do lançamento",
-      "summary": "O lançamento de GTA 6 deve afetar não apenas a indústria dos games, mas também os setores de cinema, televisão e streaming. O novo jogo da Rockstar chegará em meio a…",
-      "image": "https://www.estadao.com.br/resizer/v2/JD7FJSIFE5C3NIPJDTVMFORABM.jpg?quality=80&amp;auth=134f9c5e478fd03d0e5f94460c618faebd892e235dc4cb82e50bc52f5367aa28&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-e-tao-grande-que-ate-industria-do-cinema-e-tv-sentirao-o-impacto-do-lancamento/",
+      "title": "Vídeo: Starship retorna à Terra após 22 horas no espaço e é capturada no ar pela SpaceX",
+      "summary": "A Starship , da SpaceX , retornou à Terra com sucesso neste sábado, 14, sendo capturada em pleno ar por braços mecânicos gigantes no mesmo local de onde havia partido 22…",
+      "image": "https://www.estadao.com.br/resizer/v2/2MS3Z7LRIRBAXOHP5VXKHTQIFQ.jpg?quality=80&amp;auth=460ad0db51d33e57833b59e75c407ca80b1e6d77d0480cb0a1507075fd4aed28&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/starship-retorna-a-terra-apos-22-horas-no-espaco-e-e-capturada-no-ar-pela-spacex/",
       "source": "Novidades do TecMundo",
-      "published": 1794687300000
+      "published": 1794693660000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Som que envolve: headsets 7.1 Surround em promoção na Amazon",
-      "summary": "Se você ainda não experimentou jogar com áudio surround de verdade, está perdendo uma dimensão inteira da experiência gamer. Os headsets com som 7.1 criam um campo…",
-      "image": "https://m.media-amazon.com/images/I/41aU1vsLZWL._SL500_.jpg",
-      "link": "https://olhardigital.com.br/2026/11/14/reviews/som-que-envolve-headsets-7-1-surround-em-promocao-na-amazon-11/",
-      "source": "Olhar Digital",
-      "published": 1794686678000
+      "title": "LoL New Dawn: Riot Games anuncia grande atualização para League of Legends",
+      "summary": "Durante a final do Worlds 2026, o Campeonato Mundial de League of Legends, realizada em Nova York, a Riot Games, desenvolvedora do MOBA (Multiplayer Online Battle…",
+      "image": "https://www.estadao.com.br/resizer/v2/F2UWO5ULERA2TJN6WJAKW2LOD4.jpeg?quality=80&amp;auth=19ba65f32f1b1000f6c7d2cec7063f9fa7a6acb606ab8c1a9856a4c50f2e08df&amp;width=710",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/lol-new-dawn-riot-games-anuncia-grande-atualizacao-para-league-of-legends/",
+      "source": "Novidades do TecMundo",
+      "published": 1794693660000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Novorizontino é campeão da Série B pela 1ª vez; Juventude garante acesso direto",
-      "summary": "O Novorizontino, que já havia garantido uma vaga na primeira divisão do Campeonato Brasileiro na penúltima rodada da Série B, confirmou o seu favoritismo e ficou com o…",
+      "title": "Enem: ausência na primeira etapa não impede a participação neste domingo (15)",
+      "summary": "Segundo dia de provas do Enem é neste domingo, dia 15 Domingo (15) é o segundo dia de provas do Enem. Quem faltou na semana passada pode fazer o exame normalmente.…",
+      "image": "https://s2-g1.glbimg.com/OuT0L4Y3-LkGclP7kjQjKtbVDrk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/w/ixshStQhqubsiwSeQmcw/globo-canal-4-20261114-1946-frame-142840.jpeg",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/14/enem-ausencia-na-primeira-etapa-nao-impede-a-participacao-neste-domingo-15.ghtml",
+      "source": "g1",
+      "published": 1794705104000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Com hits de Tim Maia e Rita Lee, Paula Lima faz público dançar no Folha Gourmet Festival",
+      "summary": "Samba , soul e clássicos da música brasileira embalaram a apresentação de Paula Lima no Folha Gourmet Festival , na noite deste sábado (14), no parque Villa-Lobos. A…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/novorizontino-e-campeao-da-serie-b-e-juventude-garante-acesso-direto.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/11/com-hits-de-tim-maia-e-rita-lee-paula-lima-faz-publico-dancar-no-folha-gourmet-festival.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1794692520000
+      "published": 1794704460000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "EPTV 2 Campinas ao vivo",
-      "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-      "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
-      "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
-      "source": "g1",
-      "published": 1794692226000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Jovem de 22 anos morre após carro bater em poste e no muro da Santa Casa, e pegar fogo em Vitória",
-      "summary": "Carro bate em muro e pega fogo na Vila Rubim Um jovem de 22 anos, identificado como Daniel Casagrande Andrade, morreu após o carro que dirigia bater em um poste e pegar…",
-      "image": "https://s2-g1.glbimg.com/Jkh7SJtvO9eOI6V95soThWvf7r8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/c/z3NJsfRuyILRT8Hl6BoA/thumb-videos-g1-56-.jpg",
-      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/14/jovem-morre-apos-carro-bater-em-poste-e-pegar-fogo-em-vitoria.ghtml",
-      "source": "g1",
-      "published": 1794691870000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Jacarés são vistos em vala perto de casa de bombas em Canoas; Defesa Civil orienta moradores a não se aproximarem",
-      "summary": "Jacarés são vistos em vala perto de casa de bombas em Canoas (RS) 🐊 Quatro jacarés foram avistados na vala da Madrinha, nas proximidades da Casa de Bombas 4, em Canoas,…",
-      "image": "https://s2-g1.glbimg.com/vGJcsWq_cKwFSYr_dm_6eKzN3B8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/B/1VleuBTAmAxpIQ79JCVw/g1.jpg",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/14/jacares-vala-canoas-defesa-civil-prefeitura.ghtml",
-      "source": "g1",
-      "published": 1794691697000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Joana Sanz diz que casamento com Daniel Alves acabou e cita divergências religiosas",
-      "summary": "Daniel Alves e a modelo espanhola Joana Sanz não estão mais juntos. A informação foi dada por ela nas redes sociais, em resposta a um seguidor que perguntou a respeito…",
+      "title": "PGR reforça ao STF pedido de crédito extra de R$ 324 milhões para pagar penduricalhos",
+      "summary": "A PGR (Procuradoria-Geral da República) reforçou ao STF (Supremo Tribunal Federal) a demanda para que o governo abra um crédito extraordinário para bancar verbas extras…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/joana-sanz-diz-que-casamento-com-daniel-alves-acabou-e-cita-divergencias-religiosas.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pgr-reforca-ao-stf-pedido-de-credito-extra-de-r-324-milhoes-para-pagar-penduricalhos.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1794691680000
+      "published": 1794704460000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Casos de Covid voltam a crescer em 5 estados brasileiros e no Distrito Federal, diz Fiocruz",
+      "summary": "Casos de Covid-19 voltam a crescer em cinco estados brasileiros Os casos de Covid voltaram a crescer em cinco estados brasileiros e no Distrito Federal. Autoridades de…",
+      "image": "https://s2-g1.glbimg.com/Vt0ANj6hhxOy6kZ7Rf7Wn13SOKE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/2/CQFtWMQped3To8BtNEvg/globo-canal-4-20261114-1946-frame-138844.jpeg",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/14/casos-de-covid-voltam-a-crescer-em-5-estados-brasileiros-e-no-distrito-federal-diz-fiocruz.ghtml",
+      "source": "g1",
+      "published": 1794704452000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Quatro anos para não repetir o passado",
+      "summary": "VÁRIAS AUTORAS (nomes ao final do texto) Leia mais (11/14/2026 - 22h00)",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/quatro-anos-para-nao-repetir-o-passado.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1794704400000
     }
   ]
 }
