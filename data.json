@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T22:59:12.343Z",
+  "updatedAt": "2026-11-23T04:50:48.193Z",
   "count": 25,
   "items": [
     {
@@ -55,6 +55,26 @@
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
+      "title": "Chuvas em São Paulo fazem cidade entrar em estado de alerta para alagamentos",
+      "summary": "SP &#8211; TEMPORAL/SP/ALAGAMENTO/TÚNEL/VALE DO ANHANGABAÚ &#8211; GERAL &#8211; Veículos são vistos amontoados em meio ao alagamento que atingiu o Túnel São João Paulo…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/ATO20261014088.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/brasil/chuvas-em-sao-paulo-fazem-cidade-entrar-em-estado-de-alerta-para-alagamentos/",
+      "source": "InfoMoney",
+      "published": 1795388940000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Shakira confirma quatro shows no Brasil até janeiro; veja detalhes de ingressos",
+      "summary": "Shakira faz show na praia de Copacabana, no Rio de Janeiro 2 de maio de 2026 REUTERS/Ricardo Moraes \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-03T163338Z_1_LYNXMPEM42089_RTROPTP_4_MUSIC-SHAKIRA-BRAZIL.jpg?fit=300%2C186&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/shakira-confirma-quatro-shows-no-brasil-ate-janeiro-veja-detalhes-de-ingressos/",
+      "source": "InfoMoney",
+      "published": 1795388657000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
       "title": "Investidores hesitam em comprar na baixa com Nasdaq 100 perto de bear market",
       "summary": "Pedestres passam pelo NASDAQ MarketSite, na Times Square, em Nova York &#8211; 22/05/2012 (Foto: REUTERS/Brendan McDermid) \"…",
       "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Nasdaq.jpg?fit=300%2C206&quality=70&strip=all",
@@ -83,74 +103,64 @@
       "published": 1795383000000
     },
     {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Conflitos no Congo dificultam resposta ao surto de Ebola, diz diretor-geral ⁠da OMS",
-      "summary": "Diretor-geral da OMS, Tedros Adhanom Ghebreyesus 17 de novembro de 2026 REUTERS/Denis Balibouse \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-11-22T202725Z_1_LYNXNPEMAL0IO_RTROPTP_4_HEALTH-WHO.jpg?fit=300%2C200&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mundo/conflitos-no-congo-dificultam-resposta-ao-surto-de-ebola-diz-diretor-geral-%e2%81%a0da-oms/",
-      "source": "InfoMoney",
-      "published": 1795382100000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Rafael Câmara disputará as duas últimas corridas da temporada de F1",
-      "summary": "Instagram/Reprodução \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/10/rafael_camara_f1_brasileiro_haas_1.webp?fit=1170%2C700&quality=70&strip=al…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/rafael_camara_f1_brasileiro_haas_1.webp?fit=300%2C179&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/esportes/rafael-camara-disputara-as-duas-ultimas-corridas-da-temporada-de-f1/",
-      "source": "InfoMoney",
-      "published": 1795380300000
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Flamengo vence Basquete Cearense e encerra sequência negativa no NBB",
+      "summary": "Flamengo vence Basquete Cearense e encerra sequência negativa no NBB O post Flamengo vence Basquete Cearense e encerra sequência negativa no NBB apareceu primeiro em…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/imagem_2026-11-22_215507839.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/nbb-novo-basquete-brasil/flamengo-vence-basquete-cearense-e-encerra-sequencia-negativa-no-nbb/",
+      "source": "Gazeta Esportiva",
+      "published": 1795395379000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Fora de casa, Benfica vence Torreense e avança às oitavas da Taça de Portugal",
-      "summary": "Fora de casa, Benfica vence Torreense e avança às oitavas da Taça de Portugal O post Fora de casa, Benfica vence Torreense e avança às oitavas da Taça de Portugal…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261105__D6L349P__v1__HighRes__FblEurC3BenficaLechPoznan.webp",
-      "link": "https://www.gazetaesportiva.com/times/benfica/fora-de-casa-benfica-vence-torreense-e-avanca-as-oitavas-da-taca-de-portugal/",
+      "title": "Melhores momentos: Bragantino 1 x 0 Vasco pelo Brasileirão",
+      "summary": "Melhores momentos: Bragantino 1 x 0 Vasco pelo Brasileirão O post Melhores momentos: Bragantino 1 x 0 Vasco pelo Brasileirão apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55668283433_9b9ccf6d01_4k.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/melhores-momentos-bragantino-1-x-0-vasco-pelo-brasileirao/",
       "source": "Gazeta Esportiva",
-      "published": 1795387744000
+      "published": 1795394935000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Lorient 1 x 1 Rennes pelo Francês",
-      "summary": "Melhores momentos: Lorient 1 x 1 Rennes pelo Francês O post Melhores momentos: Lorient 1 x 1 Rennes pelo Francês apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/Lorien.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/ligue-1/melhores-momentos-lorient-1-x-1-rennes-pelo-frances/",
+      "title": "Melhores momentos: Nashville SC 0 x 1 FC Cincinnati pela MLS",
+      "summary": "Melhores momentos: Nashville SC 0 x 1 FC Cincinnati pela MLS O post Melhores momentos: Nashville SC 0 x 1 FC Cincinnati pela MLS apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/Nashvill.webp",
+      "link": "https://www.gazetaesportiva.com/mls/melhores-momentos-nashville-sc-0-x-1-fc-cincinnati-pela-mls/",
       "source": "Gazeta Esportiva",
-      "published": 1795387682000
+      "published": 1795393856000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Marcelo Teixeira oficializa candidatura e concorrerá à reeleição no Santos",
-      "summary": "Marcelo Teixeira oficializa candidatura e concorrerá à reeleição no Santos O post Marcelo Teixeira oficializa candidatura e concorrerá à reeleição no Santos apareceu…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/10/55533059049_5b6c2f5aa5_4k.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/marcelo-teixeira-oficializa-candidatura-e-concorrera-a-reeleicao-no-santos/",
+      "title": "Vasco perde para o Bragantino e vê vaga na Libertadores ficar distante no Brasileirão",
+      "summary": "Bragantino vence e deixa Vasco mais distante da Libertadores no Brasileirão O post Vasco perde para o Bragantino e vê vaga na Libertadores ficar distante no Brasileirão…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55668325838_d0465067ac_o.webp",
+      "link": "https://www.gazetaesportiva.com/times/vasco/vasco-perde-para-o-bragantino-e-ve-vaga-na-libertadores-ficar-distante-no-brasileirao/",
       "source": "Gazeta Esportiva",
-      "published": 1795386433000
+      "published": 1795393818000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Santos finaliza preparação para partida contra o Grêmio no Morumbis",
-      "summary": "Santos finaliza preparação para partida contra o Grêmio no Morumbis O post Santos finaliza preparação para partida contra o Grêmio no Morumbis apareceu primeiro em…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55658230696_330167fb81_o.webp",
-      "link": "https://www.gazetaesportiva.com/times/santos/santos-finaliza-preparacao-para-partida-contra-o-gremio-no-morumbis/",
+      "title": "Herói de vitória do Fluminense, Riquelme celebra 1° gol pelo profissional: “Momento especial”",
+      "summary": "Herói de vitória do Fluminense, Riquelme celebra primeiro gol pelo profissional O post Herói de vitória do Fluminense, Riquelme celebra 1° gol pelo profissional:…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55668609850_0f257b3b61_c.webp",
+      "link": "https://www.gazetaesportiva.com/times/fluminense/heroi-de-vitoria-do-fluminense-riquelme-celebra-1-gol-pelo-profissional-momento-especial/",
       "source": "Gazeta Esportiva",
-      "published": 1795386008000
+      "published": 1795393648000
     },
     {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Paris FC 4 x 0 Angers pelo Francês",
-      "summary": "Melhores momentos: Paris FC 4 - 0 Angers pelo Francês O post Melhores momentos: Paris FC 4 x 0 Angers pelo Francês apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/Pari.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/ligue-1/melhores-momentos-paris-fc-4-0-angers-pelo-frances/",
-      "source": "Gazeta Esportiva",
-      "published": 1795385104000
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Por que algumas pessoas sentem enjoo ao assistir a TVs OLED grandes?",
+      "summary": "Distância, brilho, suavização de movimento e tamanho da tela estão entre os fatores discutidos nos relatos de desconforto ao assistir O post Por que algumas pessoas…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/06/dor-de-cabea-1024x576.jpg",
+      "link": "https://olhardigital.com.br/2026/11/22/reviews/por-que-algumas-pessoas-sentem-enjoo-ao-assistir-a-tvs-oled-grandes/",
+      "source": "Olhar Digital",
+      "published": 1795387402000
     },
     {
       "category": "tecnologia",
@@ -193,64 +203,54 @@
       "published": 1795381721000
     },
     {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Setor de energia sai na frente dos remédios na computação quântica",
-      "summary": "A tecnologia pode ajudar a equilibrar redes elétricas, aprimorar materiais e reduzir custos operacionais no setor de energia O post Setor de energia sai na frente dos…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/rede-de-energia-1024x640.jpg",
-      "link": "https://olhardigital.com.br/2026/11/22/ciencia-e-espaco/setor-de-energia-sai-na-frente-dos-remedios-na-computacao-quantica/",
-      "source": "Olhar Digital",
-      "published": 1795379317000
-    },
-    {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Xuxa confirma sexo do primeiro neto ao vivo no Domingão: 'Menino!'",
-      "summary": "Luciano Huck recebeu Sasha Meneghel e João Lucas no palco do Domingão com Huck neste domingo (22) para falar sobre a gravidez da estilista . Xuxa fez uma aparição remota…",
+      "title": "Rosinha anuncia fim de casamento com Anthony Garotinho",
+      "summary": "A ex-governadora do Rio de Janeiro Rosinha Garotinho anunciou neste domingo (22), no Instagram , o fim de seu casamento com o também ex-governador Anthony Garotinho .…",
       "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/xuxa-confirma-sexo-do-primeiro-neto-ao-vivo-no-domingao-menino.shtml",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/11/rosinha-anuncia-fim-de-casamento-com-anthony-garotinho.shtml",
       "source": "Folha de S.Paulo",
-      "published": 1795388100000
+      "published": 1795408920000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "VÍDEO: Motorista de app escapa por pouco de batida frontal em veículo que invadiu a contramão em Goiânia",
-      "summary": "Motorista de app escapa por pouco de batida frontal em veículo que invadiu a contramão O motorista de aplicativo Matheus Graciano escapou por pouco de uma batida frontal…",
-      "image": "https://s2-g1.glbimg.com/9w9mO9nqRPQoNxz6Ps626LRU_tU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/p/5VImCEQBe6Gj5j2XHAsw/g1-2026-11-22t193206.725.jpg",
-      "link": "https://g1.globo.com/go/goias/transito/noticia/2026/11/22/video-motorista-de-app-escapa-por-pouco-de-batida-frontal-em-veiculo-que-invadiu-a-contramao-em-goiania.ghtml",
+      "title": "Exército dos EUA planeja detonar 5 toneladas de explosivos apesar de ordem judicial e de alerta de ambientalistas",
+      "summary": "Manifestantes pedem a suspensão da detonação de 68 barris de azida de chumbo em uma fábrica de munições do Exército dos EUA em Iowa. Julie Nickell/The Hawk Eye via AP O…",
+      "image": "https://s2-g1.glbimg.com/CfEy9n7I_hWqbMWa1Uk17Pz1kfk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/X/nrQuz1QFiupP4OPvwx7g/ap26325066137247.jpg",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/23/exercito-dos-eua-planeja-detonar-5-toneladas-de-explosivos-apesar-de-ordem-judicial-e-de-alerta-de-ambientalistas.ghtml",
       "source": "g1",
-      "published": 1795387585000
+      "published": 1795407444000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Enxurrada abre buracos gigantes em estradas rurais, alaga ponte e deixa trechos intransitáveis no interior de MS",
-      "summary": "Enxurrada abre crateras gigantes em estradas rurais, alaga ponte e deixa trechos intransit Os temporais deste domingo (22) provocaram estragos não apenas nas cidades,…",
-      "image": "https://s2-g1.glbimg.com/P1TC6X6UO2l9kgCtPZMjkc1rkjo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/d/nBfjAcQY2wIN6ujJm2PA/design-sem-nome-2026-11-22t183849.543.jpg",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/22/enxurrada-abre-buracos-gigantes-em-estradas-rurais-alaga-ponte-e-deixa-trechos-intransitaveis-no-interior-de-ms.ghtml",
+      "title": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; chove rápido durante o dia e à noite",
+      "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta segunda-feira (23) para Brasília (DF) é de sol com algumas nuvens. Chove rápido durante o dia e à…",
+      "image": "https://s2-g1.glbimg.com/mo0un1HLgcfoNh7MT8Z_NvhMyM4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/X/AjJAHvQoqMzKHkxpzGAA/previsao-tempo-bras-lia-20261123-011535.jpeg",
+      "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/23/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
       "source": "g1",
-      "published": 1795387409000
+      "published": 1795407346000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Isso é Fantástico — a história por trás das nove pessoas mortas em barco no Pará",
-      "summary": "Fim de um mistériode dois anos: a verdadeira história por trás das nove pessoas que chegaram mortas em um barco à deriva no litoral do Pará. De onde elas vinham? O que…",
-      "image": "https://s2-g1.glbimg.com/5idjg8bn1fYkQ2AxVu_i2rgzssU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/a/pvMxFaTZiQX25EMGBIJA/22fant010-frame-3193.jpeg",
-      "link": "https://g1.globo.com/fantastico/podcast/isso-e-fantastico/noticia/2026/11/22/isso-e-fantastico-a-historia-por-tras-das-nove-pessoas-mortas-em-barco-no-para.ghtml",
+      "title": "Previsão do tempo hoje para Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
+      "summary": "Previsão do tempo hoje em Goiânia g1 A previsão do tempo para esta segunda-feira (23) para Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à…",
+      "image": "https://s2-g1.glbimg.com/EiVHrjGX3jasewgBdoI7wLZEaP4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/s/dv81ovRA2GaLL7AEv2qg/previsao-tempo-goi-nia-20261123-011519.jpeg",
+      "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/23/previsao-do-tempo-hoje-para-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
       "source": "g1",
-      "published": 1795387292000
+      "published": 1795407330000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Homem é morto a tiros em exposição de carros em Manaus",
-      "summary": "Homem é morto no Sambódromo, em Manaus Nainy Castelo Branco/Rede Amazônica Um homem identificado como Bruno Farias Frota, de 28 anos, foi morto a tiros na tarde deste…",
-      "image": "https://s2-g1.glbimg.com/gBgSm3WpmEcn0_EZeGYof31T-PQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/G/PR1xbASDuP3tqCW0hMbg/pessoa-e-morta-no-sambodromo.jpg",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/22/homem-e-morto-durante-evento-de-exposicao-de-carros-em-manaus.ghtml",
+      "title": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
+      "summary": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para esta segunda-feira (23) para Aparecida de Goiânia (GO) é de sol com algumas nuvens. Chove…",
+      "image": "https://s2-g1.glbimg.com/Mq7VpdPWusjg4n0XbUeo_iiFNNk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/n/UHwtMJTAuWWPDzHPe9Rw/previsao-tempo-aparecida-de-goi-nia-20261123-011501.jpeg",
+      "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/23/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
       "source": "g1",
-      "published": 1795387065000
+      "published": 1795407312000
     }
   ]
 }
