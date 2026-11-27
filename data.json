@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-11-26T22:41:59.417Z",
+  "updatedAt": "2026-11-27T05:55:00.607Z",
   "count": 25,
   "items": [
+    {
+      "category": "local",
+      "categoryLabel": "Rio Preto e Região",
+      "title": "Pedestre morre atropelado e rodovia Marechal Rondon fica interditada em Birigui",
+      "summary": "Pedestre morre atropelado e Rodovia Marechal Rondon fica interditada em Birigui (SP) Portal CCM - Artesp/Divulgação Um pedestre morreu após ser atropelado na noite desta…",
+      "image": "https://s2-g1.glbimg.com/YcNdJZtFH5scGusnzO2bYTtAyMo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/3/mrz3WhSFAEK1lCHVbCvA/g1-14-.jpg",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/26/pedestre-morre-atropelado-e-rodovia-marechal-rondon-fica-interditada-em-birigui.ghtml",
+      "source": "g1 > g1 Rio Preto",
+      "published": 1795736872000
+    },
     {
       "category": "local",
       "categoryLabel": "Rio Preto e Região",
@@ -43,214 +53,204 @@
       "published": 1795723396000
     },
     {
-      "category": "local",
-      "categoryLabel": "Rio Preto e Região",
-      "title": "Homem é encontrado morto embaixo de chuveiro ligado dentro de casa em Rio Preto",
-      "summary": "Central de Flagrantes de Rio Preto (SP) Madelyne Boer/TV TEM Um homem de 65 anos foi encontrado morto embaixo do chuveiro ligado dentro da própria casa, no bairro Vila…",
-      "image": "https://s2-g1.glbimg.com/zTsyL1aBULtpJzxHNX2Ych4NzaE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/A/BB4fdBRSCdTWqAhWQNfw/central-flagrantes.png",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/26/homem-e-encontrado-morto-embaixo-de-chuveiro-ligado-dentro-de-casa-em-rio-preto.ghtml",
-      "source": "g1 > g1 Rio Preto",
-      "published": 1795716158000
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Alcolumbre elogia Trabuco e promete diálogo do Congresso com a Fazenda",
+      "summary": "À mesa, presidente do Senado Federal, senador Davi Alcolumbre (União-AP) conduz sessão especial. Foto: Edilson Rodrigues/Agência Senado \" data-image-caption=\" À mesa,…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/senado.png?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/alcolumbre-diz-receber-com-otimismo-escolha-de-trabuco-para-a-fazenda/",
+      "source": "InfoMoney",
+      "published": 1795745098000
     },
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
-      "title": "Raio atinge plataforma da Petrobras a 200 quilômetros da costa do Rio",
-      "summary": "Um raio atingiu o navio-plataforma P-77 da Petrobras, gerando um princípio de incêndio, rapidamente controlado pelas equipes de segurança da plataforma. Segundo a…",
+      "title": "Durigan cita Haddad e deseja “bom trabalho” a Trabuco na Fazenda",
+      "summary": "Ministro da Fazenda, Dario Durigan 31 de março de 2026 REUTERS/Adriano Machado \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-26T214044Z_1_LYNXMPEM4P28Z_RTROPTP_4_BRAZIL-ECONOMY-DEBT.jpg?fit=300%2C200&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/durigan-cita-haddad-e-deseja-bom-trabalho-a-trabuco-na-fazenda/",
+      "source": "InfoMoney",
+      "published": 1795744844000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Anbima diz receber “com satisfação” escolha de Trabuco para a Fazenda",
+      "summary": "São Paulo (SP), 29/11/2024 &#8211; Luiz Carlos Trabuco no Almoço anual da FEBRABAN . Foto: Paulo Pinto/Agência Brasil \" data-image-caption=\" (Foto: Paulo Pinto / Agência…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/luiz-carlos-trabuco-bradesco-02-01.jpg?fit=300%2C191&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/mercados/anbima-diz-receber-com-satisfacao-escolha-de-trabuco-para-a-fazenda/",
+      "source": "InfoMoney",
+      "published": 1795742226000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Jair Bolsonaro tem melhora, mas ainda sem previsão de sair da UTI, informa hospital",
+      "summary": "Ex-presidente Jair Bolsonaro 18/07/2025 REUTERS/Mateus Bonomi \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-14T013128Z_1_LYNXMPEL7D00Z_RTROPTP_4_BRAZIL-BOLSONARO.jpg?fit=300%2C199&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/politica/jair-bolsonaro-tem-melhora-mas-ainda-sem-previsao-de-sair-da-uti-informa-hospital/",
+      "source": "InfoMoney",
+      "published": 1795741322000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Mega-Sena não tem ganhador e prêmio acumula para R$ 82 milhões",
+      "summary": "Nenhum apostador acertou as seis dezenas do Concurso 3.091 da Mega-Sena, realizado nesta quinta-feira (26). O prêmio acumulou e está estimado em R$ 82 milhões para o…",
       "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/raio-atinge-plataforma-da-petrobras-200-quilometros-da-costa-do-rio",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mega-sena-nao-tem-ganhador-e-premio-acumula-para-r-82-milhoes",
       "source": "Feed Editoria",
-      "published": 1795731420000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Ibovespa tem 2ª maior alta diária desde 2021; 4 ações sobem mais de 50% no mês",
-      "summary": "Imagem ilustrativa representa a forte valorização da Bolsa brasileira, com gráficos ascendentes, ambiente de negociação e referência ao centro financeiro de São Paulo. \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Ascensao-Verde-no-Mercado-Brasileiro.jpg?fit=300%2C169&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-tem-2a-maior-alta-diaria-desde-2021-4-acoes-sobem-mais-de-50-no-mes/",
-      "source": "InfoMoney",
-      "published": 1795730904000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Por que o mercado se anima tanto com a possibilidade de Trabuco na Fazenda?",
-      "summary": "Luiz Carlos Trabuco Cappi (Foto: Zeca Ribeiro / Câmara dos Deputados) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/img201404291317254784551.jpg?fit=300%2C197&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/por-que-o-mercado-se-anima-tanto-com-a-possibilidade-de-trabuco-na-fazenda/",
-      "source": "InfoMoney",
-      "published": 1795730585000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "BB e Bradesco saltam mais de 10% com especulações sobre Trabuco na Fazenda",
-      "summary": "Fachada Banco do Brasil (Divulgação/BB) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-16.53.58.jpeg?fit=300%2C225&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/banco-do-brasil-bbas3-e-bradesco-bbdc4-saltam-mais-de-10-com-especulacoes-sobre-trabuco-na-fazenda/",
-      "source": "InfoMoney",
-      "published": 1795729901000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "11 papéis sobem mais de 10% em dia de euforia na Bolsa",
-      "summary": "ações bolsa mercado stocks índices gráficos \" data-image-caption=\" (Foto: Shutterstock) \"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/12/shutterstock_1043121319.jpg?fit=300%2C158&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/12-papeis-sobem-mais-de-6-em-dia-de-euforia-na-bolsa-bbas3-mrve3/",
-      "source": "InfoMoney",
-      "published": 1795729452000
+      "published": 1795741080000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Crystal Palace 2 x 1 Real Sociedad pela Liga Europa",
-      "summary": "Melhores momentos: Crystal Palace 2 x 1 Real Sociedad pela Liga Europa O post Melhores momentos: Crystal Palace 2 x 1 Real Sociedad pela Liga Europa apareceu primeiro em…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/jwofo040-1920rystal.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-crystal-palace-2-x-1-real-sociedad-pela-liga-europa/",
+      "title": "Justiça rejeita pedido de intervenção judicial e afastamento do presidente do Corinthians",
+      "summary": "Justiça nega intervenção judicial e afastamento da diretoria do Corinthians O post Justiça rejeita pedido de intervenção judicial e afastamento do presidente do…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/WhatsApp-Image-2025-10-30-at-17.24.15.webp",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-intervencao-judicial-eleicoes/",
       "source": "Gazeta Esportiva",
-      "published": 1795732450000
+      "published": 1795752823000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Melhores momentos: Juventus 4 x 1 Omonia Nicosia pela Liga Europa",
-      "summary": "Melhores momentos: Juventus 4 x 1 Omonia Nicosia pela Liga Europa O post Melhores momentos: Juventus 4 x 1 Omonia Nicosia pela Liga Europa apareceu primeiro em Gazeta…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/zf3octr6-1920Omonia.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-juventus-4-x-1-omonia-nicosia-pela-liga-europa/",
+      "title": "Carpini vê gols do São Paulo como “bizarros” e projeta duelo contra Corinthians",
+      "summary": "Carpini vê gols do São Paulo como \"bizarros\" e projeta duelo contra Corinthians O post Carpini vê gols do São Paulo como “bizarros” e projeta duelo contra Corinthians…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/IMG_6654.webp",
+      "link": "https://www.gazetaesportiva.com/times/remo-pa/carpini-ve-gols-do-sao-paulo-como-bizarros-e-projeta-duelo-contra-corinthians/",
       "source": "Gazeta Esportiva",
-      "published": 1795732311000
+      "published": 1795748704000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Otávio valoriza reconhecimento, mas diz que ranking de mercado não muda seu foco",
-      "summary": "Ao Cruzeiro Cast, atleta falou sobre ser um dos três goleiros brasileiros entre os 50 mais valiosos do mundo, segundo lista do Observatório de Futebol do CIES divulgada…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/hj7ewiya-1920Otavio.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/otavio-valoriza-reconhecimento-mas-diz-que-ranking-de-mercado-nao-muda-seu-foco/",
+      "title": "Dorival comunica saída e faz autocrítica sobre trabalho no São Paulo",
+      "summary": "Dorival comunica saída e faz autocrítica sobre trabalho no São Paulo O post Dorival comunica saída e faz autocrítica sobre trabalho no São Paulo apareceu primeiro em…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55670538769_f887c6361f_o.webp",
+      "link": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-comunica-saida-e-faz-autocritica-sobre-trabalho-no-sao-paulo/",
       "source": "Gazeta Esportiva",
-      "published": 1795732185000
+      "published": 1795748674000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Espanha elimina Áustria sem Alcaraz e avança para as semifinais da Copa Davis",
-      "summary": "Espanha elimina Áustria sem Alcaraz e avança para as semifinais da Copa Davis O post Espanha elimina Áustria sem Alcaraz e avança para as semifinais da Copa Davis…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261126__D8QZ4BC__v1__MidRes__TennisDavisAutEsp.webp",
-      "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/espanha-elimina-austria-sem-alcaraz-e-avanca-para-as-semifinais-da-copa-davis/",
+      "title": "Dorival e Rafinha comunicam saída do São Paulo ao fim da temporada",
+      "summary": "Dorival e Rafinha comunicam saída do São Paulo ao fim da temporada O post Dorival e Rafinha comunicam saída do São Paulo ao fim da temporada apareceu primeiro em Gazeta…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261127__marina_uezima_brazil_photo_press_22750__v1__MidRes__SaoPauloAndRemoIn.webp",
+      "link": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-rafinha-saida-sao-paulo/",
       "source": "Gazeta Esportiva",
-      "published": 1795731551000
+      "published": 1795746481000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Dorival define São Paulo com ataque reforçado para enfrentar o Remo; veja escalações",
-      "summary": "Dorival define São Paulo com ataque reforçado para enfrentar o Remo; veja escalações O post Dorival define São Paulo com ataque reforçado para enfrentar o Remo; veja…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/HYFRd1fWkAAuIEQ.webp",
-      "link": "https://www.gazetaesportiva.com/times/sao-paulo/escalacoes-sao-paulo-x-remo-37-rodada-brasileirao/",
+      "title": "Incidentes violentos com torcedores mancham rodada da Liga Europa",
+      "summary": "Incidentes violentos com torcedores mancham rodada da Liga Europa O post Incidentes violentos com torcedores mancham rodada da Liga Europa apareceu primeiro em Gazeta…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261126__D8RC79F__v1__MidRes__FblEurC3BesiktasHapoelBeer.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/liga-europa/incidentes-violentos-com-torcedores-mancham-rodada-da-liga-europa/",
       "source": "Gazeta Esportiva",
-      "published": 1795730647000
+      "published": 1795745103000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "The Blood of Dawnwalker e mais games com até 90% OFF na Black Friday do PlayStation",
-      "summary": "A Black Friday já está rolando na PlayStation Store, com games para as plataformas da Sony sendo disponibilizados a preços bem mais em conta por tempo limitado. De…",
-      "image": "https://www.estadao.com.br/resizer/v2/XUGLGOOYPRN7BBJUPO2DCEBAGE.jpg?quality=80&amp;auth=fd9b6ef8fb2fb4f97a76ae6f38b868524583216b2399c10f53d21924ae140ae8&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/the-blood-of-dawnwalker-e-mais-games-com-ate-90-off-na-black-friday-do-playstation/",
-      "source": "Novidades do TecMundo",
-      "published": 1795732200000
+      "title": "Confira o Olhar Digital News na íntegra (26/11/2026)",
+      "summary": "Confira as principais notícias do mundo da tecnologia e da ciência no programa Olhar Digital News de hoje! O post Confira o Olhar Digital News na íntegra (26/11/2026)…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/11/27/videos/confira-o-olhar-digital-news-na-integra-26-11-2026/",
+      "source": "Olhar Digital",
+      "published": 1795748502000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Black Friday tenta ‘driblar’ aumento de preços nos smartphones: descontos são reais?",
-      "summary": "Com os aumentos de preços ao longo de 2026, comprar um smartphone novo tornou-se uma tarefa um pouco mais desafiadora. Para dois dos principais fabricantes do Brasil ,…",
-      "image": "https://www.estadao.com.br/resizer/v2/R2JFICEPU5HL5FSWND7XDIDVNQ.jpg?quality=80&amp;auth=94ed7573163c4690f7e387e16bcfba241a39c6c871d987f69a4c810b3959b0f9&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/black-friday-tenta-driblar-aumento-de-precos-nos-smartphones-descontos-sao-reais/",
-      "source": "Novidades do TecMundo",
-      "published": 1795731300000
+      "title": "Seu Direito Digital: quem responde se a IA errar na sua compra de Black Friday?",
+      "summary": "Leandro Alvarenga, colunista do Olhar Digital News, explica quais são os direitos de quem compra produtos a partir de agentes de IA O post Seu Direito Digital: quem…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/11/26/colunistas/seu-direito-digital-quem-responde-se-a-ia-errar-na-sua-compra-de-black-friday/",
+      "source": "Olhar Digital",
+      "published": 1795744881000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Falha da Microsoft expõe segredos de empresas de energia da Europa",
-      "summary": "Cibercriminosos exploraram uma falha crítica no serviço Azure API Management (Apim), da Microsoft, para roubar credenciais e executar tarefas administrativas em empresas…",
-      "image": "https://www.estadao.com.br/resizer/v2/WQ3YGMBUG5E2BIBYX5INUID3TQ.png?quality=80&amp;auth=e4417fa87c8e626f3880946fd215363650e9f2e7404feadad509d4ab792f10e2&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-da-microsoft-expoe-segredos-de-empresas-de-energia-da-europa/",
-      "source": "Novidades do TecMundo",
-      "published": 1795728600000
+      "title": "Quer saber se satélites fotografaram sua casa? Este site permite descobrir",
+      "summary": "Ferramenta, chamada Watched.Earth, reúne informações sobre satélites que sobrevoaram qualquer endereço nos últimos sete dias e oferece imagens da região capturadas…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/satelites_site-1024x440.png",
+      "link": "https://olhardigital.com.br/2026/11/26/ciencia-e-espaco/quer-saber-se-satelites-fotografaram-sua-casa-este-site-permite-descobrir/",
+      "source": "Olhar Digital",
+      "published": 1795744392000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "10 dicas: como se proteger de golpes na Black Friday",
-      "summary": "Vai aproveitar a Black Friday? O TecMundo preparou uma lista rápida para você não cair em golpes. Atenção, lá vai! Primeiro : desconfie de links enviados por WhatsApp,…",
-      "image": "https://www.estadao.com.br/resizer/v2/7ZMGX6GTZRF2HDJPUJL6DJF45Q.jpg?quality=80&amp;auth=36b5822237d79d10344c1d79dd46f84759638b376c357f4d54d9864b14600ad8&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/10-dicas-como-se-proteger-de-golpes-na-black-friday/",
-      "source": "Novidades do TecMundo",
-      "published": 1795728600000
+      "title": "Homem encontra jeito inusitado de parar robotáxis da Waymo",
+      "summary": "Homem ainda não identificado retira cones laranjas do porta-malas e os posiciona ao redor dos veículos autônomos para impedir que eles se movimentem O post Homem…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/11/26/carros-e-tecnologia/homem-encontra-jeito-inusitado-de-parar-robotaxis-da-waymo/",
+      "source": "Olhar Digital",
+      "published": 1795743024000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Guerra pelo streaming: por que criadores brasileiros trocam a Twitch pela concorrente Kick",
-      "summary": "A hegemonia de mais de uma década da Twitch no mercado ocidental de transmissões ao vivo enfrenta seu teste mais agudo desde a chegada da Kick . Lançada no fim de 2022,…",
-      "image": "https://www.estadao.com.br/resizer/v2/DSFIKJBDTVMHVHNMWI7PREXVKU.jpg?quality=80&amp;auth=3e9993d63dc09313de9827d5da569cc0293f956a5131143d3bcf3c30c09c1a6d&amp;width=1150",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/guerra-pelo-streaming-por-que-criadores-brasileiros-trocam-a-twitch-pela-concorrente-kick/",
-      "source": "Novidades do TecMundo",
-      "published": 1795727100000
+      "title": "Cidade no Paraná quer usar IA em tudo — e terá apoio da Nvidia",
+      "summary": "HUB Cidades, ambiente de inovação urbana ligado ao projeto Cidade Aruna, firmou carta de colaboração tecnológica com a big tech O post Cidade no Paraná quer usar IA em…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/cidade_aruna-1024x512.jpeg",
+      "link": "https://olhardigital.com.br/2026/11/26/inteligencia-artificial/cidade-no-parana-quer-usar-ia-em-tudo-e-tera-apoio-da-nvidia/",
+      "source": "Olhar Digital",
+      "published": 1795741764000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Siga o EPTV 2 Ribeirão e Franca",
-      "summary": "Siga o EPTV 2 Ribeirão e Franca Transmissão encerrada.",
-      "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv-2-ribeirao-e-franca-ao-vivo.ghtml",
-      "source": "g1",
-      "published": 1795732625000
+      "title": "Passarela das Cataratas do Iguaçu é fechada novamente por cheia de rio",
+      "summary": "A passarela das Cataratas do Iguaçu, em Foz do Iguaçu (PR), foi fechada novamente nesta quinta-feira (26) devido ao aumento da vazão do rio de mesmo nome. A interdição…",
+      "image": "",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/passarela-das-cataratas-do-iguacu-e-fechada-novamente-por-cheia-de-rio.shtml",
+      "source": "Folha de S.Paulo",
+      "published": 1795758240000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Algar fica em 3º lugar entre empresas de telecomunicações em ranking de inovação",
-      "summary": "Algar Holding, sede do grupo Algar em Uberlândia Acervo Algar/Divulgação A Algar, empresa de Uberlândia, conquistou o terceiro lugar no setor de Telecomunicações no…",
-      "image": "https://s2-g1.glbimg.com/RhBG2FNC_GPf8LAmpavVdvgq8gw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/B/AU0ybbQaO4zfk196K22w/materia2-foto2.jpg",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/26/algar-fica-em-3o-lugar-entre-empresas-de-telecomunicacoes-em-ranking-de-inovacao.ghtml",
+      "title": "Chuva provoca oito ocorrências em Maricá e família é levada para abrigo",
+      "summary": "De acordo com a prefeitura, duas ocorrências de movimentação de terra foram registradas em Itaipuaçu. Defesa Civil A chuva registrada entre quarta-feira (25) e…",
+      "image": "https://s2-g1.glbimg.com/tV383pgavXBYyckyzNQ8i51Ejgg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/g/POm1LKSLCfAebGMxcryA/marica.png",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/27/chuva-provoca-oito-ocorrencias-em-marica-e-familia-e-levada-para-abrigo.ghtml",
       "source": "g1",
-      "published": 1795732608000
+      "published": 1795755600000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Assista ao JAP2 desta quinta (26)",
-      "summary": "Assista ao JAP2 desta quinta (26) O g1 transmite ao vivo, diariamente, os telejornais Bom Dia Amapá (7h), JAP1 (11h45) e JAP2 (19h05).",
-      "image": "https://s2-g1.glbimg.com/VaiVxQf_5029kv1APS-wf3lGT1c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/e/QKpIe3SaagTSLDKLipdQ/whatsapp-image-2026-11-23-at-19.13.41.jpeg",
-      "link": "https://g1.globo.com/ap/ao-vivo/assista-ao-bom-dia-amapa-desta-quinta-26.ghtml",
+      "title": "Duda Beat, Gaby Amarantos, Arnaldo Antunes, Mari Fernandez e Leci Brandão agitam fim de semana no DF",
+      "summary": "Gaby Amarantos é injustiçada pelos membros votantes do Grammy Latino 2026 Divulgação O último fim de semana de novembro chega com muitas opções de lazer para os…",
+      "image": "https://s2-g1.glbimg.com/nnDyZdyN6LsS_atd9XoHYFg8MNk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/9/UINnpoTi62uKyo37dd7Q/gabyfoto.jpg",
+      "link": "https://g1.globo.com/df/distrito-federal/o-que-fazer-no-distrito-federal/noticia/2026/11/27/duda-beat-gaby-amarantos-arnaldo-antunes-mari-fernandez-e-leci-brandao-agitam-fim-de-semana-no-df.ghtml",
       "source": "g1",
-      "published": 1795732550000
+      "published": 1795755600000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Assista ao Boa Noite Espírito Santo",
-      "summary": "Assista ao Boa Noite Espírito Santo As principais notícias do dia no Espírito Santo.",
-      "image": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png",
-      "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-boa-noite-espirito-santo.ghtml",
+      "title": "'Achei que fosse leite empedrado': fotógrafa de 30 anos descobre câncer de mama durante amamentação no PI",
+      "summary": "Fotógrafa de 30 anos descobriu câncer de mama após sentir caroço durante amamentação Redes sociais/Danieli Maciel A fotográfa e publicitária Raíssa Morais, de 30 anos,…",
+      "image": "https://s2-g1.glbimg.com/QFOYLJaf7hNJkhdeuh3pKidZ8p8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/B/EyA41sRDmVNv6wGFAttQ/edicao-imagens-g1-2026-11-25t103800.583.jpg",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/27/fotografa-cancer-de-mama.ghtml",
       "source": "g1",
-      "published": 1795732528000
+      "published": 1795755600000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Neste domingo, a linha 3-Vermelha do Metrô vai fechar à 0h e reabrir ao meio-dia para manutenção",
-      "summary": "Passageiros esperam metrô na estação Barra Funda, Zona Oeste de SP, nesta quinta-feira (13). Reprodução/TV Globo A Linha 3-Vermelha do Metrô de São Paulo terá a…",
-      "image": "https://s2-g1.glbimg.com/-6x0U-CjRkuRTzrwQmcrxz_dSpQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/X/EISXi7SjOKJ1XyW7znRA/acervo-bdsp-bdbr-limpo-20250213-0545-frame-55025.jpeg",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/26/neste-domingo-a-linha-3-vermelha-do-metro-vai-fechar-a-0h-e-reabrir-ao-meio-dia-para-manutencao.ghtml",
+      "title": "Suspeito de envolvimento na morte de funcionário de bar durante assalto é preso em operação em Italva",
+      "summary": "Os policiais também apreenderam celulares, rádios comunicadores e um veículo suspeito de ter sido utilizado para dar fuga à caminhonete envolvida no crime. Polícia Civil…",
+      "image": "https://s2-g1.glbimg.com/pqDizLr5mcSO-o1CY8hw35RhNqI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/J/Q4rogWSJOC92I58S6PBw/crime-italva.png",
+      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/27/suspeito-de-envolvimento-na-morte-de-funcionario-de-bar-durante-assalto-e-preso-em-operacao-em-italva.ghtml",
       "source": "g1",
-      "published": 1795732489000
+      "published": 1795755600000
     }
   ]
 }
