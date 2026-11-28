@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T23:50:27.495Z",
+  "updatedAt": "2026-11-28T05:35:58.050Z",
   "count": 25,
   "items": [
     {
@@ -55,6 +55,36 @@
     {
       "category": "mercado",
       "categoryLabel": "Mercado",
+      "title": "Dia de Sorte: confira o resultado do concurso 1358 sorteado nesta sexta-feira (27)",
+      "summary": "Loteria Dia de Sorte, da Caixa Econômica (Foto: Divulgação) \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1358-sorteado-nesta-sexta-feira-27/",
+      "source": "InfoMoney",
+      "published": 1795825891000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Lotofácil hoje, concurso 3840: confira o resultado sorteado nesta sexta-feira (27)",
+      "summary": "Lotofácil da Independência é um sorteio especial da Lotofácil, realizado em setembro. Foto: Marcelo Camargo/Agência Brasil \"…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorteio-lotofacil.webp?fit=300%2C225&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3840-confira-o-resultado-sorteado-nesta-sexta-feira-27/",
+      "source": "InfoMoney",
+      "published": 1795824886000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
+      "title": "Lotomania: confira o resultado do concurso 3004 sorteado nesta sexta-feira (27)",
+      "summary": "Foto: Divulgação \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=735%2C417&quality=70&strip=all\" />Veja as 20 dezenas sorteadas…",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=300%2C170&quality=70&strip=all",
+      "link": "https://www.infomoney.com.br/consumo/lotomania-confira-o-resultado-do-concurso-3004-sorteado-nesta-sexta-feira-27/",
+      "source": "InfoMoney",
+      "published": 1795824693000
+    },
+    {
+      "category": "mercado",
+      "categoryLabel": "Mercado",
       "title": "Com bandeira tarifária verde, energia não terá custo extra em dezembro",
       "summary": "A imagem mostra uma central de energia elétrica. \" data-image-caption=\"\"…",
       "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/substation-1705947_1280.jpg?fit=300%2C200&quality=70&strip=all",
@@ -73,184 +103,154 @@
       "published": 1795819620000
     },
     {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Distribuidoras de energia oferecem descontos para renegociar dívidas",
-      "summary": "As distribuidoras de energia elétrica iniciaram campanhas de renegociação de dívidas, com condições especiais para consumidores que buscam regularizar débitos com os…",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/distribuidoras-de-energia-oferecem-descontos-para-renegociar-dividas",
-      "source": "Feed Editoria",
-      "published": 1795819200000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "11 ações do Ibovespa subiram mais de 6% nesta sexta após anúncio de Trabuco",
-      "summary": "stocks ações índices bolsa gráfico \" data-image-caption=\"\"…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2020/08/Stocksss.jpg?fit=300%2C196&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/bbas3-rent3-8-acoes-sobem-mais-de-12-e-lideram-ganhos-nesta-sexta-apos-anuncio-de-trabuco/",
-      "source": "InfoMoney",
-      "published": 1795816873000
-    },
-    {
-      "category": "mercado",
-      "categoryLabel": "Mercado",
-      "title": "Por que Petrobras caiu mais de 2% e pressionou o Ibovespa nesta sexta?",
-      "summary": "(Montagem Copilot/Giovanna Sutto) \" data-large-file=\"https://www.infomoney.com.br/wp-content/uploads/2026/11/petrobras-cai-eleicoes-brasil-01.jpg?fit=1100%2C700&quality=7…",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/petrobras-cai-eleicoes-brasil-01.jpg?fit=300%2C191&quality=70&strip=all",
-      "link": "https://www.infomoney.com.br/mercados/por-que-petrobras-petr4-recua-em-dia-de-euforia-no-ibovespa/",
-      "source": "InfoMoney",
-      "published": 1795816366000
+      "category": "esportes",
+      "categoryLabel": "Esportes",
+      "title": "Ex-Botafogo marca, Inter Miami perde do Columbus Crew e cai nas quartas da MLS",
+      "summary": "Ex-Botafogo marca, Inter Miami perde do Columbus Crew e cai nas quartas da MLS O post Ex-Botafogo marca, Inter Miami perde do Columbus Crew e cai nas quartas da MLS…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261128__2307190891__v1__MidRes__ColumbusCrewVInterMiamiCfAudi2026MlsCupPlayof.webp",
+      "link": "https://www.gazetaesportiva.com/inter-miami/ex-botafogo-marca-inter-miami-perde-do-columbus-crew-e-cai-nas-quartas-da-mls/",
+      "source": "Gazeta Esportiva",
+      "published": 1795835477000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Thiago Silva renova com Fluminense até o fim de 2027",
-      "summary": "Thiago Silva renova com Fluminense até o fim de 2027 O post Thiago Silva renova com Fluminense até o fim de 2027 apareceu primeiro em Gazeta Esportiva .",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55677521414_851ed61123_o-1-1.webp",
-      "link": "https://www.gazetaesportiva.com/times/fluminense/thiago-silva-renova-com-fluminense-ate-o-fim-de-2027/",
+      "title": "Cruzeiro bate Minas em clássico e volta a vencer na Superliga",
+      "summary": "Cruzeiro bate Minas em clássico e volta a vencer na Superliga O post Cruzeiro bate Minas em clássico e volta a vencer na Superliga apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55677551498_2eb58106df_o.webp",
+      "link": "https://www.gazetaesportiva.com/mais-esportes/volei/cruzeiro-bate-minas-em-classico-e-volta-a-vencer-na-superliga/",
       "source": "Gazeta Esportiva",
-      "published": 1795823289000
+      "published": 1795834719000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Botafogo x Bahia pelo Brasileirão: onde assistir, estatísticas, histórico e prováveis escalações",
-      "summary": "Botafogo e Bahia se enfrentam neste sábado, às 21h (de Brasília), no Estádio Nilton Santos, pela 37ª rodada do Campeonato Brasileiro. Enquanto o Glorioso luta contra o…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55309602391_585f2280cc_k.webp",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/botafogo-x-bahia-pelo-brasileirao-onde-assistir-estatisticas-historico-e-provaveis-escalacoes/",
+      "title": "Praia Clube vence Osasco por 3 sets a 0 e assume vice-liderança da Superliga Feminina",
+      "summary": "Praia Clube vence Osasco por 3 sets a 0 e assume vice-liderança da Superliga Feminina O post Praia Clube vence Osasco por 3 sets a 0 e assume vice-liderança da Superliga…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/praia-x-osasco-superliga-bruno-cunha-vibra-845x475-1.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/superliga-feminina-de-volei/praia-clube-vence-osasco-por-3-sets-a-0-e-assume-vice-lideranca-da-superliga-feminina/",
       "source": "Gazeta Esportiva",
-      "published": 1795820455000
+      "published": 1795833051000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Fortaleza x Criciúma pelos playoffs da Série B: veja prováveis escalações e onde assistir",
-      "summary": "Fortaleza x Criciúma pelo playoffs da Série B: veja prováveis escalações e onde assistir O post Fortaleza x Criciúma pelos playoffs da Série B: veja prováveis escalações…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/@benofotos0255.jpg.webp",
-      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/fortaleza-criciuma-onde-assistir-playoffs-serie-b/",
+      "title": "Melhores momentos: Fluminense 0 x 1 Cruzeiro pelo Brasileirão",
+      "summary": "Veja melhores momentos de Fluminense x Cruzeiro O post Melhores momentos: Fluminense 0 x 1 Cruzeiro pelo Brasileirão apareceu primeiro em Gazeta Esportiva .",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/55677354326_c5e29be7a0_o.webp",
+      "link": "https://www.gazetaesportiva.com/dugout/melhores-momentos-fluminense-0-x-1-cruzeiro-pelo-brasileirao/",
       "source": "Gazeta Esportiva",
-      "published": 1795820448000
+      "published": 1795830206000
     },
     {
       "category": "esportes",
       "categoryLabel": "Esportes",
-      "title": "Real Madrid x Alavés: veja as prováveis escalações e onde assistir ao jogo do Campeonato Espanhol",
-      "summary": "Real Madrid e Alavés se enfrentam neste sábado, às 17h (de Brasília), no Santiago Bernabéu, pela 14ª rodada do Campeonato Espanhol. Embalada por dez vitórias…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261124__D8J46PX__v1__MidRes__FblEurC1RealMadridPsv.webp",
-      "link": "https://www.gazetaesportiva.com/times/real-madrid/real-madrid-x-alaves-veja-as-provaveis-escalacoes-e-onde-assistir-ao-jogo-do-campeonato-espanhol/",
+      "title": "Vila Nova vence Atlético-GO e conquista acesso à Série A após 41 anos",
+      "summary": "Vila Nova vence Atlético-GO e conquista acesso à Série A após 41 anos O post Vila Nova vence Atlético-GO e conquista acesso à Série A após 41 anos apareceu primeiro em…",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261128__AGIF875160__v1__MidRes__BrazilianSerieB2026VilaNovaGoVsAtleticoGo.webp",
+      "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/vila-nova-vence-atletico-go-e-conquista-acesso-a-serie-a-apos-41-anos/",
       "source": "Gazeta Esportiva",
-      "published": 1795820443000
-    },
-    {
-      "category": "esportes",
-      "categoryLabel": "Esportes",
-      "title": "Inter de Milão x Genoa: onde assistir e prováveis escalações do jogo pelo Italiano",
-      "summary": "Inter de Milão x Genoa: onde assistir e prováveis escalações do jogo pelo Italiano O post Inter de Milão x Genoa: onde assistir e prováveis escalações do jogo pelo…",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261122__D8BC6MU__v1__MidRes__FblItaSerieaAtalantaInterMilan.webp",
-      "link": "https://www.gazetaesportiva.com/times/internazionale/inter-de-milao-x-genoa-onde-assistir-e-provaveis-escalacoes-do-jogo-pelo-italiano/",
-      "source": "Gazeta Esportiva",
-      "published": 1795820440000
+      "published": 1795827469000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Metroid Dread e mais jogos para Switch com até 90% OFF na Black Friday da eShop",
-      "summary": "A Black Friday chegou à loja digital da Nintendo e jogadores já podem aproveitar preços bem mais em conta na hora de garantir suas próximas aventuras nos consoles…",
-      "image": "https://www.estadao.com.br/resizer/v2/DKZGALGPCJNGNA6H7VLDYFCTNY.jpg?quality=80&amp;auth=c3193361f1e526d00f273d07a05b5e23ff40647304386b9cfe1d4e42db18e09c&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/metroid-dread-e-mais-jogos-para-switch-com-ate-90-off-na-black-friday-da-eshop/",
-      "source": "Novidades do TecMundo",
-      "published": 1795818600000
-    },
-    {
-      "category": "tecnologia",
-      "categoryLabel": "Tecnologia",
-      "title": "Google é obrigado a interromper construção de data center na Bélgica",
-      "summary": "Decisão foi motivada por irregularidades relacionadas à licença ambiental do empreendimento O post Google é obrigado a interromper construção de data center na Bélgica…",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/data_center-1024x576.jpg",
-      "link": "https://olhardigital.com.br/2026/11/27/pro/google-e-obrigado-a-interromper-construcao-de-data-center-na-belgica/",
+      "title": "Gelo marinho da Antártida está desaparecendo até quando deveria avançar",
+      "summary": "Cobertura caiu para aproximadamente 2,3 milhões de km², 12% abaixo da média histórica; fenômeno ameaça ecossistemas e preocupa cientistas O post Gelo marinho da…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/pinguim_imperador-1024x682.jpg",
+      "link": "https://olhardigital.com.br/2026/11/27/ciencia-e-espaco/gelo-marinho-da-antartida-esta-desaparecendo-ate-quando-deveria-avancar/",
       "source": "Olhar Digital",
-      "published": 1795818571000
+      "published": 1795829818000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "X ganha controle parental pela primeira vez; saiba como funciona",
-      "summary": "A rede social X ganhou na quarta-feira (25) uma série de ferramentas de controle parental. Essa é a primeira vez que a plataforma, que há quatro anos pertence a Elon…",
-      "image": "https://www.estadao.com.br/resizer/v2/7JFWJCDVHVDTNC33PM4HBTIH5M.jpg?quality=80&amp;auth=26dacb43a8023582f696e4530d613a4d00ac27c34003181041b8c53ac9bc0a75&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/x-ganha-controle-parental-pela-primeira-vez-saiba-como-funciona/",
-      "source": "Novidades do TecMundo",
-      "published": 1795816800000
+      "title": "China encontra maneira de acessar chips de IA dos EUA mesmo com sanções",
+      "summary": "Empresas chinesas alugam capacidade computacional em países, como a Malásia, para acessar processadores estadunidenses O post China encontra maneira de acessar chips de…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/china-ia-1-1-1024x576.jpg",
+      "link": "https://olhardigital.com.br/2026/11/27/pro/china-encontra-maneira-de-acessar-chips-de-ia-dos-eua-mesmo-com-sancoes/",
+      "source": "Olhar Digital",
+      "published": 1795827264000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Tem vontade de trabalhar em big techs? Veja vagas de emprego disponíveis no Brasil",
-      "summary": "Com escritórios em São Paulo (SP) e Belo Horizonte (MG), o Google é uma das big techs que têm vagas de emprego disponíveis no Brasil . No momento, a gigante das buscas…",
-      "image": "https://www.estadao.com.br/resizer/v2/OJHVDGZQQVL2NPCGFK6SXBYKCE.png?quality=80&amp;auth=8d71d8ef688176cacdb8c807a29e76dd516a4c4b847299b6e508e59b9741a1cb&amp;width=1150",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/tem-vontade-de-trabalhar-em-big-techs-veja-vagas-de-emprego-disponiveis-no-brasil/",
-      "source": "Novidades do TecMundo",
-      "published": 1795816800000
+      "title": "Confira o Olhar Digital News na íntegra (27/11/2026)",
+      "summary": "Confira as principais notícias do mundo da tecnologia e da ciência no programa Olhar Digital News de hoje! O post Confira o Olhar Digital News na íntegra (27/11/2026)…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/11/27/videos/confira-o-olhar-digital-news-na-integra-27-11-2026/",
+      "source": "Olhar Digital",
+      "published": 1795825907000
     },
     {
       "category": "tecnologia",
       "categoryLabel": "Tecnologia",
-      "title": "Como jogar GTA 6 no celular",
-      "summary": "GTA 6 foi lançado no dia 19 de novembro exclusivamente para os consoles PS5 e Xbox Series S/X. Com isso, outras plataformas, como Nintendo Switch e PC, ficaram de fora…",
-      "image": "https://www.estadao.com.br/resizer/v2/3RSBFSBJEJFYVIDPTPBWMMR3GQ.jpg?quality=80&amp;auth=26857214a2e021170a07ee55d026d09d15074331367e2c8af673aad5077711ca&amp;width=710",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/como-jogar-gta-6-no-celular/",
-      "source": "Novidades do TecMundo",
-      "published": 1795816020000
+      "title": "Olhar Espacial: as obras de arte esculpidas pelo Universo",
+      "summary": "Na coluna Olhar Espacial desta sexta-feira (27), Marcelo Zurita nos conta mais sobre as Nebulosas O post Olhar Espacial: as obras de arte esculpidas pelo Universo…",
+      "image": "",
+      "link": "https://olhardigital.com.br/2026/11/27/colunistas/olhar-espacial-as-obras-de-arte-esculpidas-pelo-universo/",
+      "source": "Olhar Digital",
+      "published": 1795825640000
+    },
+    {
+      "category": "tecnologia",
+      "categoryLabel": "Tecnologia",
+      "title": "Buraco na camada de ozônio atinge uma das maiores extensões em quase 50 anos",
+      "summary": "Dados foram obtidos pelo satélite europeu Copernicus Sentinel-5P, que monitora a composição da atmosfera terrestre O post Buraco na camada de ozônio atinge uma das…",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/noaa-nasa-release-meas-1-997x1024.jpg",
+      "link": "https://olhardigital.com.br/2026/11/27/ciencia-e-espaco/buraco-na-camada-de-ozonio-atinge-uma-das-maiores-extensoes-em-quase-50-anos/",
+      "source": "Olhar Digital",
+      "published": 1795824476000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Gestão Nunes corta verbas de ônibus e ciclovias e reforça investimento em obras de trânsito",
-      "summary": "A gestão Ricardo Nunes ( MDB ) remanejou para a infraestrutura de trânsito R$ 100 milhões do Orçamento da cidade de São Paulo que seriam aplicados na construção de…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/gestao-nunes-corta-verbas-de-onibus-e-ciclovias-e-reforca-investimento-em-obras-de-transito.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1795823160000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Eliezer critica relação de Viih Tube com a mãe: 'Dependente 100% da Viviane'",
-      "summary": "Eliezer afirmou que a relação de Viih Tube com a mãe, Viviane Di Felice, tem sido motivo de desentendimentos em seu casamento. Durante a participação da família no…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/eliezer-critica-relacao-de-viih-tube-com-a-mae-dependente-100-da-viviane.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1795822980000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Aviões comerciais batem enquanto se preparavam para decolar no aeroporto de Washington, nos EUA",
-      "summary": "Dois aviões da American Airlines se chocaram enquanto se preparavam para decolar do Aeroporto Nacional Ronald Reagan, em Washington, nos Estados Unidos, na tarde desta…",
-      "image": "",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/27/avioes-comerciais-batem-enquanto-se-preparavam-para-decolar-no-aeroporto-de-washington-nos-eua.ghtml",
+      "title": "Black Friday ou 11.11? Levantamento do g1 mostra qual data tem os melhores preços",
+      "summary": "É Black Friday ou Black Fraude? Com a popularização de promoções em datas duplas, como o 11/11 (Dia dos Solteiros), muitos consumidores passaram a questionar se ainda…",
+      "image": "https://s2-g1.glbimg.com/iWL0lsjpjPMdR5gPkdaOBHbwFk8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/N/KjlhP1QvGE1sTS1QGa2g/foto-g1-2-.jpg",
+      "link": "https://g1.globo.com/guia/guia-de-compras/black-friday-ou-1111-levantamento-do-g1-mostra-qual-data-tem-os-melhores-precos.ghtml",
       "source": "g1",
-      "published": 1795822949000
+      "published": 1795842000000
     },
     {
       "category": "novidades",
       "categoryLabel": "Novidades",
-      "title": "Após 'efeito Trabuco', Lula inicia recalibragem do discurso do ajuste fiscal",
-      "summary": "A indicação de Luiz Trabuco para o Ministério da Fazenda no Lula 4 já valeu na largada R$ 0,30 na cotação do dólar . O \"efeito Trabuco\" é muita coisa para o curto…",
-      "image": "",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/apos-efeito-trabuco-lula-inicia-recalibragem-do-discurso-do-ajuste-fiscal.shtml",
-      "source": "Folha de S.Paulo",
-      "published": 1795822800000
-    },
-    {
-      "category": "novidades",
-      "categoryLabel": "Novidades",
-      "title": "Ivete Sangalo desabafa sobre exposição da vida pessoal e pede responsabilidade",
-      "summary": "Ivete Sangalo desabafa com fãs sobre exposição A cantora Ivete Sangalo usou as redes sociais, na noite desta sexta-feira (27), para fazer um longo desabafo com os fãs…",
-      "image": "https://s2-g1.glbimg.com/K5ISu0F45XFDu9jdHGsmyZDbbKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/J/Nz93gwQV63roXXmbdlBQ/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-11-27t202916.074.jpg",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/27/ivete-sangalo-desabafa-sobre-exposicao.ghtml",
+      "title": "Coronel acusado de explodir o próprio apartamento será julgado após 3 anos; prédio foi evacuado por rapel",
+      "summary": "Relembre resgate de rapel em prédio após apartamento de coronel explodir em Campinas A Justiça marcou para 24 de fevereiro de 2027 o julgamento do coronel reformado do…",
+      "image": "https://s2-g1.glbimg.com/G-4giV4PEBkVfAeQHCWNTWMfhvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/x/8iyKpbQ8WNSYXTS93Y7w/2.png",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/28/coronel-acusado-de-explodir-o-proprio-apartamento-sera-julgado-apos-3-anos-predio-foi-evacuado-por-rapel.ghtml",
       "source": "g1",
-      "published": 1795822670000
+      "published": 1795842000000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Jornalista transformou pipoca em cappuccino, sorvete e milk-shake; negócio inusitado já tem 52 lojas",
+      "summary": "Ela criou sabores inusitados de pipoca, abriu franquias e chegou a 52 lojas pelo Brasil O que começou como um agrado para clientes de um buffet acabou se tornando o…",
+      "image": "https://s2-g1.glbimg.com/A0v4V8vfSNrU28AiuoV31vDOxNE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/7/bJQmjWSRCfXH32YdUWrw/captura-de-tela-2026-11-27-182125.png",
+      "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/28/pipoca-cappuccino-sorvete-e-milk-shake-negocio-rede.ghtml",
+      "source": "g1",
+      "published": 1795842000000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Paradas de ônibus do Recife começam a receber painéis eletrônicos com previsão de chegada dos coletivos em tempo real",
+      "summary": "Paradas de ônibus do Grande Recife começam a receber painéis com horários dos coletivos As paradas de ônibus do Recife começaram a receber painéis eletrônicos que…",
+      "image": "https://s2-g1.glbimg.com/nFjd3rFzco1fz1oNTYesZQegqpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/l/0rras6QWK4flBOZNAlwg/paradas-onibus-previsao.transfer-frame-1174.jpeg",
+      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/28/paradas-de-onibus-do-recife-comecam-a-receber-paineis-eletronicos-com-previsao-de-chegada-dos-coletivos-em-tempo-real.ghtml",
+      "source": "g1",
+      "published": 1795842000000
+    },
+    {
+      "category": "novidades",
+      "categoryLabel": "Novidades",
+      "title": "Cinco anos após queda de avião no Litoral Norte, mãe de copiloto desaparecido cobra buscas: 'Meu filho merece ser encontrado'",
+      "summary": "José Porfírio de Brito Júnior estava como copiloto do avião que caiu no mar. Ele não foi encontrado. Arquivo pessoal da família Cinco anos após o desaparecimento do…",
+      "image": "https://s2-g1.glbimg.com/MBv5C2ay9i45mGyf4YyBCUOht5E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/q/zXcPtcSP6TCeOUaCSp9g/foto-g1-2026-11-26t165900.401.png",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/28/cinco-anos-apos-queda-de-aviao-no-litoral-norte-mae-de-copiloto-desaparecido-cobra-buscas-meu-filho-merece-ser-encontrado.ghtml",
+      "source": "g1",
+      "published": 1795842000000
     }
   ]
 }
